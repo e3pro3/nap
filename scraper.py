@@ -5,7 +5,7 @@ import requests
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
 from urllib.parse import urljoin
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 BASE_URL = "https://maszol.ro"
 RSS_FILE = "dist/maszol.xml"
@@ -40,6 +40,10 @@ def scrape():
 
     soup = BeautifulSoup(html, "lxml")
     new_articles = []
+    most_idopont = datetime.now(timezone.utc)
+
+    # Nem releváns és statikus szekciók URL mintái, amiket teljesen ki akarunk zárni
+    tiltott_szavak = ["/velemeny/", "/podcast/", "/konyvsarok/", "/recept/"]
 
     for article in soup.find_all("article"):
         link_tag = article.find("a")
@@ -50,7 +54,12 @@ def scrape():
             continue
         link = urljoin(BASE_URL, link)
 
+        # Ha a cikk már szerepel az adatbázisban, átugorjuk
         if link in known_links:
+            continue
+
+        # Kiszűrjük a véleményeket, könyveket, podcastokat, amik hetekig kint állnak a főoldalon
+        if any(szoval in link.lower() for szoval in tiltott_szavak):
             continue
 
         title = link_tag.get_text(" ", strip=True)
@@ -81,12 +90,30 @@ def scrape():
             "link": link,
             "description": description,
             "image": image,
-            "date": datetime.now(timezone.utc).isoformat()
+            "date": most_idopont.isoformat()
         })
 
+    # Kombináljuk a meglévő és az új cikkeket
     all_articles = new_articles + old_articles
-    all_articles = all_articles[:100]
-    save_articles(all_articles)
+
+    # IDŐSZŰRÉS: Szigorúan töröljük a 3 napnál (72 óránál) régebben feldolgozott cikkeket
+    friss_articles = []
+    for item in all_articles:
+        try:
+            cikk_datuma = datetime.fromisoformat(item["date"])
+            # Csak akkor tartjuk meg, ha a kor különbsége kisebb, mint 3 nap
+            if (most_idopont - cikk_datuma) < timedelta(days=3):
+                friss_articles.append(item)
+        except Exception:
+            pass
+
+    # Ha a szűrés után túl üres lenne a feed, a legújabb 8 darabot mindenképp megtartjuk biztonsági hálónak
+    if len(friss_articles) < 8:
+        friss_articles = all_articles[:8]
+    else:
+        friss_articles = friss_articles[:100]
+
+    save_articles(friss_articles)
 
     fg = FeedGenerator()
     fg.id(BASE_URL)
@@ -95,7 +122,8 @@ def scrape():
     fg.description("Automatikusan frissülő Maszol RSS feed")
     fg.language("hu")
 
-    for item in all_articles[:40]:
+    # Csak a kitisztított, friss listát tesszük bele az XML feedbe
+    for item in friss_articles:
         entry = fg.add_entry()
         entry.id(item["link"])
         entry.title(item["title"])
@@ -114,7 +142,7 @@ def scrape():
 
     os.makedirs("dist", exist_ok=True)
     fg.rss_file(RSS_FILE, pretty=True)
-    print(f"RSS kész. Új cikkek: {len(new_articles)}, Összesen az XML-ben: {len(fg.entry())}")
+    print(f"RSS kész. Új cikkek: {len(new_articles)}, Összesen a frissített XML-ben: {len(fg.entry())}")
 
 if __name__ == "__main__":
     scrape()
