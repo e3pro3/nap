@@ -15,10 +15,14 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; Maszol RSS Bot/1.0)"
 }
 
+DAYS_BACK = 5
+MAX_ARTICLES = 20
+SCAN_LIMIT = 60
 
-# ---------------------------
+
+# ----------------------------
 # JSON KEZELÉS
-# ---------------------------
+# ----------------------------
 
 def load_articles():
     if not os.path.exists(DATA_FILE):
@@ -36,20 +40,19 @@ def save_articles(data):
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
-# ---------------------------
-# SEGÉDFÜGGVÉNY: friss-e?
-# ---------------------------
+# ----------------------------
+# FRISS SZŰRÉS
+# ----------------------------
 
-def is_recent(pub_date, days=3):
+def is_recent(pub_date):
     if not pub_date:
         return False
-    now = datetime.now(timezone.utc)
-    return pub_date >= now - timedelta(days=days)
+    return pub_date >= datetime.now(timezone.utc) - timedelta(days=DAYS_BACK)
 
 
-# ---------------------------
+# ----------------------------
 # OLDAL LETÖLTÉS
-# ---------------------------
+# ----------------------------
 
 def get_page():
     r = requests.get(BASE_URL, headers=HEADERS, timeout=20)
@@ -57,9 +60,9 @@ def get_page():
     return r.text
 
 
-# ---------------------------
+# ----------------------------
 # FEED
-# ---------------------------
+# ----------------------------
 
 def create_feed():
     fg = FeedGenerator()
@@ -71,30 +74,24 @@ def create_feed():
     return fg
 
 
-# ---------------------------
-# KÉP KINYERÉS
-# ---------------------------
+# ----------------------------
+# KÉP
+# ----------------------------
 
 def extract_image(article):
     img = article.find("img")
     if not img:
         return None
 
-    image = (
-        img.get("src")
-        or img.get("data-src")
-        or img.get("data-original")
-    )
-
+    image = img.get("src") or img.get("data-src") or img.get("data-original")
     if image:
         return urljoin(BASE_URL, image)
-
     return None
 
 
-# ---------------------------
-# DÁTUM KINYERÉS
-# ---------------------------
+# ----------------------------
+# DÁTUM
+# ----------------------------
 
 def extract_date(article):
     time_tag = article.find("time")
@@ -110,9 +107,9 @@ def extract_date(article):
     return None
 
 
-# ---------------------------
+# ----------------------------
 # SCRAPE
-# ---------------------------
+# ----------------------------
 
 def scrape():
 
@@ -125,12 +122,14 @@ def scrape():
     known_links = {a["link"] for a in old_articles if "link" in a}
 
     new_articles = []
-    count = 0
+    scanned = 0
 
     for article in soup.find_all("article"):
 
-        if count >= 20:
+        if scanned >= SCAN_LIMIT:
             break
+
+        scanned += 1
 
         link_tag = article.find("a")
         if not link_tag:
@@ -142,7 +141,6 @@ def scrape():
 
         link = urljoin(BASE_URL, link)
 
-        # duplikáció
         if link in known_links:
             continue
 
@@ -156,15 +154,14 @@ def scrape():
         if not title:
             continue
 
-        description_tag = article.find("p")
-        description = description_tag.get_text(" ", strip=True) if description_tag else title
+        desc_tag = article.find("p")
+        description = desc_tag.get_text(" ", strip=True) if desc_tag else title
 
         image = extract_image(article)
-
         pub_date = extract_date(article)
 
-        # 🔥 FRISS SZŰRÉS (2–3 nap)
-        if not is_recent(pub_date, 3):
+        # 🔥 FRISS SZŰRÉS (5 nap)
+        if not is_recent(pub_date):
             continue
 
         if image:
@@ -177,7 +174,8 @@ def scrape():
         entry.description(description)
 
         entry.pubDate(
-            email.utils.format_datetime(pub_date) if pub_date
+            email.utils.format_datetime(pub_date)
+            if pub_date
             else email.utils.format_datetime(datetime.now(timezone.utc))
         )
 
@@ -191,14 +189,15 @@ def scrape():
             "date": pub_date.isoformat() if pub_date else None
         })
 
-        count += 1
+        if len(new_articles) >= MAX_ARTICLES:
+            break
 
 
     # mentés
     all_articles = (new_articles + old_articles)[:200]
     save_articles(all_articles)
 
-    # RSS írás
+    # RSS
     os.makedirs("dist", exist_ok=True)
     fg.rss_file(RSS_FILE, pretty=True)
 
