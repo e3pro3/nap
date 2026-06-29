@@ -1,0 +1,45 @@
+name: Generate Maszol RSS
+
+on:
+  schedule:
+    - cron: "*/30 * * * *" # 30 percenként automatikusan lefut
+  workflow_dispatch: # Manuális indítási lehetőség gombnyomásra
+
+permissions:
+  contents: write # Engedély a JSON elmentéséhez és a Pages ág frissítéséhez
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run scraper
+        run: python scraper.py
+
+      - name: Commit and Push JSON Data
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@://github.com"
+          git add data/articles.json
+          git diff-index --quiet HEAD || git commit -m "Adatbázis frissítése [skip ci]"
+          git push origin main
+        continue-on-error: true
+
+      - name: Deploy RSS to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
