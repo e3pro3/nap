@@ -10,7 +10,15 @@ from datetime import datetime, timezone, timedelta
 BASE_URL = "https://maszol.ro"
 RSS_FILE = "dist/maszol.xml"
 DATA_FILE = "data/articles.json"
-HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (compatible; Maszol RSS Bot/1.0)"
+}
+
+
+# ---------------------------
+# JSON KEZELÉS
+# ---------------------------
 
 def load_articles():
     if not os.path.exists(DATA_FILE):
@@ -18,131 +26,185 @@ def load_articles():
     try:
         with open(DATA_FILE, "r", encoding="utf-8") as f:
             return json.load(f)
-    except Exception:
+    except:
         return []
+
 
 def save_articles(data):
     os.makedirs("data", exist_ok=True)
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
+
+# ---------------------------
+# SEGÉDFÜGGVÉNY: friss-e?
+# ---------------------------
+
+def is_recent(pub_date, days=3):
+    if not pub_date:
+        return False
+    now = datetime.now(timezone.utc)
+    return pub_date >= now - timedelta(days=days)
+
+
+# ---------------------------
+# OLDAL LETÖLTÉS
+# ---------------------------
+
+def get_page():
+    r = requests.get(BASE_URL, headers=HEADERS, timeout=20)
+    r.raise_for_status()
+    return r.text
+
+
+# ---------------------------
+# FEED
+# ---------------------------
+
+def create_feed():
+    fg = FeedGenerator()
+    fg.id(BASE_URL)
+    fg.title("Maszol.ro - Friss hírek")
+    fg.link(href=BASE_URL, rel="alternate")
+    fg.language("hu")
+    fg.description("Automatikusan generált Maszol RSS feed")
+    return fg
+
+
+# ---------------------------
+# KÉP KINYERÉS
+# ---------------------------
+
+def extract_image(article):
+    img = article.find("img")
+    if not img:
+        return None
+
+    image = (
+        img.get("src")
+        or img.get("data-src")
+        or img.get("data-original")
+    )
+
+    if image:
+        return urljoin(BASE_URL, image)
+
+    return None
+
+
+# ---------------------------
+# DÁTUM KINYERÉS
+# ---------------------------
+
+def extract_date(article):
+    time_tag = article.find("time")
+
+    if time_tag and time_tag.get("datetime"):
+        try:
+            return datetime.fromisoformat(
+                time_tag["datetime"].replace("Z", "+00:00")
+            )
+        except:
+            return None
+
+    return None
+
+
+# ---------------------------
+# SCRAPE
+# ---------------------------
+
 def scrape():
-    old_articles = load_articles()
-    known_links = {x.get("link") for x in old_articles}
 
-    try:
-        response = requests.get(BASE_URL, headers=HEADERS, timeout=20)
-        response.raise_for_status()
-        html = response.text
-    except Exception as e:
-        print(f"Hiba az oldal letöltésekor: {e}")
-        return
-
+    html = get_page()
     soup = BeautifulSoup(html, "lxml")
-    new_articles = []
-    most_idopont = datetime.now(timezone.utc)
 
-    # Nem releváns és statikus szekciók URL mintái, amiket teljesen ki akarunk zárni
-    tiltott_szavak = ["/velemeny/", "/podcast/", "/konyvsarok/", "/recept/"]
+    fg = create_feed()
+
+    old_articles = load_articles()
+    known_links = {a["link"] for a in old_articles if "link" in a}
+
+    new_articles = []
+    count = 0
 
     for article in soup.find_all("article"):
+
+        if count >= 20:
+            break
+
         link_tag = article.find("a")
         if not link_tag:
             continue
+
         link = link_tag.get("href")
         if not link:
             continue
+
         link = urljoin(BASE_URL, link)
 
-        # Ha a cikk már szerepel az adatbázisban, átugorjuk
+        # duplikáció
         if link in known_links:
             continue
 
-        # Kiszűrjük a véleményeket, könyveket, podcastokat, amik hetekig kint állnak a főoldalon
-        if any(szoval in link.lower() for szoval in tiltott_szavak):
-            continue
-
         title = link_tag.get_text(" ", strip=True)
+
         if not title:
             h = article.find(["h1", "h2", "h3"])
             if h:
                 title = h.get_text(" ", strip=True)
+
         if not title:
             continue
 
-        paragraph = article.find("p")
-        description = paragraph.get_text(" ", strip=True) if paragraph else title
+        description_tag = article.find("p")
+        description = description_tag.get_text(" ", strip=True) if description_tag else title
 
-        image = None
-        img = article.find("img")
-        if img:
-            image = img.get("src") or img.get("data-src") or img.get("data-original")
-            if not image and img.get("srcset"):
-                try:
-                    image = img["srcset"].split(",")[0].strip().split()[0]
-                except Exception:
-                    pass
-            if image:
-                image = urljoin(BASE_URL, image)
+        image = extract_image(article)
+
+        pub_date = extract_date(article)
+
+        # 🔥 FRISS SZŰRÉS (2–3 nap)
+        if not is_recent(pub_date, 3):
+            continue
+
+        if image:
+            description = f'<img src="{image}" style="max-width:100%;" /><br>{description}'
+
+        entry = fg.add_entry()
+        entry.id(link)
+        entry.title(title)
+        entry.link(href=link)
+        entry.description(description)
+
+        entry.pubDate(
+            email.utils.format_datetime(pub_date) if pub_date
+            else email.utils.format_datetime(datetime.now(timezone.utc))
+        )
+
+        if image:
+            entry.enclosure(image, "0", "image/jpeg")
 
         new_articles.append({
             "title": title,
             "link": link,
-            "description": description,
             "image": image,
-            "date": most_idopont.isoformat()
+            "date": pub_date.isoformat() if pub_date else None
         })
 
-    # Kombináljuk a meglévő és az új cikkeket
-    all_articles = new_articles + old_articles
+        count += 1
 
-    # IDŐSZŰRÉS: Szigorúan töröljük a 3 napnál (72 óránál) régebben feldolgozott cikkeket
-    friss_articles = []
-    for item in all_articles:
-        try:
-            cikk_datuma = datetime.fromisoformat(item["date"])
-            # Csak akkor tartjuk meg, ha a kor különbsége kisebb, mint 3 nap
-            if (most_idopont - cikk_datuma) < timedelta(days=3):
-                friss_articles.append(item)
-        except Exception:
-            pass
 
-    # Ha a szűrés után túl üres lenne a feed, a legújabb 8 darabot mindenképp megtartjuk biztonsági hálónak
-    if len(friss_articles) < 8:
-        friss_articles = all_articles[:8]
-    else:
-        friss_articles = friss_articles[:100]
+    # mentés
+    all_articles = (new_articles + old_articles)[:200]
+    save_articles(all_articles)
 
-    save_articles(friss_articles)
-
-    fg = FeedGenerator()
-    fg.id(BASE_URL)
-    fg.title("Maszol.ro - Legfrissebb hírek")
-    fg.link(href=BASE_URL, rel="alternate")
-    fg.description("Automatikusan frissülő Maszol RSS feed")
-    fg.language("hu")
-
-    # Csak a kitisztított, friss listát tesszük bele az XML feedbe
-    for item in friss_articles:
-        entry = fg.add_entry()
-        entry.id(item["link"])
-        entry.title(item["title"])
-        entry.link(href=item["link"])
-        
-        desc = item["description"]
-        if item["image"]:
-            desc = f'<img src="{item["image"]}" style="max-width:100%;" /><br>{desc}'
-        entry.description(desc)
-        
-        dt = datetime.fromisoformat(item["date"])
-        entry.pubDate(email.utils.format_datetime(dt))
-        
-        if item["image"]:
-            entry.enclosure(item["image"], "0", "image/jpeg")
-
+    # RSS írás
     os.makedirs("dist", exist_ok=True)
     fg.rss_file(RSS_FILE, pretty=True)
-    print(f"RSS kész. Új cikkek: {len(new_articles)}, Összesen a frissített XML-ben: {len(fg.entry())}")
+
+    print(f"RSS kész: {RSS_FILE}")
+    print(f"Új cikkek: {len(new_articles)}")
+
 
 if __name__ == "__main__":
     scrape()
