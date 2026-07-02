@@ -8,7 +8,7 @@ from urllib.parse import urljoin
 from datetime import datetime, timezone, timedelta
 
 BASE_URL = "https://maszol.ro"
-RSS_FILE = "dist/maszol.xml"
+RSS_FILE = "maszol.xml"
 DATA_FILE = "data/articles.json"
 
 HEADERS = {
