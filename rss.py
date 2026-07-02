@@ -216,7 +216,9 @@ def add_article(channel, article):
             "0",
         )
 
-      def save_feed(rss):
+
+
+def save_feed(rss):
     """
     XML mentése.
     """
@@ -230,7 +232,9 @@ def add_article(channel, article):
         pretty_print=True,
     )
 
-  def build_feed(articles):
+
+
+def build_feed(articles):
 
     rss, channel = create_feed()
 
