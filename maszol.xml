@@ -6,8 +6,21 @@
     <description>Automatikusan generált RSS feed</description>
     <language>hu</language>
     <generator>Maszol RSS Generator v2</generator>
-    <lastBuildDate>Thu, 02 Jul 2026 20:55:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 21:53:22 +0000</lastBuildDate>
     <atom:link href="https://maszol.ro" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Foci-vb: spanyol fieszta az osztrákok ellen</title>
+      <link>https://maszol.ro/sport/Foci-vb-spanyol-fieszta-az-osztrakok-ellen</link>
+      <guid>https://maszol.ro/sport/Foci-vb-spanyol-fieszta-az-osztrakok-ellen</guid>
+      <description><![CDATA[<p>
+            <img src="https://maszol.ro/uploads/2026_Julius/02/oyarzabal_labdarugas_vilagbajnoksag_spanyolorszag_260702_agerpres_epa.jpg" alt="" />
+        </p>
+        <p>Spanyolország esélyeshez méltón, magabiztos játékkal győzte le 3-0-ra az osztrákokat a labdarúgó-világbajnokság tizenhatoddöntőjében.</p>]]></description>
+      <pubDate>Fri, 03 Jul 2026 00:34:00 +0300</pubDate>
+      <author>maszol.ro</author>
+      <media:content url="https://maszol.ro/uploads/2026_Julius/02/oyarzabal_labdarugas_vilagbajnoksag_spanyolorszag_260702_agerpres_epa.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/uploads/2026_Julius/02/oyarzabal_labdarugas_vilagbajnoksag_spanyolorszag_260702_agerpres_epa.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Európa legjobbjai között a gyulafehérvári Fejedelmi Palota Múzeuma – Rangos díjra jelölték</title>
       <link>https://maszol.ro/belfold/Europa-legjobbjai-kozott-a-gyulafehervari-Fejedelmi-Palota-Muzeuma-Rangos-dijra-jeloltek</link>
