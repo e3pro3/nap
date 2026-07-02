@@ -1,35 +1,40 @@
 import json
 from datetime import datetime, timedelta, timezone
+from pathlib import Path
 
-from config import CACHE_FILE, DATA_DIR, KEEP_DAYS
+from config import KEEP_DAYS
 
 
-def load_articles():
+def load_articles(cache_file):
     """
-    Betölti az articles.json tartalmát.
+    Betölti a cache fájlt.
     """
 
-    if not CACHE_FILE.exists():
+    cache_file = Path(cache_file)
+
+    if not cache_file.exists():
         return []
 
     try:
-        with open(CACHE_FILE, "r", encoding="utf-8") as f:
+        with cache_file.open("r", encoding="utf-8") as f:
             return json.load(f)
-    except Exception:
+    except (json.JSONDecodeError, OSError):
         return []
 
 
-def save_articles(articles):
+def save_articles(cache_file, articles):
     """
-    Elmenti az articles.json fájlt.
+    Elmenti a cache fájlt.
     """
 
-    DATA_DIR.mkdir(
+    cache_file = Path(cache_file)
+
+    cache_file.parent.mkdir(
         parents=True,
         exist_ok=True,
     )
 
-    with open(CACHE_FILE, "w", encoding="utf-8") as f:
+    with cache_file.open("w", encoding="utf-8") as f:
         json.dump(
             articles,
             f,
@@ -40,34 +45,33 @@ def save_articles(articles):
 
 def filter_old_articles(articles):
     """
-    Kidobja az 5 napnál régebbi cikkeket.
+    Kidobja a KEEP_DAYS napnál régebbi cikkeket.
     """
 
-    limit = datetime.now(
-        timezone.utc
-    ) - timedelta(days=KEEP_DAYS)
+    limit = datetime.now(timezone.utc) - timedelta(days=KEEP_DAYS)
 
     result = []
 
     for article in articles:
 
-        date = article.get("published")
+        published = article.get("published")
 
-        if not date:
+        if not published:
             continue
 
         try:
-            published = datetime.fromisoformat(date)
-        except Exception:
+            dt = datetime.fromisoformat(published)
+
+            if dt.tzinfo is None:
+                dt = dt.replace(
+                    tzinfo=timezone.utc
+                )
+
+            if dt >= limit:
+                result.append(article)
+
+        except (ValueError, TypeError):
             continue
-
-        if published.tzinfo is None:
-            published = published.replace(
-                tzinfo=timezone.utc
-            )
-
-        if published >= limit:
-            result.append(article)
 
     return result
 
@@ -79,21 +83,15 @@ def merge_articles(old_articles, new_articles):
 
     merged = {}
 
-    for article in old_articles:
+    for article in old_articles + new_articles:
+
         link = article.get("link")
+
         if link:
             merged[link] = article
 
-    for article in new_articles:
-        link = article.get("link")
-        if link:
-            merged[link] = article
-
-    articles = list(
-        merged.values()
-    )
-
-    articles.sort(
+    articles = sorted(
+        merged.values(),
         key=lambda x: x.get(
             "published",
             ""
@@ -114,3 +112,27 @@ def get_known_links(articles):
         for article in articles
         if article.get("link")
     }
+
+
+def update_cache(cache_file, new_articles):
+    """
+    Betölti, frissíti és elmenti a cache-t.
+    """
+
+    old_articles = load_articles(cache_file)
+
+    articles = merge_articles(
+        old_articles,
+        new_articles,
+    )
+
+    articles = filter_old_articles(
+        articles
+    )
+
+    save_articles(
+        cache_file,
+        articles,
+    )
+
+    return articles
