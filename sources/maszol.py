@@ -209,11 +209,11 @@ def scrape_article(url):
 
 from cache import (
     load_articles,
-    merge_articles,
-    filter_old_articles,
-    save_articles,
     get_known_links,
+    update_cache,
 )
+
+from config import CACHE_FILE
 
 
 def collect_new_articles():
@@ -223,7 +223,7 @@ def collect_new_articles():
 
     print("Cache betöltése...")
 
-    old_articles = load_articles()
+    old_articles = load_articles(CACHE_FILE)
 
     known_links = get_known_links(old_articles)
 
@@ -253,19 +253,10 @@ def collect_new_articles():
     print(f"Új cikkek: {len(new_articles)}")
     print(f"Kihagyva: {skipped}")
 
-    articles = merge_articles(
-        old_articles,
-        new_articles,
-    )
-
-    articles = filter_old_articles(
-        articles,
-    )
-
-    save_articles(
-        articles,
+    articles = update_cache(
+    CACHE_FILE,
+    new_articles,
     )
 
     print(f"Cache mentve ({len(articles)} cikk)")
-
-    return articles
+return articles
