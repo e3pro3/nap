@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Maszol - Friss hírek</title>
+    <link>https://maszol.ro</link>
+    <description>Automatikusan generált RSS feed</description>
+    <language>hu</language>
+    <generator>Maszol RSS Generator v2</generator>
+    <lastBuildDate>Thu, 02 Jul 2026 19:10:08 +0000</lastBuildDate>
+    <atom:link href="https://maszol.ro" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Harmincötödik alkalommal gyűltek össze a zarándokok Sarlós Boldogasszony napján Futásfalván</title>
+      <link>https://maszol.ro/belfold/Harmincotodik-alkalommal-gyultek-ossze-a-zarandokok-Sarlos-Boldogasszony-napjan-Futasfalvan</link>
+      <guid>https://maszol.ro/belfold/Harmincotodik-alkalommal-gyultek-ossze-a-zarandokok-Sarlos-Boldogasszony-napjan-Futasfalvan</guid>
+      <description><![CDATA[<p>
+            <img src="https://maszol.ro/uploads/2026_Julius/02/futasfalva1.jpg" alt="" />
+        </p>
+        <p>Sarlós Boldogasszony ünnepét a XIV. század végén, a nyugati egyházszakadás viharos időszakában IX. Bonifác pápa rendelte el az egész egyház számára.</p>]]></description>
+      <pubDate>Thu, 02 Jul 2026 21:48:00 +0300</pubDate>
+      <author>maszol.ro</author>
+      <media:content url="https://maszol.ro/uploads/2026_Julius/02/futasfalva1.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/uploads/2026_Julius/02/futasfalva1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Tusványosi hideg-meleg</title>
+      <link>https://maszol.ro/velemeny/Tusvanyosi-hideg-meleg</link>
+      <guid>https://maszol.ro/velemeny/Tusvanyosi-hideg-meleg</guid>
+      <description><![CDATA[<p>
+            <img src="https://maszol.ro/uploads/2026_Julius/02/tusvanyos1.jpg" alt="" />
+        </p>
+        <p>Az ellenállás nagyon dicséretes és szép dolog, de nagy az ára: lehet a vesztessel szövetkezni, lemondva az új magyar kormánnyal való reális együttműködés gyümölcseiről, de ne csodálkozzunk, ha végül nagyon savanyú lesz a szőlő...</p>]]></description>
+      <pubDate>Thu, 02 Jul 2026 11:13:00 +0300</pubDate>
+      <author>maszol.ro</author>
+      <media:content url="https://maszol.ro/uploads/2026_Julius/02/tusvanyos1.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/uploads/2026_Julius/02/tusvanyos1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>A szociális védőháló csődje</title>
+      <link>https://maszol.ro/velemeny/A-szocialis-vedohalo-csodje</link>
+      <guid>https://maszol.ro/velemeny/A-szocialis-vedohalo-csodje</guid>
+      <description><![CDATA[<p>
+            <img src="https://maszol.ro/uploads/2026_Julius/01/pasca.jpg" alt="" />
+        </p>
+        <p>Nem valami hirtelen nagy leleplezés szemtanúi vagyunk, hanem a rendszer évek óta tartó hiányosságainak a nyílt titkát tárták elénk.</p>]]></description>
+      <pubDate>Wed, 01 Jul 2026 10:42:00 +0300</pubDate>
+      <author>maszol.ro</author>
+      <media:content url="https://maszol.ro/uploads/2026_Julius/01/pasca.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/uploads/2026_Julius/01/pasca.jpg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>
