@@ -254,9 +254,10 @@ def collect_new_articles():
     print(f"Kihagyva: {skipped}")
 
     articles = update_cache(
-    CACHE_FILE,
-    new_articles,
+        CACHE_FILE,
+        new_articles,
     )
 
     print(f"Cache mentve ({len(articles)} cikk)")
-return articles
+
+    return articles
