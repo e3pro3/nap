@@ -117,15 +117,17 @@ def article_author(article):
     return ""
 
 
-def article_date():
+def article_date(article):
     """
-    Ideiglenesen a letöltés ideje.
-    Később valódi dátumot fogunk kinyerni.
+    Megpróbálja kiolvasni a cikk dátumát.
     """
 
-    return datetime.now(
-        timezone.utc,
-    ).isoformat()
+    value = attr(article, ".//time/@datetime")
+
+    if value:
+        return value
+
+    return datetime.now(timezone.utc).isoformat()
 
 def collect_new_articles():
     """
