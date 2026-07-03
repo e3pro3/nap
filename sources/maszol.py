@@ -255,10 +255,16 @@ def collect_new_articles():
             print("NINCS KÉP:", article["link"])
 
     articles = update_cache(
-        CACHE_FILE,
-        new_articles,
-    )
+    CACHE_FILE,
+    new_articles,
+)
 
-    print(f"Cache mentve ({len(articles)} cikk)")
+for article in articles:
+    if article.get("image"):
+        print("KÉP:", article["link"])
+    else:
+        print("NINCS KÉP:", article["link"])
+
+print(f"Cache mentve ({len(articles)} cikk)"))
 
     return articles
