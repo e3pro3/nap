@@ -62,7 +62,6 @@ def create_feed():
          "NAP RSS Generator v1.0",
     )
     
-
     atom = etree.SubElement(
         channel,
         "{%s}link" % ATOM_NS,
