@@ -260,6 +260,12 @@ def collect_new_articles():
         new_articles,
     )
 
+    for article in articles:
+        if article.get("image"):
+           print("KÉP:", article["link"])
+        else:
+           print("NINCS KÉP:", article["link"])
+
     print(f"Cache mentve ({len(articles)} cikk)")
 
     return articles
