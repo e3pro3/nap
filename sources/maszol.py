@@ -78,25 +78,33 @@ def article_description(article):
 
 def article_image(article):
     """
-    Cikk képe.
+    Megpróbálja minden lehetséges helyről kinyerni a képet.
     """
 
-    for xpath in (
+    xpaths = (
         ".//img/@src",
         ".//img/@data-src",
         ".//img/@data-original",
-    ):
+        ".//img/@data-lazy-src",
+        ".//img/@data-srcset",
+        ".//img/@srcset",
+        ".//source/@srcset",
+    )
 
-        image = attr(
-            article,
-            xpath,
-        )
+    for xpath in xpaths:
 
-        if image:
-            return absolute(
-                BASE_URL,
-                image,
-            )
+        value = attr(article, xpath)
+
+        if not value:
+            continue
+
+        # srcset esetén az első URL kell
+        if "," in value:
+            value = value.split(",")[0]
+
+        value = value.split()[0]
+
+        return absolute(BASE_URL, value)
 
     return None
 
@@ -120,6 +128,32 @@ def fetch_article_image(url):
 
     except Exception as e:
         print(f"Hiba a cikk képének lekérésekor: {url}")
+        print(e)
+
+    return None
+
+
+def fetch_article_image(url):
+    """
+    Ha a listaoldalon nincs kép,
+    megpróbáljuk a cikk Open Graph képét használni.
+    """
+
+    try:
+
+        tree = download(url)
+
+        image = attr(
+            tree,
+            '//meta[@property="og:image"]/@content',
+        )
+
+        if image:
+            return image.strip()
+
+    except Exception as e:
+
+        print(f"Hiba kép lekérésekor: {url}")
         print(e)
 
     return None
@@ -208,14 +242,18 @@ def collect_new_articles():
         image = article_image(article)
 
         if not image:
-            print(f"Kép hiányzik a listából → {link}")
 
-            image = fetch_article_image(link)
+        print(f"Listaoldalon nincs kép:")
 
-            if image:
-            print("   ✔ Kép megtalálva a cikkoldalon")
-            else:
-            print("   ✖ Ott sincs kép")
+        print(link)
+
+        image = fetch_article_image(link)
+
+        if image:
+        print("✔ Kép megvan a cikkoldalon")
+
+        else:
+        print("✖ A cikkoldalon sincs kép")
 
         new_articles.append(
             {
