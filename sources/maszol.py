@@ -257,7 +257,7 @@ def collect_new_articles():
             }
         )
 
-        print(f"Új cikkek: {len(new_articles)}")
+    print(f"Új cikkek: {len(new_articles)}")
 
     articles = update_cache(
         CACHE_FILE,
