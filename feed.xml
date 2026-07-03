@@ -5,7 +5,25 @@
     <link>https://maszol.ro</link>
     <description>Daily news feed</description>
     <language>hu</language>
-    <atom:link href="https://maszol.ro" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Magyar érettségi: nem tartalmazott meglepetést az idei tételsor, elégedettek voltak a diákok</title>
+      <link>https://maszol.ro/belfold/Magyar-erettsegi-nem-tartalmazott-meglepetest-az-idei-tetelsor-elegedettek-voltak-a-diakok</link>
+      <guid>https://maszol.ro/belfold/Magyar-erettsegi-nem-tartalmazott-meglepetest-az-idei-tetelsor-elegedettek-voltak-a-diakok</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_Julius/03/cikk_597840841_956364023900721_7703688638802193384_n.jpg" /><br/>Magyar érettségi: nem tartalmazott meglepetést az idei tételsor, elégedettek voltak a diákok]]></description>
+      <pubDate>Fri, 03 Jul 2026 17:52:23 +0000</pubDate>
+      <media:content url="https://maszol.ro/resized/2026_Julius/03/cikk_597840841_956364023900721_7703688638802193384_n.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_Julius/03/cikk_597840841_956364023900721_7703688638802193384_n.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Pénzzel teli övtáskát talált Sepsiszentgyörgyön, büntetőeljárás lett belőle</title>
+      <link>https://maszol.ro/belfold/Penzzel-teli-ovtaskat-talalt-Sepsiszentgyorgyon-buntetoeljaras-lett-belole</link>
+      <guid>https://maszol.ro/belfold/Penzzel-teli-ovtaskat-talalt-Sepsiszentgyorgyon-buntetoeljaras-lett-belole</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_Julius/03/cikk_ovtaska_chatgpt.png" /><br/>Pénzzel teli övtáskát talált Sepsiszentgyörgyön, büntetőeljárás lett belőle]]></description>
+      <pubDate>Fri, 03 Jul 2026 17:52:23 +0000</pubDate>
+      <media:content url="https://maszol.ro/resized/2026_Julius/03/cikk_ovtaska_chatgpt.png" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_Julius/03/cikk_ovtaska_chatgpt.png" type="image/png" length="0"/>
+    </item>
     <item>
       <title>Kevesebb ukrán állampolgár lépte át illegálisan a határt</title>
       <link>https://maszol.ro/belfold/Kevesebb-ukran-allampolgar-lepte-at-illegalisan-a-hatart</link>
