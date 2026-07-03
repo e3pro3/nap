@@ -101,6 +101,30 @@ def article_image(article):
     return None
 
 
+def fetch_article_image(url):
+    """
+    Ha a listaoldalon nincs kép, megpróbáljuk
+    a cikkoldal Open Graph képét használni.
+    """
+
+    try:
+        tree = download(url)
+
+        image = attr(
+            tree,
+            '//meta[@property="og:image"]/@content',
+        )
+
+        if image:
+            return image.strip()
+
+    except Exception as e:
+        print(f"Hiba a cikk képének lekérésekor: {url}")
+        print(e)
+
+    return None
+
+
 def article_category(article):
     """
     Kategória.
@@ -182,6 +206,16 @@ def collect_new_articles():
             description = title
 
         image = article_image(article)
+
+        if not image:
+            print(f"Kép hiányzik a listából → {link}")
+
+            image = fetch_article_image(link)
+
+            if image:
+            print("   ✔ Kép megtalálva a cikkoldalon")
+            else:
+            print("   ✖ Ott sincs kép")
 
         new_articles.append(
             {
