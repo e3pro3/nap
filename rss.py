@@ -11,6 +11,7 @@ from config import (
     RSS_FILE,
     MEDIA_NS,
     ATOM_NS,
+    FEED_URL,
 )
 
 from sources.base import mime_type
@@ -54,7 +55,7 @@ def create_feed():
         "{%s}link" % ATOM_NS,
     )
 
-    atom.set("href", BASE_URL)
+    atom.set("href", FEED_URL)
     atom.set("rel", "self")
     atom.set("type", "application/rss+xml")
 
