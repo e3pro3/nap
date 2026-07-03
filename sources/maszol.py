@@ -104,46 +104,6 @@ def article_image(article):
 
         if value.startswith("blob:"):
             continue
-            
-        # srcset esetén az első URL kell
-        if "," in value:
-            value = value.split(",")[0]
-
-        value = value.split()[0]
-
-        return absolute(BASE_URL, value)
-
-    return None
-
-
-def article_image(article):
-    """
-    Megpróbálja minden lehetséges helyről kinyerni a képet.
-    """
-
-    xpaths = (
-        ".//img/@src",
-        ".//img/@data-src",
-        ".//img/@data-original",
-        ".//img/@data-lazy-src",
-        ".//img/@data-srcset",
-        ".//img/@srcset",
-        ".//source/@srcset",
-    )
-
-    for xpath in xpaths:
-
-        value = attr(article, xpath)
-
-        if not value:
-            continue
-
-        # Base64 és blob képeket kihagyjuk
-        if value.startswith("data:"):
-            continue
-
-        if value.startswith("blob:"):
-            continue
 
         # srcset esetén az első URL kell
         if "," in value:
@@ -155,6 +115,37 @@ def article_image(article):
             BASE_URL,
             value,
         )
+
+    return None
+
+
+def fetch_article_image(url):
+    """
+    A cikkoldalról próbálja megszerezni a borítóképet.
+    """
+
+    try:
+        tree = download(url)
+
+        xpaths = (
+            '//meta[@property="og:image"]/@content',
+            '//meta[@property="og:image:secure_url"]/@content',
+            '//meta[@name="twitter:image"]/@content',
+            '//meta[@name="twitter:image:src"]/@content',
+            '//link[@rel="image_src"]/@href',
+        )
+
+        for xpath in xpaths:
+            image = attr(tree, xpath)
+
+            if image:
+                print(f"✔ Meta kép: {image}")
+                return image.strip()
+
+        print("⚠ Nem találtam meta képet:", url)
+
+    except Exception as e:
+        print(e)
 
     return None
 
@@ -254,7 +245,7 @@ def collect_new_articles():
             else:
                 print("✖ A cikkoldalon sincs kép")
 
-  new_articles.append(
+        new_articles.append(
             {
                 "title": title,
                 "link": link,
@@ -266,7 +257,7 @@ def collect_new_articles():
             }
         )
 
-                 print(f"Új cikkek: {len(new_articles)}")
+        print(f"Új cikkek: {len(new_articles)}")
 
     articles = update_cache(
         CACHE_FILE,
