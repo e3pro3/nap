@@ -111,25 +111,30 @@ def article_image(article):
 
 def fetch_article_image(url):
     """
-    Ha a listaoldalon nincs kép,
-    megpróbáljuk a cikk Open Graph képét használni.
+    A cikkoldalról próbálja megszerezni a borítóképet.
     """
 
     try:
-
         tree = download(url)
 
-        image = attr(
-            tree,
+        xpaths = (
             '//meta[@property="og:image"]/@content',
+            '//meta[@property="og:image:secure_url"]/@content',
+            '//meta[@name="twitter:image"]/@content',
+            '//meta[@name="twitter:image:src"]/@content',
+            '//link[@rel="image_src"]/@href',
         )
 
-        if image:
-            return image.strip()
+        for xpath in xpaths:
+            image = attr(tree, xpath)
+
+            if image:
+                print(f"✔ Meta kép: {image}")
+                return image.strip()
+
+        print("⚠ Nem találtam meta képet:", url)
 
     except Exception as e:
-
-        print(f"Hiba kép lekérésekor: {url}")
         print(e)
 
     return None
