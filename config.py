@@ -18,7 +18,7 @@ DATA_DIR = ROOT / "data"
 
 CACHE_FILE = DATA_DIR / "articles.json"
 
-RSS_FILE = ROOT / "maszol.xml"
+RSS_FILE = ROOT / "feed.xml"
 
 # --- Scraper ---
 
