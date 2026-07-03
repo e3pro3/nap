@@ -8,23 +8,23 @@ from config import HEADERS, REQUEST_TIMEOUT
 
 def download(url):
     """
-    Letölti az oldalt és visszaad egy lxml fát.
+    Letölt egy oldalt és lxml HTML fát ad vissza.
     """
 
-    r = requests.get(
+    response = requests.get(
         url,
         headers=HEADERS,
         timeout=REQUEST_TIMEOUT,
     )
 
-    r.raise_for_status()
+    response.raise_for_status()
 
-    return html.fromstring(r.text)
+    return html.fromstring(response.text)
 
 
 def first(node, xpath):
     """
-    Első XPath találat.
+    Az első XPath találat.
     """
 
     result = node.xpath(xpath)
@@ -45,11 +45,31 @@ def text(node, xpath):
     if value is None:
         return ""
 
+    if hasattr(value, "text_content"):
+        return value.text_content().strip()
+
     return str(value).strip()
 
 
-def absolute(base, url):
+def attr(node, xpath):
+    """
+    Attribútum XPath alapján.
+    """
+
+    value = first(node, xpath)
+
+    if value is None:
+        return None
+
+    return str(value).strip()
+
+
+def absolute(base_url, url):
+    """
+    Relatív URL -> abszolút URL.
+    """
+
     if not url:
         return None
 
-    return urljoin(base, url)
+    return urljoin(base_url, url)
