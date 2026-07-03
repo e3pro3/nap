@@ -250,9 +250,9 @@ def collect_new_articles():
 
     for article in new_articles:
         if article["image"]:
-        print("KÉP:", article["image"])
-    else:
-        print("NINCS KÉP:", article["link"])
+            print("KÉP:", article["image"])
+        else:
+            print("NINCS KÉP:", article["link"])
 
     articles = update_cache(
         CACHE_FILE,
