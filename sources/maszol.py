@@ -1,7 +1,12 @@
 
 import requests
 
-from bs4 import BeautifulSoup
+from sources.base import (
+    download,
+    text,
+    attr,
+    absolute,
+)
 from urllib.parse import urljoin
 from datetime import datetime, timezone
 
