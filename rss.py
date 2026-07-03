@@ -1,5 +1,5 @@
-from email.utils import format_datetime
 from datetime import datetime, timezone
+from email.utils import format_datetime
 
 from lxml import etree
 
@@ -13,73 +13,41 @@ from config import (
     ATOM_NS,
 )
 
+from sources.base import mime_type
 
-def cdata(parent, tag, text):
-    """
-    CDATA elem létrehozása.
-    """
 
-    el = etree.SubElement(parent, tag)
-    el.text = etree.CDATA(text or "")
-    return el
+NSMAP = {
+    "media": MEDIA_NS,
+    "atom": ATOM_NS,
+}
 
 
 def text(parent, tag, value):
-    """
-    Egyszerű XML elem.
-    """
+    element = etree.SubElement(parent, tag)
+    element.text = value
+    return element
 
-    el = etree.SubElement(parent, tag)
-    el.text = value or ""
-    return el
+
+def cdata(parent, tag, value):
+    element = etree.SubElement(parent, tag)
+    element.text = etree.CDATA(value)
+    return element
+
 
 def create_feed():
-
-    nsmap = {
-        "atom": ATOM_NS,
-        "media": MEDIA_NS,
-    }
 
     rss = etree.Element(
         "rss",
         version="2.0",
-        nsmap=nsmap,
+        nsmap=NSMAP,
     )
 
-    channel = etree.SubElement(
-        rss,
-        "channel",
-    )
+    channel = etree.SubElement(rss, "channel")
 
     text(channel, "title", FEED_TITLE)
-
     text(channel, "link", BASE_URL)
-
-    text(
-        channel,
-        "description",
-        FEED_DESCRIPTION,
-    )
-
-    text(
-        channel,
-        "language",
-        FEED_LANGUAGE,
-    )
-
-    text(
-        channel,
-        "generator",
-        "Maszol RSS Generator v2",
-    )
-
-    text(
-        channel,
-        "lastBuildDate",
-        format_datetime(
-            datetime.now(timezone.utc)
-        ),
-    )
+    text(channel, "description", FEED_DESCRIPTION)
+    text(channel, "language", FEED_LANGUAGE)
 
     atom = etree.SubElement(
         channel,
@@ -87,99 +55,72 @@ def create_feed():
     )
 
     atom.set("href", BASE_URL)
-
     atom.set("rel", "self")
-
-    atom.set(
-        "type",
-        "application/rss+xml",
-    )
+    atom.set("type", "application/rss+xml")
 
     return rss, channel
 
+
 def add_article(channel, article):
-    """
-    Egy RSS <item> létrehozása.
-    """
 
     item = etree.SubElement(channel, "item")
 
-    # ----- Kötelező mezők -----
+    text(item, "title", article["title"])
+    text(item, "link", article["link"])
+    text(item, "guid", article["link"])
 
-    text(item, "title", article.get("title", ""))
-
-    text(item, "link", article.get("link", ""))
-
-    text(item, "guid", article.get("link", ""))
-
-    # ----- Leírás -----
-
-    description = article.get("description", "")
+    description = article.get(
+        "description",
+        article["title"],
+    )
 
     image = article.get("image")
 
     if image:
-        html = f"""
-        <p>
-            <img src="{image}" alt="" />
-        </p>
-        <p>{description}</p>
-        """
+
+        html = (
+            f'<img src="{image}" /><br/>'
+            f'{description}'
+        )
+
     else:
-        html = f"<p>{description}</p>"
+
+        html = description
 
     cdata(
         item,
         "description",
-        html.strip(),
+        html,
     )
-
-    # ----- Publikálási dátum -----
 
     published = article.get("published")
 
     if published:
-        try:
 
-            dt = datetime.fromisoformat(published)
+        dt = datetime.fromisoformat(
+            published
+        )
 
-            if dt.tzinfo is None:
-                dt = dt.replace(
-                    tzinfo=timezone.utc
-                )
-
-            text(
-                item,
-                "pubDate",
-                format_datetime(dt),
+        if dt.tzinfo is None:
+            dt = dt.replace(
+                tzinfo=timezone.utc
             )
 
-        except Exception:
-            pass
-
-    # ----- Kategória -----
+        text(
+            item,
+            "pubDate",
+            format_datetime(dt),
+        )
 
     category = article.get("category")
 
     if category:
-        text(
-            item,
-            "category",
-            category,
-        )
-
-    # ----- Szerző -----
+        text(item, "category", category)
 
     author = article.get("author")
 
     if author:
-        text(
-            item,
-            "author",
-            author,
-        )
-
-    # ----- Kép (media namespace) -----
+        text(item, "author", author)
 
     if image:
 
@@ -189,49 +130,22 @@ def add_article(channel, article):
         )
 
         media.set("url", image)
-
         media.set("medium", "image")
-
-    # ----- Enclosure -----
-
-    if image:
 
         enclosure = etree.SubElement(
             item,
             "enclosure",
         )
 
-        enclosure.set(
-            "url",
-            image,
-        )
-
+        enclosure.set("url", image)
         enclosure.set(
             "type",
-            "image/jpeg",
+            mime_type(image),
         )
-
         enclosure.set(
             "length",
             "0",
         )
-
-
-
-def save_feed(rss):
-    """
-    XML mentése.
-    """
-
-    tree = etree.ElementTree(rss)
-
-    tree.write(
-        str(RSS_FILE),
-        encoding="utf-8",
-        xml_declaration=True,
-        pretty_print=True,
-    )
-
 
 
 def build_feed(articles):
@@ -244,6 +158,11 @@ def build_feed(articles):
             article,
         )
 
-    save_feed(rss)
+    tree = etree.ElementTree(rss)
 
-  
+    tree.write(
+        str(RSS_FILE),
+        encoding="utf-8",
+        xml_declaration=True,
+        pretty_print=True,
+    )
