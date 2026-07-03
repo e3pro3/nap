@@ -168,6 +168,7 @@ def article_date(article):
 
     return datetime.now(timezone.utc).isoformat()
 
+
 def collect_new_articles():
     """
     Letölti a Maszol főoldalát, kigyűjti az új cikkeket,
@@ -255,16 +256,10 @@ def collect_new_articles():
             print("NINCS KÉP:", article["link"])
 
     articles = update_cache(
-    CACHE_FILE,
-    new_articles,
-)
+        CACHE_FILE,
+        new_articles,
+    )
 
-for article in articles:
-    if article.get("image"):
-        print("KÉP:", article["link"])
-    else:
-        print("NINCS KÉP:", article["link"])
-
-print(f"Cache mentve ({len(articles)} cikk)"))
+    print(f"Cache mentve ({len(articles)} cikk)")
 
     return articles
