@@ -10,6 +10,8 @@ FEED_DESCRIPTION = "Daily news feed"
 
 FEED_LANGUAGE = "hu"
 
+FEED_URL = "https://e3pro3.github.io/nap/feed.xml"
+
 # --- Fájlok ---
 
 ROOT = Path(__file__).parent
