@@ -189,7 +189,7 @@ def collect_new_articles():
                 "link": link,
                 "description": description,
                 "image": image,
-                "published": article_date(),
+                "published": article_date(article),
                 "author": article_author(article),
                 "category": article_category(article),
             }
