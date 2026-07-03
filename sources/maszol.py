@@ -8,6 +8,7 @@ from config import (
 
 from cache import (
     load_articles,
+    save_articles,
     get_known_links,
     update_cache,
 )
@@ -175,7 +176,7 @@ def collect_new_articles():
     frissíti a cache-t és visszaadja a teljes listát.
     """
 
-    print("Maszol letöltése...")
+    print("Forrás letöltése...")
 
     tree = download(BASE_URL)
 
@@ -247,13 +248,7 @@ def collect_new_articles():
             }
         )
 
-    print(f"Új cikkek: {len(new_articles)}")
-
-    for article in new_articles:
-        if article["image"]:
-            print("KÉP:", article["image"])
-        else:
-            print("NINCS KÉP:", article["link"])
+        print(f"Új cikkek: {len(new_articles)}")
 
     articles = update_cache(
         CACHE_FILE,
@@ -277,8 +272,6 @@ def collect_new_articles():
 
     if updated:
 
-        from cache import save_articles
-
         save_articles(
             CACHE_FILE,
             articles,
@@ -289,21 +282,3 @@ def collect_new_articles():
     print(f"Cache mentve ({len(articles)} cikk)")
 
     return articles
-
-
-def debug_article(url):
-    """
-    Egy cikk képének tesztelése.
-    """
-
-    print("=" * 60)
-    print(url)
-    print("=" * 60)
-
-    image = fetch_article_image(url)
-
-    if image:
-        print("KÉP:")
-        print(image)
-    else:
-        print("NINCS KÉP")
