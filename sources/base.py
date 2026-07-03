@@ -73,3 +73,15 @@ def absolute(base_url, url):
         return None
 
     return urljoin(base_url, url)
+
+from mimetypes import guess_type
+
+
+def mime_type(url):
+    """
+    MIME típus meghatározása URL alapján.
+    """
+
+    mime, _ = guess_type(url)
+
+    return mime or "image/jpeg"
