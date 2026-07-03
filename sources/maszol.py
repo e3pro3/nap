@@ -256,36 +256,54 @@ def collect_new_articles():
             print("NINCS KÉP:", article["link"])
 
     articles = update_cache(
-    CACHE_FILE,
-    new_articles,
-)
-
-updated = 0
-
-for article in articles:
-
-    if article.get("image"):
-        continue
-
-    image = fetch_article_image(
-        article["link"]
+        CACHE_FILE,
+        new_articles,
     )
+
+    updated = 0
+
+    for article in articles:
+
+        if article.get("image"):
+            continue
+
+        image = fetch_article_image(
+            article["link"]
+        )
+
+        if image:
+            article["image"] = image
+            updated += 1
+
+    if updated:
+
+        from cache import save_articles
+
+        save_articles(
+            CACHE_FILE,
+            articles,
+        )
+
+        print(f"Képek pótolva: {updated}")
+
+    print(f"Cache mentve ({len(articles)} cikk)")
+
+    return articles
+
+
+def debug_article(url):
+    """
+    Egy cikk képének tesztelése.
+    """
+
+    print("=" * 60)
+    print(url)
+    print("=" * 60)
+
+    image = fetch_article_image(url)
 
     if image:
-        article["image"] = image
-        updated += 1
-
-if updated:
-
-    from cache import save_articles
-
-    save_articles(
-        CACHE_FILE,
-        articles,
-    )
-
-    print(f"Képek pótolva: {updated}")
-
-print(f"Cache mentve ({len(articles)} cikk)")
-
-return articles
+        print("KÉP:")
+        print(image)
+    else:
+        print("NINCS KÉP")
