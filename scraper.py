@@ -1,4 +1,5 @@
 from sources.maszol import collect_new_articles
+from sources.maszol import debug_article
 from rss import build_feed
 
 
