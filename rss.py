@@ -49,6 +49,19 @@ def create_feed():
     text(channel, "link", BASE_URL)
     text(channel, "description", FEED_DESCRIPTION)
     text(channel, "language", FEED_LANGUAGE)
+    
+    text(
+         channel,
+         "lastBuildDate",
+         format_datetime(datetime.now(timezone.utc)),
+    )
+
+    text(
+         channel,
+         "generator",
+         "NAP RSS Generator v1.0",
+    )
+    
 
     atom = etree.SubElement(
         channel,
