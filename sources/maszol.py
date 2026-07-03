@@ -1,216 +1,10 @@
-
-import requests
-
-from sources.base import (
-    download,
-    text,
-    attr,
-    absolute,
-)
-from urllib.parse import urljoin
 from datetime import datetime, timezone
 
 from config import (
     BASE_URL,
-    HEADERS,
-    REQUEST_TIMEOUT,
+    CACHE_FILE,
     SCAN_LIMIT,
 )
-
-
-def download(url):
-    """
-    Oldal letöltése.
-    """
-
-    r = requests.get(
-        url,
-        headers=HEADERS,
-        timeout=REQUEST_TIMEOUT,
-    )
-
-    r.raise_for_status()
-
-    return BeautifulSoup(r.text, "lxml")
-
-
-def get_meta(soup, name=None, property=None):
-    """
-    Meta tag tartalmának kiolvasása.
-    """
-
-    if property:
-        tag = soup.find("meta", property=property)
-
-        if tag:
-            return tag.get("content", "").strip()
-
-    if name:
-        tag = soup.find("meta", attrs={"name": name})
-
-        if tag:
-            return tag.get("content", "").strip()
-
-    return ""
-
-
-def parse_homepage():
-    """
-    Maszol főoldal feldolgozása.
-    """
-
-    soup = download(BASE_URL)
-
-    articles = []
-
-    scanned = 0
-
-    for article in soup.find_all("article"):
-
-        if scanned >= SCAN_LIMIT:
-            break
-
-        scanned += 1
-
-        a = article.find("a", href=True)
-
-        if not a:
-            continue
-
-        link = urljoin(
-            BASE_URL,
-            a["href"],
-        )
-
-        title = a.get_text(
-            " ",
-            strip=True,
-        )
-
-        if not title:
-
-            h = article.find(
-                ["h1", "h2", "h3"]
-            )
-
-            if h:
-                title = h.get_text(
-                    " ",
-                    strip=True,
-                )
-
-        if not title:
-            continue
-
-        articles.append(
-            {
-                "title": title,
-                "link": link,
-            }
-        )
-
-    return articles
-
-def scrape_article(url):
-    """
-    Egy cikk részletes adatainak letöltése.
-    """
-
-    try:
-        soup = download(url)
-    except Exception:
-        return None
-
-    # ---------- Cím ----------
-
-    title = get_meta(soup, property="og:title")
-
-    if not title:
-        h1 = soup.find("h1")
-        if h1:
-            title = h1.get_text(" ", strip=True)
-
-    # ---------- Leírás ----------
-
-    description = get_meta(
-        soup,
-        property="og:description"
-    )
-
-    if not description:
-        p = soup.find("p")
-        if p:
-            description = p.get_text(" ", strip=True)
-
-    # ---------- Kép ----------
-
-    image = get_meta(
-        soup,
-        property="og:image"
-    )
-
-    if image:
-        image = urljoin(BASE_URL, image)
-
-    # ---------- Kategória ----------
-
-    category = get_meta(
-        soup,
-        property="article:section"
-    )
-
-    # ---------- Szerző ----------
-
-    author = (
-        get_meta(soup, name="author")
-        or get_meta(soup, property="article:author")
-    )
-
-    # ---------- Publikálási dátum ----------
-
-    published = (
-        get_meta(
-            soup,
-            property="article:published_time"
-        )
-    )
-
-    if not published:
-
-        time_tag = soup.find("time")
-
-        if (
-            time_tag
-            and time_tag.has_attr("datetime")
-        ):
-            published = time_tag["datetime"]
-
-    if not published:
-
-        published = (
-            datetime.now(timezone.utc)
-            .isoformat()
-        )
-
-    # ---------- Visszatérés ----------
-
-    return {
-
-        "title": title,
-
-        "link": url,
-
-        "description": description,
-
-        "image": image,
-
-        "category": category,
-
-        "author": author,
-
-        "published": published,
-
-    }
 
 from cache import (
     load_articles,
@@ -218,45 +12,188 @@ from cache import (
     update_cache,
 )
 
-from config import CACHE_FILE
+from sources.base import (
+    download,
+    text,
+    attr,
+    absolute,
+)
 
+
+# ----------------------------------------------------
+# Segédfüggvények
+# ----------------------------------------------------
+
+def article_link(article):
+    """
+    Cikk URL.
+    """
+
+    link = attr(
+        article,
+        ".//a/@href",
+    )
+
+    return absolute(
+        BASE_URL,
+        link,
+    )
+
+
+def article_title(article):
+    """
+    Cikk címe.
+    """
+
+    for xpath in (
+        ".//h1",
+        ".//h2",
+        ".//h3",
+        ".//a",
+    ):
+
+        title = text(
+            article,
+            xpath,
+        )
+
+        if title:
+            return title
+
+    return ""
+
+
+def article_description(article):
+    """
+    Rövid leírás.
+    """
+
+    description = text(
+        article,
+        ".//p",
+    )
+
+    return description
+
+
+def article_image(article):
+    """
+    Cikk képe.
+    """
+
+    for xpath in (
+        ".//img/@src",
+        ".//img/@data-src",
+        ".//img/@data-original",
+    ):
+
+        image = attr(
+            article,
+            xpath,
+        )
+
+        if image:
+            return absolute(
+                BASE_URL,
+                image,
+            )
+
+    return None
+
+
+def article_category(article):
+    """
+    Kategória.
+    """
+
+    return ""
+
+
+def article_author(article):
+    """
+    Szerző.
+    """
+
+    return ""
+
+
+def article_date():
+    """
+    Ideiglenesen a letöltés ideje.
+    Később valódi dátumot fogunk kinyerni.
+    """
+
+    return datetime.now(
+        timezone.utc,
+    ).isoformat()
 
 def collect_new_articles():
     """
-    Csak az új cikkeket tölti le.
+    Letölti a Maszol főoldalát, kigyűjti az új cikkeket,
+    frissíti a cache-t és visszaadja a teljes listát.
     """
 
-    print("Cache betöltése...")
+    print("Maszol letöltése...")
+
+    tree = download(BASE_URL)
 
     old_articles = load_articles(CACHE_FILE)
-
     known_links = get_known_links(old_articles)
-
-    print(f"Cache: {len(old_articles)} cikk")
-
-    homepage_articles = parse_homepage()
-
-    print(f"Főoldalon: {len(homepage_articles)} cikk")
 
     new_articles = []
 
-    skipped = 0
+    scanned = 0
 
-    for article in homepage_articles:
+    forbidden = (
+        "/velemeny/",
+        "/podcast/",
+        "/konyvsarok/",
+        "/recept/",
+    )
 
-        if article["link"] in known_links:
-            skipped += 1
+    for article in tree.xpath("//article"):
+
+        if scanned >= SCAN_LIMIT:
+            break
+
+        scanned += 1
+
+        link = article_link(article)
+
+        if not link:
             continue
 
-        print("Új:", article["title"])
+        if link in known_links:
+            continue
 
-        data = scrape_article(article["link"])
+        if any(x in link.lower() for x in forbidden):
+            continue
 
-        if data:
-            new_articles.append(data)
+        title = article_title(article)
+
+        if not title:
+            continue
+
+        description = article_description(article)
+
+        if not description:
+            description = title
+
+        image = article_image(article)
+
+        new_articles.append(
+            {
+                "title": title,
+                "link": link,
+                "description": description,
+                "image": image,
+                "published": article_date(),
+                "author": article_author(article),
+                "category": article_category(article),
+            }
+        )
 
     print(f"Új cikkek: {len(new_articles)}")
-    print(f"Kihagyva: {skipped}")
 
     articles = update_cache(
         CACHE_FILE,
