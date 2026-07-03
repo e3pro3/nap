@@ -2,15 +2,13 @@ from pathlib import Path
 
 # --- Webhely ---
 
-BASE_URL = "https://maszol.ro"
+FEED_URL = "https://e3pro3.github.io/nap/feed.xml"
 
 FEED_TITLE = "Napi hírek"
 
 FEED_DESCRIPTION = "Daily news feed"
 
 FEED_LANGUAGE = "hu"
-
-FEED_URL = "https://e3pro3.github.io/nap/feed.xml"
 
 # --- Fájlok ---
 
