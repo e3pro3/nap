@@ -4,7 +4,7 @@ from rss import build_feed
 
 def main():
     print("=" * 60)
-    print("Maszol RSS Generator")
+    print("RSS Generator")
     print("=" * 60)
 
     articles = collect_new_articles()
