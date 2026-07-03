@@ -4,9 +4,9 @@ from pathlib import Path
 
 BASE_URL = "https://maszol.ro"
 
-FEED_TITLE = "Maszol - Friss hírek"
+FEED_TITLE = "Napi hírek"
 
-FEED_DESCRIPTION = "Automatikusan generált RSS feed"
+FEED_DESCRIPTION = "Daily news feed"
 
 FEED_LANGUAGE = "hu"
 
