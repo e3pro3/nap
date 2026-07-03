@@ -98,7 +98,13 @@ def article_image(article):
 
         if not value:
             continue
+        # Base64 és blob képeket kihagyjuk
+        if value.startswith("data:"):
+            continue
 
+        if value.startswith("blob:"):
+            continue
+            
         # srcset esetén az első URL kell
         if "," in value:
             value = value.split(",")[0]
