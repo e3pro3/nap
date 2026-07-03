@@ -269,3 +269,20 @@ def collect_new_articles():
     print(f"Cache mentve ({len(articles)} cikk)")
 
     return articles
+
+def debug_article(url):
+    """
+    Egy cikk képének tesztelése.
+    """
+
+    print("=" * 60)
+    print(url)
+    print("=" * 60)
+
+    image = fetch_article_image(url)
+
+    if image:
+        print("KÉP:")
+        print(image)
+    else:
+        print("NINCS KÉP")
