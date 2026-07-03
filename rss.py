@@ -4,6 +4,7 @@ from email.utils import format_datetime
 from lxml import etree
 
 from config import (
+    BASE_URL,
     FEED_URL,
     FEED_TITLE,
     FEED_DESCRIPTION,
