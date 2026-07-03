@@ -248,6 +248,12 @@ def collect_new_articles():
 
     print(f"Új cikkek: {len(new_articles)}")
 
+    for article in new_articles:
+        if article["image"]:
+        print("KÉP:", article["image"])
+    else:
+        print("NINCS KÉP:", article["link"])
+
     articles = update_cache(
         CACHE_FILE,
         new_articles,
