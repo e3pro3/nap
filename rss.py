@@ -80,7 +80,17 @@ def add_article(channel, article):
 
     text(item, "title", article["title"])
     text(item, "link", article["link"])
-    text(item, "guid", article["link"])
+    
+    guid = text(
+        item,
+        "guid",
+        article["link"],
+    )
+
+    guid.set(
+        "isPermaLink",
+        "true",
+    )
 
     description = article.get(
         "description",
