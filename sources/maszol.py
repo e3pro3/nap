@@ -96,24 +96,16 @@ def article_image(article):
 
         value = attr(article, xpath)
 
-    if not value:
-        continue
+        if not value:
+            continue
 
-    # Beágyazott base64 képet kihagyjuk
-    if value.startswith("data:"):
-        continue
-
-    # Blob URL-t is kihagyjuk
-    if value.startswith("blob:"):
-        continue
-
-    # srcset esetén az első URL kell
-    if "," in value:
-        value = value.split(",")[0]
+        # srcset esetén az első URL kell
+        if "," in value:
+            value = value.split(",")[0]
 
         value = value.split()[0]
 
-    return absolute(BASE_URL, value)
+        return absolute(BASE_URL, value)
 
     return None
 
@@ -256,24 +248,14 @@ def collect_new_articles():
             }
         )
 
-        for article in tree.xpath("//article"):
-
-            ...
-
-        new_articles.append(
-        {
-            ...
-        }
-        )
-
         print(f"Új cikkek: {len(new_articles)}")
-        
-       articles = update_cache(
-           CACHE_FILE,
-           new_articles,
-        )
 
-        updated = 0
+    articles = update_cache(
+        CACHE_FILE,
+        new_articles,
+    )
+
+    updated = 0
 
     for article in articles:
 
