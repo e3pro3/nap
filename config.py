@@ -6,9 +6,9 @@ BASE_URL = "https://maszol.ro"
 
 FEED_URL = "https://e3pro3.github.io/nap/feed.xml"
 
-FEED_TITLE = "Napi hírek"
+FEED_TITLE = "NAP RSS"
 
-FEED_DESCRIPTION = "Daily news feed"
+FEED_DESCRIPTION = "Automatically updated RSS feed"
 
 FEED_LANGUAGE = "hu"
 
