@@ -1,6 +1,19 @@
-from sources.maszol import collect_new_articles
 from rss import build_feed
 
+from sources.maszol import collect_new_articles as maszol
+from sources.hargitanepe import collect_new_articles as hargita
+
+articles = []
+
+articles.extend(maszol())
+articles.extend(hargita())
+
+articles.sort(
+    key=lambda x: x["published"],
+    reverse=True,
+)
+
+build_feed(articles)
 
 def main():
 
