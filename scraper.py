@@ -1,4 +1,5 @@
 from rss import build_feed
+from config import MAX_ARTICLES
 
 from sources.maszol import collect_new_articles as maszol
 from sources.hargitanepe import collect_new_articles as hargita
@@ -20,9 +21,11 @@ def main():
         reverse=True,
     )
 
-    print(f"RSS-be kerülő cikkek: {len(articles)}")
+    articles = articles[:MAX_ARTICLES]
 
-    build_feed(articles)
+print(f"RSS-be kerülő cikkek: {len(articles)}")
+
+build_feed(articles)
 
     print()
     print("✔ RSS sikeresen elkészült!")
