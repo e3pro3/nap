@@ -89,6 +89,8 @@ def collect_new_articles():
     print(f"Cache mentve ({len(articles)} cikk)")
 
     return articles
+
+
 def article_link(article):
 
     link = attr(
@@ -123,7 +125,12 @@ def article_title(article):
 
 
 def article_description(article):
-  
+    return text(
+        article,
+        ".//p",
+    )
+
+
 def article_image(article):
     """
     Kép URL.
@@ -190,9 +197,3 @@ def article_date(article):
     return datetime.now(
         timezone.utc
     ).isoformat()
-  
-
-    return text(
-        article,
-        ".//p",
-    )
