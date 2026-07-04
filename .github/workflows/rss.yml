@@ -1,4 +1,4 @@
-name: Generate Maszol RSS
+name: Generate NAP RSS
 
 on:
   workflow_dispatch:
