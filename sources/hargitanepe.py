@@ -31,7 +31,7 @@ def collect_new_articles():
 
     tree = download(BASE_URL)
 
-    old_articles = load_articles(CACHE_FILE)
+    old_articles = load_articles(HARGITANEPE_CACHE)
     known_links = get_known_links(old_articles)
 
     new_articles = []
@@ -80,7 +80,7 @@ def collect_new_articles():
         print(f"Új cikkek: {len(new_articles)}")
 
     articles = update_cache(
-        CACHE_FILE,
+        HARGITANEPE_CACHE,
         new_articles,
     )
 
@@ -258,7 +258,7 @@ def collect_new_articles():
         print(f"Új cikkek: {len(new_articles)}")
 
     articles = update_cache(
-        CACHE_FILE,
+        HARGITANEPE_CACHE,
         new_articles,
     )
 
