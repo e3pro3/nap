@@ -1,10 +1,11 @@
 from datetime import datetime, timezone
 
 from config import (
-    BASE_URL = "https://hargitanepe.ro",
     CACHE_FILE,
     SCAN_LIMIT,
 )
+
+BASE_URL = "https://hargitanepe.ro"
 
 from cache import (
     load_articles,
