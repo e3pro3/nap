@@ -1,7 +1,7 @@
 from datetime import datetime, timezone
 
 from config import (
-    CACHE_FILE,
+    MASZOL_CACHE,
     SCAN_LIMIT,
 )
 
@@ -190,7 +190,7 @@ def collect_new_articles():
 
     tree = download(BASE_URL)
 
-    old_articles = load_articles(CACHE_FILE)
+    old_articles = load_articles(MASZOL_CACHE)
     known_links = get_known_links(old_articles)
 
     new_articles = []
@@ -261,8 +261,8 @@ def collect_new_articles():
     print(f"Új cikkek: {len(new_articles)}")
 
     articles = update_cache(
-        CACHE_FILE,
-        new_articles,
+    MASZOL_CACHE,
+    new_articles,
     )
 
     updated = 0
@@ -283,7 +283,7 @@ def collect_new_articles():
     if updated:
 
         save_articles(
-            CACHE_FILE,
+            MASZOL_CACHE,
             articles,
         )
 
