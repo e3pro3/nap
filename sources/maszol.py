@@ -261,8 +261,8 @@ def collect_new_articles():
     print(f"Új cikkek: {len(new_articles)}")
 
     articles = update_cache(
-    MASZOL_CACHE,
-    new_articles,
+        MASZOL_CACHE,
+        new_articles,
     )
 
     updated = 0
