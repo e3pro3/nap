@@ -23,9 +23,9 @@ def main():
 
     articles = articles[:MAX_ARTICLES]
 
-print(f"RSS-be kerülő cikkek: {len(articles)}")
+    print(f"RSS-be kerülő cikkek: {len(articles)}")
 
-build_feed(articles)
+    build_feed(articles)
 
     print()
     print("✔ RSS sikeresen elkészült!")
