@@ -38,7 +38,7 @@ jobs:
           git add .
 
           if ! git diff --cached --quiet; then
-            git commit -m "RSS frissítés [skip ci]"
+            git commit -m "Update NAP feed [skip ci]"
             git push
           else
             echo "Nincs változás."
