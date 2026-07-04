@@ -16,7 +16,9 @@ ROOT = Path(__file__).parent
 
 DATA_DIR = ROOT / "data"
 
-CACHE_FILE = DATA_DIR / "articles.json"
+MASZOL_CACHE = DATA_DIR / "maszol.json"
+
+HARGITANEPE_CACHE = DATA_DIR / "hargitanepe.json"
 
 RSS_FILE = ROOT / "feed.xml"
 
