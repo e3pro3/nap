@@ -197,3 +197,73 @@ def article_date(article):
     return datetime.now(
         timezone.utc
     ).isoformat()
+
+def collect_new_articles():
+    """
+    Letölti a Hargita Népe főoldalát, kigyűjti az új cikkeket,
+    frissíti a cache-t és visszaadja a teljes listát.
+    """
+
+    print("Forrás letöltése...")
+
+    tree = download(BASE_URL)
+
+    old_articles = load_articles(CACHE_FILE)
+    known_links = get_known_links(old_articles)
+
+    new_articles = []
+
+    scanned = 0
+
+    for article in tree.xpath("//article"):
+
+        if scanned >= SCAN_LIMIT:
+            break
+
+        scanned += 1
+
+        link = article_link(article)
+
+        if not link:
+            continue
+
+        if link in known_links:
+            continue
+
+        title = article_title(article)
+
+        if not title:
+            continue
+
+        description = article_description(article)
+
+        if not description:
+            description = title
+
+        image = article_image(article)
+
+        new_articles.append(
+            {
+                "title": title,
+                "link": link,
+                "description": description,
+                "image": image,
+                "published": article_date(article),
+                "author": article_author(article),
+                "category": article_category(article),
+            }
+        )
+
+        print(f"Új cikkek: {len(new_articles)}")
+
+    articles = update_cache(
+        CACHE_FILE,
+        new_articles,
+    )
+
+    if new_articles:
+        print(f"Új cikkek összesen: {len(new_articles)}")
+
+    print(f"Cache mentve ({len(articles)} cikk)")
+
+    return articles
