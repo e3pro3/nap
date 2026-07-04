@@ -4,7 +4,6 @@ from email.utils import format_datetime
 from lxml import etree
 
 from config import (
-    BASE_URL,
     FEED_URL,
     FEED_TITLE,
     FEED_DESCRIPTION,
@@ -46,7 +45,7 @@ def create_feed():
     channel = etree.SubElement(rss, "channel")
 
     text(channel, "title", FEED_TITLE)
-    text(channel, "link", BASE_URL)
+    text(channel, "link", FEED_URL)
     text(channel, "description", FEED_DESCRIPTION)
     text(channel, "language", FEED_LANGUAGE)
     
