@@ -1,7 +1,7 @@
 from datetime import datetime, timezone
 
 from config import (
-    BASE_URL,
+    BASE_URL = "https://maszol.ro",
     CACHE_FILE,
     SCAN_LIMIT,
 )
