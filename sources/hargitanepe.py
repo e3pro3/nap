@@ -268,3 +268,4 @@ def collect_new_articles():
     print(f"Cache mentve ({len(articles)} cikk)")
 
     return articles
+    
