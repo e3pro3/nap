@@ -5,9 +5,19 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Sun, 12 Jul 2026 18:10:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 21:52:17 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Beszélgetés Gecse Izabella egykori sífutóval</title>
+      <link>https://hargitanepe.ro/hirek/hargita-kalendarium/olyan-eletritmust-adott-ami-azota-is-meghataroz</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/hirek/hargita-kalendarium/olyan-eletritmust-adott-ami-azota-is-meghataroz</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/1200x630/1783513717_0_IMG_20190216_155740.jpg" /><br/>Több mint három évtizede az ISK Csíkszereda munkatársa, jelenleg is utánpótlás-neveléssel foglalkozik a sífutó- és biatlonszakosztályon. Gecse Izabella 1971-ben született Csíkszentkirályon, életének mindig is szerves része volt a sport: kisgyermekkorában kézilabdázott és atlétikázott, kilencedikes korától pedig már a csíkszeredai sportiskola leigazolt sportolójaként tevékenykedett. Sífutóként többszörös korosztályos országos bajnok, később Bukarestben folytatja edzői tanulmányait, mesterdiplomát szerez, és azóta is folyamatosan képezi magát.]]></description>
+      <pubDate>Sun, 12 Jul 2026 21:52:17 +0000</pubDate>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/1200x630/1783513717_0_IMG_20190216_155740.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/1200x630/1783513717_0_IMG_20190216_155740.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Nehéz helyzetbe hozza a juhtenyésztőket az országot sújtó exporttilalom</title>
       <link>https://hargitanepe.ro/nehez-helyzetbe-hozza-a-juhtenyesztoket-az-orszagot-sujto-exporttilalom</link>
@@ -375,16 +385,6 @@
       <author>Hargita Népe</author>
       <media:content url="https://hargitanepe.ro/images/data/1200x630/1783423560_0_4_tejfeldolgozas_hi01.jpg" medium="image"/>
       <enclosure url="https://hargitanepe.ro/images/data/1200x630/1783423560_0_4_tejfeldolgozas_hi01.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Élményszerűség a tetőfokon</title>
-      <link>https://hargitanepe.ro/hirek/kiemelt/billie-eilish-hit-me-hard-and-soft-the-tour</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/hirek/kiemelt/billie-eilish-hit-me-hard-and-soft-the-tour</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/1200x630/1783676641_0_plakat.jpeg" /><br/>Billie Eilish és James Cameron Hit Me Hard and Soft: The Tour című dokumentumfilmje az énekesnő 2025-ös koncertturnéjának manchesteri állomását rögzíti. Amerikai premiere május 6-án volt, de Romániába és a Csíki Moziba is nagyon korán megérkezett. A helyi közönség közepes érdeklődéssel fogadja a filmet, de azok, akik beülnek rá, kisírt szemekkel, szinte sokkos állapotban hagyják el a mozitermet.]]></description>
-      <pubDate>Sat, 11 Jul 2026 18:08:06 +0000</pubDate>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/1200x630/1783676641_0_plakat.jpeg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/1200x630/1783676641_0_plakat.jpeg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
