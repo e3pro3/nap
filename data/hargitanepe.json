@@ -1,5 +1,32 @@
 [
   {
+    "title": "[Hargita Népe] Kaszálókaláka Bakalján",
+    "link": "https://hargitanepe.ro/kaszalokalaka-bakaljan-2026-07-13",
+    "description": "Kaszálókaláka Bakalján",
+    "image": "https://hargitanepe.ro/images/data/423x222/1783924350_3_kaszalokalaka_Bakalja_tr1_web.jpg",
+    "published": "2026-07-13T19:23:26.161697+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Az érettségi végleges eredményei",
+    "link": "https://hargitanepe.ro/tobben-orulhetnek-a-sikernek",
+    "description": "Az érettségi végleges eredményei",
+    "image": "https://hargitanepe.ro/images/data/423x222/1675866536_erettsegi_arh",
+    "published": "2026-07-13T19:23:26.161627+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Bírsággal fenyegeti a Metát az Európai Unió",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/fuggoseget-okozhatnak-a-kozossegi-oldalak-2026-07-13",
+    "description": "Bírsággal fenyegeti a Metát az Európai Unió",
+    "image": "https://hargitanepe.ro/images/data/423x222/1783926013_0_low-angle-friends-looking-mobile_web.jpg",
+    "published": "2026-07-13T19:23:26.161281+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] Tíz év után ismét fúvószenekarok találkoztak Kápolnásfaluban",
     "link": "https://hargitanepe.ro/a-zene-osszehozta-a-kozosseget-2026-07-13",
     "description": "Tíz év után ismét fúvószenekarok találkoztak Kápolnásfaluban",
@@ -1193,114 +1220,6 @@
     "description": "Mérsékelt pedológiai, vagyis talajtani aszály alakult ki Hargita megyében a tavaszi csapadékhiány következtében, a szántóföldi kultúrák állapota azonban egyelőre kedvező – derül ki a Hargita Megyei Mezőgazdasági Igazgatóság éves jelentéséből. A dokumentum rámutat: tovább csökken a burgonya termesztési területe, miközben egyes takarmánynövények és kalászosok vetésterülete növekedik.",
     "image": "https://hargitanepe.ro/images/data/1200x630/1783422663_0_1_agrar_buza_pityoka_csikszentimre_lfcs-4-.jpg",
     "published": "2026-07-08T21:49:39.268094+00:00",
-    "author": "Hargita Népe",
-    "category": ""
-  },
-  {
-    "title": "A Harvíz Rt. működteti a csíkszeredai esővízhálózatot",
-    "link": "https://hargitanepe.ro/cegre-bizza-a-feladatot-a-varos",
-    "description": "A Harvíz Rt. működteti a csíkszeredai esővízhálózatot",
-    "image": "https://hargitanepe.ro/images/data/423x222/1783492840_0_esovizhalozat_szentkiralyutca_lfcs-1-_web.jpg",
-    "published": "2026-07-08T17:12:53.323477+00:00",
-    "author": "Hargita Népe",
-    "category": ""
-  },
-  {
-    "title": "Tájékozatlanság áll a kisebb hibák mögött",
-    "link": "https://hargitanepe.ro/megkezdte-a-helyszini-ellenorzeseket-az-apia",
-    "description": "Tájékozatlanság áll a kisebb hibák mögött",
-    "image": "https://hargitanepe.ro/images/data/423x222/1736497666_02_apia_parcella_hs_01_cm.JPG",
-    "published": "2026-07-08T17:12:53.323402+00:00",
-    "author": "Hargita Népe",
-    "category": ""
-  },
-  {
-    "title": "Csíkszereda",
-    "link": "https://hargitanepe.ro/veget-er-dolhai-istvan-csikszeredai-megbizatasa",
-    "description": "Csíkszereda",
-    "image": "https://hargitanepe.ro/images/data/423x222/1783504734_0_dolhaiistvan.jpg",
-    "published": "2026-07-08T17:12:53.323353+00:00",
-    "author": "Hargita Népe",
-    "category": ""
-  },
-  {
-    "title": "Finanszírozási szerződést írt alá a gyergyóalfalvi önkormányzat",
-    "link": "https://hargitanepe.ro/hirek/gyergyoszek/viz-es-szennyvizhalozat-epul-a-bucsin-teton",
-    "description": "Finanszírozási szerződést írt alá a gyergyóalfalvi önkormányzat",
-    "image": "https://hargitanepe.ro/images/data/423x222/1783509279_0_gyergyo_alfavivizszennyvizprojekt2_bszsz.jpg",
-    "published": "2026-07-08T17:12:53.323175+00:00",
-    "author": "Hargita Népe",
-    "category": ""
-  },
-  {
-    "title": "31 kérelmet fogadott el idén Hargita Megye Tanácsa",
-    "link": "https://hargitanepe.ro/hirek/hargita-megye/elbiraltak-a-nepviseletek-beszerzeset-tamogato-palyazatokat",
-    "description": "31 kérelmet fogadott el idén Hargita Megye Tanácsa",
-    "image": "https://hargitanepe.ro/images/data/423x222/1783511707_0_NepviseletIllusztracio.jpeg",
-    "published": "2026-07-08T17:12:53.323125+00:00",
-    "author": "Hargita Népe",
-    "category": ""
-  },
-  {
-    "title": "Holland önkéntesek Kányád községben",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/ovodafelujitas-es-jatszoter-kalakaban",
-    "description": "Holland önkéntesek Kányád községben",
-    "image": "https://hargitanepe.ro/images/data/423x222/1783503632_0_06_holland_onkentesek_kanyad_kozsegben_sg3_cm.jpg",
-    "published": "2026-07-08T17:12:53.323072+00:00",
-    "author": "Hargita Népe",
-    "category": ""
-  },
-  {
-    "title": "Indul a felvételi, akkreditálták az első doktori iskolát",
-    "link": "https://hargitanepe.ro/hirek/csikszek/merfoldkohoz-erkezett-a-sapientia-emte",
-    "description": "Indul a felvételi, akkreditálták az első doktori iskolát",
-    "image": "https://hargitanepe.ro/images/data/423x222/1783514696_0_sapientiasajtaj_vn_002.jpg",
-    "published": "2026-07-08T17:12:53.323023+00:00",
-    "author": "Hargita Népe",
-    "category": ""
-  },
-  {
-    "title": "Csődöt jelentett a kivitelező, helyi alvállalkozóinak is tartozik",
-    "link": "https://hargitanepe.ro/hirek/udvarhelyszek/leallt-az-anl-lakasok-epitese-szentegyhazan",
-    "description": "Csődöt jelentett a kivitelező, helyi alvállalkozóinak is tartozik",
-    "image": "https://hargitanepe.ro/images/data/423x222/1783503080_0_anl_szentegyhaza_hotdog_web.jpg",
-    "published": "2026-07-08T17:12:53.322974+00:00",
-    "author": "Hargita Népe",
-    "category": ""
-  },
-  {
-    "title": "Solaris Days Csíkszeredában",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/mozgas-kozosseg-es-kerekparozas",
-    "description": "Solaris Days Csíkszeredában",
-    "image": "https://hargitanepe.ro/images/data/423x222/1783506569_0_9_magazin_solaris_illu_magnific2_jul_8.jpg",
-    "published": "2026-07-08T17:12:53.322922+00:00",
-    "author": "Hargita Népe",
-    "category": ""
-  },
-  {
-    "title": "Pezsgő fekete",
-    "link": "https://hargitanepe.ro/hirek/szines/koffein-jeg-szensav-hodit-az-espresso-tonic",
-    "description": "Pezsgő fekete",
-    "image": "https://hargitanepe.ro/images/data/423x222/1783506758_0_9_magazin_espressotonic_magnific2_jul_8.jpg",
-    "published": "2026-07-08T17:12:53.322872+00:00",
-    "author": "Hargita Népe",
-    "category": ""
-  },
-  {
-    "title": "Székely Konyha és Kert",
-    "link": "https://szekelykonyhaeskert.ro/recept/1938-nyulbolognai",
-    "description": "Székely Konyha és Kert",
-    "image": "https://hargitanepe.ro/images/data/423x222/1783504879_0_NIK_9193.jpg",
-    "published": "2026-07-08T17:12:53.322820+00:00",
-    "author": "Hargita Népe",
-    "category": ""
-  },
-  {
-    "title": "Tovább fejlesztik Szépvíz turizmusát",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/ki-kell-lepnunk-az-emlekkozpont-falai-kozul",
-    "description": "Szépvíz község turisztikai szolgáltatásainak bővítésére készül a helyi önkormányzat a Székely Határőr Emlékközpont idegenvezetőinek szakmai útmutatásával. Ki kell lépni az emlékközpont falai közül, mert az ott látható állandó kiállítás ugyan megteremtette a helyi idegenforgalom kiindulópontját, ez azonban egymagában még nem elég ahhoz, hogy hosszú távon turizmusról lehessen gondolkodni – mondta Fekete Örs polgármester. Az első lépés megtörtént: az emlékközpont idegenvezetői a község híres épített örökségét bemutató sétákkal bővítették a programkínálatukat.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1783507609_0_07_szepvzz_turizmus_Daczo_Denes",
-    "published": "2026-07-08T17:12:53.322739+00:00",
     "author": "Hargita Népe",
     "category": ""
   }
