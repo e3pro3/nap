@@ -245,13 +245,13 @@ def collect_new_articles():
 
         new_articles.append(
             {
-                "title": title,
+                "title": f"[Hargita Népe] {title}",
                 "link": link,
                 "description": description,
                 "image": image,
                 "published": article_date(article),
-                "author": article_author(article),
-                "category": article_category(article),
+                "author": "Hargita Népe",
+                "category": "Hargita Népe",
             }
         )
 
