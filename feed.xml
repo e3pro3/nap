@@ -5,9 +5,31 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Mon, 13 Jul 2026 11:48:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 12:06:15 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Az első meccs, amely átlépte a kétmilliós határt</title>
+      <link>https://hargitanepe.ro/rekordokat-dontott-az-iberiai-rangado-a-romaniai-nezok-koreben</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/rekordokat-dontott-az-iberiai-rangado-a-romaniai-nezok-koreben</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1781861070_0_1.jpg" /><br/>Az első meccs, amely átlépte a kétmilliós határt]]></description>
+      <pubDate>Mon, 13 Jul 2026 12:06:15 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1781861070_0_1.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1781861070_0_1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Nemzetközi sikertörténet lett az oltszemi lovas fogathajtóverseny</title>
+      <link>https://maszol.ro/belfold/Nemzetkozi-sikertortenet-lett-az-oltszemi-lovas-fogathajtoverseny</link>
+      <guid isPermaLink="true">https://maszol.ro/belfold/Nemzetkozi-sikertortenet-lett-az-oltszemi-lovas-fogathajtoverseny</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_Julius/13/cikk_20260713_foto_CsulakZoltan_fogathajtoverseny4.jpg" /><br/>Nemzetközi sikertörténet lett az oltszemi lovas fogathajtóverseny]]></description>
+      <pubDate>Mon, 13 Jul 2026 12:06:12 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_Julius/13/cikk_20260713_foto_CsulakZoltan_fogathajtoverseny4.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_Julius/13/cikk_20260713_foto_CsulakZoltan_fogathajtoverseny4.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] A világranglista legjobbjai csapnak össze</title>
       <link>https://hargitanepe.ro/alomelodontok-2026-07-13</link>
@@ -422,26 +444,6 @@
       <author>Hargita Népe</author>
       <media:content url="https://hargitanepe.ro/images/data/1200x630/1781778310_0_sport.jpg" medium="image"/>
       <enclosure url="https://hargitanepe.ro/images/data/1200x630/1781778310_0_sport.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Miért kedveljük jobban a sorozatokat, mint a filmeket?</title>
-      <link>https://hargitanepe.ro/a-tortenetmeseles-uj-aranykora</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/a-tortenetmeseles-uj-aranykora</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1783672303_0_10_magazin_sorozat_magnific1_jul_10.jpg" /><br/>Miért kedveljük jobban a sorozatokat, mint a filmeket?]]></description>
-      <pubDate>Mon, 13 Jul 2026 06:19:47 +0000</pubDate>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1783672303_0_10_magazin_sorozat_magnific1_jul_10.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1783672303_0_10_magazin_sorozat_magnific1_jul_10.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>105 éve született a férfi, akinek a dizájnját naponta milliárdok használják</title>
-      <link>https://hargitanepe.ro/a-tizperces-firka-amely-megvaltoztatta-a-vilagot</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/a-tizperces-firka-amely-megvaltoztatta-a-vilagot</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1783673167_0_10_magazin_emoji_pexels_jul_10.jpg" /><br/>105 éve született a férfi, akinek a dizájnját naponta milliárdok használják]]></description>
-      <pubDate>Mon, 13 Jul 2026 06:19:47 +0000</pubDate>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1783673167_0_10_magazin_emoji_pexels_jul_10.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1783673167_0_10_magazin_emoji_pexels_jul_10.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
