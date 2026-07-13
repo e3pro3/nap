@@ -5,9 +5,20 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Mon, 13 Jul 2026 19:23:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 21:56:52 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Maszol] Egy századpont döntött közöttük – Egy osztályból került ki Hargita megye két legjobb érettségizője</title>
+      <link>https://maszol.ro/belfold/Egy-szazadpont-dontott-kozottuk-Egy-osztalybol-kerult-ki-Hargita-megye-ket-legjobb-erettsegizoje</link>
+      <guid isPermaLink="true">https://maszol.ro/belfold/Egy-szazadpont-dontott-kozottuk-Egy-osztalybol-kerult-ki-Hargita-megye-ket-legjobb-erettsegizoje</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_Julius/08/cikksmall_csikszereda_marton_aron_gimnazium_ga-31.jpg" /><br/>Egy századpont döntött közöttük – Egy osztályból került ki Hargita megye két legjobb érettségizője]]></description>
+      <pubDate>Mon, 13 Jul 2026 21:56:48 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_Julius/08/cikksmall_csikszereda_marton_aron_gimnazium_ga-31.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_Julius/08/cikksmall_csikszereda_marton_aron_gimnazium_ga-31.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Kaszálókaláka Bakalján</title>
       <link>https://hargitanepe.ro/kaszalokalaka-bakaljan-2026-07-13</link>
@@ -436,17 +447,6 @@
       <author>Hargita Népe</author>
       <media:content url="https://hargitanepe.ro/images/data/423x222/1783920634_0_0712_focivbhez2.jpg" medium="image"/>
       <enclosure url="https://hargitanepe.ro/images/data/423x222/1783920634_0_0712_focivbhez2.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Négy igazolással erősített a VSK Székelyudvarhely</title>
-      <link>https://hargitanepe.ro/vegleges-a-keret-2026-07-13</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/vegleges-a-keret-2026-07-13</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1783922400_0_0712_kezilabdahoz.jpg" /><br/>Négy igazolással erősített a VSK Székelyudvarhely]]></description>
-      <pubDate>Mon, 13 Jul 2026 11:48:23 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1783922400_0_0712_kezilabdahoz.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1783922400_0_0712_kezilabdahoz.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
