@@ -5,9 +5,31 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Mon, 13 Jul 2026 21:56:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 02:30:14 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Mikorrhizált mogyorócsemete-ültetvény Csíkmadarason</title>
+      <link>https://hargitanepe.ro/medve-ellen-szarvasgomba</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/medve-ellen-szarvasgomba</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1780994840_0_agrar_mogyoro_lfcs-3-_web.jpg" /><br/>Mikorrhizált mogyorócsemete-ültetvény Csíkmadarason]]></description>
+      <pubDate>Tue, 14 Jul 2026 02:30:14 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1780994840_0_agrar_mogyoro_lfcs-3-_web.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1780994840_0_agrar_mogyoro_lfcs-3-_web.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Megyei agrárstatisztika: tovább zsugorodik a burgonya termőterülete</title>
+      <link>https://hargitanepe.ro/jol-lathatoan-atrendezodik-a-vetesszerkezet</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/jol-lathatoan-atrendezodik-a-vetesszerkezet</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1783422663_0_1_agrar_buza_pityoka_csikszentimre_lfcs-4-.jpg" /><br/>Megyei agrárstatisztika: tovább zsugorodik a burgonya termőterülete]]></description>
+      <pubDate>Tue, 14 Jul 2026 02:30:14 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1783422663_0_1_agrar_buza_pityoka_csikszentimre_lfcs-4-.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1783422663_0_1_agrar_buza_pityoka_csikszentimre_lfcs-4-.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Maszol] Egy századpont döntött közöttük – Egy osztályból került ki Hargita megye két legjobb érettségizője</title>
       <link>https://maszol.ro/belfold/Egy-szazadpont-dontott-kozottuk-Egy-osztalybol-kerult-ki-Hargita-megye-ket-legjobb-erettsegizoje</link>
@@ -425,28 +447,6 @@
       <author>Hargita Népe</author>
       <media:content url="https://hargitanepe.ro/images/data/423x222/1781861070_0_1.jpg" medium="image"/>
       <enclosure url="https://hargitanepe.ro/images/data/423x222/1781861070_0_1.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Nemzetközi sikertörténet lett az oltszemi lovas fogathajtóverseny</title>
-      <link>https://maszol.ro/belfold/Nemzetkozi-sikertortenet-lett-az-oltszemi-lovas-fogathajtoverseny</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Nemzetkozi-sikertortenet-lett-az-oltszemi-lovas-fogathajtoverseny</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_Julius/13/cikk_20260713_foto_CsulakZoltan_fogathajtoverseny4.jpg" /><br/>Nemzetközi sikertörténet lett az oltszemi lovas fogathajtóverseny]]></description>
-      <pubDate>Mon, 13 Jul 2026 12:06:12 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_Julius/13/cikk_20260713_foto_CsulakZoltan_fogathajtoverseny4.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_Julius/13/cikk_20260713_foto_CsulakZoltan_fogathajtoverseny4.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] A világranglista legjobbjai csapnak össze</title>
-      <link>https://hargitanepe.ro/alomelodontok-2026-07-13</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/alomelodontok-2026-07-13</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1783920634_0_0712_focivbhez2.jpg" /><br/>A világranglista legjobbjai csapnak össze]]></description>
-      <pubDate>Mon, 13 Jul 2026 11:48:23 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1783920634_0_0712_focivbhez2.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1783920634_0_0712_focivbhez2.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
