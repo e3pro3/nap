@@ -1,5 +1,77 @@
 [
   {
+    "title": "[Hargita Népe] Egyénileg készülnek a szezonra",
+    "link": "https://hargitanepe.ro/teljes-a-sapientia-kerete-2026-07-15",
+    "description": "Egyénileg készülnek a szezonra",
+    "image": "https://hargitanepe.ro/images/data/423x222/1784095990_0_hoki_sapi.jpg",
+    "published": "2026-07-15T10:49:59.592034+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] A spanyolok 16 év után döntőzhetnek",
+    "link": "https://hargitanepe.ro/a-spanyolok-16-ev-utan-dontozhetneka-spanyolok-16-ev-utan-dontozhetnek-2026-07-15",
+    "description": "Az Európa-bajnok Spanyolország 2–0-ra legyőzte Franciaországot a labdarúgó-világbajnokság dallasi elődöntőjében, így 2010 után ismét bejutott a torna fináléjába. Luis de la Fuente csapata taktikai szempontból szinte tökéletes mérkőzést játszott, a franciák pedig sokáig helyzetig sem jutottak.",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1784106647_0_foci_vb_0715_FIFA.jpg",
+    "published": "2026-07-15T10:49:59.591939+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Blöff",
+    "link": "https://hargitanepe.ro/bloff-2026-07-14",
+    "description": "Blöff",
+    "image": "https://hargitanepe.ro/images/data/423x222/1784013058_0_szekeres_amnezia.jpg",
+    "published": "2026-07-15T10:49:59.591745+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Baltás gyilkosság Szeben megyében",
+    "link": "https://hargitanepe.ro/baltas-gyilkossag-szeben-megyeben-2026-07-15",
+    "description": "Baltás gyilkosság Szeben megyében",
+    "image": "https://hargitanepe.ro/images/data/423x222/1784093235_0_Gurago_gyilkossag_illu_HI1_web.jpg",
+    "published": "2026-07-15T10:49:59.591628+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] A UIET Erasmus+ projektje körüli botrány miatt",
+    "link": "https://hargitanepe.ro/hirek/udvarhelyszek/tornai-szilard-utan-pal-boglarka-is-bejelentette-lemondasat",
+    "description": "A UIET Erasmus+ projektje körüli botrány miatt",
+    "image": "https://hargitanepe.ro/images/data/423x222/1784102773_0_palboglarka_hi01.jpg",
+    "published": "2026-07-15T10:49:59.591313+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Tovább csúszik a szentimrei kultúrház korszerűsítése",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/egyre-jobban-szorit-a-hatarido-2026-07-15",
+    "description": "Tovább csúszik a szentimrei kultúrház korszerűsítése",
+    "image": "https://hargitanepe.ro/images/data/423x222/1784095584_0_csiksztimre_kulturotthon_adrcentru1_web.jpg",
+    "published": "2026-07-15T10:49:59.591172+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Építkezési engedély az Alfalu–Ditró szakaszra",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/zold-jelzes-a-sztradanak-2026-07-15",
+    "description": "Építkezési engedély az Alfalu–Ditró szakaszra",
+    "image": "https://hargitanepe.ro/images/data/423x222/1784098067_0_gyergyo_autopalya_cnir_web.jpg",
+    "published": "2026-07-15T10:49:59.591055+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Egyénileg készülnek a szezonra",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/teljes-a-sapientia-kerete-2026-07-15",
+    "description": "Nem tétlenkedik a Sapientia U23-as jégkorongcsapata sem, ami a nyári felkészülést illeti. A keret túl van egy közös felkészülésen, ám jelenleg egyénileg készülnek a sportolók. Vannak érkezők és távozók is.",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1784095990_0_hoki_sapi.jpg",
+    "published": "2026-07-15T10:49:59.590962+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] Sóbányában küzdöttek",
     "link": "https://hargitanepe.ro/sobanyaban-kuzdottek-2026-07-15",
     "description": "Sóbányában küzdöttek",
@@ -1310,141 +1382,6 @@
     "description": "Zajlik az engedélyeztetés és tervek készülnek a maroshévízi Urmánczy híd újraépítéséért. A több mint 150 éves építmény összeomlását követően önkormányzati döntés született arról, hogy újraépítik azt, de legkorábban a jövő évi költségvetésbe tudják belefoglalni ennek költségét.",
     "image": "https://hargitanepe.ro/images/data/1200x630/1783669606_0_gyergyo_urmanczyfedeleshid_archiv_bszsz_web.jpg",
     "published": "2026-07-10T14:41:55.951220+00:00",
-    "author": "Hargita Népe",
-    "category": ""
-  },
-  {
-    "title": "Ma utaznak haza a csíki focisok az edzőtáborból",
-    "link": "https://hargitanepe.ro/osztrak-es-horvat-csapat-ellen-jatszott-az-fk-csikszereda",
-    "description": "Ma utaznak haza a csíki focisok az edzőtáborból",
-    "image": "https://hargitanepe.ro/images/data/423x222/1783626559_0_foci_nklavenbelupo.jpg",
-    "published": "2026-07-10T08:52:38.290202+00:00",
-    "author": "Hargita Népe",
-    "category": ""
-  },
-  {
-    "title": "Mit nézzünk a tévében?",
-    "link": "https://hargitanepe.ro/2026-07-10-mit-nezzunk-a-teveben",
-    "description": "Mit nézzünk a tévében?",
-    "image": "https://hargitanepe.ro/images/data/423x222/1675756532_sportkozv.jpg",
-    "published": "2026-07-10T08:52:38.290145+00:00",
-    "author": "Hargita Népe",
-    "category": ""
-  },
-  {
-    "title": "Külön utakon folytatják a Góbék a versenyzést",
-    "link": "https://hargitanepe.ro/kulon-utakon-folytatjak-a-gobek-a-versenyzest",
-    "description": "A monacói történelmi mérföldköveket maguk mögött hagyva, Györgydeák Apor 100. és Barabási Kinga 50. tornagyőzelmét követően, a Góbék Teqball Team játékosai a soron következő hétvégén egyszerre két helyszínen, Spanyolországban és Montenegróban állnak asztalhoz, így külön úton folytatják minden eddiginél eredményesebb idényüket.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1783664763_0_teqball_ertekeles_0706_KZ.jpg",
-    "published": "2026-07-10T08:52:38.290075+00:00",
-    "author": "Hargita Népe",
-    "category": ""
-  },
-  {
-    "title": "Van tanintézet, ahol mindenkinek, és van, ahol senkinek sem sikerült az érettségije",
-    "link": "https://hargitanepe.ro/jobban-teljesitettek-a-varosi-kozepiskolak",
-    "description": "Van tanintézet, ahol mindenkinek, és van, ahol senkinek sem sikerült az érettségije",
-    "image": "https://hargitanepe.ro/images/data/423x222/1783579650_0_03_erettsegi2025_vn_014_cm.jpg",
-    "published": "2026-07-10T08:52:38.289902+00:00",
-    "author": "Hargita Népe",
-    "category": ""
-  },
-  {
-    "title": "Mofettagáz szivárog Szejkefürdőn",
-    "link": "https://hargitanepe.ro/mofettagaz-szivarog-szejkefurdon",
-    "description": "Mofettagáz szivárog Szejkefürdőn",
-    "image": "https://hargitanepe.ro/images/data/423x222/1783580734_0_mofettagazszivargas_szekelyudvarhelyipolghiv_01_web.jpg",
-    "published": "2026-07-10T08:52:38.289843+00:00",
-    "author": "Hargita Népe",
-    "category": ""
-  },
-  {
-    "title": "Székely Konyha és Kert",
-    "link": "https://hargitanepe.ro/ribizlis-morzsasutemeny",
-    "description": "Székely Konyha és Kert",
-    "image": "https://hargitanepe.ro/images/data/423x222/1783582207_0_NIK_4031.jpg",
-    "published": "2026-07-10T08:52:38.289781+00:00",
-    "author": "Hargita Népe",
-    "category": ""
-  },
-  {
-    "title": "A Sétatér végéből a Riverside parkolóba",
-    "link": "https://hargitanepe.ro/uj-helyszinrol-indulnak-a-vizsgazo-soforiskolazok-szekelyudvarhelyen",
-    "description": "A Sétatér végéből a Riverside parkolóba",
-    "image": "https://hargitanepe.ro/assets/img/gallery-tag.svg",
-    "published": "2026-07-10T08:52:38.289722+00:00",
-    "author": "Hargita Népe",
-    "category": ""
-  },
-  {
-    "title": "Változás a Mathias Corvinus Collegiumnál",
-    "link": "https://hargitanepe.ro/atalakul-de-nem-szunik-meg",
-    "description": "Változás a Mathias Corvinus Collegiumnál",
-    "image": "https://hargitanepe.ro/images/data/423x222/1783583116_0_mcc_csik_lfcs-5-_web.jpg",
-    "published": "2026-07-10T08:52:38.289659+00:00",
-    "author": "Hargita Népe",
-    "category": ""
-  },
-  {
-    "title": "Panelproli",
-    "link": "https://hargitanepe.ro/vicc-elozmenyekkel",
-    "description": "Panelproli",
-    "image": "https://hargitanepe.ro/images/data/423x222/1747219784_bloff_webre.jpg",
-    "published": "2026-07-10T08:52:38.289595+00:00",
-    "author": "Hargita Népe",
-    "category": ""
-  },
-  {
-    "title": "Ma utaznak haza a csíki focisok az edzőtáborból",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/osztrak-es-horvat-csapat-ellen-jatszott-az-fk-csikszereda",
-    "description": "Ma utaznak haza a csíki focisok az edzőtáborból",
-    "image": "https://hargitanepe.ro/images/data/423x222/1783626559_0_foci_nklavenbelupo.jpg",
-    "published": "2026-07-10T08:52:38.289360+00:00",
-    "author": "Hargita Népe",
-    "category": ""
-  },
-  {
-    "title": "Árvízvédelmi beruházás",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/jo-utemben-halad-a-suta-to-rehabilitacioja",
-    "description": "Árvízvédelmi beruházás",
-    "image": "https://hargitanepe.ro/images/data/423x222/1783626920_0_02_suta",
-    "published": "2026-07-10T08:52:38.289291+00:00",
-    "author": "Hargita Népe",
-    "category": ""
-  },
-  {
-    "title": "Történelmi mérföldköveket értek el a teqballosok",
-    "link": "https://hargitanepe.ro/hirek/sport/kulon-utakon-folytatjak-a-gobek-a-versenyzest",
-    "description": "Történelmi mérföldköveket értek el a teqballosok",
-    "image": "https://hargitanepe.ro/images/data/423x222/1783664763_0_teqball_ertekeles_0706_KZ.jpg",
-    "published": "2026-07-10T08:52:38.289146+00:00",
-    "author": "Hargita Népe",
-    "category": ""
-  },
-  {
-    "title": "Elektronikusan írt alá szerződést a CNIR",
-    "link": "https://hargitanepe.ro/hirek/friss/halad-az-a8-as-autopalya-elokeszitese",
-    "description": "Elektronikusan írt alá szerződést a CNIR",
-    "image": "https://hargitanepe.ro/images/data/423x222/1783666285_0_a8autopalya_cnir_web.jpg",
-    "published": "2026-07-10T08:52:38.289071+00:00",
-    "author": "Hargita Népe",
-    "category": ""
-  },
-  {
-    "title": "Városfejlesztési lépés Csíkszeredában",
-    "link": "https://hargitanepe.ro/hirek/csikszek/uj-lakoovezet-a-nagy-laji-dombjan",
-    "description": "Városfejlesztési lépés Csíkszeredában",
-    "image": "https://hargitanepe.ro/images/data/423x222/1777030878_0_varosi",
-    "published": "2026-07-10T08:52:38.288971+00:00",
-    "author": "Hargita Népe",
-    "category": ""
-  },
-  {
-    "title": "Eltérő érdekek, változó prioritás",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/ellenzik-a-parajdiak-a-kobanyanyitast-a-bucsinon",
-    "description": "Információink szerint egy ud­var­helyszéki cég kő­bányát nyitna Parajd község közelében, állítólag olyan célból, hogy az épülő autópályához tudjon nyersanyagot biztosítani. A helyi vállalkozói szervezet és a bányaka­taszt­rófát követően meg­alakult Turisztikai Desz­ti­náció Menedzsment (TDM) tömörülés vi­szont határozottan ellenzi a tervet.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1783664404_2_banyak_hi03_illusztracio_archiv_web.jpg",
-    "published": "2026-07-10T08:52:38.288882+00:00",
     "author": "Hargita Népe",
     "category": ""
   }
