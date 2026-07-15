@@ -5,9 +5,53 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Wed, 15 Jul 2026 19:11:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 22:00:36 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Július 16. a mesterséges intelligencia világnapja</title>
+      <link>https://hargitanepe.ro/hirek/szines/unnep-vagy-figyelmeztetes-2026-07-15</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/hirek/szines/unnep-vagy-figyelmeztetes-2026-07-15</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1784099705_2_9_magazin_ai_generalt3_jul_15.jpg" /><br/>Július 16. a mesterséges intelligencia világnapja]]></description>
+      <pubDate>Wed, 15 Jul 2026 22:00:36 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1784099705_2_9_magazin_ai_generalt3_jul_15.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1784099705_2_9_magazin_ai_generalt3_jul_15.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Zsírok, rostok és mikrotápanyagok</title>
+      <link>https://hargitanepe.ro/hirek/szines/apro-magvak-nagy-hatas-2026-07-15</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/hirek/szines/apro-magvak-nagy-hatas-2026-07-15</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1784099332_0_9_magazin_fent_magok_magnific1_jul_15.jpg" /><br/>Zsírok, rostok és mikrotápanyagok]]></description>
+      <pubDate>Wed, 15 Jul 2026 22:00:36 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1784099332_0_9_magazin_fent_magok_magnific1_jul_15.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1784099332_0_9_magazin_fent_magok_magnific1_jul_15.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Villámárvíz Székelyvarságon</title>
+      <link>https://hargitanepe.ro/hirek/kiemelt/elmosta-az-utat-leszakitotta-a-vezetekeket-a-viz</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/hirek/kiemelt/elmosta-az-utat-leszakitotta-a-vezetekeket-a-viz</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/1200x630/1784129596_0_varsag_nandi.jpeg" /><br/>Villámárvíz Székelyvarságon]]></description>
+      <pubDate>Wed, 15 Jul 2026 22:00:36 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/1200x630/1784129596_0_varsag_nandi.jpeg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/1200x630/1784129596_0_varsag_nandi.jpeg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Foci-vb: Argentína legyőzte Angliát, készülhet a spanyolok elleni döntőre</title>
+      <link>https://maszol.ro/sport/Foci-vb-Argentina-legyozte-Angliat-keszulhet-a-spanyolok-elleni-dontore</link>
+      <guid isPermaLink="true">https://maszol.ro/sport/Foci-vb-Argentina-legyozte-Angliat-keszulhet-a-spanyolok-elleni-dontore</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_Julius/15/cikk_lautaro_argentina_labdarugas_vilagbajnoksag_260715_agerpres_epa_LAPS.jpg" /><br/>A címvédő Argentína a hajrában fordítva 2-1-re legyőzte Anglia válogatottját a labdarúgó-világbajnokság elődöntőjében.]]></description>
+      <pubDate>Wed, 15 Jul 2026 22:00:34 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_Julius/15/cikk_lautaro_argentina_labdarugas_vilagbajnoksag_260715_agerpres_epa_LAPS.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_Julius/15/cikk_lautaro_argentina_labdarugas_vilagbajnoksag_260715_agerpres_epa_LAPS.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Egy ház, ami visszahívja az embert önmagához</title>
       <link>https://hargitanepe.ro/mesebeli-otthon-az-orhegy-alatt-2026-06-16</link>
@@ -403,50 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_Julius/15/cikksmall_WhatsApp_Image_2026-07-15_at_15-31-23.jpg" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_Julius/15/cikksmall_WhatsApp_Image_2026-07-15_at_15-31-23.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Bolojan: a PNRR-hez kapcsolódó törvényeknek Brüsszelnek is meg kell felelniük</title>
-      <link>https://maszol.ro/belfold/Bolojan-a-PNRR-hez-kapcsolodo-torvenyeknek-Brusszelnek-is-meg-kell-felelniuk</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Bolojan-a-PNRR-hez-kapcsolodo-torvenyeknek-Brusszelnek-is-meg-kell-felelniuk</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_Julius/15/cikksmall_Ilie_Bolojan_260219_pnl_fb.jpg" /><br/>Bolojan: a PNRR-hez kapcsolódó törvényeknek Brüsszelnek is meg kell felelniük]]></description>
-      <pubDate>Wed, 15 Jul 2026 16:22:00 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_Julius/15/cikksmall_Ilie_Bolojan_260219_pnl_fb.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_Julius/15/cikksmall_Ilie_Bolojan_260219_pnl_fb.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Raluca Turcan rosszalja a DIICOT gunyoros megjegyzését</title>
-      <link>https://maszol.ro/belfold/Raluca-Turcan-rosszalja-a-DIICOT-gunyoros-megjegyzeset</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Raluca-Turcan-rosszalja-a-DIICOT-gunyoros-megjegyzeset</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_Julius/15/cikksmall_razzia-diicot_(1).jpg" /><br/>Raluca Turcan rosszalja a DIICOT gunyoros megjegyzését]]></description>
-      <pubDate>Wed, 15 Jul 2026 16:22:00 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_Julius/15/cikksmall_razzia-diicot_(1).jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_Julius/15/cikksmall_razzia-diicot_(1).jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Az ajánlott szint alatt maradt a gyermekek átoltottsága Romániában</title>
-      <link>https://maszol.ro/belfold/Az-ajanlott-szint-alatt-maradt-a-gyermekek-atoltottsaga-Romaniaban</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Az-ajanlott-szint-alatt-maradt-a-gyermekek-atoltottsaga-Romaniaban</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_Julius/15/cikksmall_pexels-polina-tankilevitch-5234490.jpg" /><br/>Az ajánlott szint alatt maradt a gyermekek átoltottsága Romániában]]></description>
-      <pubDate>Wed, 15 Jul 2026 16:22:00 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_Julius/15/cikksmall_pexels-polina-tankilevitch-5234490.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_Julius/15/cikksmall_pexels-polina-tankilevitch-5234490.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Üzenet a csíksomlyói kegytemplom toronygombjából</title>
-      <link>https://hargitanepe.ro/nyolcvanot-evvel-ezelott-elrejtett-idokapszulakat-nyitottak-fel-2026-07-15</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/nyolcvanot-evvel-ezelott-elrejtett-idokapszulakat-nyitottak-fel-2026-07-15</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1784094895_7_csiksomlyoiidokapszula_biroistvan" /><br/>Üzenet a csíksomlyói kegytemplom toronygombjából]]></description>
-      <pubDate>Wed, 15 Jul 2026 13:43:58 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1784094895_7_csiksomlyoiidokapszula_biroistvan" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1784094895_7_csiksomlyoiidokapszula_biroistvan" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
