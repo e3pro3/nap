@@ -5,9 +5,31 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Thu, 16 Jul 2026 19:10:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 22:04:03 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Vízhiánnyal küzd az agrárium</title>
+      <link>https://hargitanepe.ro/megallithatatlanul-szarad-ki-a-csiki-medence</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/megallithatatlanul-szarad-ki-a-csiki-medence</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1782290629_0__2_3_vizek_olt_vizgazdalkodas_dronfoto_lfcs.jpg" /><br/>Vízhiánnyal küzd az agrárium]]></description>
+      <pubDate>Thu, 16 Jul 2026 22:04:03 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1782290629_0__2_3_vizek_olt_vizgazdalkodas_dronfoto_lfcs.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1782290629_0__2_3_vizek_olt_vizgazdalkodas_dronfoto_lfcs.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Központi Fejlesztési Régió:</title>
+      <link>https://hargitanepe.ro/tejfeldolgozasban-kiemelt-helyen</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/tejfeldolgozasban-kiemelt-helyen</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1783423560_0_4_tejfeldolgozas_hi01.jpg" /><br/>Központi Fejlesztési Régió:]]></description>
+      <pubDate>Thu, 16 Jul 2026 22:04:03 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1783423560_0_4_tejfeldolgozas_hi01.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1783423560_0_4_tejfeldolgozas_hi01.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Új látogatói rend a Szent Anna-tónál</title>
       <link>https://hargitanepe.ro/szemelyi-jegy-valtja-fel-az-autos-belepot-2026-07-16</link>
@@ -425,28 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_Julius/16/cikk_udv-loci-szenatori-beszamolo3.jpg" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_Julius/16/cikk_udv-loci-szenatori-beszamolo3.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Új fejezet kezdődik a Sepsi OSK történetében – A Szuperligában való bennmaradás a cél</title>
-      <link>https://maszol.ro/sport/Uj-fejezet-kezdodik-a-Sepsi-OSK-torteneteben-A-Szuperligaban-valo-bennmaradas-a-cel</link>
-      <guid isPermaLink="true">https://maszol.ro/sport/Uj-fejezet-kezdodik-a-Sepsi-OSK-torteneteben-A-Szuperligaban-valo-bennmaradas-a-cel</guid>
-      <description><![CDATA[<img src="https://maszol.ro/uploads/2026_Julius/16/sepsi.jpg" /><br/>Új fejezet kezdődik a Sepsi OSK történetében – A Szuperligában való bennmaradás a cél]]></description>
-      <pubDate>Thu, 16 Jul 2026 13:50:30 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/uploads/2026_Julius/16/sepsi.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/uploads/2026_Julius/16/sepsi.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Adományok, összefogás által</title>
-      <link>https://hargitanepe.ro/hirek/kiemelt/fogyatekkal-eloknek-epitene-otthont-a-caritas-szekelyudvarhelyen-2026-07-16</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/hirek/kiemelt/fogyatekkal-eloknek-epitene-otthont-a-caritas-szekelyudvarhelyen-2026-07-16</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1784181854_0_lakootthon_caritas_fotocaritas_web.jpg" /><br/>Adományok, összefogás által]]></description>
-      <pubDate>Thu, 16 Jul 2026 11:00:19 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1784181854_0_lakootthon_caritas_fotocaritas_web.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1784181854_0_lakootthon_caritas_fotocaritas_web.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
