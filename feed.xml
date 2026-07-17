@@ -5,9 +5,31 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Fri, 17 Jul 2026 19:09:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 21:54:06 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Nehéz helyzetbe hozza a juhtenyésztőket az országot sújtó exporttilalom</title>
+      <link>https://hargitanepe.ro/nehez-helyzetbe-hozza-a-juhtenyesztoket-az-orszagot-sujto-exporttilalom</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/nehez-helyzetbe-hozza-a-juhtenyesztoket-az-orszagot-sujto-exporttilalom</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/1200x630/1783424023_0_IMG_7177.jpg" /><br/>Miközben az EU-tagállamokba irányuló szállítási tilalom változatlanul érvényes, az Európai Bizottság döntése értelmében december 31-ig Románia teljes területéről megtiltották a juhok és kecskék exportját harmadik országba, vagyis az unión kívülre. A szigorú korlátozást egy Maros megyében felbukkant pes­tisjárványgóc indokolta. A korlátozás tehát jelenleg a teljes hazai ágazatra bénítóan hat, miközben a román agrárminisztérium aligha tehet többet annál, mint hogy aránytalannak tartja a döntést. A válsághelyzet gazdasági hatásait Bajkó Zoltán állattenyésztő mérnökkel, a Székely Gazdaszervezetek Egyesületének (SZGE) falugazdászával elemeztük.]]></description>
+      <pubDate>Fri, 17 Jul 2026 21:54:06 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/1200x630/1783424023_0_IMG_7177.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/1200x630/1783424023_0_IMG_7177.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Gödrökben tárolt, több tonnányi káposztát foglaltak le és semmisítettek meg a hatóságok</title>
+      <link>https://maszol.ro/belfold/Godrokben-tarolt-tobb-tonnanyi-kaposztat-foglaltak-le-es-semmisitettek-meg-a-hatosagok</link>
+      <guid isPermaLink="true">https://maszol.ro/belfold/Godrokben-tarolt-tobb-tonnanyi-kaposztat-foglaltak-le-es-semmisitettek-meg-a-hatosagok</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_Julius/12/cikksmall_742301120_1524051852753196_5475548537627702161_n.jpg" /><br/>Gödrökben tárolt, több tonnányi káposztát foglaltak le és semmisítettek meg a hatóságok]]></description>
+      <pubDate>Fri, 17 Jul 2026 21:54:03 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_Julius/12/cikksmall_742301120_1524051852753196_5475548537627702161_n.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_Julius/12/cikksmall_742301120_1524051852753196_5475548537627702161_n.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Dobrudzsai gyöngyszemek</title>
       <link>https://hargitanepe.ro/hirek/kiemelt/osi-hegyek-osi-varak-a-ven-duna-es-a-tenger-2026-07-16</link>
@@ -425,28 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_Julius/17/cikksmall_tankhajo_Pixabay.jpg" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_Julius/17/cikksmall_tankhajo_Pixabay.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Kataszteri hivatal hackertámadása: nagyobb a baj, mint amit bevallanak?</title>
-      <link>https://maszol.ro/belfold/Kataszteri-hivatal-hackertamadasa-nagyobb-a-baj-mint-amit-bevallanak</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Kataszteri-hivatal-hackertamadasa-nagyobb-a-baj-mint-amit-bevallanak</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_Julius/17/cikk_hacker01.jpg" /><br/>Kataszteri hivatal hackertámadása: nagyobb a baj, mint amit bevallanak?]]></description>
-      <pubDate>Fri, 17 Jul 2026 13:28:47 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_Julius/17/cikk_hacker01.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_Julius/17/cikk_hacker01.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Behúzták a kéziféket a családok – „A nyaralást el lehet halasztani, de a vacsorát nem”</title>
-      <link>https://maszol.ro/gazdasag/Behuztak-a-kezifeket-a-csaladok-A-nyaralast-el-lehet-halasztani-de-a-vacsorat-nem</link>
-      <guid isPermaLink="true">https://maszol.ro/gazdasag/Behuztak-a-kezifeket-a-csaladok-A-nyaralast-el-lehet-halasztani-de-a-vacsorat-nem</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_Julius/16/cikk_inflacio_gazdasag_AdobeStock.jpg" /><br/>Behúzták a kéziféket a családok – „A nyaralást el lehet halasztani, de a vacsorát nem”]]></description>
-      <pubDate>Fri, 17 Jul 2026 13:28:47 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_Julius/16/cikk_inflacio_gazdasag_AdobeStock.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_Julius/16/cikk_inflacio_gazdasag_AdobeStock.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
