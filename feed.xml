@@ -5,9 +5,20 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Thu, 16 Jul 2026 22:04:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 02:38:49 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] SAJTÓKÖZLEMÉNY</title>
+      <link>https://hargitanepe.ro/hirek/csikszek/pnrr-penzeszkozok-a-modern-es-megujult-romaniaert-2026-07-16</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/hirek/csikszek/pnrr-penzeszkozok-a-modern-es-megujult-romaniaert-2026-07-16</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1784193944_0_PNRR_Sajtóközlemény" /><br/>SAJTÓKÖZLEMÉNY]]></description>
+      <pubDate>Fri, 17 Jul 2026 02:38:49 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1784193944_0_PNRR_Sajtóközlemény" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1784193944_0_PNRR_Sajtóközlemény" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Vízhiánnyal küzd az agrárium</title>
       <link>https://hargitanepe.ro/megallithatatlanul-szarad-ki-a-csiki-medence</link>
@@ -436,17 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_Julius/16/cikksmall_turista_pexels_(1).jpg" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_Julius/16/cikksmall_turista_pexels_(1).jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Antal Lóránt: Parajd és Sóvidék támogatása továbbra is kiemelt feladat</title>
-      <link>https://maszol.ro/belfold/Antal-Lorant-Parajd-es-Sovidek-tamogatasa-tovabbra-is-kiemelt-feladat</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Antal-Lorant-Parajd-es-Sovidek-tamogatasa-tovabbra-is-kiemelt-feladat</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_Julius/16/cikk_udv-loci-szenatori-beszamolo3.jpg" /><br/>A parlament tavaszi ülésszakának eredményeiről, az energiaügyi törvénykezésről, az udvarhelyszéki beruházásokról és a parajdi helyreállítás állásáról számolt be.]]></description>
-      <pubDate>Thu, 16 Jul 2026 13:50:30 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_Julius/16/cikk_udv-loci-szenatori-beszamolo3.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_Julius/16/cikk_udv-loci-szenatori-beszamolo3.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
