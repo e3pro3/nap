@@ -1,5 +1,14 @@
 [
   {
+    "title": "[Hargita Népe] Hétköznapi pszichológia",
+    "link": "https://hargitanepe.ro/hirek/hargita-kalendarium/kettesben-tobbesben",
+    "description": "Hétköznapi pszichológia",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1783497335_0_2.jpg",
+    "published": "2026-07-19T15:58:14.894681+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] Arany Díj",
     "link": "https://hargitanepe.ro/arany-minositest-szerzett-pekingben-a-csikszentsimoni-ifjusagi-fuvoszenekar",
     "description": "Arany Díj",
@@ -1409,60 +1418,6 @@
     "description": "AZ EMBER TRAGÉDIA",
     "image": "https://hargitanepe.ro/images/data/1200x630/1747219784_bloff_webre.jpg",
     "published": "2026-07-14T16:15:03.090881+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] A jégkorong és cselgáncs a két népesebb szakosztály",
-    "link": "https://hargitanepe.ro/a-jegkorong-es-cselgancs-a-ket-nepesebb-szakosztaly-2026-07-14",
-    "description": "Tavaly is az utánpótlás-nevelés volt az egyik legfontosabb célkitűzése a Csíkszeredai Sportklubnak – hangzott el a legutóbbi prefektusi kollégiumi ülésen.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1784010091_0_preffkoll_csekeszilard_lfcs-2-_web.jpg",
-    "published": "2026-07-14T13:43:31.185019+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Zajlik a középiskolai felvételi „kódolásos” szakasza",
-    "link": "https://hargitanepe.ro/zajlik-a-kozepiskolai-felveteli-kodolasos-szakasza-2026-07-14",
-    "description": "Zajlik a középiskolai felvételi „kódolásos” szakasza",
-    "image": "https://hargitanepe.ro/assets/img/gallery-tag.svg",
-    "published": "2026-07-14T13:43:31.184784+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Húsz személyt evakuáltak",
-    "link": "https://hargitanepe.ro/tuz-utott-ki-egy-fuggetlenseg-utcai-tombhazlakasban",
-    "description": "Húsz személyt evakuáltak",
-    "image": "https://hargitanepe.ro/images/data/423x222/1784009090_0_tuz_udv_isu_vagott.jpg",
-    "published": "2026-07-14T13:43:31.184668+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Az Erasmus+ projekt kapcsán kialakult helyzet miatt",
-    "link": "https://hargitanepe.ro/hirek/udvarhelyszek/lemondott-kepviseloi-mandatumarol-tornai-szilard-uiet-elnok",
-    "description": "Az Erasmus+ projekt kapcsán kialakult helyzet miatt",
-    "image": "https://hargitanepe.ro/images/data/423x222/1784021538_0_tornai_jo.jpg",
-    "published": "2026-07-14T13:43:31.184408+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Utánpótlás a Csíkszeredai Sportklubnál",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/a-jegkorong-es-cselgancs-a-ket-nepesebb-szakosztaly-2026-07-14",
-    "description": "Utánpótlás a Csíkszeredai Sportklubnál",
-    "image": "https://hargitanepe.ro/images/data/423x222/1784010091_0_preffkoll_csekeszilard_lfcs-2-_web.jpg",
-    "published": "2026-07-14T13:43:31.184321+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Művésztáborok Gyergyószárhegyen",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/ido-az-elmelyulesre-2026-07-14",
-    "description": "Művésztáborok Gyergyószárhegyen",
-    "image": "https://hargitanepe.ro/images/data/423x222/1784010322_1_gyergyo_szarhegyimuvesztelep2_lenarttamas_web.jpg",
-    "published": "2026-07-14T13:43:31.184212+00:00",
     "author": "Hargita Népe",
     "category": "Hargita Népe"
   }
