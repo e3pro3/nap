@@ -1,5 +1,77 @@
 [
   {
+    "title": "[Hargita Népe] A második idényét kezdi meg az élvonalban az FK",
+    "link": "https://hargitanepe.ro/a-cel-nem-valtozott-maradni-a-szuperligaban-2026-07-20",
+    "description": "A második idényét kezdi meg az élvonalban az FK",
+    "image": "https://hargitanepe.ro/images/data/423x222/1784525749_0_FK_1.jpg",
+    "published": "2026-07-20T11:45:20.592467+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Galac megingott, Déva kiszállt, Marosvásárhely erősített",
+    "link": "https://hargitanepe.ro/atrendezodott-a-mezony-2026-07-20",
+    "description": "Galac megingott, Déva kiszállt, Marosvásárhely erősített",
+    "image": "https://hargitanepe.ro/images/data/423x222/1784526527_0_futsal_korkep_0719_HI2.jpg",
+    "published": "2026-07-20T11:45:20.592332+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Ferran Torres gólja döntött – Spanyolország a világbajnok",
+    "link": "https://hargitanepe.ro/ferran-torres-golja-dontott-spanyolorszag-a-vilagbajnok",
+    "description": "Spanyolország hosszabbításban szerzett góllal 1–0-ra legyőzte Argentínát a 2026-os észak-amerikai világbajnokság döntőjében vasárnap, így története során másodszor hódította el a trófeát.",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1784528195_0_Spain-v-Argentina-Final-FIFA-World-Cup-2026.jpg",
+    "published": "2026-07-20T11:45:20.592252+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Trendi és praktikus egyszerre",
+    "link": "https://hargitanepe.ro/nepszeru-kiegeszitok-a-vizparton-2026-07-16",
+    "description": "Trendi és praktikus egyszerre",
+    "image": "https://hargitanepe.ro/images/data/423x222/1784230052_0_budoar_magnific_web.jpg",
+    "published": "2026-07-20T11:45:20.592059+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Révbe érő madéfalvi beruházások",
+    "link": "https://hargitanepe.ro/hirek/hargita-megye/hamarosan-elkeszul-az-aszfaltut-2026-07-20",
+    "description": "Révbe érő madéfalvi beruházások",
+    "image": "https://hargitanepe.ro/images/data/423x222/1784525224_0_madefalvaaszfaltozas_madefalvakozsegFB_web.jpg",
+    "published": "2026-07-20T11:45:20.591655+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] A második idényét kezdi meg az élvonalban az FK",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/a-cel-nem-valtozott-maradni-a-szuperligaban-2026-07-20",
+    "description": "A második idényét kezdi meg az élvonalban az FK",
+    "image": "https://hargitanepe.ro/images/data/423x222/1784525749_0_FK_1.jpg",
+    "published": "2026-07-20T11:45:20.591560+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Galac megingott, Déva kiszállt, Marosvásárhely erősített",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/atrendezodott-a-mezony-2026-07-20",
+    "description": "Galac megingott, Déva kiszállt, Marosvásárhely erősített",
+    "image": "https://hargitanepe.ro/images/data/423x222/1784526527_0_futsal_korkep_0719_HI2.jpg",
+    "published": "2026-07-20T11:45:20.591480+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Kirakták a székelyudvarhelyi könyvtárnál",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/jatek-szorakozas-kozossegi-elmeny-2026-07-20",
+    "description": "Negyedik alkalommal jelentkezett a városi könyvtár és a Székelyudvarhelyi Közösségi Alapítvány (SZKA) nyári eseménye a puzzle szerelmeseinek: 48 órán át zajlott a játék a téka előtti téren, éjjel és nappal.",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1784526740_0_kiraklakakonyvtarnal_hi03_web.jpg",
+    "published": "2026-07-20T11:45:20.591387+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] A tehéntejtermelés gyengélkedig, miközben…",
     "link": "https://hargitanepe.ro/nott-a-vagasra-szant-allatok-szama",
     "description": "A tehéntejtermelés gyengélkedig, miközben…",
@@ -1247,177 +1319,6 @@
     "description": "Egyre közelebb a Fodor Sándor park felújításának határideje, és még mindig nem tudott kivitelezési szerződést kötni rá a csíkszeredai önkormányzat. Bár a városháza még tavaly októberben meghirdette a közbeszerzési eljárást, és idén februárban az eredményt is közölte, az egyik ajánlattevő cég óvást emelt. Az ügyben a Marosvásárhelyi Ítélőtábla június 3-án döntött, jelenleg az újraértékelés zajlik, közölte érdeklődésünkre a városháza.",
     "image": "https://hargitanepe.ro/images/data/1200x630/1784097034_4_fodorsandor",
     "published": "2026-07-15T13:43:58.937325+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Egyénileg készülnek a szezonra",
-    "link": "https://hargitanepe.ro/teljes-a-sapientia-kerete-2026-07-15",
-    "description": "Egyénileg készülnek a szezonra",
-    "image": "https://hargitanepe.ro/images/data/423x222/1784095990_0_hoki_sapi.jpg",
-    "published": "2026-07-15T10:49:59.592034+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] A spanyolok 16 év után döntőzhetnek",
-    "link": "https://hargitanepe.ro/a-spanyolok-16-ev-utan-dontozhetneka-spanyolok-16-ev-utan-dontozhetnek-2026-07-15",
-    "description": "Az Európa-bajnok Spanyolország 2–0-ra legyőzte Franciaországot a labdarúgó-világbajnokság dallasi elődöntőjében, így 2010 után ismét bejutott a torna fináléjába. Luis de la Fuente csapata taktikai szempontból szinte tökéletes mérkőzést játszott, a franciák pedig sokáig helyzetig sem jutottak.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1784106647_0_foci_vb_0715_FIFA.jpg",
-    "published": "2026-07-15T10:49:59.591939+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Blöff",
-    "link": "https://hargitanepe.ro/bloff-2026-07-14",
-    "description": "Blöff",
-    "image": "https://hargitanepe.ro/images/data/423x222/1784013058_0_szekeres_amnezia.jpg",
-    "published": "2026-07-15T10:49:59.591745+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Baltás gyilkosság Szeben megyében",
-    "link": "https://hargitanepe.ro/baltas-gyilkossag-szeben-megyeben-2026-07-15",
-    "description": "Baltás gyilkosság Szeben megyében",
-    "image": "https://hargitanepe.ro/images/data/423x222/1784093235_0_Gurago_gyilkossag_illu_HI1_web.jpg",
-    "published": "2026-07-15T10:49:59.591628+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] A UIET Erasmus+ projektje körüli botrány miatt",
-    "link": "https://hargitanepe.ro/hirek/udvarhelyszek/tornai-szilard-utan-pal-boglarka-is-bejelentette-lemondasat",
-    "description": "A UIET Erasmus+ projektje körüli botrány miatt",
-    "image": "https://hargitanepe.ro/images/data/423x222/1784102773_0_palboglarka_hi01.jpg",
-    "published": "2026-07-15T10:49:59.591313+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Tovább csúszik a szentimrei kultúrház korszerűsítése",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/egyre-jobban-szorit-a-hatarido-2026-07-15",
-    "description": "Tovább csúszik a szentimrei kultúrház korszerűsítése",
-    "image": "https://hargitanepe.ro/images/data/423x222/1784095584_0_csiksztimre_kulturotthon_adrcentru1_web.jpg",
-    "published": "2026-07-15T10:49:59.591172+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Építkezési engedély az Alfalu–Ditró szakaszra",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/zold-jelzes-a-sztradanak-2026-07-15",
-    "description": "Építkezési engedély az Alfalu–Ditró szakaszra",
-    "image": "https://hargitanepe.ro/images/data/423x222/1784098067_0_gyergyo_autopalya_cnir_web.jpg",
-    "published": "2026-07-15T10:49:59.591055+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Egyénileg készülnek a szezonra",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/teljes-a-sapientia-kerete-2026-07-15",
-    "description": "Nem tétlenkedik a Sapientia U23-as jégkorongcsapata sem, ami a nyári felkészülést illeti. A keret túl van egy közös felkészülésen, ám jelenleg egyénileg készülnek a sportolók. Vannak érkezők és távozók is.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1784095990_0_hoki_sapi.jpg",
-    "published": "2026-07-15T10:49:59.590962+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Sóbányában küzdöttek",
-    "link": "https://hargitanepe.ro/sobanyaban-kuzdottek-2026-07-15",
-    "description": "Sóbányában küzdöttek",
-    "image": "https://hargitanepe.ro/images/data/423x222/1784093533_0_tekvando.jpeg",
-    "published": "2026-07-15T08:10:15.047536+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Áttértek az aszfaltról a murvára a hazai ralisok",
-    "link": "https://hargitanepe.ro/dobogos-helyen-vegzett-a-birosprencz-paros-2026-07-15",
-    "description": "Áttértek az aszfaltról a murvára a hazai ralisok",
-    "image": "https://hargitanepe.ro/images/data/423x222/1784094168_0_rali_alex_SB_BARPH.jpg",
-    "published": "2026-07-15T08:10:15.047486+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Megvannak a mezszínek",
-    "link": "https://hargitanepe.ro/megvannak-a-mezszinek-2026-07-15",
-    "description": "Megvannak a mezszínek",
-    "image": "https://hargitanepe.ro/images/data/423x222/1781861070_0_1.jpg",
-    "published": "2026-07-15T08:10:15.047440+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Amerikai a sípmester",
-    "link": "https://hargitanepe.ro/amerikai-a-sipmester-2026-07-15",
-    "description": "Amerikai a sípmester",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1781768506_0_labda.jpg",
-    "published": "2026-07-15T08:10:15.047389+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Ellenőrzések az erdőkben",
-    "link": "https://hargitanepe.ro/gomba-es-afonyagyujtes-csak-engedellyel-2026-07-14",
-    "description": "Ellenőrzések az erdőkben",
-    "image": "https://hargitanepe.ro/images/data/423x222/1784011484_14_gomba_lfcs-2-_web.jpg",
-    "published": "2026-07-15T08:10:15.047206+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Alaptörvény-módosítás Magyarországon",
-    "link": "https://hargitanepe.ro/megfosztjak-tisztsegetol-sulyok-tamas-allamfot-2026-07-14",
-    "description": "Alaptörvény-módosítás Magyarországon",
-    "image": "https://hargitanepe.ro/images/data/423x222/1784011789_1_parajd_0608_vn_012_web.jpg",
-    "published": "2026-07-15T08:10:15.047157+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Történelmi változás Gibraltárban",
-    "link": "https://hargitanepe.ro/lebontjak-a-spanyolorszaggal-kozos-hatarkeritest-2026-07-14",
-    "description": "Történelmi változás Gibraltárban",
-    "image": "https://hargitanepe.ro/images/data/423x222/1784012348_0_giblaltari_hatar_wikipedia_web.jpg",
-    "published": "2026-07-15T08:10:15.047110+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] AZ EMBER TRAGÉDIA",
-    "link": "https://hargitanepe.ro/a-szeg-2026-07-14",
-    "description": "AZ EMBER TRAGÉDIA",
-    "image": "https://hargitanepe.ro/images/data/423x222/1747219784_bloff_webre.jpg",
-    "published": "2026-07-15T08:10:15.047058+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Beszélgetés dr. Peták István kutatóorvossal",
-    "link": "https://hargitanepe.ro/sakkjatszma-a-rak-ellen-2026-07-14",
-    "description": "Beszélgetés dr. Peták István kutatóorvossal",
-    "image": "https://hargitanepe.ro/images/data/423x222/1784012791_4_PetakIstvan_lfcs-1-_web.jpg",
-    "published": "2026-07-15T08:10:15.047006+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Áttértek az aszfaltról a murvára a hazai ralisok",
-    "link": "https://hargitanepe.ro/hirek/egyeb/dobogos-helyen-vegzett-a-birosprencz-paros-2026-07-15",
-    "description": "Áttértek az aszfaltról a murvára a hazai ralisok",
-    "image": "https://hargitanepe.ro/images/data/423x222/1784094168_0_rali_alex_SB_BARPH.jpg",
-    "published": "2026-07-15T08:10:15.046575+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Üzenet a csíksomlyói kegytemplom toronygombjából",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/nyolcvanot-evvel-ezelott-elrejtett-idokapszulakat-nyitottak-fel-2026-07-15",
-    "description": "Üzenet a csíksomlyói kegytemplom toronygombjából",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1784094895_7_csiksomlyoiidokapszula_biroistvan",
-    "published": "2026-07-15T08:10:15.046497+00:00",
     "author": "Hargita Népe",
     "category": "Hargita Népe"
   }
