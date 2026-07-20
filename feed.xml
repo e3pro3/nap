@@ -5,9 +5,20 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Sun, 19 Jul 2026 21:52:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 02:57:13 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Maszol] Foci-vb: Spanyolország a világbajnok, hosszabbítás után legyőzte a címvédő Messiéket</title>
+      <link>https://maszol.ro/sport/Foci-vb-Spanyolorszag-a-vilagbajnok-hosszabbitas-utan-legyozte-a-cimvedo-Messieket</link>
+      <guid isPermaLink="true">https://maszol.ro/sport/Foci-vb-Spanyolorszag-a-vilagbajnok-hosszabbitas-utan-legyozte-a-cimvedo-Messieket</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_Julius/19/cikk_ferran_torres_spanyolorszag_labdarugas_vilagbajnoksag_donto_260719_agerpres_epa.jpg" /><br/>Foci-vb: Spanyolország a világbajnok, hosszabbítás után legyőzte a címvédő Messiéket]]></description>
+      <pubDate>Mon, 20 Jul 2026 02:57:10 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_Julius/19/cikk_ferran_torres_spanyolorszag_labdarugas_vilagbajnoksag_donto_260719_agerpres_epa.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_Julius/19/cikk_ferran_torres_spanyolorszag_labdarugas_vilagbajnoksag_donto_260719_agerpres_epa.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Oroszhegyi nyarak, melbourne-i telek</title>
       <link>https://hargitanepe.ro/oroszhegyi-nyarak-melbourne-i-telek-2026-07-15</link>
@@ -436,17 +447,6 @@
       <author>Hargita Népe</author>
       <media:content url="https://hargitanepe.ro/images/data/423x222/1784228683_0_10_magazin_alvashiany_magnific1_jul_17.jpg" medium="image"/>
       <enclosure url="https://hargitanepe.ro/images/data/423x222/1784228683_0_10_magazin_alvashiany_magnific1_jul_17.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Sikerrel zárult a II. Nemzetközi Építőtábor Abásfalván és Homoródkeményfalván</title>
-      <link>https://hargitanepe.ro/hirek/porta/kozosseget-is-epitettek-a-gyori-epiteszhallgatok-2026-07-15</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/hirek/porta/kozosseget-is-epitettek-a-gyori-epiteszhallgatok-2026-07-15</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1784111653_5_06_IMG_4450_web.jpg" /><br/>Sikerrel zárult a II. Nemzetközi Építőtábor Abásfalván és Homoródkeményfalván]]></description>
-      <pubDate>Sat, 18 Jul 2026 19:04:03 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1784111653_5_06_IMG_4450_web.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1784111653_5_06_IMG_4450_web.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
