@@ -5,9 +5,20 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Wed, 22 Jul 2026 19:19:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 22:03:23 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Maszol] Szülőfalujában képzeli el jövőjét Fehér megye legjobb magyar érettségizője</title>
+      <link>https://maszol.ro/belfold/Szulofalujaban-kepzeli-el-jovojet-Feher-megye-legjobb-magyar-erettsegizoje</link>
+      <guid isPermaLink="true">https://maszol.ro/belfold/Szulofalujaban-kepzeli-el-jovojet-Feher-megye-legjobb-magyar-erettsegizoje</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_Julius/17/cikksmall_42b748ba-1ae4-4e7c-ba5b-36749be196d6.jpg" /><br/>Szülőfalujában képzeli el jövőjét Fehér megye legjobb magyar érettségizője]]></description>
+      <pubDate>Wed, 22 Jul 2026 22:03:21 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_Julius/17/cikksmall_42b748ba-1ae4-4e7c-ba5b-36749be196d6.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_Julius/17/cikksmall_42b748ba-1ae4-4e7c-ba5b-36749be196d6.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Szaharai por Erdély felett</title>
       <link>https://hargitanepe.ro/hirek/hargita-megye/csak-az-automosok-tulajai-szeretik-2026-07-22</link>
@@ -436,17 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_Julius/22/cikksmall_anaf_agerpres.jpg" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_Julius/22/cikksmall_anaf_agerpres.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Több mint háromszáz magyar diák ballagott el a marosvásárhelyi orvosi egyetemről (VIDEÓ)</title>
-      <link>https://maszol.ro/belfold/Tobb-mint-haromszaz-magyar-diak-ballagott-el-a-marosvasarhelyi-orvosi-egyetemrol</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Tobb-mint-haromszaz-magyar-diak-ballagott-el-a-marosvasarhelyi-orvosi-egyetemrol</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_Julius/22/cikk_IMG_5815_(1).jpg" /><br/>Több mint háromszáz magyar diák ballagott el a marosvásárhelyi orvosi egyetemről (VIDEÓ)]]></description>
-      <pubDate>Wed, 22 Jul 2026 13:53:53 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_Julius/22/cikk_IMG_5815_(1).jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_Julius/22/cikk_IMG_5815_(1).jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
