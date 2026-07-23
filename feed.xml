@@ -5,9 +5,20 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Thu, 23 Jul 2026 19:17:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 22:03:31 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Sikerrel zárult a II. Nemzetközi Építőtábor Abásfalván és Homoródkeményfalván</title>
+      <link>https://hargitanepe.ro/kozosseget-is-epitettek-a-gyori-epiteszhallgatok-2026-07-15</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/kozosseget-is-epitettek-a-gyori-epiteszhallgatok-2026-07-15</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1784111653_5_06_IMG_4450_web.jpg" /><br/>Sikerrel zárult a II. Nemzetközi Építőtábor Abásfalván és Homoródkeményfalván]]></description>
+      <pubDate>Thu, 23 Jul 2026 22:03:31 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1784111653_5_06_IMG_4450_web.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1784111653_5_06_IMG_4450_web.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Beszélgetés Fodor Csaba koreográfussal, táncmesterrel</title>
       <link>https://hargitanepe.ro/hirek/kiemelt/a-neptanc-egy-eletre-szolo-barati-es-erzelmi-halo-2026-07-23</link>
@@ -436,17 +447,6 @@
       <author>Hargita Népe</author>
       <media:content url="https://hargitanepe.ro/images/data/423x222/1784705131_0_Nyari_Egyetem_Sapi_Nepe.jpg" medium="image"/>
       <enclosure url="https://hargitanepe.ro/images/data/423x222/1784705131_0_Nyari_Egyetem_Sapi_Nepe.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] A forgalmat és a közbiztonságot is segíti az új hálózat</title>
-      <link>https://hargitanepe.ro/hirek/kiemelt/kozel-ketszaz-uj-kamera-figyeli-csikszeredat-2026-07-23</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/hirek/kiemelt/kozel-ketszaz-uj-kamera-figyeli-csikszeredat-2026-07-23</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1784789634_0_kamerarendszer.jpg" /><br/>A forgalmat és a közbiztonságot is segíti az új hálózat]]></description>
-      <pubDate>Thu, 23 Jul 2026 11:09:58 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1784789634_0_kamerarendszer.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1784789634_0_kamerarendszer.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
