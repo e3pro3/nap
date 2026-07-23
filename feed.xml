@@ -5,9 +5,20 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Wed, 22 Jul 2026 22:03:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 02:44:50 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Blokád</title>
+      <link>https://hargitanepe.ro/nehez-helyzetbe-hozza-a-juhtenyesztoket-az-orszagot-sujto-exporttilalom</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/nehez-helyzetbe-hozza-a-juhtenyesztoket-az-orszagot-sujto-exporttilalom</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1783424023_0_IMG_7177.jpg" /><br/>Blokád]]></description>
+      <pubDate>Thu, 23 Jul 2026 02:44:50 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1783424023_0_IMG_7177.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1783424023_0_IMG_7177.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Maszol] Szülőfalujában képzeli el jövőjét Fehér megye legjobb magyar érettségizője</title>
       <link>https://maszol.ro/belfold/Szulofalujaban-kepzeli-el-jovojet-Feher-megye-legjobb-magyar-erettsegizoje</link>
@@ -436,17 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_Julius/22/cikksmall_tuzoltok_igsu_fb.jpg" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_Julius/22/cikksmall_tuzoltok_igsu_fb.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Hogyan látják az emberek az adóhivatalt? – A személyes ügyintézés jobban teljesít, mint az online</title>
-      <link>https://maszol.ro/gazdasag/Hogyan-latjak-az-emberek-az-adohivatalt-A-szemelyes-ugyintezes-jobban-teljesit-mint-az-online</link>
-      <guid isPermaLink="true">https://maszol.ro/gazdasag/Hogyan-latjak-az-emberek-az-adohivatalt-A-szemelyes-ugyintezes-jobban-teljesit-mint-az-online</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_Julius/22/cikksmall_anaf_agerpres.jpg" /><br/>Hogyan látják az emberek az adóhivatalt? – A személyes ügyintézés jobban teljesít, mint az online]]></description>
-      <pubDate>Wed, 22 Jul 2026 13:53:53 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_Julius/22/cikksmall_anaf_agerpres.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_Julius/22/cikksmall_anaf_agerpres.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
