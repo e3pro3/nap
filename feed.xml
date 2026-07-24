@@ -5,9 +5,20 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Fri, 24 Jul 2026 19:25:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 22:04:14 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Oroszhegyi nyarak, melbourne-i telek</title>
+      <link>https://hargitanepe.ro/oroszhegyi-nyarak-melbourne-i-telek-2026-07-15</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/oroszhegyi-nyarak-melbourne-i-telek-2026-07-15</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/1200x630/1784112519_5_balintoroszhegy5_web.jpg" /><br/>Van valami különös azokban az emberekben, akik évtizedekkel ezelőtt elhagyták a szülőföldjüket, mégis úgy beszélnek róla, mintha tegnap sétáltak volna végig a falujuk utcáján. Bálint Kálmán ilyen ember. Negyven éve él családjával Ausztráliában, Melbourne-ben, mégis minden mondatából érződik, hogy a szíve egy része ma is Székelyföldön dobog. Az oroszhegyi ház tornácán ülve nem a kivándorlásról beszél elsősorban, hanem a gyökerekről. Arról a világról, amely Varságon és Oroszhegyen formálta az életét.]]></description>
+      <pubDate>Fri, 24 Jul 2026 22:04:14 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/1200x630/1784112519_5_balintoroszhegy5_web.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/1200x630/1784112519_5_balintoroszhegy5_web.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Mentesülhet az egészségügy a létszámstop alól?</title>
       <link>https://hargitanepe.ro/mentesulhet-az-egeszsegugy-a-letszamstop-alol-2026-07-24</link>
@@ -437,17 +448,6 @@ kelyudvarhelyen az Ar­tera Alapítvány. A kezdeményezés ötlete egy magyaror
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_Julius/24/cikksmall_norvegia_Facebook_Visit_Norway.jpg" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_Julius/24/cikksmall_norvegia_Facebook_Visit_Norway.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Európai Bizottság: A TikTok nem védi megfelelően a kiskorú felhasználókat</title>
-      <link>https://maszol.ro/eletmod/Europai-Bizottsag-A-TikTok-nem-vedi-megfeleloen-a-kiskoru-felhasznalokat</link>
-      <guid isPermaLink="true">https://maszol.ro/eletmod/Europai-Bizottsag-A-TikTok-nem-vedi-megfeleloen-a-kiskoru-felhasznalokat</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_Julius/24/cikksmall_online_fuggoseg_gyermek_Pexels.jpg" /><br/>Európai Bizottság: A TikTok nem védi megfelelően a kiskorú felhasználókat]]></description>
-      <pubDate>Fri, 24 Jul 2026 13:45:20 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_Julius/24/cikksmall_online_fuggoseg_gyermek_Pexels.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_Julius/24/cikksmall_online_fuggoseg_gyermek_Pexels.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
