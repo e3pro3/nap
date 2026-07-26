@@ -1,5 +1,41 @@
 [
   {
+    "title": "[Maszol] CURS-felmérés: az AUR a legnépszerűbb párt 34 százalékos támogatottsággal",
+    "link": "https://maszol.ro/belfold/CURS-felmeres-az-AUR-a-legnepszerubb-part-34-szazalekos-tamogatottsaggal",
+    "description": "CURS-felmérés: az AUR a legnépszerűbb párt 34 százalékos támogatottsággal",
+    "image": "https://maszol.ro/resized/2026_Julius/26/cikk_George_Simion__honlap_(2).jpg",
+    "published": "2026-07-26T19:10:10.564380+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Szakértő: Romániát felkészületlenül éri egy esetleges olajválság",
+    "link": "https://maszol.ro/belfold/Szakerto-Romaniat-felkeszuletlenul-eri-egy-esetleges-olajvalsag",
+    "description": "Szakértő: Romániát felkészületlenül éri egy esetleges olajválság",
+    "image": "https://maszol.ro/resized/2026_Julius/26/cikk_pexels-tom-fournier-208942721-16852979.jpg",
+    "published": "2026-07-26T19:10:10.564302+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Norris nyerte a Magyar Nagydíjat, Verstappen és Antonelli is dobogós",
+    "link": "https://maszol.ro/sport/Norris-nyerte-a-Magyar-Nagydijat-Verstappen-es-Antonelli-is-dobogos",
+    "description": "Norris nyerte a Magyar Nagydíjat, Verstappen és Antonelli is dobogós",
+    "image": "https://maszol.ro/resized/2026_Julius/26/cikksmall_agerpres_19522571.jpg",
+    "published": "2026-07-26T19:10:10.563191+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Az egyperceseket hozza újra a köztudatba a szatmári rajzfilmkészítő (INTERJÚ)",
+    "link": "https://maszol.ro/kultura/Az-egyperceseket-hozza-ujra-a-koztudatba-a-szatmari-rajzfilmkeszito-INTERJU",
+    "description": "A vetítés után készítettünk interjút a tehetséges szatmári animációs filmessel, aki Örkény István műveinek feldolgozásával lett ismert a Youtube-on.",
+    "image": "https://maszol.ro/resized/2026_Julius/26/cikk_Tadam.jpg",
+    "published": "2026-07-26T19:10:10.562872+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
     "title": "[Maszol] A PNL EP-képviselői az EU külső határainak megerősítését kérik",
     "link": "https://maszol.ro/belfold/A-PNL-EP-kepviseloi-az-EU-kulso-hatarainak-megerositeset-kerik",
     "description": "A PNL EP-képviselői az EU külső határainak megerősítését kérik",
@@ -2174,69 +2210,6 @@
     "description": "Nyolcévesen hőmérővel járt iskolába, ma ezrek figyelik az előrejelzéseit",
     "image": "https://maszol.ro/resized/2026_Julius/21/cikk_roberto_popa_1_LAPOS.jpg",
     "published": "2026-07-21T19:22:36.644921+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] A tengerészeti hatóság nyugtat",
-    "link": "https://maszol.ro/belfold/A-tengereszeti-hatosag-nyugtat",
-    "description": "A tengerészeti hatóság nyugtat",
-    "image": "https://maszol.ro/resized/2026_Julius/21/cikk_486543083_1088000070029807_710315507511777440_n.jpg",
-    "published": "2026-07-21T16:22:54.064691+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] A szenátusban is rendkívüli ülésszakra készülnek",
-    "link": "https://maszol.ro/belfold/A-szenatusban-is-rendkivuli-ulesszakra-keszulnek",
-    "description": "A szenátusban is rendkívüli ülésszakra készülnek",
-    "image": "https://maszol.ro/resized/2026_Julius/21/cikk_parlament_kepviselohaz_bukarest_plenum_260320_agerpres.jpg",
-    "published": "2026-07-21T16:22:54.064625+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Újabb SMS-es csalási hullámra figyelmeztet a szakhatóság",
-    "link": "https://maszol.ro/belfold/Ujabb-SMS-es-csalasi-hullamra-figyelmeztet-a-szakhatosag",
-    "description": "Újabb SMS-es csalási hullámra figyelmeztet a szakhatóság",
-    "image": "https://maszol.ro/resized/2026_Julius/21/cikksmall_pexels-tim-samuel-6697306.jpg",
-    "published": "2026-07-21T16:22:54.063752+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Bíróság elé állítják a holttestekből kiműtött szívstimulátorok újrafelhasználásával gyanúsított orvost",
-    "link": "https://maszol.ro/belfold/Birosag-ele-allitjak-a-holttestekbol-kimutott-szivstimulatorok-ujrafelhasznalasaval-gyanusitott-orvost",
-    "description": "Bíróság elé állítják a holttestekből kiműtött szívstimulátorok újrafelhasználásával gyanúsított orvost",
-    "image": "https://maszol.ro/resized/2026_Julius/21/cikksmall_korhaz_betegellatas_sajat_grok.jpg",
-    "published": "2026-07-21T16:22:54.063692+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Hatályba lépett a proszumerekre vonatkozó törvény",
-    "link": "https://maszol.ro/belfold/Hatalyba-lepett-a-proszumerekre-vonatkozo-torveny",
-    "description": "Hatályba lépett a proszumerekre vonatkozó törvény",
-    "image": "https://maszol.ro/resized/2026_Julius/21/cikksmall_napelem_szerelo_Pexels.jpg",
-    "published": "2026-07-21T16:22:54.063615+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Újabb vereséget szenvedett a PNL-vezetősége a puccsistákkal szemben",
-    "link": "https://maszol.ro/belfold/Ujabb-vereseget-szenvedett-a-PNL-vezetosege-a-puccsistakkal-szemben",
-    "description": "Újabb vereséget szenvedett a PNL-vezetősége a puccsistákkal szemben",
-    "image": "https://maszol.ro/resized/2026_Julius/21/cikksmall_birosag_igazsagszolgaltatas_chatgpt.png",
-    "published": "2026-07-21T16:22:54.063523+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Felfüggesztette a bértörvény tervezetét a bukaresti ítélőtábla",
-    "link": "https://maszol.ro/belfold/Felfuggesztette-a-bertorveny-tervezetet-a-bukaresti-itelotabla",
-    "description": "Felfüggesztette a bértörvény tervezetét a bukaresti ítélőtábla",
-    "image": "https://maszol.ro/resized/2026_Julius/21/cikksmall_749767415_1526226832878753_8812771013688639631_n.jpg",
-    "published": "2026-07-21T16:22:54.063422+00:00",
     "author": "Maszol",
     "category": "Maszol"
   }
