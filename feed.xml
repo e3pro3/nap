@@ -5,9 +5,31 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Sat, 25 Jul 2026 21:55:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 02:47:20 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Az in vitro növényszaporítás szerepe</title>
+      <link>https://hargitanepe.ro/feher-kopenyes-kerteszkedes</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/feher-kopenyes-kerteszkedes</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1782292808_0_1_labor_lfcs-6-1-.jpg" /><br/>Az in vitro növényszaporítás szerepe]]></description>
+      <pubDate>Sun, 26 Jul 2026 02:47:20 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1782292808_0_1_labor_lfcs-6-1-.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1782292808_0_1_labor_lfcs-6-1-.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Székely Gazda 2026. július 18.</title>
+      <link>https://hargitanepe.ro/-2026-07-20</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/-2026-07-20</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1784532940_0_8.jpg" /><br/>Székely Gazda 2026. július 18.]]></description>
+      <pubDate>Sun, 26 Jul 2026 02:47:20 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1784532940_0_8.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1784532940_0_8.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Borászat az Érmelléken</title>
       <link>https://hargitanepe.ro/lengyel-csaba-sziv-lelek-es-alazat-vezerel</link>
@@ -427,28 +449,6 @@ vészeti Szövetség köz­re­működésével.]]></description>
       <author>Hargita Népe</author>
       <media:content url="https://hargitanepe.ro/images/data/423x222/1784895670_0_WhatsApp" medium="image"/>
       <enclosure url="https://hargitanepe.ro/images/data/423x222/1784895670_0_WhatsApp" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Free Camp alkotótábor Csíkszeredában</title>
-      <link>https://hargitanepe.ro/hirek/kiemelt/a-szumposziontol-az-atelier-ig-2026-07-24</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/hirek/kiemelt/a-szumposziontol-az-atelier-ig-2026-07-24</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1784877563_1_22_FREECamp" /><br/>Free Camp alkotótábor Csíkszeredában]]></description>
-      <pubDate>Fri, 24 Jul 2026 19:25:08 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1784877563_1_22_FREECamp" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1784877563_1_22_FREECamp" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Málta megsül</title>
-      <link>https://hargitanepe.ro/hirek/kiemelt/az-emberek-viszik-a-hust-a-hentesboltba-2026-07-24</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/hirek/kiemelt/az-emberek-viszik-a-hust-a-hentesboltba-2026-07-24</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1784877909_0_10_UNESCO.jpg" /><br/>Málta megsül]]></description>
-      <pubDate>Fri, 24 Jul 2026 19:25:08 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1784877909_0_10_UNESCO.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1784877909_0_10_UNESCO.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
