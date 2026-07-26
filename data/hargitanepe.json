@@ -1,5 +1,23 @@
 [
   {
+    "title": "[Hargita Népe] Free Camp alkotótábor Csíkszeredában",
+    "link": "https://hargitanepe.ro/a-szumposziontol-az-atelier-ig-2026-07-24",
+    "description": "Free Camp alkotótábor Csíkszeredában",
+    "image": "https://hargitanepe.ro/images/data/423x222/1784877563_1_22_FREECamp",
+    "published": "2026-07-26T10:44:30.584885+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Családi levendulatermesztés Fenyéden",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/amikor-a-munkahelyed-egy-lila-viragtenger-2026-07-21",
+    "description": "Az utóbbi években Hargita megyében is többfelé látni levendulaültetvényeket: a hűvösebb éghajlat ellenére vannak, akik sikerrel próbálkoznak a mediterrán növény termesztésével. Fenyéden Ilyés Hunor és felesége, Tréfán Orsolya gondoz egy levendulást, ma is ugyanolyan odafigyeléssel és szeretettel, mint évekkel ezelőtt, az indulásnál. A megfelelő termőhelynek és mikroklímának köszönhetően a levendula szépen fejlődik – a termesztőknek ma már nem is a növény gondozása, hanem az értékesítés jelenti a nagyobb kihívást.",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1784622387_0_levendula_foto_IlyesHunor-2-_web.jpg",
+    "published": "2026-07-26T10:44:30.584520+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] Beszélgetés Esztány Győző építésszel",
     "link": "https://hargitanepe.ro/a-hagyomanyorzes-ne-teherre-hanem-kozos-felemelo-alkotassa-valjon",
     "description": "Beszélgetés Esztány Győző építésszel",
@@ -1220,69 +1238,6 @@
     "description": "Legkevesebb öt hétre kell megoldást találnia több száz szülőnek a nyári gyermekfelügyeletre Székelyudvarhelyen: július végéig az összes napközi otthon bezár, sőt, van, amelyik már jövő héten sem fogadja a gyermekeket, kezdődik a szünet a város egyetlen bölcsődéjében is. A tanintézetekben szeptember 7-én indul újra az élet.",
     "image": "https://hargitanepe.ro/images/data/1200x630/1784615139_3_ovodaillusztracio_hi012_web.jpg",
     "published": "2026-07-21T11:08:33.272751+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Mit nézzünk a tévében?",
-    "link": "https://hargitanepe.ro/2026-07-16-mit-nezzunk-a-teveben-2026-07-16",
-    "description": "Mit nézzünk a tévében?",
-    "image": "https://hargitanepe.ro/images/data/423x222/1781503522_0_1675756532_sportkozv.jpg",
-    "published": "2026-07-21T08:28:56.837187+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Háromszor volt éremközelben",
-    "link": "https://hargitanepe.ro/haromszor-volt-eremkozelben-2026-07-21",
-    "description": "Három versenyszámban is egyetlen győzelem választotta el az Európa-bajnoki éremtől Toró Dávidot a portugáliai korosztályos kontinensbajnokságon. A Székelyudvarhelyi ISK U15-ös játékosa két páros versenyszámban is negyeddöntőt játszott, miközben csapatban szintén ötödik helyezést ért el.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1784611312_0_ifiasztalitenisz_Eb_0720_FRTM.jpg",
-    "published": "2026-07-21T08:28:56.836977+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Bocskor pékség",
-    "link": "https://hargitanepe.ro/bocskor-pekseg-2026-07-20",
-    "description": "Bocskor pékség",
-    "image": "https://hargitanepe.ro/images/data/423x222/1783924875_2_bocskorpekseg_vn_038_web.jpg",
-    "published": "2026-07-21T08:28:56.836813+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Csíkmadarasi infrastruktúra",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/elkezdtek-a-villanyoszlopok-cserejet-2026-07-21",
-    "description": "Csíkmadarasi infrastruktúra",
-    "image": "https://hargitanepe.ro/images/data/423x222/1784611914_0_madaras_transz.allomas_szallitasa_web.jpg",
-    "published": "2026-07-21T08:28:56.836362+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Jól teljesített az ifjúsági asztalitenisz-Eb-n Toró Dávid",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/haromszor-volt-eremkozelben-2026-07-21",
-    "description": "Jól teljesített az ifjúsági asztalitenisz-Eb-n Toró Dávid",
-    "image": "https://hargitanepe.ro/images/data/423x222/1784611312_0_ifiasztalitenisz_Eb_0720_FRTM.jpg",
-    "published": "2026-07-21T08:28:56.836294+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Megvannak a véglegesítő vizsga eredményei",
-    "link": "https://hargitanepe.ro/hirek/hargita-megye/van-aki-tizesre-vizsgazott",
-    "description": "Megvannak a véglegesítő vizsga eredményei",
-    "image": "https://hargitanepe.ro/images/data/423x222/1719300399_1717747462_IskolaillusztraacioWEB_HI06.jpg",
-    "published": "2026-07-21T08:28:56.836224+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Elektromos autóbuszok Maroshévízen is",
-    "link": "https://hargitanepe.ro/hirek/hargita-megye/varosi-tomegkozlekedesi-rendszer-epul-2026-07-21",
-    "description": "Több mint 18 millió lej értékű finanszírozási szerződést írt alá Maroshévíz önkormányzata: a városi mobilitási projekt révén elektromos autóbuszok érkeznek, töltőállomások, buszállomás és megállók épülnek, emellett kamerarendszer, elektronikus jegyvásárlási applikáció és diszpécserszolgálat is segíti az új rendszer működését.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1784613313_0_buszok_bph-4-_web.jpg",
-    "published": "2026-07-21T08:28:56.836093+00:00",
     "author": "Hargita Népe",
     "category": "Hargita Népe"
   }
