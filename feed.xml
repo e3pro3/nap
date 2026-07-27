@@ -5,9 +5,20 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Sun, 26 Jul 2026 21:59:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 02:55:51 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Maszol] Nyolcévesen hőmérővel járt iskolába, ma ezrek figyelik az előrejelzéseit</title>
+      <link>https://maszol.ro/eletmod/Nyolcevesen-homerovel-jart-iskolaba-ma-ezrek-figyelik-az-elorejelzeseit</link>
+      <guid isPermaLink="true">https://maszol.ro/eletmod/Nyolcevesen-homerovel-jart-iskolaba-ma-ezrek-figyelik-az-elorejelzeseit</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_Julius/21/cikksmall_roberto_popa_1_LAPOS.jpg" /><br/>Nyolcévesen hőmérővel járt iskolába, ma ezrek figyelik az előrejelzéseit]]></description>
+      <pubDate>Mon, 27 Jul 2026 02:55:48 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_Julius/21/cikksmall_roberto_popa_1_LAPOS.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_Julius/21/cikksmall_roberto_popa_1_LAPOS.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] A jó pálinkához tökéletes kémia kell</title>
       <link>https://hargitanepe.ro/a-jo-palinkahoz-tokeletes-kemia-kell-2026-07-21</link>
@@ -436,17 +447,6 @@
       <author>Hargita Népe</author>
       <media:content url="https://hargitanepe.ro/images/data/423x222/1782292487_0__3_Baranyvagas_HI02.jpg" medium="image"/>
       <enclosure url="https://hargitanepe.ro/images/data/423x222/1782292487_0__3_Baranyvagas_HI02.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Világirodalmi kvíz</title>
-      <link>https://hargitanepe.ro/csaladi</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/csaladi</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1712915204_csaladi_kviz_webre.jpg" /><br/>Világirodalmi kvíz]]></description>
-      <pubDate>Sun, 26 Jul 2026 06:06:18 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1712915204_csaladi_kviz_webre.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1712915204_csaladi_kviz_webre.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
