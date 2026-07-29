@@ -5,9 +5,20 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Tue, 28 Jul 2026 22:04:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 02:37:15 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Sikerrel zárult a II. Nemzetközi Építőtábor Abásfalván és Homoródkeményfalván</title>
+      <link>https://hargitanepe.ro/kozosseget-is-epitettek-a-gyori-epiteszhallgatok-2026-07-15</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/kozosseget-is-epitettek-a-gyori-epiteszhallgatok-2026-07-15</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1784111653_5_06_IMG_4450_web.jpg" /><br/>Sikerrel zárult a II. Nemzetközi Építőtábor Abásfalván és Homoródkeményfalván]]></description>
+      <pubDate>Wed, 29 Jul 2026 02:37:15 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1784111653_5_06_IMG_4450_web.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1784111653_5_06_IMG_4450_web.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Mindszenten is elkezdték a hálózatfejlesztést</title>
       <link>https://hargitanepe.ro/mindszenten-is-elkezdtek-a-halozatfejlesztest</link>
@@ -436,17 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_Julius/28/cikk_Forgatag.jpg" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_Julius/28/cikk_Forgatag.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Az új szabályok hatása: jóval kevesebb betegszabadságot kérnek Hargita megyében is</title>
-      <link>https://maszol.ro/belfold/Az-uj-szabalyok-hatasa-joval-kevesebb-betegszabadsagot-kernek-Hargita-megyeben-is</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Az-uj-szabalyok-hatasa-joval-kevesebb-betegszabadsagot-kernek-Hargita-megyeben-is</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_Julius/27/cikk_betegszabadasg_orvos_egeszseg_rendelo_pexels.jpg" /><br/>Jelentősen visszaesett a kiadott betegszabadságok száma Hargita megyében azóta, hogy idén életbe léptek a betegszabadságokra vonatkozó új szabályok.]]></description>
-      <pubDate>Tue, 28 Jul 2026 14:06:35 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_Julius/27/cikk_betegszabadasg_orvos_egeszseg_rendelo_pexels.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_Julius/27/cikk_betegszabadasg_orvos_egeszseg_rendelo_pexels.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
