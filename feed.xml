@@ -5,9 +5,31 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Thu, 30 Jul 2026 19:26:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 22:08:09 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Borászat az Érmelléken</title>
+      <link>https://hargitanepe.ro/lengyel-csaba-sziv-lelek-es-alazat-vezerel</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/lengyel-csaba-sziv-lelek-es-alazat-vezerel</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1782293382_0__4_lengyelcsaba_borasz_lfcs-2-.jpg" /><br/>Borászat az Érmelléken]]></description>
+      <pubDate>Thu, 30 Jul 2026 22:08:09 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1782293382_0__4_lengyelcsaba_borasz_lfcs-2-.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1782293382_0__4_lengyelcsaba_borasz_lfcs-2-.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] János Előd: A székely pálinka minőségi fejlődése megkérdőjelezhetetlen</title>
+      <link>https://hargitanepe.ro/a-keritesszaggatok-kora-lejart-2026-07-21</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/a-keritesszaggatok-kora-lejart-2026-07-21</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1784620635_1_palinka_janos" /><br/>János Előd: A székely pálinka minőségi fejlődése megkérdőjelezhetetlen]]></description>
+      <pubDate>Thu, 30 Jul 2026 22:08:09 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1784620635_1_palinka_janos" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1784620635_1_palinka_janos" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Hat korszerű sürgősségi járművel bővült a SMURD flottája</title>
       <link>https://hargitanepe.ro/megerkeztek-az-utolso-mentoautok</link>
@@ -425,28 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_Julius/30/cikk_konstanca_kikötö_facebook.jpg" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_Julius/30/cikk_konstanca_kikötö_facebook.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Még egy hónapig ingyenes az elektronikus személyi – ezt érdemes most elintézni</title>
-      <link>https://maszol.ro/belfold/Meg-egy-honapig-ingyenes-az-elektronikus-szemelyi-ezt-erdemes-most-elintezni</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Meg-egy-honapig-ingyenes-az-elektronikus-szemelyi-ezt-erdemes-most-elintezni</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_Julius/30/cikk_20260527_illusztracio_Kovaszna_megyei_Szemelyi_nyilvantarto_uj_szemelyi.jpg" /><br/>Még egy hónapig ingyenes az elektronikus személyi – ezt érdemes most elintézni]]></description>
-      <pubDate>Thu, 30 Jul 2026 11:07:55 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_Julius/30/cikk_20260527_illusztracio_Kovaszna_megyei_Szemelyi_nyilvantarto_uj_szemelyi.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_Julius/30/cikk_20260527_illusztracio_Kovaszna_megyei_Szemelyi_nyilvantarto_uj_szemelyi.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Bevetették a könnygázt a tüntető juhászok ellen (VIDEÓ)</title>
-      <link>https://maszol.ro/belfold/Bevetettek-a-konnygazt-a-tunteto-juhaszok-ellen-VIDEO</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Bevetettek-a-konnygazt-a-tunteto-juhaszok-ellen-VIDEO</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_Julius/30/cikksmall_juhasz_kepernyomentes.jpg" /><br/>Bevetették a könnygázt a tüntető juhászok ellen (VIDEÓ)]]></description>
-      <pubDate>Thu, 30 Jul 2026 11:07:55 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_Julius/30/cikksmall_juhasz_kepernyomentes.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_Julius/30/cikksmall_juhasz_kepernyomentes.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
