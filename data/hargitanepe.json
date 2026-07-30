@@ -1,5 +1,95 @@
 [
   {
+    "title": "[Hargita Népe] Nemzetközi torna ifjúsági csapatoknak",
+    "link": "https://hargitanepe.ro/6-csapat-4-orszag-1-trofea",
+    "description": "Nemzetközi torna ifjúsági csapatoknak",
+    "image": "https://hargitanepe.ro/images/data/423x222/1785393274_0_0729_ififocihoz.jpg",
+    "published": "2026-07-30T08:26:50.458894+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Számos találkozót rendeznek az európai kupákban",
+    "link": "https://hargitanepe.ro/meccsdomping",
+    "description": "Számos találkozót rendeznek az európai kupákban",
+    "image": "https://hargitanepe.ro/images/data/423x222/1785394052_0_0729_focikupahoz.jpg",
+    "published": "2026-07-30T08:26:50.458837+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Sport röviden (07.30.)",
+    "link": "https://hargitanepe.ro/sport-roviden-0730",
+    "description": "Sport röviden (07.30.)",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1781778310_0_sport.jpg",
+    "published": "2026-07-30T08:26:50.458774+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Közösségi adakozás fedezheti a honismereti műsor hátralévő epizódjainak produkciós költségeit, székelyföldi települések is felpártolták",
+    "link": "https://hargitanepe.ro/hazajarok-gidofalva-az-elsok-kozott-segitett",
+    "description": "Közösségi adakozás fedezheti a honismereti műsor hátralévő epizódjainak produkciós költségeit, székelyföldi települések is felpártolták",
+    "image": "https://hargitanepe.ro/images/data/423x222/1785314325_1_hazajarok_web.jpg",
+    "published": "2026-07-30T08:26:50.458555+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Pluriverzum",
+    "link": "https://hargitanepe.ro/fulop-jozsef-kiallitasa",
+    "description": "Pluriverzum",
+    "image": "https://hargitanepe.ro/images/data/423x222/1785315287_0_FulopJoco_lfcs-3-_web.jpg",
+    "published": "2026-07-30T08:26:50.458493+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] A testünk nem bankszámlaként működik",
+    "link": "https://hargitanepe.ro/alvasadossag",
+    "description": "A testünk nem bankszámlaként működik",
+    "image": "https://hargitanepe.ro/images/data/423x222/1785318558_0_alvas_magnific_001_web.jpg",
+    "published": "2026-07-30T08:26:50.458429+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Költözik a napközi otthon Csíkszentmártonban",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/leader-palyazatbol-napelem",
+    "description": "Költözik a napközi otthon Csíkszentmártonban",
+    "image": "https://hargitanepe.ro/images/data/423x222/1785392552_0_02_sportbazis_szentmaron_cm.jpg",
+    "published": "2026-07-30T08:26:50.458101+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Nemzetközi torna ifjúsági csapatoknak",
+    "link": "https://hargitanepe.ro/hirek/foci/6-csapat-4-orszag-1-trofea",
+    "description": "Nemzetközi torna ifjúsági csapatoknak",
+    "image": "https://hargitanepe.ro/images/data/423x222/1785393274_0_0729_ififocihoz.jpg",
+    "published": "2026-07-30T08:26:50.458034+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Számos találkozót rendeznek az európai kupákban",
+    "link": "https://hargitanepe.ro/hirek/foci/meccsdomping",
+    "description": "Számos találkozót rendeznek az európai kupákban",
+    "image": "https://hargitanepe.ro/images/data/423x222/1785394052_0_0729_focikupahoz.jpg",
+    "published": "2026-07-30T08:26:50.457896+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Parajd: szakértői csoportok cserélik egymást, mégse tudni, mi van a föld alatt",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/valtozasok-a-felszinen-es-a-melyben",
+    "description": "A Salrom országos sóipari vállalat egy hónapja a bukaresti földtani intézet munkatársaival végezteti a szeizmikus mozgások monitorozását a parajdi sóbányánál, ám a feladattal korábban megbízott geológusok szerint a mérések jelenleg nem a megfelelő műszerekkel történnek, mi több, a közeljövőben fúrásokkal és kockázatos mérésekkel is számolni kell. A Salrom kisebb kőzetmozgások, ún. mikrorengések okán magasabb, narancssárga riasztási fokozat bevezetését javasolta.",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1785395678_0_parajdisobanyamajus26_hi01_cm.jpg",
+    "published": "2026-07-30T08:26:50.457806+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] Oroszhegyi nyarak, melbourne-i telek",
     "link": "https://hargitanepe.ro/oroszhegyi-nyarak-melbourne-i-telek-2026-07-15",
     "description": "Van valami különös azokban az emberekben, akik évtizedekkel ezelőtt elhagyták a szülőföldjüket, mégis úgy beszélnek róla, mintha tegnap sétáltak volna végig a falujuk utcáján. Bálint Kálmán ilyen ember. Negyven éve él családjával Ausztráliában, Melbourne-ben, mégis minden mondatából érződik, hogy a szíve egy része ma is Székelyföldön dobog. Az oroszhegyi ház tornácán ülve nem a kivándorlásról beszél elsősorban, hanem a gyökerekről. Arról a világról, amely Varságon és Oroszhegyen formálta az életét.",
