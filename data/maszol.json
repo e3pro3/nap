@@ -1,5 +1,104 @@
 [
   {
+    "title": "[Maszol] Bolojan: Egy-két hétig tartó energiakihívás elé néz Románia",
+    "link": "https://maszol.ro/belfold/Bolojan-Egy-ket-hetig-tarto-energiakihivas-ele-nez-Romania",
+    "description": "Bolojan: Egy-két hétig tartó energiakihívás elé néz Románia",
+    "image": "https://maszol.ro/resized/2026_Julius/30/cikk_boloja_agerpres.jpg",
+    "published": "2026-07-30T05:41:20.092277+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Újabb rendkívüli ülésszakot tart a szenátus",
+    "link": "https://maszol.ro/belfold/Ujabb-rendkivuli-ulesszakot-tart-a-szenatus",
+    "description": "Újabb rendkívüli ülésszakot tart a szenátus",
+    "image": "https://maszol.ro/resized/2026_Julius/30/cikk_szenatus__agerpres_(1).jpg",
+    "published": "2026-07-30T05:41:20.092202+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Az Egyesült Államok újra támadja Iránt",
+    "link": "https://maszol.ro/kulfold/Az-Egyesult-Allamok-ujra-tamadja-Irant",
+    "description": "Az Egyesült Államok újra támadja Iránt",
+    "image": "https://maszol.ro/resized/2026_Julius/30/cikksmall_Iran_tamadas_Agerpres1.jpg",
+    "published": "2026-07-30T05:41:20.091364+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Lezuhant egy ukrán F–16-os harci repülőgép",
+    "link": "https://maszol.ro/kulfold/Lezuhant-egy-ukran-F16-os-harci-repulogep",
+    "description": "Lezuhant egy ukrán F–16-os harci repülőgép",
+    "image": "https://maszol.ro/resized/2026_Julius/30/cikksmall_F-16_Fighting_Falcon.jpg",
+    "published": "2026-07-30T05:41:20.091294+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Egyetlen kérdésre sem válaszolt a koronavírus-járvány kezeléséről a korábbi egészségügyi főtanácsadó",
+    "link": "https://maszol.ro/kulfold/Egyetlen-kerdesre-sem-valaszolt-a-koronavirus-jarvany-kezeleserol-a-korabbi-egeszsegugyi-fotanacsado",
+    "description": "Egyetlen kérdésre sem válaszolt a koronavírus-járvány kezeléséről a korábbi egészségügyi főtanácsadó",
+    "image": "https://maszol.ro/resized/2026_Julius/30/cikksmall_osszeeskuves_elmelet_chipeles_oltas_vakcina_koronavirus_adobestock.jpg",
+    "published": "2026-07-30T05:41:20.091226+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Aggódik-e Bolojan a hitelminősítő értékelése miatt?",
+    "link": "https://maszol.ro/belfold/Aggodik-e-Bolojan-a-hitelminosito-ertekelese-miatt",
+    "description": "Aggódik-e Bolojan a hitelminősítő értékelése miatt?",
+    "image": "https://maszol.ro/resized/2026_Julius/30/cikksmall_csokkenes_Pexels.jpg",
+    "published": "2026-07-30T05:41:20.091149+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Különös egybeesés: titokzatos, lezuhanó tárgy sebesített meg súlyosan egy rollerező gyereket",
+    "link": "https://maszol.ro/belfold/Kulonos-egybeeses-titokzatos-lezuhano-targy-sebesitett-meg-sulyosan-egy-rollerezo-gyereket",
+    "description": "Különös egybeesés: titokzatos, lezuhanó tárgy sebesített meg súlyosan egy rollerező gyereket",
+    "image": "https://maszol.ro/resized/2026_Julius/30/cikksmall_roller_Pexels2.jpg",
+    "published": "2026-07-30T05:41:20.091080+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Folytatódik a sztrájk a kórházakban",
+    "link": "https://maszol.ro/belfold/Folytatodik-a-sztrajk-a-korhazakban",
+    "description": "Folytatódik a sztrájk a kórházakban",
+    "image": "https://maszol.ro/resized/2026_Julius/30/cikksmall_sztrajk_Sanitas.jpg",
+    "published": "2026-07-30T05:41:20.091010+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Egy légitársaság repülőgépeit dézsmálták a dolgozók és bűntársaik – A kár 800 ezer euró",
+    "link": "https://maszol.ro/belfold/Egy-legitarsasag-repulogepeit-dezsmaltak-a-dolgozok-es-buntarsaik-A-kar-800-ezer-euro",
+    "description": "Egy légitársaság repülőgépeit dézsmálták a dolgozók és bűntársaik – A kár 800 ezer euró",
+    "image": "https://maszol.ro/resized/2026_Julius/30/cikksmall_repulo_utas_Pexels.jpg",
+    "published": "2026-07-30T05:41:20.090936+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Nem tett komoly kárt az El Nino az idei termésben",
+    "link": "https://maszol.ro/gazdasag/Nem-tett-komoly-kart-az-El-Nino-az-idei-termesben",
+    "description": "Nem tett komoly kárt az El Nino az idei termésben",
+    "image": "https://maszol.ro/resized/2026_Julius/30/cikksmall_kukorica.jpg",
+    "published": "2026-07-30T05:41:20.090861+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Nemcsak a hangnem változott: Trump immár Zelenszkijjel keresi a kiutat a háborúból",
+    "link": "https://maszol.ro/kulfold/Nemcsak-a-hangnem-valtozott-Trump-immar-Zelenszkijjel-keresi-a-kiutat-a-haborubol",
+    "description": "Washington immár Kijevvel egyezteti a békére vagy tűzszünetre vonatkozó javaslatot, amit utólag ismertet Moszkvával, míg korábban éppen fordítva történt.",
+    "image": "https://maszol.ro/resized/2026_Julius/30/cikk_zelenszij_trump_fb.jpg",
+    "published": "2026-07-30T05:41:20.090470+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
     "title": "[Maszol] Mérgező vegyület miatt vonnak vissza két terméket a Penny polcairól",
     "link": "https://maszol.ro/belfold/Mergezo-vegyulet-miatt-vonnak-vissza-ket-termeket-a-Penny-polcairol",
     "description": "Mérgező vegyület miatt vonnak vissza két terméket a Penny polcairól",
