@@ -1,5 +1,77 @@
 [
   {
+    "title": "[Maszol] Pusztító tűz ütött ki egy kolostorban – Egy ember életét vesztette",
+    "link": "https://maszol.ro/belfold/Pusztito-tuz-utott-ki-egy-kolostorban-Egy-ember-eletet-vesztette",
+    "description": "Pusztító tűz ütött ki egy kolostorban – Egy ember életét vesztette",
+    "image": "https://maszol.ro/resized/2026_Julius/31/cikk_tuz_kolostor_ISU_Neamt.jpg",
+    "published": "2026-07-31T06:14:04.895555+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Felfüggesztik a sztrájkot az egészségügyben",
+    "link": "https://maszol.ro/belfold/Felfuggesztik-a-sztrajkot-az-egeszsegugyben",
+    "description": "Felfüggesztik a sztrájkot az egészségügyben",
+    "image": "https://maszol.ro/resized/2026_Julius/31/cikk_sztrajk_karszalag_sanitas.jpg",
+    "published": "2026-07-31T06:14:04.895484+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Drónokat észleltek a határ közelében, felszállt két F-16-os vadászgép",
+    "link": "https://maszol.ro/belfold/Dronokat-eszleltek-a-hatar-kozeleben-felszallt-ket-F-16-os-vadaszgep",
+    "description": "Drónokat észleltek a határ közelében, felszállt két F-16-os vadászgép",
+    "image": "https://maszol.ro/resized/2026_Julius/31/cikksmall_f16os_pilota_mapn.jpg",
+    "published": "2026-07-31T06:14:04.894475+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Káosz Ceutában: az uniós biztos szerint a külső határvédelem kulcsfontosságú (VIDEÓ)",
+    "link": "https://maszol.ro/kulfold/Kaosz-Ceutaban-az-unios-biztos-szerint-a-kulso-hatarvedelem-kulcsfontossagu",
+    "description": "Káosz Ceutában: az uniós biztos szerint a külső határvédelem kulcsfontosságú (VIDEÓ)",
+    "image": "https://maszol.ro/resized/2026_Julius/31/cikksmall_agerpres_19531682.jpg",
+    "published": "2026-07-31T06:14:04.894312+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Sanitas: Az új bértörvény tervezete nem kedvez az egészségügyi dolgozóknak",
+    "link": "https://maszol.ro/belfold/Sanitas-Az-uj-bertorveny-tervezete-nem-kedvez-az-egeszsegugyi-dolgozoknak",
+    "description": "Sanitas: Az új bértörvény tervezete nem kedvez az egészségügyi dolgozóknak",
+    "image": "https://maszol.ro/resized/2026_Julius/31/cikksmall_japan_sztrajk_egeszsegugy_Sanitas_fb.jpg",
+    "published": "2026-07-31T06:14:04.894243+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Bukhat az új közalkalmazotti bértörvény",
+    "link": "https://maszol.ro/belfold/Bukhat-az-az-uj-kozalkalmazotti-bertorveny",
+    "description": "Bukhat az új közalkalmazotti bértörvény",
+    "image": "https://maszol.ro/uploads/2026_Julius/31/20210729_Kovacs_Zsolt_fizetes.jpg",
+    "published": "2026-07-31T06:14:04.893958+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] A vízhiány miatt felére csökkent a két dunai vízerőmű termelése",
+    "link": "https://maszol.ro/gazdasag/A-vizhiany-miatt-felere-csokkent-a-ket-dunai-vizeromu-termelese",
+    "description": "A két vaskapui erőmű együttes beépített teljesítménye meghaladja az 1400 MW-ot, de hiába, ha nincs elég víz a folyóban.",
+    "image": "https://maszol.ro/resized/2026_Julius/31/cikk_vizieromu.jpg",
+    "published": "2026-07-31T06:14:04.412796+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Veszélyes tévhit terjed az interneten – Eközben életeket ment a méhnyakrákszűrés",
+    "link": "https://maszol.ro/eletmod/Veszelyes-tevhit-terjed-az-interneten-Ekozben-eleteket-ment-a-mehnyakrakszures",
+    "description": "A nőket érintő egyik leggyakoribb daganatos megbetegedés megelőzésére szolgáló szűrővizsgálat vált az elmúlt időszakban az online térben terjedő álhírek célpontjává.",
+    "image": "https://maszol.ro/resized/2026_Julius/29/cikk_nogyogyasz_Pexels.jpg",
+    "published": "2026-07-31T06:14:04.412571+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
     "title": "[Maszol] Először tekinthetők meg Romániában Assisi Szent Ferenc ereklyéi",
     "link": "https://maszol.ro/belfold/Eloszor-tekinthetok-meg-Romaniaban-Assisi-Szent-Ferenc-ereklyei",
     "description": "Először tekinthetők meg Romániában Assisi Szent Ferenc ereklyéi",
@@ -2417,42 +2489,6 @@
     "description": "Nemrég Marosvásárhelyen tartott előadást Megyesi Balázs a Kincsvadászok című televíziós műsor ismert műtárgyszakértője.",
     "image": "https://maszol.ro/resized/2026_Julius/20/cikk_Megyesi_Balazs1.jpg",
     "published": "2026-07-26T10:44:26.936351+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Sűrű ködre figyelmeztetnek a meteorológusok Székelyföldön",
-    "link": "https://maszol.ro/belfold/Suru-kodre-figyelmeztetnek-a-meteorologusok-Szekelyfoldon",
-    "description": "Sűrű ködre figyelmeztetnek a meteorológusok Székelyföldön",
-    "image": "https://maszol.ro/resized/2026_Julius/26/cikk_Screenshot_2025-11-11_083001_(1).png",
-    "published": "2026-07-26T06:06:15.134746+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Tárkonyos, tejes paszulyleves füstölt kolbásszal",
-    "link": "https://maszol.ro/videok/Erdely-izei-tarkonyos-tejes-paszulyleves-fustolt-kolbasszal",
-    "description": "Tárkonyos, tejes paszulyleves füstölt kolbásszal",
-    "image": "https://maszol.ro/resized/2022November/18/video_paszulyleves_maszol_01.jpg",
-    "published": "2026-07-26T06:06:15.134665+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Erdély legjei – Hargita megye: Énlaka",
-    "link": "https://maszol.ro/videok/Erdely-legjei-Hargita-megye-Enlaka",
-    "description": "Erdély legjei – Hargita megye: Énlaka",
-    "image": "https://maszol.ro/resized/2026Junius/14/videosmall_Enlaka_10.jpg",
-    "published": "2026-07-26T06:06:15.134041+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Ezer Székely Leány Napja: „a népviselet nem csupán ruha, hanem az egyik legfontosabb jelkép” (VIDEÓ)",
-    "link": "https://maszol.ro/videok/Ezer-Szekely-Leany-Napja-a-nepviselet-nem-csupan-ruha-hanem-az-egyik-legfontosabb-jelkep",
-    "description": "Ezer Székely Leány Napja: „a népviselet nem csupán ruha, hanem az egyik legfontosabb jelkép” (VIDEÓ)",
-    "image": "https://maszol.ro/resized/2026_Julius/04/videosmall_Timeline_1_01_00_05_21.png",
-    "published": "2026-07-26T06:06:15.133955+00:00",
     "author": "Maszol",
     "category": "Maszol"
   }
