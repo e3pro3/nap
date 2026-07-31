@@ -5,9 +5,20 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Fri, 31 Jul 2026 19:24:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 22:05:41 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] A jó pálinkához tökéletes kémia kell</title>
+      <link>https://hargitanepe.ro/a-jo-palinkahoz-tokeletes-kemia-kell-2026-07-21</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/a-jo-palinkahoz-tokeletes-kemia-kell-2026-07-21</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/1200x630/1784621283_1_gabor_sz_szeszely_lfcs-1-_web.jpg" /><br/>Karcfalva. Takaros, hagyományos csíki portára érkezünk. Az udvaron egy beagle kiskutya lábatlankodik a gazdája körül, a kapualjon túl gondozott gyümölcsös tárul elénk. A fák túlnyomó többsége almafa: pónyik, batul és jonagold – mégiscsak Csíkban járunk, ahol a zordabb éghajlat a kényesebb gyümölcsöknek kevesebb teret ad. Gábor Szidónia pálinkaszakmérnök kertjében minden a pálinka körül forog. Még a háttérben meghúzódó bodzabokor virágai is arra várnak, hogy illatos párlattá alakuljanak. A fiatal vegyészmérnök számára a gyümölcsfeldolgozás igazi szerelem – és mint köztudott, a jó pálinkához és a szerelemhez is elengedhetetlen a kémia. A minőségi pálinka ugyanis manapság már nem a szerencsén vagy intuíción, hanem a szigorú technológiai és kémiai fegyelmen múlik.]]></description>
+      <pubDate>Fri, 31 Jul 2026 22:05:41 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/1200x630/1784621283_1_gabor_sz_szeszely_lfcs-1-_web.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/1200x630/1784621283_1_gabor_sz_szeszely_lfcs-1-_web.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Sakksuli (736.)</title>
       <link>https://hargitanepe.ro/sakksuli-736</link>
@@ -436,17 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_Julius/31/cikksmall_vizsga_illusztracio_AdobeStock.jpg" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_Julius/31/cikksmall_vizsga_illusztracio_AdobeStock.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Oana Ţoiu üzenetváltása Marco Rubióval</title>
-      <link>https://maszol.ro/belfold/Oana-Toiu-uzenetvaltasa-Marco-Rubioval</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Oana-Toiu-uzenetvaltasa-Marco-Rubioval</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_Julius/31/cikksmall_oana_toiu_fboldala.jpg" /><br/>Oana Ţoiu üzenetváltása Marco Rubióval]]></description>
-      <pubDate>Fri, 31 Jul 2026 14:06:39 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_Julius/31/cikksmall_oana_toiu_fboldala.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_Julius/31/cikksmall_oana_toiu_fboldala.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
