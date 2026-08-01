@@ -1,5 +1,23 @@
 [
   {
+    "title": "[Hargita Népe] Boga Éva",
+    "link": "https://hargitanepe.ro/orokke-varom-hatha-jon-valaki-aki-meg-akarja-tanulni-a-szovest-2026-06-16",
+    "description": "Boga Éva",
+    "image": "https://hargitanepe.ro/images/data/423x222/1781598537_0_boga_eva.jpeg",
+    "published": "2026-08-01T19:07:46.104449+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Beszélgetés Musulin Péter egyesületi vezetővel, önkéntessel",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/a-termeszet-a-mentalis-egeszsegunk-ore-2026-07-31",
+    "description": "Elkötelezetten és kitartóan tesz azért, hogy szülővárosát élhetőbbé tegye: közösséget épít, rendhagyó kezdeményezéseket indít, és kiemelten fontosnak tartja a természeti környezet védelmét. A gyergyószentmiklósi Musulin Péter önkéntes, egyesületi vezető és vállalkozó egyszerre, aki szabadidejét a közösségért végzett munkával tölti ki.",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1785486562_0_01_csaladi_kiajalno_bszsz_jul_31.png",
+    "published": "2026-08-01T19:07:46.103332+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] Örökségmentés, népdal és közösség egy fedél alatt",
     "link": "https://hargitanepe.ro/latogatas-a-tibodi-tajhazban",
     "description": "Örökségmentés, népdal és közösség egy fedél alatt",
@@ -1346,60 +1364,6 @@
     "description": "Nagy Józsit és feleségét, Silló Ágotát még a kulturális, tudományos életből ismerem sok-sok esztendeje. Aztán pár éve egyszer csak szembejött velem az interneten, hogy mézbogyót termelnek Gyergyóremetén. Akkoriban még, mondhatni, ismeretlen volt mifelénk ez a Szibériából származó bogyós gyümölcs, és bár nagyon jól érzi magát a mi talaj- és éghajlati viszonyaink között is, legtöbben még ma sem igazán ismerik.",
     "image": "https://hargitanepe.ro/images/data/1200x630/1785144059_0_DSC_4031.jpg",
     "published": "2026-07-27T19:26:57.819878+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Idegsebészeti rendelés indult Szentegyházán",
-    "link": "https://hargitanepe.ro/idegsebeszeti-rendeles-indult-szentegyhazan",
-    "description": "Idegsebészeti rendelés indult Szentegyházán",
-    "image": "https://hargitanepe.ro/images/data/423x222/1785137918_0_02_idegsebeszeti_szakrendeles_szentegyhaza_TEE1-3-.jpg",
-    "published": "2026-07-27T16:57:22.606479+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Maros, Hargita és Kovászna megye elnökei beszélgettek a 35. Tusványoson",
-    "link": "https://hargitanepe.ro/szekelyfoldi-segelykozpontot-hoznak-letre",
-    "description": "Maros, Hargita és Kovászna megye elnökei beszélgettek a 35. Tusványoson",
-    "image": "https://hargitanepe.ro/images/data/423x222/1785140326_0_tusvanyos_VL_1.jpg",
-    "published": "2026-07-27T16:57:22.606432+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Székely Konyha és Kert",
-    "link": "https://szekelykonyhaeskert.ro/magazin/536-egy-fazek-paradicsommartas-negy-europai-fogas",
-    "description": "Székely Konyha és Kert",
-    "image": "https://hargitanepe.ro/images/data/423x222/1785142406_0_post_607315495.jpg",
-    "published": "2026-07-27T16:57:22.606261+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Sajtóközlemény",
-    "link": "https://hargitanepe.ro/hirek/friss/pnrr-alapok-a-modern-es-megreformalt-romaniaert-2026-07-27",
-    "description": "Sajtóközlemény",
-    "image": "https://hargitanepe.ro/images/data/423x222/1785157509_0_Picture4.jpg",
-    "published": "2026-07-27T16:57:22.606222+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Székely Konyha és Kert",
-    "link": "https://szekelykonyhaeskert.ro/recept/1979-paradicsomos-fasirtocskak",
-    "description": "Székely Konyha és Kert",
-    "image": "https://hargitanepe.ro/images/data/423x222/1785143754_0_NIK_6736.jpg",
-    "published": "2026-07-27T16:57:22.606155+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Székely Konyha és Kert",
-    "link": "https://szekelykonyhaeskert.ro/magazin/538-de-gustibus-koktelok-kerti-partihoz",
-    "description": "Ahogy boroknál a magnum kiszerelés (másfél liter) tud ünnepi hangulatot kölcsönözni a kerti partiknak, úgy tudnak azok a koktélok is, amelyeket nem egyéni adagokban mérünk, hanem nagy mennyiségben előre elkészítjük, majd mindenki, amint érkezik, kedve szerint fogyaszthatja. Különösen jól mutat, ha van egy szép, esetleg régi díszes puncsostál, amit a pultra vagy az asztalra ki lehet helyezni, akár központi díszelem is lehet a dekor összeállításánál.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1785143869_0_post_239006711.jpg",
-    "published": "2026-07-27T16:57:22.606071+00:00",
     "author": "Hargita Népe",
     "category": "Hargita Népe"
   }
