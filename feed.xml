@@ -5,9 +5,20 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Sun, 02 Aug 2026 19:09:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 21:56:36 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Maszol] Búcsút intenek a régi típusú személyi igazolványoknak</title>
+      <link>https://maszol.ro/belfold/Bucsut-intenek-a-regi-tipusu-szemelyi-igazolvanyoknak</link>
+      <guid isPermaLink="true">https://maszol.ro/belfold/Bucsut-intenek-a-regi-tipusu-szemelyi-igazolvanyoknak</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_Julius/28/cikksmall_szemelyi_igazolvany_spclep-arad.jpg" /><br/>Búcsút intenek a régi típusú személyi igazolványoknak]]></description>
+      <pubDate>Sun, 02 Aug 2026 21:56:33 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_Julius/28/cikksmall_szemelyi_igazolvany_spclep-arad.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_Julius/28/cikksmall_szemelyi_igazolvany_spclep-arad.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Angyalos Boldogasszony kegyelmi ünnepe</title>
       <link>https://hargitanepe.ro/nyolcszaz-ev-szent-ferenc-oroksegeben</link>
@@ -436,17 +447,6 @@
       <author>Hargita Népe</author>
       <media:content url="https://hargitanepe.ro/images/data/423x222/1781598537_0_boga_eva.jpeg" medium="image"/>
       <enclosure url="https://hargitanepe.ro/images/data/423x222/1781598537_0_boga_eva.jpeg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Beszélgetés Musulin Péter egyesületi vezetővel, önkéntessel</title>
-      <link>https://hargitanepe.ro/hirek/kiemelt/a-termeszet-a-mentalis-egeszsegunk-ore-2026-07-31</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/hirek/kiemelt/a-termeszet-a-mentalis-egeszsegunk-ore-2026-07-31</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/1200x630/1785486562_0_01_csaladi_kiajalno_bszsz_jul_31.png" /><br/>Elkötelezetten és kitartóan tesz azért, hogy szülővárosát élhetőbbé tegye: közösséget épít, rendhagyó kezdeményezéseket indít, és kiemelten fontosnak tartja a természeti környezet védelmét. A gyergyószentmiklósi Musulin Péter önkéntes, egyesületi vezető és vállalkozó egyszerre, aki szabadidejét a közösségért végzett munkával tölti ki.]]></description>
-      <pubDate>Sat, 01 Aug 2026 19:07:46 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/1200x630/1785486562_0_01_csaladi_kiajalno_bszsz_jul_31.png" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/1200x630/1785486562_0_01_csaladi_kiajalno_bszsz_jul_31.png" type="image/png" length="0"/>
     </item>
   </channel>
 </rss>
