@@ -1,5 +1,149 @@
 [
   {
+    "title": "[Hargita Népe] Sport röviden (08. 03.)",
+    "link": "https://hargitanepe.ro/sport-roviden-08-03",
+    "description": "Sport röviden (08. 03.)",
+    "image": "https://hargitanepe.ro/images/data/423x222/1781778310_0_sport.jpg",
+    "published": "2026-08-03T12:23:18.754509+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Újabb FK-vereség a Szuperligában",
+    "link": "https://hargitanepe.ro/harombol-semmi-a-csiki-merleg",
+    "description": "Újabb FK-vereség a Szuperligában",
+    "image": "https://hargitanepe.ro/images/data/423x222/1785740568_0_foci_agfk.jpg",
+    "published": "2026-08-03T12:23:18.754447+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Ezüstéremmel zártak az FK Csíkszereda fiataljai",
+    "link": "https://hargitanepe.ro/eszeki-cimvedes",
+    "description": "Ezüstéremmel zártak az FK Csíkszereda fiataljai",
+    "image": "https://hargitanepe.ro/images/data/423x222/1785740844_0_ififoci_FKCS_Eszek.jpg",
+    "published": "2026-08-03T12:23:18.754388+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Két román és egy magyar csapat búcsúzott",
+    "link": "https://hargitanepe.ro/megfogyatkoztak",
+    "description": "Két román és egy magyar csapat búcsúzott",
+    "image": "https://hargitanepe.ro/images/data/423x222/1785741807_0_foci_kupak_fradiel.jpg",
+    "published": "2026-08-03T12:23:18.754269+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] A rajt előtt változott a 2. Liga mezőnye",
+    "link": "https://hargitanepe.ro/a-rajt-elott-valtozott-a-2-liga-mezonye",
+    "description": "Szombaton rajtolt a labdarúgó 2. Liga 2026/2027-es kiírása, egy nappal korábban viszont változott a pontvadászat mezőnye. A tavasszal a Szuperligától búcsúzó FC Hermannstadt megszűnt, helyét az a VSK Olimpia Szatmárnémeti vehette át a 2. Ligában, amely májusban esett ki a másodosztályból. Szerdára napolták a szatmáriak meccsét.",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1785742092_0_foci_szatmar.jpg",
+    "published": "2026-08-03T12:23:18.754204+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Zárjuk ki a kellemetlen meglepetéseket!",
+    "link": "https://hargitanepe.ro/utravalo-biztonsagos-nyaralashoz-2026-07-31",
+    "description": "Zárjuk ki a kellemetlen meglepetéseket!",
+    "image": "https://hargitanepe.ro/images/data/423x222/1785486838_0_budoar_magnific.jpg",
+    "published": "2026-08-03T12:23:18.754143+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] A legtöbben rosszul kezdik",
+    "link": "https://hargitanepe.ro/futas-az-altalanos-egeszsegert-2026-07-31",
+    "description": "A legtöbben rosszul kezdik",
+    "image": "https://hargitanepe.ro/images/data/423x222/1785487132_0_szaladas_vlaicu_lajos.jfif",
+    "published": "2026-08-03T12:23:18.754084+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Gyönyörű a gernyeszegi Teleki-kastély",
+    "link": "https://hargitanepe.ro/ujra-ragyog-a-maros-ekkove",
+    "description": "Gyönyörű a gernyeszegi Teleki-kastély",
+    "image": "https://hargitanepe.ro/images/data/423x222/1785488303_4_kastely_1.jpeg",
+    "published": "2026-08-03T12:23:18.753971+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Feltöltő(n)",
+    "link": "https://hargitanepe.ro/feltolton-2026-07-31",
+    "description": "Feltöltő(n)",
+    "image": "https://hargitanepe.ro/images/data/423x222/1785488614_0_Daczo_Kati_ML.jpg",
+    "published": "2026-08-03T12:23:18.753880+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Ezüstéremmel zártak az FK Csíkszereda fiataljai",
+    "link": "https://hargitanepe.ro/hirek/foci/eszeki-cimvedes",
+    "description": "Ezüstéremmel zártak az FK Csíkszereda fiataljai",
+    "image": "https://hargitanepe.ro/images/data/423x222/1785740844_0_ififoci_FKCS_Eszek.jpg",
+    "published": "2026-08-03T12:23:18.753559+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Nyerges-tető",
+    "link": "https://hargitanepe.ro/hirek/csikszek/hosi-helytallasra-emlekeztek",
+    "description": "Nyerges-tető",
+    "image": "https://hargitanepe.ro/images/data/423x222/1785739556_0_nyergestetoimegemlekezes1_foto_Tanczos",
+    "published": "2026-08-03T12:23:18.753478+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Újabb FK-vereség a Szuperligában",
+    "link": "https://hargitanepe.ro/hirek/foci/harombol-semmi-a-csiki-merleg",
+    "description": "Újabb FK-vereség a Szuperligában",
+    "image": "https://hargitanepe.ro/images/data/423x222/1785740568_0_foci_agfk.jpg",
+    "published": "2026-08-03T12:23:18.753415+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Két román és egy magyar csapat búcsúzott",
+    "link": "https://hargitanepe.ro/hirek/foci/megfogyatkoztak",
+    "description": "Két román és egy magyar csapat búcsúzott",
+    "image": "https://hargitanepe.ro/images/data/423x222/1785741807_0_foci_kupak_fradiel.jpg",
+    "published": "2026-08-03T12:23:18.753350+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Élénk érdeklődés kísérte a Csíkszeredai Városnapokat",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/pro-urbe-dijat-kapott-adam-katalin-es-gyorfi-erzsebet",
+    "description": "Élénk érdeklődés kísérte a Csíkszeredai Városnapokat",
+    "image": "https://hargitanepe.ro/images/data/423x222/1785742402_2_prourbe_csikszeredaivarosnapok_web.jpg",
+    "published": "2026-08-03T12:23:18.753283+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Nagyszeben helyett Szatmárnémeti indulhat a másodosztályban",
+    "link": "https://hargitanepe.ro/hirek/foci/a-rajt-elott-valtozott-a-2-liga-mezonye",
+    "description": "Nagyszeben helyett Szatmárnémeti indulhat a másodosztályban",
+    "image": "https://hargitanepe.ro/images/data/423x222/1785742092_0_foci_szatmar.jpg",
+    "published": "2026-08-03T12:23:18.753213+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Közbiztonsági beruházás Székelyudvarhelyen",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/figyelnek-az-uj-kamerak",
+    "description": "Tesztüzembe helyezték az új kamerarendszert Szé­kely­ud­var­he­lyen, a be­ru­há­zást várhatóan még ebben a hónapban átveszi az önkormányzat.",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1785743927_1_kamerarendszer_hi06.jpg",
+    "published": "2026-08-03T12:23:18.753080+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] Sikerrel zárult a II. Nemzetközi Építőtábor Abásfalván és Homoródkeményfalván",
     "link": "https://hargitanepe.ro/kozosseget-is-epitettek-a-gyori-epiteszhallgatok-2026-07-15",
     "description": "Sikerrel zárult a II. Nemzetközi Építőtábor Abásfalván és Homoródkeményfalván",
@@ -995,141 +1139,6 @@
     "description": "A magyarországi közmédia nem tart rá igényt, alkotói mégis elkészítenék a 440 részesre tervezett Hazajáró honismereti-turisztikai műsor utolsó hiányzó 11 epizódját, hogy méltó módon, egészként zárhassák le a sorozatot. Szándékukat Székelyföldről is sokan támogatják.",
     "image": "https://hargitanepe.ro/images/data/1200x630/1785314325_1_hazajarok_web.jpg",
     "published": "2026-07-29T14:09:52.788333+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Illetéktelenek kértek belépődíjat",
-    "link": "https://hargitanepe.ro/nem-kell-fizetni-a-jezus-szive-kilato-latogatasaert",
-    "description": "Illetéktelenek kértek belépődíjat",
-    "image": "https://hargitanepe.ro/images/data/423x222/1785263449_0_jegyertekesites_a_jezus_kilatonal_visit_harghita_web.jpg",
-    "published": "2026-07-29T11:26:19.535949+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Visszafogottabb közösségi ünnep",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/gazdag-programkinalat-az-idei-csikszeredai-varosnapokon",
-    "description": "Visszafogottabb közösségi ünnep",
-    "image": "https://hargitanepe.ro/images/data/423x222/1785311262_0_varosnap_sajttaj_lfcs-1-_web.jpg",
-    "published": "2026-07-29T11:26:19.535612+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Vaslábi vízhálózat",
-    "link": "https://hargitanepe.ro/hirek/gyergyoszek/folytatjak-az-elkezdett-munkat",
-    "description": "Vaslábi vízhálózat",
-    "image": "https://hargitanepe.ro/images/data/423x222/1785312363_0_vaslabiph_vaslabfb_web.jpg",
-    "published": "2026-07-29T11:26:19.535542+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Általános sztrájk a Hargita megyei kórházakban is",
-    "link": "https://hargitanepe.ro/hirek/hargita-megye/nem-allt-le-a-betegellatas-az-intezmenyekben",
-    "description": "Egyhetes figyelmeztető sztrájk után kedden általános tiltakozásba kezdtek az egészségügyi dolgozók. A Sanitas Szakszervezeti Szövetség által kezdeményezett akció nem befolyásolja a betegellátást.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1785311931_0_sztrajkudvkorhaz_hi03_web.jpg",
-    "published": "2026-07-29T11:26:19.535458+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Sport röviden (07.29.)",
-    "link": "https://hargitanepe.ro/sport-roviden-0729",
-    "description": "Sport röviden (07.29.)",
-    "image": "https://hargitanepe.ro/images/data/423x222/1781778310_0_sport.jpg",
-    "published": "2026-07-29T08:40:33.020753+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Melyik volt a legjobb?",
-    "link": "https://hargitanepe.ro/melyik-volt-a-legjobb",
-    "description": "Miközben a Nemzetközi Labdarúgó-szövetség (FIFA) – mintegy önmagát igazolva – váltig hangoztatja, hogy az idei, 48 csapatosra duzzasztott labdarúgó-világbajnokság színvonalában nem okozott csalódást, mi több, az észak-amerikai volt az egyik legjobb focivébé, egy friss elemzés szerint ez koránt sincs így. Sőt, az Egyesült Államokban, Mexikóban és Kanadában rendezett torna a vébék történetében az első ötbe sem fért be.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1785308635_0_0728_focivbhez.jpg",
-    "published": "2026-07-29T08:40:33.020686+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Víz alatti kiállítás: 10 templomot mutatnak be",
-    "link": "https://hargitanepe.ro/lelegzet-visszafojtva",
-    "description": "Víz alatti kiállítás: 10 templomot mutatnak be",
-    "image": "https://hargitanepe.ro/images/data/423x222/1785236210_0_facebookkolosszabo.jpg",
-    "published": "2026-07-29T08:40:33.020526+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] CariTámasz – ápolási útmutató családtagoknak (7. rész)",
-    "link": "https://hargitanepe.ro/eletveszelyben-legrosszabb-a-tetlenseg",
-    "description": "CariTámasz – ápolási útmutató családtagoknak (7. rész)",
-    "image": "https://hargitanepe.ro/images/data/423x222/1785236667_0_caritas_idosgondozas_lfcs-30-_web.jpg",
-    "published": "2026-07-29T08:40:33.020466+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Az ember tragédia",
-    "link": "https://hargitanepe.ro/nemzetkozi-hakni-fesztival-2-resz",
-    "description": "Az ember tragédia",
-    "image": "https://hargitanepe.ro/images/data/423x222/1747219784_bloff_webre.jpg",
-    "published": "2026-07-29T08:40:33.020402+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Heti Damó",
-    "link": "https://hargitanepe.ro/2026-07-28-heti-damo-2026-07-28",
-    "description": "Heti Damó",
-    "image": "https://hargitanepe.ro/images/data/423x222/1785237267_0_damo.jpg",
-    "published": "2026-07-29T08:40:33.020336+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Blöff",
-    "link": "https://hargitanepe.ro/bloff-2026-07-28",
-    "description": "Blöff",
-    "image": "https://hargitanepe.ro/images/data/423x222/1785237413_0_szekeres_urologusos.jpg",
-    "published": "2026-07-29T08:40:33.020265+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Megbízhatóság, kényelem, mobilitás",
-    "link": "https://hargitanepe.ro/hirek/friss/roncsprogram-a-mida-nal",
-    "description": "Megbízhatóság, kényelem, mobilitás",
-    "image": "https://hargitanepe.ro/images/data/423x222/1785306221_0_mida_lfcsweb.jpg",
-    "published": "2026-07-29T08:40:33.019956+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Rangsorolták a labdarúgó-világbajnokságokat",
-    "link": "https://hargitanepe.ro/hirek/foci/melyik-volt-a-legjobb",
-    "description": "Rangsorolták a labdarúgó-világbajnokságokat",
-    "image": "https://hargitanepe.ro/images/data/423x222/1785308635_0_0728_focivbhez.jpg",
-    "published": "2026-07-29T08:40:33.019890+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Vandalizmus a bosznia-hercegovinai Medjugorjéban",
-    "link": "https://hargitanepe.ro/hirek/kulfold/maria-szobrokat-rongaltak-meg-oltart-gyujtottak-fel",
-    "description": "Vandalizmus a bosznia-hercegovinai Medjugorjéban",
-    "image": "https://hargitanepe.ro/images/data/423x222/1785312981_0_devil_szobor_rongalas_boszniaban_radio_maria_fb.jpg",
-    "published": "2026-07-29T08:40:33.019714+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Illetéktelenek kértek belépődíjat",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/nem-kell-fizetni-a-jezus-szive-kilato-latogatasaert",
-    "description": "A napokban több turistától belépődíjat kértek a Farkaslaka községbeli Gordon-tetőn magasodó Jézus Szíve kilátóhoz – derült ki közösségi médiás bejegyzésekből. A hír felháborodást keltett, mivel a tizenhárom éve felavatott, a látogatók körében népszerű, huszonkét méter magas, fémszerkezetű, Jézust ábrázoló kilátó ingyenesen látogatható.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1785263449_0_jegyertekesites_a_jezus_kilatonal_visit_harghita_web.jpg",
-    "published": "2026-07-29T08:40:33.019626+00:00",
     "author": "Hargita Népe",
     "category": "Hargita Népe"
   }
