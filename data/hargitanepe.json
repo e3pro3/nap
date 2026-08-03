@@ -1,5 +1,50 @@
 [
   {
+    "title": "[Hargita Népe] Három nagyszabású produkcióval érkezik Csíkszeredába a Kolozsvári Magyar Opera",
+    "link": "https://hargitanepe.ro/hirek/csikszek/ot-nap-egy-operaelmeny",
+    "description": "Három nagyszabású produkcióval érkezik Csíkszeredába a Kolozsvári Magyar Opera",
+    "image": "https://hargitanepe.ro/images/data/423x222/1785759849_0_WhatsApp",
+    "published": "2026-08-03T17:08:58.377619+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Székely Konyha és Kert",
+    "link": "https://szekelykonyhaeskert.ro/recept/1984-hentestokany",
+    "description": "Székely Konyha és Kert",
+    "image": "https://hargitanepe.ro/images/data/423x222/1785744580_0_NIK_0089.jpg",
+    "published": "2026-08-03T17:08:58.377574+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Energetikai vészhelyzet",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/elterelik-a-dunat-hogy-mukodhessen-az-atomeromu",
+    "description": "Energetikai vészhelyzet",
+    "image": "https://hargitanepe.ro/images/data/423x222/1785744716_0_cernavoda_nuclearelectrica_oficial_fb2_web.jpg",
+    "published": "2026-08-03T17:08:58.377524+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Új szabályok augusztustól",
+    "link": "https://hargitanepe.ro/hirek/belfold/alapertelmezette-valt-az-elektronikus-szemelyi",
+    "description": "Új szabályok augusztustól",
+    "image": "https://hargitanepe.ro/images/data/423x222/1753171994_csikszereda_eszemelyi_lfcs(3)_web.JPG",
+    "published": "2026-08-03T17:08:58.377479+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Elkészült az óvoda Homoródszentmártonban",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/eredmenyes-volt-a-hosszu-varakozas",
+    "description": "Hosszú idő után elkészült az új óvoda Homoród­szentmártonban, a gyermekek az előző tanév végén már birtokba is vehették a teljesen új berendezéssel ellátott épületet.",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1785745852_7_homorodszentmartoniovoda_hi08_cm.jpg",
+    "published": "2026-08-03T17:08:58.377410+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] Sport röviden (08. 03.)",
     "link": "https://hargitanepe.ro/sport-roviden-08-03",
     "description": "Sport röviden (08. 03.)",
@@ -1040,105 +1085,6 @@
     "description": "Egy jó ápolónál a szakmai tudás mellett az empátia és a szolgáló szeretet is elengedhetetlen – vallja Balássy Ildikó, a Csíkszeredai Megyei Sürgősségi Kórház ápolási igazgatója, hangsúlyozva: az ápolói hivatás alapja ma is a betegközpontú szemlélet, a hatékony kommunikáció és az emberi odafigyelés. Az egészségügyi szakembert a túlterheltség kihívásairól, a kiégés megelőzéséről is kérdeztük.",
     "image": "https://hargitanepe.ro/images/data/1200x630/1785238663_0_09_BalassyIldiko_lfcs-2-_web.jpg",
     "published": "2026-07-29T19:16:12.226847+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Harmadik éve a közönség szolgálatában a Henter-kúria",
-    "link": "https://hargitanepe.ro/tobb-alternativat-talaltak-a-mukodtetesre-2026-07-14",
-    "description": "Harmadik éve a közönség szolgálatában a Henter-kúria",
-    "image": "https://hargitanepe.ro/images/data/423x222/1784014988_10_15_henterkuria_vn_003_cm.jpg",
-    "published": "2026-07-29T16:21:35.629679+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Három tízes Hargita megyében",
-    "link": "https://hargitanepe.ro/harom-tizes-hargita-megyeben",
-    "description": "Három tízes Hargita megyében",
-    "image": "https://hargitanepe.ro/images/data/423x222/1784096461_2_tanari",
-    "published": "2026-07-29T16:21:35.629002+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Akcióban a székelyudvarhelyi helyi rendőrség",
-    "link": "https://hargitanepe.ro/hirek/udvarhelyszek/vakacios-bajok-a-koztereken",
-    "description": "Akcióban a székelyudvarhelyi helyi rendőrség",
-    "image": "https://hargitanepe.ro/images/data/423x222/1785312661_0_kozrend_fiatalok_vakacio_udv_FB_web.jpg",
-    "published": "2026-07-29T16:21:35.628748+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] A Sapientia büszkeségei – Beszélgetés dr. Nagy Szerénával",
-    "link": "https://hargitanepe.ro/hirek/sapi-nepe/nincs-lehetetlen-csak-tehetetlen-ember",
-    "description": "A Sapientia büszkeségei sorozatban többnyire olyan egykori hallgatókat mutatunk be, akik jelenleg doktori tanulmányaikat végzik. Ezúttal azonban egy olyan volt sapientiás hallgatóval beszélgettünk, aki már sikeres doktori védést tudhat maga mögött, és ma a Sapientia EMTE Csíkszeredai Karának oktatója. Dr. Nagy Szeréna az agrár- és élelmiszeripari gazdasági szakon végzett, kutatási területe a mezőgazdaság digitalizációja. Vele beszélgettünk pályaválasztásról, kitartásról, doktori tapasztalatokról és az akadémiai pálya kihívásairól.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1785318156_0_DrNagySzerena.jpg",
-    "published": "2026-07-29T16:21:35.628665+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Mikorrhizált mogyorócsemete-ültetvény Csíkmadarason",
-    "link": "https://hargitanepe.ro/medve-ellen-szarvasgomba",
-    "description": "Mikorrhizált mogyorócsemete-ültetvény Csíkmadarason",
-    "image": "https://hargitanepe.ro/images/data/423x222/1780994840_0_agrar_mogyoro_lfcs-3-_web.jpg",
-    "published": "2026-07-29T14:09:52.789532+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Megyei agrárstatisztika: tovább zsugorodik a burgonya termőterülete",
-    "link": "https://hargitanepe.ro/jol-lathatoan-atrendezodik-a-vetesszerkezet",
-    "description": "Megyei agrárstatisztika: tovább zsugorodik a burgonya termőterülete",
-    "image": "https://hargitanepe.ro/images/data/423x222/1783422663_0_1_agrar_buza_pityoka_csikszentimre_lfcs-4-.jpg",
-    "published": "2026-07-29T14:09:52.789322+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Áll a forgalom – halálos baleset történt Homoródfürdőn",
-    "link": "https://hargitanepe.ro/all-a-forgalom-halalos-baleset-tortent-homorodfurdon",
-    "description": "Áll a forgalom – halálos baleset történt Homoródfürdőn",
-    "image": "https://hargitanepe.ro/images/data/423x222/1785308355_0_3.jpeg",
-    "published": "2026-07-29T14:09:52.788849+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Megbízhatóság, kényelem, mobilitás",
-    "link": "https://hargitanepe.ro/roncsprogram-a-mida-nal",
-    "description": "Megbízhatóság, kényelem, mobilitás",
-    "image": "https://hargitanepe.ro/images/data/423x222/1785306221_0_mida_lfcsweb.jpg",
-    "published": "2026-07-29T14:09:52.788791+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] A szakszervezeteknek tetszik Cseke Attila javaslata",
-    "link": "https://hargitanepe.ro/hirek/belfold/emelhetik-az-ugyeleti-potlekot",
-    "description": "A szakszervezeteknek tetszik Cseke Attila javaslata",
-    "image": "https://hargitanepe.ro/images/data/423x222/1785315625_0_cseke_web.jpg",
-    "published": "2026-07-29T14:09:52.788493+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Helyreállítás a Bucsin negyedben",
-    "link": "https://hargitanepe.ro/hirek/gyergyoszek/rendbe-teszik-a-feltort-utakat",
-    "description": "Helyreállítás a Bucsin negyedben",
-    "image": "https://hargitanepe.ro/images/data/423x222/1785315012_0_bucsinnegyed_bph_web.jpg",
-    "published": "2026-07-29T14:09:52.788432+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Közösségi adakozás fedezheti a honismereti műsor hátralévő epizódjainak produkciós költségeit, székelyföldi települések is felpártolták",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/hazajarok-gidofalva-az-elsok-kozott-segitett",
-    "description": "A magyarországi közmédia nem tart rá igényt, alkotói mégis elkészítenék a 440 részesre tervezett Hazajáró honismereti-turisztikai műsor utolsó hiányzó 11 epizódját, hogy méltó módon, egészként zárhassák le a sorozatot. Szándékukat Székelyföldről is sokan támogatják.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1785314325_1_hazajarok_web.jpg",
-    "published": "2026-07-29T14:09:52.788333+00:00",
     "author": "Hargita Népe",
     "category": "Hargita Népe"
   }
