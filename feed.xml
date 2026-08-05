@@ -5,9 +5,31 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Tue, 04 Aug 2026 22:11:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 02:30:38 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Borászat az Érmelléken</title>
+      <link>https://hargitanepe.ro/lengyel-csaba-sziv-lelek-es-alazat-vezerel</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/lengyel-csaba-sziv-lelek-es-alazat-vezerel</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1782293382_0__4_lengyelcsaba_borasz_lfcs-2-.jpg" /><br/>Borászat az Érmelléken]]></description>
+      <pubDate>Wed, 05 Aug 2026 02:30:38 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1782293382_0__4_lengyelcsaba_borasz_lfcs-2-.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1782293382_0__4_lengyelcsaba_borasz_lfcs-2-.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] János Előd: A székely pálinka minőségi fejlődése megkérdőjelezhetetlen</title>
+      <link>https://hargitanepe.ro/a-keritesszaggatok-kora-lejart-2026-07-21</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/a-keritesszaggatok-kora-lejart-2026-07-21</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1784620635_1_palinka_janos" /><br/>János Előd: A székely pálinka minőségi fejlődése megkérdőjelezhetetlen]]></description>
+      <pubDate>Wed, 05 Aug 2026 02:30:38 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1784620635_1_palinka_janos" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1784620635_1_palinka_janos" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Tolcsvay Béla Erdély miatt nem dobta el a gitárját</title>
       <link>https://hargitanepe.ro/hirek/video/az-enekmondo-tunderorszaga</link>
@@ -425,28 +447,6 @@
       <author>Hargita Népe</author>
       <media:content url="https://hargitanepe.ro/images/data/1200x630/1785826212_0_gyergyo_mamuvesztabor_szarhegyikulturaliskozpont_web.jpg" medium="image"/>
       <enclosure url="https://hargitanepe.ro/images/data/1200x630/1785826212_0_gyergyo_mamuvesztabor_szarhegyikulturaliskozpont_web.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Hamarosan befejeződik a vajdahunyadi vár felújítása (FOTÓK)</title>
-      <link>https://maszol.ro/belfold/Hamarosan-befejezodik-a-vajdahunyadi-var-felujitasa-FOTOK</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Hamarosan-befejezodik-a-vajdahunyadi-var-felujitasa-FOTOK</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/04/cikk_vajdahunyadi_var_1_primaria_hunedoara_.jpg" /><br/>Hamarosan befejeződik a vajdahunyadi vár felújítása (FOTÓK)]]></description>
-      <pubDate>Tue, 04 Aug 2026 11:23:02 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/04/cikk_vajdahunyadi_var_1_primaria_hunedoara_.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/04/cikk_vajdahunyadi_var_1_primaria_hunedoara_.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] FRISSÍTVE – Súlyos baleset: egy motoros az életét vesztette</title>
-      <link>https://maszol.ro/belfold/Sulyos-baleset-egy-motorost-probalnak-ujraeleszteni</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Sulyos-baleset-egy-motorost-probalnak-ujraeleszteni</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/04/cikk_baleset_infotrafic_bh_kepernyomentes_(1).png" /><br/>FRISSÍTVE – Súlyos baleset: egy motoros az életét vesztette]]></description>
-      <pubDate>Tue, 04 Aug 2026 11:23:02 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/04/cikk_baleset_infotrafic_bh_kepernyomentes_(1).png" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/04/cikk_baleset_infotrafic_bh_kepernyomentes_(1).png" type="image/png" length="0"/>
     </item>
   </channel>
 </rss>
