@@ -5,9 +5,31 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Fri, 07 Aug 2026 18:56:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 21:38:39 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Porta</title>
+      <link>https://hargitanepe.ro/ilyen-antal-zoltan-epitesz-portaja</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/ilyen-antal-zoltan-epitesz-portaja</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/assets/img/video-tag.svg" /><br/>Porta]]></description>
+      <pubDate>Fri, 07 Aug 2026 21:38:39 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/assets/img/video-tag.svg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/assets/img/video-tag.svg" type="image/svg+xml" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Nem előadásokat tartanak, hanem élményt adnak</title>
+      <link>https://hargitanepe.ro/nem-eloadasokat-tartanak-hanem-elmenyt-adnak</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/nem-eloadasokat-tartanak-hanem-elmenyt-adnak</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/assets/img/gallery-tag.svg" /><br/>Jakab Zoltán és Izabella története nem egy házvásárlással kezdődött, hanem egy érzéssel. Közel húsz évvel ezelőtt, amikor a környéken kirándulva járták Oroszhegy eldugott utcáit, egy régi ösvényen érkeztek le arra a portára, amely később az otthonukká vált. A patak csobogása, a kicsi székelykapu, a belső udvaros porta, a csűr és a régi parasztház olyan erős benyomást tett Izabellára, aki Magyarországról költözött ide, hogy már az első pillanatban azt mondta: „Én így képzeltem a székelységet.”]]></description>
+      <pubDate>Fri, 07 Aug 2026 21:38:39 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/assets/img/gallery-tag.svg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/assets/img/gallery-tag.svg" type="image/svg+xml" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Blokád</title>
       <link>https://hargitanepe.ro/nehez-helyzetbe-hozza-a-juhtenyesztoket-az-orszagot-sujto-exporttilalom</link>
@@ -425,28 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_augusztus/07/cikksmall_benzinkut-Pixabay-Alexander-Fox.jpg" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_augusztus/07/cikksmall_benzinkut-Pixabay-Alexander-Fox.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Hagyományt teremtenek és jövőt építenek – Ötéves a Partiumi Keresztény Egyetem Alumni Napja</title>
-      <link>https://maszol.ro/belfold/Hagyomanyt-teremtenek-es-jovot-epitenek-Oteves-a-Partiumi-Kereszteny-Egyetem-Alumni-Napja</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Hagyomanyt-teremtenek-es-jovot-epitenek-Oteves-a-Partiumi-Kereszteny-Egyetem-Alumni-Napja</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/07/cikksmall_alumni_PkE_Maior_Eniko.jpg" /><br/>Hagyományt teremtenek és jövőt építenek – Ötéves a Partiumi Keresztény Egyetem Alumni Napja]]></description>
-      <pubDate>Fri, 07 Aug 2026 13:02:47 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/07/cikksmall_alumni_PkE_Maior_Eniko.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/07/cikksmall_alumni_PkE_Maior_Eniko.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Családbarát videósorozattal népszerűsíti Marosvásárhelyt a Visit Maros</title>
-      <link>https://maszol.ro/kultura/Csaladbarat-videosorozattal-nepszerusiti-Marosvasarhelyt-a-Visit-Maros</link>
-      <guid isPermaLink="true">https://maszol.ro/kultura/Csaladbarat-videosorozattal-nepszerusiti-Marosvasarhelyt-a-Visit-Maros</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/07/cikksmall_Marosvasarhely.jpg" /><br/>Családbarát videósorozattal népszerűsíti Marosvásárhelyt a Visit Maros]]></description>
-      <pubDate>Fri, 07 Aug 2026 13:02:47 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/07/cikksmall_Marosvasarhely.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/07/cikksmall_Marosvasarhely.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
