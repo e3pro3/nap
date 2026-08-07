@@ -1,5 +1,59 @@
 [
   {
+    "title": "[Hargita Népe] Vízhiány Sóvidéken",
+    "link": "https://hargitanepe.ro/vizhiany-sovideken",
+    "description": "Vízhiány Sóvidéken",
+    "image": "https://hargitanepe.ro/images/data/423x222/1786100086_0_vizhiany_ilusztr_lfcs-3-_web.jpg",
+    "published": "2026-08-07T15:55:45.431793+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Beindult a Fuss NEKI! Udvarhely",
+    "link": "https://hargitanepe.ro/penz-helyett-tudast-is-fel-lehet-ajanlani",
+    "description": "Beindult a Fuss NEKI! Udvarhely",
+    "image": "https://hargitanepe.ro/images/data/423x222/1786087039_0_fussneki_hi03_web.jpg",
+    "published": "2026-08-07T15:55:45.431721+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Per aspera ad astra",
+    "link": "https://hargitanepe.ro/hamarosan-birtokba-veszi-a-varos-a-csillagvizsgalot",
+    "description": "Per aspera ad astra",
+    "image": "https://hargitanepe.ro/images/data/423x222/1786087555_1_csillagvizsgalolombkoronasetany_hi02_web.jpg",
+    "published": "2026-08-07T15:55:45.431661+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Szerződés-aláírás",
+    "link": "https://hargitanepe.ro/tobb-mint-54-millio-lejbol-bovitik-a-viz-es-csatornahalozatot-csikszentmartonban-es-csikszentsimonban",
+    "description": "Szerződés-aláírás",
+    "image": "https://hargitanepe.ro/images/data/423x222/1786096060_7_harvizszerzodes_vn_008.jpg",
+    "published": "2026-08-07T15:55:45.431591+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Döntött a legfelsőbb bíróság",
+    "link": "https://hargitanepe.ro/hirek/belfold/elkezdodhet-calin-georgescu-pere",
+    "description": "Döntött a legfelsőbb bíróság",
+    "image": "https://hargitanepe.ro/images/data/423x222/1786091299_0_calingeorgesu_fb2.jpg",
+    "published": "2026-08-07T15:55:45.431219+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Orgonára gyűjt a csíkszeredai református közösség",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/megszolalo-almot-epitenek",
+    "description": "Közadakozásból építtet sípos orgonát a csíkszeredai református gyülekezet. A templomban jelenleg csupán egy elektronikus harmónium szolgálja az istentiszteleteket, ezért a közösség régi vágya, hogy méltó hangszer szólaljon meg az immár több mint negyed évszázada épített istenházában.",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1786090437_2_reformatusorgona_vn_004_web.jpg",
+    "published": "2026-08-07T15:55:45.431131+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] Főpróba a kerek évforduló előtt a Krigel pályán",
     "link": "https://hargitanepe.ro/zarandoklattal-indul-az-idei-lovas-unnep",
     "description": "Főpróba a kerek évforduló előtt a Krigel pályán",
@@ -1463,24 +1517,6 @@
     "description": "Jakab Zoltán és Izabella története nem egy házvásárlással kezdődött, hanem egy érzéssel. Közel húsz évvel ezelőtt, amikor a környéken kirándulva járták Oroszhegy eldugott utcáit, egy régi ösvényen érkeztek le arra a portára, amely később az otthonukká vált. A patak csobogása, a kicsi székelykapu, a belső udvaros porta, a csűr és a régi parasztház olyan erős benyomást tett Izabellára, aki Magyarországról költözött ide, hogy már az első pillanatban azt mondta: „Én így képzeltem a székelységet.”",
     "image": "https://hargitanepe.ro/assets/img/gallery-tag.svg",
     "published": "2026-08-02T16:02:35.293752+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Blokád",
-    "link": "https://hargitanepe.ro/nehez-helyzetbe-hozza-a-juhtenyesztoket-az-orszagot-sujto-exporttilalom",
-    "description": "Blokád",
-    "image": "https://hargitanepe.ro/images/data/423x222/1783424023_0_IMG_7177.jpg",
-    "published": "2026-08-02T13:20:54.056893+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Sport röviden (07. 28.)",
-    "link": "https://hargitanepe.ro/sport-roviden-07-28",
-    "description": "Sport röviden (07. 28.)",
-    "image": "https://hargitanepe.ro/images/data/423x222/1781778310_0_sport.jpg",
-    "published": "2026-08-02T13:20:54.056751+00:00",
     "author": "Hargita Népe",
     "category": "Hargita Népe"
   }
