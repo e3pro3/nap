@@ -5,9 +5,31 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Thu, 06 Aug 2026 23:59:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 03:11:59 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] A ház, ahol a csendnek is emlékezete van</title>
+      <link>https://hargitanepe.ro/lucia-nover-oroksege-ma-is-el-remeten</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/lucia-nover-oroksege-ma-is-el-remeten</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/assets/img/gallery-tag.svg" /><br/>A ház, ahol a csendnek is emlékezete van]]></description>
+      <pubDate>Fri, 07 Aug 2026 03:11:59 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/assets/img/gallery-tag.svg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/assets/img/gallery-tag.svg" type="image/svg+xml" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Vízhiánnyal küzd az agrárium</title>
+      <link>https://hargitanepe.ro/megallithatatlanul-szarad-ki-a-csiki-medence</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/megallithatatlanul-szarad-ki-a-csiki-medence</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1782290629_0__2_3_vizek_olt_vizgazdalkodas_dronfoto_lfcs.jpg" /><br/>Vízhiánnyal küzd az agrárium]]></description>
+      <pubDate>Fri, 07 Aug 2026 03:11:59 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1782290629_0__2_3_vizek_olt_vizgazdalkodas_dronfoto_lfcs.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1782290629_0__2_3_vizek_olt_vizgazdalkodas_dronfoto_lfcs.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] A tehéntejtermelés gyengélkedig, miközben…</title>
       <link>https://hargitanepe.ro/nott-a-vagasra-szant-allatok-szama</link>
@@ -425,28 +447,6 @@
       <author>Hargita Népe</author>
       <media:content url="https://hargitanepe.ro/images/data/1200x630/1786003566_0_medve_koszarobert_01_web.jpg" medium="image"/>
       <enclosure url="https://hargitanepe.ro/images/data/1200x630/1786003566_0_medve_koszarobert_01_web.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Földrengés volt csütörtökön: augusztusban már az ötödik</title>
-      <link>https://maszol.ro/belfold/Foldrenges-volt-csutortokon-augusztusban-mar-az-otodik</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Foldrenges-volt-csutortokon-augusztusban-mar-az-otodik</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/06/cikk_foldrenges_foldmozgas_muszer_ager-epa_(3)_(1).jpg" /><br/>Földrengés volt csütörtökön: augusztusban már az ötödik]]></description>
-      <pubDate>Thu, 06 Aug 2026 11:22:33 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/06/cikk_foldrenges_foldmozgas_muszer_ager-epa_(3)_(1).jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/06/cikk_foldrenges_foldmozgas_muszer_ager-epa_(3)_(1).jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Jögerős döntés: kezdődhet Călin Georgescu és a zsoldosok pere</title>
-      <link>https://maszol.ro/belfold/Jogeros-dontes-kezdodhet-Calin-Georgescu-es-a-zsoldosok-pere</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Jogeros-dontes-kezdodhet-Calin-Georgescu-es-a-zsoldosok-pere</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/06/cikk_calin_georgescu_250804_agerpres.jpg" /><br/>Jögerős döntés: kezdődhet Călin Georgescu és a zsoldosok pere]]></description>
-      <pubDate>Thu, 06 Aug 2026 11:22:33 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/06/cikk_calin_georgescu_250804_agerpres.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/06/cikk_calin_georgescu_250804_agerpres.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
