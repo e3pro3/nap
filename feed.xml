@@ -5,9 +5,31 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Sun, 09 Aug 2026 04:17:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 06:56:09 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Székely Konyha és Kert</title>
+      <link>https://szekelykonyhaeskert.ro/recept/1983-fustolt-hal-egressel</link>
+      <guid isPermaLink="true">https://szekelykonyhaeskert.ro/recept/1983-fustolt-hal-egressel</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/1200x630/1786095686_0_NIK_0050.jpg" /><br/>Székely Konyha és Kert]]></description>
+      <pubDate>Sun, 09 Aug 2026 06:56:09 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/1200x630/1786095686_0_NIK_0050.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/1200x630/1786095686_0_NIK_0050.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Erdély legjei-válogatás: TOP 4 felejthetetlen program a hétvégére</title>
+      <link>https://maszol.ro/kultura/Erdely-legjei-valogatas-TOP-5-felejthetetlen-program-a-hetvegere</link>
+      <guid isPermaLink="true">https://maszol.ro/kultura/Erdely-legjei-valogatas-TOP-5-felejthetetlen-program-a-hetvegere</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2024augusztus/09/cikk_kirandulas-maszol.jpg" /><br/>Erdély legjei-válogatás: TOP 4 felejthetetlen program a hétvégére]]></description>
+      <pubDate>Sun, 09 Aug 2026 06:56:07 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2024augusztus/09/cikk_kirandulas-maszol.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2024augusztus/09/cikk_kirandulas-maszol.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Harmadik éve a közönség szolgálatában a Henter-kúria</title>
       <link>https://hargitanepe.ro/tobb-alternativat-talaltak-a-mukodtetesre-2026-07-14</link>
@@ -425,28 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2024augusztus/02/cikk_BagossyNorbert_kavezas_(2).png" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2024augusztus/02/cikk_BagossyNorbert_kavezas_(2).png" type="image/png" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Csomafalván zajlik az EKE idei vándortábora</title>
-      <link>https://hargitanepe.ro/ezer-turazo-rajzik-ki-naponta</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/ezer-turazo-rajzik-ki-naponta</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1786089340_0_eketabor_web.jpg" /><br/>Csomafalván zajlik az EKE idei vándortábora]]></description>
-      <pubDate>Sat, 08 Aug 2026 06:52:46 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1786089340_0_eketabor_web.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1786089340_0_eketabor_web.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Székely Konyha és Kert</title>
-      <link>https://szekelykonyhaeskert.ro/recept/1981-paradicsomos-szeles-metelt</link>
-      <guid isPermaLink="true">https://szekelykonyhaeskert.ro/recept/1981-paradicsomos-szeles-metelt</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/1200x630/1786095593_0_NIK_6788.jpg" /><br/>Székely Konyha és Kert]]></description>
-      <pubDate>Sat, 08 Aug 2026 06:52:46 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/1200x630/1786095593_0_NIK_6788.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/1200x630/1786095593_0_NIK_6788.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
