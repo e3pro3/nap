@@ -5,9 +5,75 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Mon, 10 Aug 2026 18:56:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 21:41:01 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] A húsvét átrendezte a romániai húspiacot</title>
+      <link>https://hargitanepe.ro/jelentosen-nott-a-juh-es-a-kecskehustermeles</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/jelentosen-nott-a-juh-es-a-kecskehustermeles</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1782292487_0__3_Baranyvagas_HI02.jpg" /><br/>A húsvét átrendezte a romániai húspiacot]]></description>
+      <pubDate>Mon, 10 Aug 2026 21:41:01 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1782292487_0__3_Baranyvagas_HI02.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1782292487_0__3_Baranyvagas_HI02.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Mennyit tud Romániáról?</title>
+      <link>https://hargitanepe.ro/csaladi</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/csaladi</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1712915204_csaladi_kviz_webre.jpg" /><br/>Mennyit tud Romániáról?]]></description>
+      <pubDate>Mon, 10 Aug 2026 21:41:01 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1712915204_csaladi_kviz_webre.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1712915204_csaladi_kviz_webre.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Napi kvíz</title>
+      <link>https://hargitanepe.ro/kviz</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/kviz</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1671456199_WhatsApp3.jpeg" /><br/>Napi kvíz]]></description>
+      <pubDate>Mon, 10 Aug 2026 21:41:01 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1671456199_WhatsApp3.jpeg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1671456199_WhatsApp3.jpeg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Tárkonyos, tejes paszulyleves füstölt kolbásszal</title>
+      <link>https://maszol.ro/videok/Erdely-izei-tarkonyos-tejes-paszulyleves-fustolt-kolbasszal</link>
+      <guid isPermaLink="true">https://maszol.ro/videok/Erdely-izei-tarkonyos-tejes-paszulyleves-fustolt-kolbasszal</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2022November/18/video_paszulyleves_maszol_01.jpg" /><br/>Tárkonyos, tejes paszulyleves füstölt kolbásszal]]></description>
+      <pubDate>Mon, 10 Aug 2026 21:40:58 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2022November/18/video_paszulyleves_maszol_01.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2022November/18/video_paszulyleves_maszol_01.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Erdély legjei – Hargita megye: Énlaka</title>
+      <link>https://maszol.ro/videok/Erdely-legjei-Hargita-megye-Enlaka</link>
+      <guid isPermaLink="true">https://maszol.ro/videok/Erdely-legjei-Hargita-megye-Enlaka</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026Junius/14/videosmall_Enlaka_10.jpg" /><br/>Erdély legjei – Hargita megye: Énlaka]]></description>
+      <pubDate>Mon, 10 Aug 2026 21:40:58 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026Junius/14/videosmall_Enlaka_10.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026Junius/14/videosmall_Enlaka_10.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Ezer Székely Leány Napja: „a népviselet nem csupán ruha, hanem az egyik legfontosabb jelkép” (VIDEÓ)</title>
+      <link>https://maszol.ro/videok/Ezer-Szekely-Leany-Napja-a-nepviselet-nem-csupan-ruha-hanem-az-egyik-legfontosabb-jelkep</link>
+      <guid isPermaLink="true">https://maszol.ro/videok/Ezer-Szekely-Leany-Napja-a-nepviselet-nem-csupan-ruha-hanem-az-egyik-legfontosabb-jelkep</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_Julius/04/videosmall_Timeline_1_01_00_05_21.png" /><br/>Ezer Székely Leány Napja: „a népviselet nem csupán ruha, hanem az egyik legfontosabb jelkép” (VIDEÓ)]]></description>
+      <pubDate>Mon, 10 Aug 2026 21:40:58 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_Julius/04/videosmall_Timeline_1_01_00_05_21.png" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_Julius/04/videosmall_Timeline_1_01_00_05_21.png" type="image/png" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Köztársaságielnök-jelöltet állított a Tisza Párt</title>
       <link>https://hargitanepe.ro/hirek/kulfold/baka-andras-lehet-az-uj-allamfo</link>
@@ -381,72 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_augusztus/10/cikk_fesztival-untold.png" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_augusztus/10/cikk_fesztival-untold.png" type="image/png" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Csak a Békás-szoros térségében él a világ egyik legritkább növénye</title>
-      <link>https://maszol.ro/belfold/Csak-a-Bekas-szoros-tersegeben-el-a-vilag-egyik-legritkabb-novenye</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Csak-a-Bekas-szoros-tersegeben-el-a-vilag-egyik-legritkabb-novenye</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/10/cikk_772204705_28856461220620225_396339545298932368_n.jpg" /><br/>Csak a Békás-szoros térségében él a világ egyik legritkább növénye]]></description>
-      <pubDate>Mon, 10 Aug 2026 13:07:09 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/10/cikk_772204705_28856461220620225_396339545298932368_n.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/10/cikk_772204705_28856461220620225_396339545298932368_n.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Székely megyében függesztette fel a tevékenységét a legkevesebb cég</title>
-      <link>https://maszol.ro/gazdasag/Szekely-megyeben-fuggesztette-fel-a-tevekenyseget-a-legkevesebb-ceg</link>
-      <guid isPermaLink="true">https://maszol.ro/gazdasag/Szekely-megyeben-fuggesztette-fel-a-tevekenyseget-a-legkevesebb-ceg</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/10/cikksmall_ONRC.jpg" /><br/>Székely megyében függesztette fel a tevékenységét a legkevesebb cég]]></description>
-      <pubDate>Mon, 10 Aug 2026 13:07:09 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/10/cikksmall_ONRC.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/10/cikksmall_ONRC.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Új eszközökkel lépnek fel a rendőrök az illegális fakitermelés ellen</title>
-      <link>https://maszol.ro/belfold/Uj-eszkozokkel-lepnek-fel-a-rendorok-az-illegalis-fakitermeles-ellen</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Uj-eszkozokkel-lepnek-fel-a-rendorok-az-illegalis-fakitermeles-ellen</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/10/cikksmall_felszereles_rendorseg2.jpg" /><br/>Új eszközökkel lépnek fel a rendőrök az illegális fakitermelés ellen]]></description>
-      <pubDate>Mon, 10 Aug 2026 13:07:09 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/10/cikksmall_felszereles_rendorseg2.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/10/cikksmall_felszereles_rendorseg2.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Könnygázt használt és lövöldözött a rendőrökre egy ügyész</title>
-      <link>https://maszol.ro/belfold/Konnygazt-hasznalt-es-lovoldozott-a-rendorokre-egy-ugyesz</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Konnygazt-hasznalt-es-lovoldozott-a-rendorokre-egy-ugyesz</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/10/cikksmall_rendor_bilincs_pixabay_(1).jpg" /><br/>Könnygázt használt és lövöldözött a rendőrökre egy ügyész]]></description>
-      <pubDate>Mon, 10 Aug 2026 13:07:09 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/10/cikksmall_rendor_bilincs_pixabay_(1).jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/10/cikksmall_rendor_bilincs_pixabay_(1).jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Kiskorú ellen elkövetett nemi erőszak miatt tartóztattak le egy 19 éves fiatalt Temes megyében</title>
-      <link>https://maszol.ro/belfold/Kiskoru-ellen-elkovetett-nemi-eroszak-miatt-tartoztattak-le-egy-19-eves-fiatalt-Temes-megyeben</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Kiskoru-ellen-elkovetett-nemi-eroszak-miatt-tartoztattak-le-egy-19-eves-fiatalt-Temes-megyeben</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/10/cikksmall_668947720_945952565122708_3998624769997656727_n.jpg" /><br/>Kiskorú ellen elkövetett nemi erőszak miatt tartóztattak le egy 19 éves fiatalt Temes megyében]]></description>
-      <pubDate>Mon, 10 Aug 2026 13:07:09 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/10/cikksmall_668947720_945952565122708_3998624769997656727_n.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/10/cikksmall_668947720_945952565122708_3998624769997656727_n.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Népszerű az orosz állampolgárság Moldova szakadár régiójában</title>
-      <link>https://maszol.ro/kulfold/Nepszeru-az-orosz-allsmpolgarsag-Moldova-szakadar-regiojaban</link>
-      <guid isPermaLink="true">https://maszol.ro/kulfold/Nepszeru-az-orosz-allsmpolgarsag-Moldova-szakadar-regiojaban</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/05/cikksmall_Kulturpalota_Tiraspol_wikipedia.jpg" /><br/>Népszerű az orosz állampolgárság Moldova szakadár régiójában]]></description>
-      <pubDate>Mon, 10 Aug 2026 13:07:09 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/05/cikksmall_Kulturpalota_Tiraspol_wikipedia.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/05/cikksmall_Kulturpalota_Tiraspol_wikipedia.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
