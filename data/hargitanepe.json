@@ -1,5 +1,95 @@
 [
   {
+    "title": "[Hargita Népe] Borászat az Érmelléken",
+    "link": "https://hargitanepe.ro/lengyel-csaba-sziv-lelek-es-alazat-vezerel",
+    "description": "Borászat az Érmelléken",
+    "image": "https://hargitanepe.ro/images/data/423x222/1782293382_0__4_lengyelcsaba_borasz_lfcs-2-.jpg",
+    "published": "2026-08-10T07:41:09.054368+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] János Előd: A székely pálinka minőségi fejlődése megkérdőjelezhetetlen",
+    "link": "https://hargitanepe.ro/a-keritesszaggatok-kora-lejart-2026-07-21",
+    "description": "János Előd: A székely pálinka minőségi fejlődése megkérdőjelezhetetlen",
+    "image": "https://hargitanepe.ro/images/data/423x222/1784620635_1_palinka_janos",
+    "published": "2026-08-10T07:41:09.054277+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Ötvenezer lejes támogatást nyert a HMLE",
+    "link": "https://hargitanepe.ro/focilabdakat-osztogatnak",
+    "description": "Ötvenezer lejes támogatást nyert a HMLE",
+    "image": "https://hargitanepe.ro/images/data/423x222/1786304727_0_0809_hmlehez.jpg",
+    "published": "2026-08-10T07:41:09.054022+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Sport röviden (08. 10.)",
+    "link": "https://hargitanepe.ro/sport-roviden-08-10",
+    "description": "Sport röviden (08. 10.)",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1781778310_0_sport.jpg",
+    "published": "2026-08-10T07:41:09.053976+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Görögországban nyaralna?",
+    "link": "https://hargitanepe.ro/mutatjuk-mire-ne-adja-ki-a-penzet",
+    "description": "Görögországban nyaralna?",
+    "image": "https://hargitanepe.ro/images/data/423x222/1786092404_0_gorogorszag.jpg",
+    "published": "2026-08-10T07:41:09.053862+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Számos székelyudvarhelyi háztartás víz nélkül, van, ahol áram sincs",
+    "link": "https://hargitanepe.ro/szamos-szekelyudvarhelyi-haztartas-viz-nelkul-van-ahol-aram-sincs",
+    "description": "Számos székelyudvarhelyi háztartás víz nélkül, van, ahol áram sincs",
+    "image": "https://hargitanepe.ro/images/data/423x222/1786202447_0_harvíz_vizszunet.jpg",
+    "published": "2026-08-10T07:41:09.053799+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Aláírták a szerződést, új testvérvárosa van Csíkszeredának",
+    "link": "https://hargitanepe.ro/alairtak-a-szerzodest-uj-testvervarosa-van-csikszeredanak",
+    "description": "Aláírták a szerződést, új testvérvárosa van Csíkszeredának",
+    "image": "https://hargitanepe.ro/images/data/423x222/1786212047_0_siklos_foto.jpeg",
+    "published": "2026-08-10T07:41:09.053748+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Ötvenezer lejes támogatást nyert a HMLE",
+    "link": "https://hargitanepe.ro/hirek/sport/focilabdakat-osztogatnak",
+    "description": "Ötvenezer lejes támogatást nyert a HMLE",
+    "image": "https://hargitanepe.ro/images/data/423x222/1786304727_0_0809_hmlehez.jpg",
+    "published": "2026-08-10T07:41:09.053483+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Udvari Dezsőről nevezték el a sportcsarnokot",
+    "link": "https://hargitanepe.ro/hirek/csikszek/bajnok-volt-peldakep-lett",
+    "description": "Udvari Dezsőről nevezték el a sportcsarnokot",
+    "image": "https://hargitanepe.ro/images/data/423x222/1786343206_0_szentkiralyi_avatasok_vn_008.jpg",
+    "published": "2026-08-10T07:41:09.053436+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Korszerű uro-onkológiai ellátás",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/robotasszisztalt-prosztatamutet-csikszeredaban",
+    "description": "Sikeresen elvégezték az első robotasszisztált radikális prosztataeltávolító műtéteket a Csíkszeredai Megyei Sürgősségi Kórházban. A beavatkozásokat végző dr. Albert Claudiu urológus főorvos, osztályvezető úgy értékelte: ez a premier egy új korszak kezdetét jelenti a megye, valamint térségünk ellátásában.",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1786343860_0_robotaszisztaltprosztatamutet_csmsk_01.jpeg",
+    "published": "2026-08-10T07:41:09.053338+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] Gólok már vannak, pont még nincs",
     "link": "https://hargitanepe.ro/golok-mar-vannak-pont-meg-nincs",
     "description": "Negyedik mérkőzésén negyedik vereségét könyvelhette el szombaton az FK Csíkszereda szuperligás felnőtt férfi labdarúgócsapata. Az eddigi csíki gólképtelenséget Czékus Ádám duplája ugyan megtörte, ám a Konstancai Farul háromszor is eredményes volt, így az első pontok­ra még várni kell.",
@@ -1139,51 +1229,6 @@
     "description": "Gázösszetétel- és geofizikai vizsgálatoknak kell megelőzniük a szejkefürdői mofetta épületének statikai felmérését, a szükséges szakértői munkák megrendeléséhez pedig előbb költségvetést kell módosítania a székelyudvarhelyi önkormányzatnak.",
     "image": "https://hargitanepe.ro/images/data/1200x630/1785911148_0_mofetta_hi01_web.jpg",
     "published": "2026-08-05T08:35:21.213170+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] A csíkiak idegenben, az udvarhelyiek  itthon kezdenek",
-    "link": "https://hargitanepe.ro/a-csikiak-idegenben-az-udvarhelyiek-itthon-kezdenek",
-    "description": "A Román Labdarúgó-szövetség (FRF) székházában kedden elkészítették a női labdarúgó-Szuperliga őszi menetrendjét. Az előző idény ezüstérmese, az FK Csíkszereda a Besztercei Gloria otthonában kezd.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1785863867_0_noifocihoz_0805.jpg",
-    "published": "2026-08-05T05:45:54.328065+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Nyert a vashámor projektje",
-    "link": "https://hargitanepe.ro/egyedulallo-oroksegmentes-szentegyhazan",
-    "description": "Nyert a vashámor projektje",
-    "image": "https://hargitanepe.ro/images/data/423x222/1785828645_2_vashamor_hi04_web.jpg",
-    "published": "2026-08-05T05:45:54.327857+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] 2000 bevetés fél év alatt",
-    "link": "https://hargitanepe.ro/2000-bevetes-fel-ev-alatt",
-    "description": "2000 bevetés fél év alatt",
-    "image": "https://hargitanepe.ro/images/data/423x222/1728116445_Veres",
-    "published": "2026-08-05T05:45:54.327788+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Ismert a női labdarúgó-Szuperliga első fordulójának műsora",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/a-csikiak-idegenben-az-udvarhelyiek-itthon-kezdenek",
-    "description": "Ismert a női labdarúgó-Szuperliga első fordulójának műsora",
-    "image": "https://hargitanepe.ro/images/data/423x222/1785863867_0_noifocihoz_0805.jpg",
-    "published": "2026-08-05T05:45:54.327364+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Végleges versenyvizsga-eredmények",
-    "link": "https://hargitanepe.ro/hirek/hargita-megye/volt-akinek-megerte-fellebbezni",
-    "description": "Újrajavították a megfellebbezett dolgozatokat, és kedden nyilvánosságra hozták a pedagógusi versenyvizsga végleges eredményeit. Megyénkben a pedagógusok több mint fele kapott olyan osztályzatot, amellyel már végleges állásra pályázhat a tanügyben. Ezzel az országos átlagnál jobban teljesítettünk.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1785865215_0_petofi_tanarivizsga_lfcs-2-_web.jpg",
-    "published": "2026-08-05T05:45:54.327276+00:00",
     "author": "Hargita Népe",
     "category": "Hargita Népe"
   }
