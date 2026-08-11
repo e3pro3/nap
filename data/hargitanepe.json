@@ -1,5 +1,41 @@
 [
   {
+    "title": "[Hargita Népe] Látványos településnév",
+    "link": "https://hargitanepe.ro/uj-varosfelirat-fogadja-a-csikszeredaba-erkezoket",
+    "description": "Látványos településnév",
+    "image": "https://hargitanepe.ro/images/data/423x222/1786432093_1_korforgalomvarosvege_lfcs-3-_web.jpg",
+    "published": "2026-08-11T16:00:49.569450+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Vízszünet Csíkszeredában",
+    "link": "https://hargitanepe.ro/vizszunet-csikszeredaban-2026-08-11",
+    "description": "Vízszünet Csíkszeredában",
+    "image": "https://hargitanepe.ro/images/data/423x222/1696405308_csap_HI03web.jpg",
+    "published": "2026-08-11T16:00:49.569387+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Székelyudvarhelyen a Magyar menyasszony",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/tobb-mint-notortenet",
+    "description": "Székelyudvarhelyen a Magyar menyasszony",
+    "image": "https://hargitanepe.ro/images/data/423x222/1786440736_0_kiallitas_1_web.jpg",
+    "published": "2026-08-11T16:00:49.569169+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] A Szent Király Szövetség jubileumi találkozója Csíkszentkirályon",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/harminc-ev-a-szent-istvan-i-orokseg-jegyeben",
+    "description": "A Szent Király Szövetség legnagyobb értéke az a személyes kapcsolat, amely a Szent István király nevét viselő 23 település lakói között az elmúlt három évtizedben kialakult. A szövetség 30. évfordulója alkalmából a hétvégén Csíkszentkirályon találkoztak a Kárpát-medence hasonnevű települései, hogy számba vegyék azt az örökséget, amelyet a következő nemzedékeknek kell továbbadniuk.",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1786443231_0_szentkiraly_szovetseg_VL-1-_web.jpg",
+    "published": "2026-08-11T16:00:49.569062+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] Enyhült az alkoholtilalom a stadionokban",
     "link": "https://hargitanepe.ro/enyhult-az-alkoholtilalom-a-stadionokban",
     "description": "Enyhült az alkoholtilalom a stadionokban",
@@ -1211,33 +1247,6 @@
     "description": "Vannak természetes megoldások, amelyek – kiskertes léptékben – hatékonyan képesek helyettesíteni a növényvédelmi vegyszereket. De miként válhatnak a gyógy- és fűszernövények a fenntartható kertészkedés és mezőgazdaság hatékony eszközeivé, hozzájárulva a vegyszerhasználat csökkentéséhez és a természetes ökológiai egyensúly megőrzéséhez?",
     "image": "https://hargitanepe.ro/images/data/1200x630/1785842990_2_gyogynovenyek_lt_003_web.jpg",
     "published": "2026-08-06T23:59:05.384839+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Csíkszentkirályi közmű",
-    "link": "https://hargitanepe.ro/elkeszult-az-uj-vizhalozat",
-    "description": "Csíkszentkirályi közmű",
-    "image": "https://hargitanepe.ro/images/data/423x222/1785997231_0_vizhaz_csikszentkiraly_VL-3-_web.jpg",
-    "published": "2026-08-06T14:09:02.636862+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] A Hargita Megyei Csendőr-felügyelőség 2026 első félévi tevékenysége",
-    "link": "https://hargitanepe.ro/hirek/hargita-megye/209-riasztas-370-birsag-het-honap-alatt",
-    "description": "A Hargita Megyei Csendőr-felügyelőség 2026 első félévi tevékenysége",
-    "image": "https://hargitanepe.ro/images/data/423x222/1786005159_0_csendorseg_kozlemeny_01_web.jpg",
-    "published": "2026-08-06T14:09:02.636461+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Lezárultak a nyári egyetemi felvételik, ősszel még kiegészül a hallgatói létszám",
-    "link": "https://hargitanepe.ro/hirek/hargita-megye/eddig-mintegy-hatszazan-jelentkeztek-sikerrel-a-megye-egyetemein",
-    "description": "Lezárult a 2026/2027-es tanév nyári felvételi időszaka a Hargita megyében képzést kínáló felsőoktatási intézményekben. Lapunk összesítése szerint a Sapientia EMTE Csíkszeredai Karára, a BBTE székelyudvarhelyi és gyergyószentmiklósi kihelyezett tagozataira és a SZÉK által meghirdetett helyekre mintegy hatszáz fiatal jelentkezett sikerrel. Bár több szakon már beteltek a tandíjmentes helyek, az egyetemek ősszel pótfelvételit hirdetnek, így társaiknak is lesz lehetőségük bekapcsolódni a felsőoktatásba.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1786001560_0_sapientia_vn_",
-    "published": "2026-08-06T14:09:02.636373+00:00",
     "author": "Hargita Népe",
     "category": "Hargita Népe"
   }
