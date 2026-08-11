@@ -5,9 +5,42 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Tue, 11 Aug 2026 01:44:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 04:19:26 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Szokatlan változások</title>
+      <link>https://hargitanepe.ro/szokatlan-valtozasok</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/szokatlan-valtozasok</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/1200x630/1786389726_0_dusinszki_zoltan_04_resize.jpg" /><br/>A nagy különbségű eredmények visszaszorítását célozzák a Román Labdarúgó-szövetség (FRF) legújabb, az U13-as és U14-es Elit ligás pontvadászatban bevezetett szabálymódosításai. Dusinszki Zoltán, a Székelyföld Labdarúgó Akadémia szakmai igazgatója szerint több előírás alkalmazása is kérdéseket vet fel.]]></description>
+      <pubDate>Tue, 11 Aug 2026 04:19:26 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/1200x630/1786389726_0_dusinszki_zoltan_04_resize.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/1200x630/1786389726_0_dusinszki_zoltan_04_resize.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Területeket sajátított ki az önkormányzat a Nest körüli összekötő út megépítéséhez</title>
+      <link>https://hargitanepe.ro/kartalanitjak-a-tulajdonosokat</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/kartalanitjak-a-tulajdonosokat</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1755163605_ideiglenes" /><br/>Területeket sajátított ki az önkormányzat a Nest körüli összekötő út megépítéséhez]]></description>
+      <pubDate>Tue, 11 Aug 2026 04:19:26 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1755163605_ideiglenes" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1755163605_ideiglenes" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Különleges szabályok az utánpótlás-bajnokságokban</title>
+      <link>https://hargitanepe.ro/hirek/kiemelt/szokatlan-valtozasok</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/hirek/kiemelt/szokatlan-valtozasok</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/1200x630/1786389726_0_dusinszki_zoltan_04_resize.jpg" /><br/>A nagy különbségű eredmények visszaszorítását célozzák a Román Labdarúgó-szövetség (FRF) legújabb, az U13-as és U14-es Elit ligás pontvadászatban bevezetett szabálymódosításai. Dusinszki Zoltán, a Székelyföld Labdarúgó Akadémia szakmai igazgatója szerint több előírás alkalmazása is kérdéseket vet fel.]]></description>
+      <pubDate>Tue, 11 Aug 2026 04:19:26 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/1200x630/1786389726_0_dusinszki_zoltan_04_resize.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/1200x630/1786389726_0_dusinszki_zoltan_04_resize.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] A húsvét átrendezte a romániai húspiacot</title>
       <link>https://hargitanepe.ro/jelentosen-nott-a-juh-es-a-kecskehustermeles</link>
@@ -414,39 +447,6 @@
       <author>Hargita Népe</author>
       <media:content url="https://hargitanepe.ro/images/data/423x222/1786343860_0_robotaszisztaltprosztatamutet_csmsk_01.jpeg" medium="image"/>
       <enclosure url="https://hargitanepe.ro/images/data/423x222/1786343860_0_robotaszisztaltprosztatamutet_csmsk_01.jpeg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Területeket sajátított ki az önkormányzat a Nest körüli összekötő út megépítéséhez</title>
-      <link>https://hargitanepe.ro/hirek/hargita-megye/kartalanitjak-a-tulajdonosokat</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/hirek/hargita-megye/kartalanitjak-a-tulajdonosokat</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1755163605_ideiglenes" /><br/>Területeket sajátított ki az önkormányzat a Nest körüli összekötő út megépítéséhez]]></description>
-      <pubDate>Mon, 10 Aug 2026 13:07:12 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1755163605_ideiglenes" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1755163605_ideiglenes" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] 35 ezer lejért készült hulladéktároló a nagyvadak ellen</title>
-      <link>https://hargitanepe.ro/hirek/kiemelt/ket-medvebiztos-kukat-telepitettek</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/hirek/kiemelt/ket-medvebiztos-kukat-telepitettek</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/1200x630/1786351626_0_medvebiztos_kukak_bph-1-_web.jpg" /><br/>Kanadai mintára készült az a két tároló, amelybe a hulladékgyűjtő edényeket rejtették a Négyes kilométernél. Így próbálják megakadályozni, hogy élelemhez jussanak a medvék a kukákból, s emiatt visszajárjanak Gyergyószentmiklós környékére.]]></description>
-      <pubDate>Mon, 10 Aug 2026 13:07:12 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/1200x630/1786351626_0_medvebiztos_kukak_bph-1-_web.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/1200x630/1786351626_0_medvebiztos_kukak_bph-1-_web.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Több mint 500 ezren buliztak az idei Untoldon</title>
-      <link>https://maszol.ro/belfold/Tobb-mint-500-ezren-buliztak-az-idei-Untoldon</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Tobb-mint-500-ezren-buliztak-az-idei-Untoldon</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/10/cikk_fesztival-untold.png" /><br/>Több mint 500 ezren buliztak az idei Untoldon]]></description>
-      <pubDate>Mon, 10 Aug 2026 13:07:09 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/10/cikk_fesztival-untold.png" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/10/cikk_fesztival-untold.png" type="image/png" length="0"/>
     </item>
   </channel>
 </rss>
