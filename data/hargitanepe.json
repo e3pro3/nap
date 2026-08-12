@@ -1,5 +1,113 @@
 [
   {
+    "title": "[Hargita Népe] Bukarestben álltak rajthoz a veterán atléták",
+    "link": "https://hargitanepe.ro/ujabb-bajnoki-cimek",
+    "description": "Bukarestben álltak rajthoz a veterán atléták",
+    "image": "https://hargitanepe.ro/images/data/423x222/1786519929_0_veteranatletak_jo.jpeg",
+    "published": "2026-08-12T10:04:30.024941+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Tizennégy aranyéremmel és két különdíjjal tértek haza",
+    "link": "https://hargitanepe.ro/koszegen-bokszoltak-a-godakosok",
+    "description": "Tizennégy aranyéremmel és két különdíjjal tértek haza",
+    "image": "https://hargitanepe.ro/images/data/423x222/1786522168_0_godakohoz.jpg",
+    "published": "2026-08-12T10:04:30.024903+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Sport röviden (08.12.)",
+    "link": "https://hargitanepe.ro/sport-roviden-0812",
+    "description": "Sport röviden (08.12.)",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1781778310_0_sport.jpg",
+    "published": "2026-08-12T10:04:30.024862+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Székelyudvarhelyen a Magyar menyasszony",
+    "link": "https://hargitanepe.ro/tobb-mint-notortenet",
+    "description": "Székelyudvarhelyen a Magyar menyasszony",
+    "image": "https://hargitanepe.ro/images/data/423x222/1786440736_0_kiallitas_1_web.jpg",
+    "published": "2026-08-12T10:04:30.024743+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Az ember tragédia",
+    "link": "https://hargitanepe.ro/meleg-van",
+    "description": "Az ember tragédia",
+    "image": "https://hargitanepe.ro/images/data/423x222/1747219784_bloff_webre.jpg",
+    "published": "2026-08-12T10:04:30.024698+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Blöff",
+    "link": "https://hargitanepe.ro/bloff-2026-08-11",
+    "description": "Blöff",
+    "image": "https://hargitanepe.ro/images/data/423x222/1786444719_0_szekeres_20260806_080737.jpg",
+    "published": "2026-08-12T10:04:30.024653+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] CariTámasz – ápolási útmutató családtagoknak (8. rész)",
+    "link": "https://hargitanepe.ro/letezhet-e-szep-oregkor",
+    "description": "CariTámasz – ápolási útmutató családtagoknak (8. rész)",
+    "image": "https://hargitanepe.ro/images/data/423x222/1786445928_0_caritas_idosgondozas_vn_001_web.jpg",
+    "published": "2026-08-12T10:04:30.024605+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Bukarestben álltak rajthoz a veterán atléták",
+    "link": "https://hargitanepe.ro/hirek/sport/ujabb-bajnoki-cimek",
+    "description": "Bukarestben álltak rajthoz a veterán atléták",
+    "image": "https://hargitanepe.ro/images/data/423x222/1786519929_0_veteranatletak_jo.jpeg",
+    "published": "2026-08-12T10:04:30.024385+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Sok száz fiatal találkozója Csíksomlyón",
+    "link": "https://hargitanepe.ro/hirek/csikszek/otvenedjere-is-csit",
+    "description": "Sok száz fiatal találkozója Csíksomlyón",
+    "image": "https://hargitanepe.ro/images/data/423x222/1786520651_1_CSIT_lfcs-23-_web.jpg",
+    "published": "2026-08-12T10:04:30.024339+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Tizennégy aranyéremmel és két különdíjjal tértek haza",
+    "link": "https://hargitanepe.ro/hirek/sport/koszegen-bokszoltak-a-godakosok",
+    "description": "Tizennégy aranyéremmel és két különdíjjal tértek haza",
+    "image": "https://hargitanepe.ro/images/data/423x222/1786522168_0_godakohoz.jpg",
+    "published": "2026-08-12T10:04:30.024293+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Cernavodai atomerőmű",
+    "link": "https://hargitanepe.ro/hirek/belfold/leallitjak-a-kettes-reaktort-is",
+    "description": "Cernavodai atomerőmű",
+    "image": "https://hargitanepe.ro/images/data/423x222/1786526029_0_csernavoda_nuclearelectricaoficialfacebook_web.jpg",
+    "published": "2026-08-12T10:04:30.024214+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Korszerűsítenék a szentegyházi Termál Ligetet",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/taborozohellye-alakitjak-a-furdo-egy-reszet-ebben-latnak-potencialt",
+    "description": "A medencék és a vízrendszer korszerűsítése, a zöldterületek rendezése, a kemping fejlesztése, valamint a strand egy részének „téliesítése” is szerepel a szentegyházi Termál Liget megújítását célzó tervben. A város hosszú előkészítő munka után most egy 3,5 millió euró értékű európai uniós pályázat benyújtására készül.",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1786524635_0_termal_liget_szentegyhaza_LCS2_web.jpg",
+    "published": "2026-08-12T10:04:30.024146+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] A ház, ahol a csendnek is emlékezete van",
     "link": "https://hargitanepe.ro/lucia-nover-oroksege-ma-is-el-remeten",
     "description": "A ház, ahol a csendnek is emlékezete van",
@@ -1148,60 +1256,6 @@
     "description": "A Kárpát-medence minden szegletéből, de Hollandiából, Grúziából és Törökországból is érkez­tek természetjárók az EKE vándortáborá­ba. Idén Csoma­­fal­va a rendezvény házigazdája, innen indul túrázni mindennap az ezernél is több természetjáró.",
     "image": "https://hargitanepe.ro/images/data/1200x630/1786089340_0_eketabor_web.jpg",
     "published": "2026-08-07T13:02:50.593449+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Panelproli",
-    "link": "https://hargitanepe.ro/ha-en-tema-volnek",
-    "description": "Panelproli",
-    "image": "https://hargitanepe.ro/images/data/423x222/1747219784_bloff_webre.jpg",
-    "published": "2026-08-07T10:01:15.506161+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Para Pista",
-    "link": "https://hargitanepe.ro/para-pista-2026-08-06",
-    "description": "Para Pista",
-    "image": "https://hargitanepe.ro/images/data/423x222/1786009569_0_pp_torzsvendegek.jpg",
-    "published": "2026-08-07T10:01:15.506101+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Hálás utókor",
-    "link": "https://hargitanepe.ro/halas-utokor-2026-08-06",
-    "description": "Hálás utókor",
-    "image": "https://hargitanepe.ro/images/data/423x222/1786009796_0_konczy.jpg",
-    "published": "2026-08-07T10:01:15.506031+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Beindult a Fuss NEKI! Udvarhely",
-    "link": "https://hargitanepe.ro/hirek/udvarhelyszek/penz-helyett-tudast-is-fel-lehet-ajanlani",
-    "description": "Beindult a Fuss NEKI! Udvarhely",
-    "image": "https://hargitanepe.ro/images/data/423x222/1786087039_0_fussneki_hi03_web.jpg",
-    "published": "2026-08-07T10:01:15.505653+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Gaál András festőművész életműve a Csíki Székely Múzeumban",
-    "link": "https://hargitanepe.ro/hirek/csikszek/egy-alkotoi-ut-allomasai",
-    "description": "Gaál András festőművész életműve a Csíki Székely Múzeumban",
-    "image": "https://hargitanepe.ro/images/data/423x222/1786088420_0_04_gaal_andras_kiallitas_vn-6-.jpg",
-    "published": "2026-08-07T10:01:15.505582+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Per aspera ad astra",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/hamarosan-birtokba-veszi-a-varos-a-csillagvizsgalot",
-    "description": "Befejeződött a több éve zajló építkezés a székelyudvarhelyi Csillagvizsgálónál, elkészült az épület és a kéthektáros terület rendezése, ahol tanösvény, lombsétány, park és játszótér is helyet kapott. Az épületet hamarosan a könyvtár ügykezelésébe adják.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1786087555_1_csillagvizsgalolombkoronasetany_hi02_web.jpg",
-    "published": "2026-08-07T10:01:15.505494+00:00",
     "author": "Hargita Népe",
     "category": "Hargita Népe"
   }
