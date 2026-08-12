@@ -1,5 +1,23 @@
 [
   {
+    "title": "[Hargita Népe] Sok száz fiatal találkozója Csíksomlyón",
+    "link": "https://hargitanepe.ro/otvenedjere-is-csit",
+    "description": "Sok száz fiatal találkozója Csíksomlyón",
+    "image": "https://hargitanepe.ro/images/data/423x222/1786520651_1_CSIT_lfcs-23-_web.jpg",
+    "published": "2026-08-12T15:58:45.548830+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Négy terem plafonját teljesen felújítják",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/helyreallitottak-a-reformatus-kollegiumban-leomlott-mennyezetet",
+    "description": "Eltávolították a sérült, kigyengült vakolatot, és gipszkarton mennyezetet alakítottak ki az udvarhelyi református kollégium osztálytermében, ahol június 15-én leomlott a mennyezet egy része. A szakértői felmérést követően kiderült: további négy osztályteremben indokolt a plafon cseréje.",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1786528943_2_refifelujitas_hi03_web.jpg",
+    "published": "2026-08-12T15:58:45.548366+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] Gyergyószentmiklósi HVCSK: nem most locsolják a kertet és mossák le az autót!",
     "link": "https://hargitanepe.ro/takarekoskodni-kell-a-csapvizzel",
     "description": "Gyergyószentmiklósi HVCSK: nem most locsolják a kertet és mossák le az autót!",
@@ -1166,60 +1184,6 @@
     "description": "Szalonspiccesen áthajt a piroson, mert siet, hogy tűsarkúban kariatidát ölelgetve pózoljon? 3700 euró lesz.",
     "image": "https://hargitanepe.ro/images/data/1200x630/1786092404_0_gorogorszag.jpg",
     "published": "2026-08-07T18:56:46.729955+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Vízhiány Sóvidéken",
-    "link": "https://hargitanepe.ro/vizhiany-sovideken",
-    "description": "Vízhiány Sóvidéken",
-    "image": "https://hargitanepe.ro/images/data/423x222/1786100086_0_vizhiany_ilusztr_lfcs-3-_web.jpg",
-    "published": "2026-08-07T15:55:45.431793+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Beindult a Fuss NEKI! Udvarhely",
-    "link": "https://hargitanepe.ro/penz-helyett-tudast-is-fel-lehet-ajanlani",
-    "description": "Beindult a Fuss NEKI! Udvarhely",
-    "image": "https://hargitanepe.ro/images/data/423x222/1786087039_0_fussneki_hi03_web.jpg",
-    "published": "2026-08-07T15:55:45.431721+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Per aspera ad astra",
-    "link": "https://hargitanepe.ro/hamarosan-birtokba-veszi-a-varos-a-csillagvizsgalot",
-    "description": "Per aspera ad astra",
-    "image": "https://hargitanepe.ro/images/data/423x222/1786087555_1_csillagvizsgalolombkoronasetany_hi02_web.jpg",
-    "published": "2026-08-07T15:55:45.431661+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Szerződés-aláírás",
-    "link": "https://hargitanepe.ro/tobb-mint-54-millio-lejbol-bovitik-a-viz-es-csatornahalozatot-csikszentmartonban-es-csikszentsimonban",
-    "description": "Szerződés-aláírás",
-    "image": "https://hargitanepe.ro/images/data/423x222/1786096060_7_harvizszerzodes_vn_008.jpg",
-    "published": "2026-08-07T15:55:45.431591+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Döntött a legfelsőbb bíróság",
-    "link": "https://hargitanepe.ro/hirek/belfold/elkezdodhet-calin-georgescu-pere",
-    "description": "Döntött a legfelsőbb bíróság",
-    "image": "https://hargitanepe.ro/images/data/423x222/1786091299_0_calingeorgesu_fb2.jpg",
-    "published": "2026-08-07T15:55:45.431219+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Orgonára gyűjt a csíkszeredai református közösség",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/megszolalo-almot-epitenek",
-    "description": "Közadakozásból építtet sípos orgonát a csíkszeredai református gyülekezet. A templomban jelenleg csupán egy elektronikus harmónium szolgálja az istentiszteleteket, ezért a közösség régi vágya, hogy méltó hangszer szólaljon meg az immár több mint negyed évszázada épített istenházában.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1786090437_2_reformatusorgona_vn_004_web.jpg",
-    "published": "2026-08-07T15:55:45.431131+00:00",
     "author": "Hargita Népe",
     "category": "Hargita Népe"
   }

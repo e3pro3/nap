@@ -1,5 +1,77 @@
 [
   {
+    "title": "[Maszol] Így hódította meg Sepsiszentgyörgyöt a Sepsi Bike: két év alatt 138 ezer biciklizés",
+    "link": "https://maszol.ro/belfold/Igy-hoditotta-meg-Sepsiszentgyorgyot-a-Sepsi-Bike-ket-ev-alatt-138-ezer-biciklizes",
+    "description": "Így hódította meg Sepsiszentgyörgyöt a Sepsi Bike: két év alatt 138 ezer biciklizés",
+    "image": "https://maszol.ro/resized/2026_augusztus/12/cikk_20260810_SepsiszentgyorgyOnkormanyzata_SepsiBike2.jpg",
+    "published": "2026-08-12T15:58:42.022268+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Az energiabiztonsági mechanizmus aktiválását sürgeti Bogdan Ivan",
+    "link": "https://maszol.ro/belfold/Az-energiabiztonsagi-mechanizmus-aktivalasat-surgeti-Bogdan-Ivan",
+    "description": "Az energiabiztonsági mechanizmus aktiválását sürgeti Bogdan Ivan",
+    "image": "https://maszol.ro/resized/2026_augusztus/12/cikk_pexels-brett-sayles-918989.jpg",
+    "published": "2026-08-12T15:58:42.022192+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Miért csökkent az infláció?",
+    "link": "https://maszol.ro/gazdasag/Miert-csokkent-az-inflacio",
+    "description": "Miért csökkent az infláció?",
+    "image": "https://maszol.ro/resized/2026_augusztus/12/cikksmall_pexels-vlada-karpovich-7433836.jpg",
+    "published": "2026-08-12T15:58:42.021210+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Bértörvény: a legújabb javaslatot is elutasítják a szakszervezetek",
+    "link": "https://maszol.ro/belfold/Bertorveny-a-legujabb-javaslatot-is-elutasitjak-a-szakszervezetek",
+    "description": "Bértörvény: a legújabb javaslatot is elutasítják a szakszervezetek",
+    "image": "https://maszol.ro/resized/2026_augusztus/12/cikksmall_tanugyi_szakszervezet_tuntetes_260617_spiruharet_fb_5.jpg",
+    "published": "2026-08-12T15:58:42.021130+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Gyújtószerkezet kapott lángra Románia svájci nagykövetsége mellett, a járdán",
+    "link": "https://maszol.ro/kulfold/Gyujtoszerkezet-kapott-langra-Romania-svajci-nagykovetsege-mellett-a-jardan",
+    "description": "Gyújtószerkezet kapott lángra Románia svájci nagykövetsége mellett, a járdán",
+    "image": "https://maszol.ro/resized/2026_augusztus/12/cikksmall_480671886_1063660585799629_7642306113640146047_n.jpg",
+    "published": "2026-08-12T15:58:42.020971+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Brâncuși, Picasso és Stradivarius a zabolai Kuriozum Fesztiválon",
+    "link": "https://maszol.ro/kultura/Brancusi-Picasso-es-Stradivarius-a-zabolai-Kuriozum-Fesztivalon",
+    "description": "Brâncuși, Picasso és Stradivarius a zabolai Kuriozum Fesztiválon",
+    "image": "https://maszol.ro/resized/2026_augusztus/12/cikksmall_769469611_1522252586601439_6180659940997755253_n.jpg",
+    "published": "2026-08-12T15:58:42.020903+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] NATO-szolidaritás: elrettentést és védelmet ígérnek",
+    "link": "https://maszol.ro/kulfold/NATO-szolidaritas-elrettentest-es-vedelmet-igernek",
+    "description": "NATO-szolidaritás: elrettentést és védelmet ígérnek",
+    "image": "https://maszol.ro/resized/2026_augusztus/12/cikksmall_pexels-gintare-k-11923111-17178100_(1).jpg",
+    "published": "2026-08-12T15:58:42.020751+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Panaszkodnak a Tate fivérek",
+    "link": "https://maszol.ro/kulfold/Panaszkodnak-a-Tate-fiverek",
+    "description": "Panaszkodnak a Tate fivérek",
+    "image": "https://maszol.ro/resized/2026_augusztus/12/cikksmall_Opera_Snapshot_2026-08-12_184950_x-com.png",
+    "published": "2026-08-12T15:58:42.020657+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
     "title": "[Maszol] Akár már ősztől csökkenhet az iskolaigazgatók és tanfelügyelők kötelező óraszáma",
     "link": "https://maszol.ro/belfold/Akar-mar-osztol-csokkenhet-az-iskolaigazgatok-es-tanfelugyelok-kotelezo-oraszama",
     "description": "Akár már ősztől csökkenhet az iskolaigazgatók és tanfelügyelők kötelező óraszáma",
@@ -1814,78 +1886,6 @@
     "description": "Georgescu stratégiát váltott, már nem kizárólag a „megváltó vezető” szerepére építi nyilvános megjelenéseit, hanem tudatos politikai kampányt folytat.",
     "image": "https://maszol.ro/resized/2026_augusztus/07/cikk_calin_georgescu_250804_agerpres.jpg",
     "published": "2026-08-07T18:56:43.498044+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] „Csak egy szív?” – kemény üzenetet fogalmazott meg egy rendőr a transzfogarasi vandalizmus nyomán",
-    "link": "https://maszol.ro/belfold/Csak-egy-sziv-kemeny-uzenetet-fogalmazott-meg-egy-rendor-a-transzfogarasi-vandalizmus-nyoman",
-    "description": "„Csak egy szív?” – kemény üzenetet fogalmazott meg egy rendőr a transzfogarasi vandalizmus nyomán",
-    "image": "https://maszol.ro/resized/2026_augusztus/07/cikk_anna_transzfogaras_.jpg",
-    "published": "2026-08-07T15:55:42.244500+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Darázsveszély Pádison: több turistát megcsíptek, egy gyermek súlyos allergiás rohamot kapott",
-    "link": "https://maszol.ro/belfold/Darazsveszely-Padisban-tobb-turistat-megcsiptek-egy-gyermek-sulyos-allergias-rohamot-kapott",
-    "description": "Darázsveszély Pádison: több turistát megcsíptek, egy gyermek súlyos allergiás rohamot kapott",
-    "image": "https://maszol.ro/resized/2026_augusztus/07/cikksmall_768954384_1456593506278780_2958504483020636859_n.jpg",
-    "published": "2026-08-07T15:55:42.243618+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Földrengés volt péntek délután",
-    "link": "https://maszol.ro/belfold/Foldrenges-volt-pentek-delutan",
-    "description": "Földrengés volt péntek délután",
-    "image": "https://maszol.ro/resized/2026_augusztus/07/cikksmall_6120ac9a-5b9b-4619-920f-553d2bac6636_(1).jpg",
-    "published": "2026-08-07T15:55:42.243543+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Több mint egy éve tart a vészhelyzet Parajdon, újabb harminc nappal meghosszabbították",
-    "link": "https://maszol.ro/belfold/Tobb-mint-egy-eve-tart-a-veszhelyzet-Parajdon-ujabb-harminc-nappal-meghosszabbitottak",
-    "description": "Több mint egy éve tart a vészhelyzet Parajdon, újabb harminc nappal meghosszabbították",
-    "image": "https://maszol.ro/resized/2026_augusztus/07/cikksmall_Parajd_sobanya_ager_(1)_(2).jpg",
-    "published": "2026-08-07T15:55:42.243450+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Erdélyi nagyvállalat a fekete-tengeri földgáz első hazai vásárlója",
-    "link": "https://maszol.ro/gazdasag/Erdelyi-nagyvallalat-a-fekete-tengeri-foldgaz-elso-hazai-vasarloja",
-    "description": "Erdélyi nagyvállalat a fekete-tengeri földgáz első hazai vásárlója",
-    "image": "https://maszol.ro/resized/2026_augusztus/07/cikksmall_furotorony.jpg",
-    "published": "2026-08-07T15:55:42.243376+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Hazugsággal vádolja Bolojant a PSD",
-    "link": "https://maszol.ro/belfold/Hazugsaggal-vadolja-Bolojant-a-PSD",
-    "description": "Hazugsággal vádolja Bolojant a PSD",
-    "image": "https://maszol.ro/resized/2026_augusztus/07/cikksmall_Bolojan_Facebook_Ilie_Bolojan.jpg",
-    "published": "2026-08-07T15:55:42.243306+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Szilágynagyfalu: nézeteltérések az új iskola megépítése körül",
-    "link": "https://maszol.ro/belfold/Szilagynagyfalu-nezetelteresek-az-uj-iskola-megepitese-korul",
-    "description": "Szilágynagyfalu: nézeteltérések az új iskola megépítése körül",
-    "image": "https://maszol.ro/resized/2026_augusztus/07/cikksmall_iskola_KM.jpg",
-    "published": "2026-08-07T15:55:42.243231+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Több mint 120 ezer néző volt kíváncsi az Untold első napjára",
-    "link": "https://maszol.ro/kultura/Tobb-mint-120-ezer-nezo-volt-kivancsi-az-Untold-elso-napjara",
-    "description": "Több mint 120 ezer néző volt kíváncsi az Untold első napjára",
-    "image": "https://maszol.ro/resized/2026_augusztus/07/cikksmall_untold_Facebook_Untold.jpg",
-    "published": "2026-08-07T15:55:42.243150+00:00",
     "author": "Maszol",
     "category": "Maszol"
   }
