@@ -1,5 +1,41 @@
 [
   {
+    "title": "[Hargita Népe] TEDx Udvarhely",
+    "link": "https://hargitanepe.ro/ujra-a-moziban",
+    "description": "TEDx Udvarhely",
+    "image": "https://hargitanepe.ro/images/data/423x222/1786602951_0_02_tedx_hi03_arh.jpg",
+    "published": "2026-08-13T19:02:21.777804+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Évekre szűnik meg a síszezon, ha nem sikerül egyezségre jutni a pályaüzemeltetés felett",
+    "link": "https://hargitanepe.ro/damoklesz-kardja-a-madarasi-hargita-felett",
+    "description": "Évekre szűnik meg a síszezon, ha nem sikerül egyezségre jutni a pályaüzemeltetés felett",
+    "image": "https://hargitanepe.ro/images/data/423x222/1786607343_0_hargitasipalya_hi02.jpg",
+    "published": "2026-08-13T19:02:21.777737+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Panelproli",
+    "link": "https://hargitanepe.ro/hirek/szines/apokalipszis-nyaron",
+    "description": "Panelproli",
+    "image": "https://hargitanepe.ro/images/data/423x222/1747219784_bloff_webre.jpg",
+    "published": "2026-08-13T19:02:21.777359+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Vetró Artúr",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/nagy-imrere-gondolok-2",
+    "description": "Vetró Artúr",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1786617076_0_1819_muhely_Nagy_Imre_onarckep_anyammal.jpg",
+    "published": "2026-08-13T19:02:21.777192+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] Központi Fejlesztési Régió:",
     "link": "https://hargitanepe.ro/tejfeldolgozasban-kiemelt-helyen",
     "description": "Központi Fejlesztési Régió:",
@@ -1238,42 +1274,6 @@
     "description": "Orgonára gyűjt a csíkszeredai református közösség",
     "image": "https://hargitanepe.ro/images/data/423x222/1786090437_2_reformatusorgona_vn_004_web.jpg",
     "published": "2026-08-08T21:29:47.609285+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Boga Éva",
-    "link": "https://hargitanepe.ro/orokke-varom-hatha-jon-valaki-aki-meg-akarja-tanulni-a-szovest-2026-06-16",
-    "description": "Boga Éva",
-    "image": "https://hargitanepe.ro/images/data/423x222/1781598537_0_boga_eva.jpeg",
-    "published": "2026-08-08T18:36:47.894845+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Beszélgetés Esztány Győző építésszel",
-    "link": "https://hargitanepe.ro/a-hagyomanyorzes-ne-teherre-hanem-kozos-felemelo-alkotassa-valjon",
-    "description": "Beszélgetés Esztány Győző építésszel",
-    "image": "https://hargitanepe.ro/images/data/423x222/1782905507_0_esztany",
-    "published": "2026-08-08T18:36:47.894786+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Új lámpaoszlopok Csíkszentléleken",
-    "link": "https://hargitanepe.ro/uj-lampaoszlopok-csikszentleleken",
-    "description": "Új lámpaoszlopok Csíkszentléleken",
-    "image": "https://hargitanepe.ro/images/data/423x222/1786088700_1_csikszentlelek_lampatest_csikszentlelekkozsegfb_02_web.jpg",
-    "published": "2026-08-08T18:36:47.894044+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Beszélgetés Tankó Attila tűzoltóval, csángósöv-készítővel",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/tanko-attila-az-is-lehet-hogy-nem-veletlenul-lettunk-mi-cifrak",
-    "description": "Tűzoltóként dolgozik, és ha kell, építkezésben vállal munkát, de szabadidejében órákig szöszmötöl a tűvel és cérnával. Szerszámot készít saját magának, ha nincs, amivel dolgozzon, és nem hátráltatja az sem, hogy szinte mindent magától kellett megtanulnia. A Gyimesközéplokon élő Tankó Attila – vagy ahogyan a sötétpatakiak szólítják, Cifra Attila – csángós szíjat készít, és úgy tudja, a környéken ő az egyetlen, aki ezzel foglalkozik.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1786093129_4_tanko_attila_portre_pa-2-.jpeg",
-    "published": "2026-08-08T18:36:47.893621+00:00",
     "author": "Hargita Népe",
     "category": "Hargita Népe"
   }
