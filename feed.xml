@@ -5,9 +5,31 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Wed, 12 Aug 2026 21:44:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 01:58:15 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Porta</title>
+      <link>https://hargitanepe.ro/ilyen-antal-zoltan-epitesz-portaja</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/ilyen-antal-zoltan-epitesz-portaja</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/assets/img/video-tag.svg" /><br/>Porta]]></description>
+      <pubDate>Thu, 13 Aug 2026 01:58:15 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/assets/img/video-tag.svg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/assets/img/video-tag.svg" type="image/svg+xml" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Nem előadásokat tartanak, hanem élményt adnak</title>
+      <link>https://hargitanepe.ro/nem-eloadasokat-tartanak-hanem-elmenyt-adnak</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/nem-eloadasokat-tartanak-hanem-elmenyt-adnak</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/assets/img/gallery-tag.svg" /><br/>Jakab Zoltán és Izabella története nem egy házvásárlással kezdődött, hanem egy érzéssel. Közel húsz évvel ezelőtt, amikor a környéken kirándulva járták Oroszhegy eldugott utcáit, egy régi ösvényen érkeztek le arra a portára, amely később az otthonukká vált. A patak csobogása, a kicsi székelykapu, a belső udvaros porta, a csűr és a régi parasztház olyan erős benyomást tett Izabellára, aki Magyarországról költözött ide, hogy már az első pillanatban azt mondta: „Én így képzeltem a székelységet.”]]></description>
+      <pubDate>Thu, 13 Aug 2026 01:58:15 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/assets/img/gallery-tag.svg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/assets/img/gallery-tag.svg" type="image/svg+xml" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Blokád</title>
       <link>https://hargitanepe.ro/nehez-helyzetbe-hozza-a-juhtenyesztoket-az-orszagot-sujto-exporttilalom</link>
@@ -425,28 +447,6 @@
       <author>Hargita Népe</author>
       <media:content url="https://hargitanepe.ro/images/data/423x222/1786522168_0_godakohoz.jpg" medium="image"/>
       <enclosure url="https://hargitanepe.ro/images/data/423x222/1786522168_0_godakohoz.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Sport röviden (08.12.)</title>
-      <link>https://hargitanepe.ro/sport-roviden-0812</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/sport-roviden-0812</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/1200x630/1781778310_0_sport.jpg" /><br/>Sport röviden (08.12.)]]></description>
-      <pubDate>Wed, 12 Aug 2026 10:04:30 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/1200x630/1781778310_0_sport.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/1200x630/1781778310_0_sport.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Székelyudvarhelyen a Magyar menyasszony</title>
-      <link>https://hargitanepe.ro/tobb-mint-notortenet</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/tobb-mint-notortenet</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1786440736_0_kiallitas_1_web.jpg" /><br/>Székelyudvarhelyen a Magyar menyasszony]]></description>
-      <pubDate>Wed, 12 Aug 2026 10:04:30 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1786440736_0_kiallitas_1_web.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1786440736_0_kiallitas_1_web.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
