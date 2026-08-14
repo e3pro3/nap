@@ -5,9 +5,20 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Fri, 14 Aug 2026 18:53:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 21:24:36 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Erdőfüle: horogra akadt innováció</title>
+      <link>https://hargitanepe.ro/erdofule-horogra-akadt-innovacio</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/erdofule-horogra-akadt-innovacio</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/1200x630/1785844285_1_pisztrangaszat_erdofule_lfcs-3-_web.jpg" /><br/>Dombokon, hegyeken, patakokon – Kuvaszó-, Ge­rend-, Kóság-patak – keresztül jutunk el a háromszéki Erdőfülére, melynek távolabbi határában áll az a Kor­mos-patak friss vizét használó pisztrángtelep, amelyről azt beszélik, hogy Székelyföld egyik leginnovatívabb haltenyészete.]]></description>
+      <pubDate>Fri, 14 Aug 2026 21:24:36 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/1200x630/1785844285_1_pisztrangaszat_erdofule_lfcs-3-_web.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/1200x630/1785844285_1_pisztrangaszat_erdofule_lfcs-3-_web.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] A székelyudvarhelyi önkormányzat tanácsülése</title>
       <link>https://hargitanepe.ro/vizugyek-es-parkolasi-strategia</link>
@@ -436,17 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/uploads/2026_augusztus/14/dron_defenseromania_fboldal.jpg" medium="image"/>
       <enclosure url="https://maszol.ro/uploads/2026_augusztus/14/dron_defenseromania_fboldal.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Forrong a futballvilág: Infantino megbuktatásán dolgozik az UEFA</title>
-      <link>https://maszol.ro/sport/Forrong-a-futballvilag-Infantino-megbuktatasan-dolgozik-az-UEFA</link>
-      <guid isPermaLink="true">https://maszol.ro/sport/Forrong-a-futballvilag-Infantino-megbuktatasan-dolgozik-az-UEFA</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/14/cikk_gianni_infantino_fifa_labdarugas_vilagbajnoksag_mexiko_260610_agerpres.jpg" /><br/>Hiába mondott le azon tervéről, hogy magánbefektetőknek „kiárusítsa” a labdarúgást, Gianni Infantino sorsa a Nemzetközi Labdarúgó-szövetség (FIFA) élén egyre bizonytalanabbá válik.]]></description>
-      <pubDate>Fri, 14 Aug 2026 13:05:22 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/14/cikk_gianni_infantino_fifa_labdarugas_vilagbajnoksag_mexiko_260610_agerpres.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/14/cikk_gianni_infantino_fifa_labdarugas_vilagbajnoksag_mexiko_260610_agerpres.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
