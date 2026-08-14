@@ -5,9 +5,20 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Thu, 13 Aug 2026 21:44:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 01:55:49 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Maszol] A világ egyik legkülönlegesebb sertésfajtája, amelyet még a medve is elkerül – Ismerd meg a mangalicát, a magyar örökséget</title>
+      <link>https://maszol.ro/videok/A-vilag-egyik-legkulonlegesebb-sertesfajtaja-amelyet-meg-a-medve-is-elkerul-Ismerd-meg-a-mangalicat-a-magyar-orokseget</link>
+      <guid isPermaLink="true">https://maszol.ro/videok/A-vilag-egyik-legkulonlegesebb-sertesfajtaja-amelyet-meg-a-medve-is-elkerul-Ismerd-meg-a-mangalicat-a-magyar-orokseget</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_Julius/08/mangalica/video_mangalica8.png" /><br/>A világ egyik legkülönlegesebb sertésfajtája, amelyet még a medve is elkerül – Ismerd meg a mangalicát, a magyar örökséget]]></description>
+      <pubDate>Fri, 14 Aug 2026 01:55:46 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_Julius/08/mangalica/video_mangalica8.png" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_Julius/08/mangalica/video_mangalica8.png" type="image/png" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] TEDx Udvarhely</title>
       <link>https://hargitanepe.ro/ujra-a-moziban</link>
@@ -436,17 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_augusztus/13/cikksmall_car2.jpg" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_augusztus/13/cikksmall_car2.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Multisport eseménnyel hozzák közelebb a parasportolókat a közönséghez</title>
-      <link>https://maszol.ro/sport/Multisport-esemennyel-hozzak-kozelebb-a-parasportolokat-a-kozonseghez</link>
-      <guid isPermaLink="true">https://maszol.ro/sport/Multisport-esemennyel-hozzak-kozelebb-a-parasportolokat-a-kozonseghez</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/13/cikksmall_698606395_1409774414518074_1116337613262164900_n.jpg" /><br/>Multisport eseménnyel hozzák közelebb a parasportolókat a közönséghez]]></description>
-      <pubDate>Thu, 13 Aug 2026 13:09:52 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/13/cikksmall_698606395_1409774414518074_1116337613262164900_n.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/13/cikksmall_698606395_1409774414518074_1116337613262164900_n.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
