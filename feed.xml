@@ -5,9 +5,31 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Sat, 15 Aug 2026 03:38:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 06:37:18 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] A Google-effektus</title>
+      <link>https://hargitanepe.ro/hirek/kiemelt/agyunk-es-a-digitalis-amnezia</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/hirek/kiemelt/agyunk-es-a-digitalis-amnezia</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/1200x630/1786701518_0_10_magazin_google_magnific1_aug_14.jpg" /><br/>A Google-effektus]]></description>
+      <pubDate>Sat, 15 Aug 2026 06:37:18 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/1200x630/1786701518_0_10_magazin_google_magnific1_aug_14.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/1200x630/1786701518_0_10_magazin_google_magnific1_aug_14.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Az összhangra és a bizalomra épít, a 2028-as paralimpiára is kijutna Péter Ágnes és Blága Emőke tandempárosa</title>
+      <link>https://maszol.ro/belfold/Az-osszhangra-es-a-bizalomra-epit-a-2028-as-paralimpiara-is-kijutna-Peter-Agnes-es-Blaga-Emoke-tandemparosa</link>
+      <guid isPermaLink="true">https://maszol.ro/belfold/Az-osszhangra-es-a-bizalomra-epit-a-2028-as-paralimpiara-is-kijutna-Peter-Agnes-es-Blaga-Emoke-tandemparosa</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/12/cikk_Peter_Agnes_es_Emoke_3.jpg" /><br/>Az összhangra és a bizalomra épít, a 2028-as paralimpiára is kijutna Péter Ágnes és Blága Emőke tandempárosa]]></description>
+      <pubDate>Sat, 15 Aug 2026 06:37:15 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_augusztus/12/cikk_Peter_Agnes_es_Emoke_3.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_augusztus/12/cikk_Peter_Agnes_es_Emoke_3.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Erdőfüle: horogra akadt innováció</title>
       <link>https://hargitanepe.ro/erdofule-horogra-akadt-innovacio</link>
@@ -425,28 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_augusztus/14/cikksmall_lotto_agerpres_(1).jpg" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_augusztus/14/cikksmall_lotto_agerpres_(1).jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Megjött az emberek kedve az állam meghitelezéséhez</title>
-      <link>https://maszol.ro/gazdasag/Megjott-az-emberek-kedve-az-allam-meghitelezesehez</link>
-      <guid isPermaLink="true">https://maszol.ro/gazdasag/Megjott-az-emberek-kedve-az-allam-meghitelezesehez</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/14/cikksmall_penzugyminiszterium.jpg" /><br/>Megjött az emberek kedve az állam meghitelezéséhez]]></description>
-      <pubDate>Fri, 14 Aug 2026 13:05:23 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/14/cikksmall_penzugyminiszterium.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/14/cikksmall_penzugyminiszterium.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] FRISSÍTVE – Drón zuhant le egy Tulcea megyei község közelében</title>
-      <link>https://maszol.ro/belfold/Dron-zuhant-le-egy-Tulcea-megyei-kozseg-kozeleben</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Dron-zuhant-le-egy-Tulcea-megyei-kozseg-kozeleben</guid>
-      <description><![CDATA[<img src="https://maszol.ro/uploads/2026_augusztus/14/dron_defenseromania_fboldal.jpg" /><br/>FRISSÍTVE – Drón zuhant le egy Tulcea megyei község közelében]]></description>
-      <pubDate>Fri, 14 Aug 2026 13:05:23 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/uploads/2026_augusztus/14/dron_defenseromania_fboldal.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/uploads/2026_augusztus/14/dron_defenseromania_fboldal.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
