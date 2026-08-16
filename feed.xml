@@ -5,9 +5,75 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Sun, 16 Aug 2026 01:17:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 03:48:09 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] A húsvét átrendezte a romániai húspiacot</title>
+      <link>https://hargitanepe.ro/jelentosen-nott-a-juh-es-a-kecskehustermeles</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/jelentosen-nott-a-juh-es-a-kecskehustermeles</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1782292487_0__3_Baranyvagas_HI02.jpg" /><br/>A húsvét átrendezte a romániai húspiacot]]></description>
+      <pubDate>Sun, 16 Aug 2026 03:48:09 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1782292487_0__3_Baranyvagas_HI02.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1782292487_0__3_Baranyvagas_HI02.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Gyerekirodalmi kvíz</title>
+      <link>https://hargitanepe.ro/csaladi</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/csaladi</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1712915204_csaladi_kviz_webre.jpg" /><br/>Gyerekirodalmi kvíz]]></description>
+      <pubDate>Sun, 16 Aug 2026 03:48:09 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1712915204_csaladi_kviz_webre.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1712915204_csaladi_kviz_webre.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Napi kvíz</title>
+      <link>https://hargitanepe.ro/kviz</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/kviz</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1671456199_WhatsApp3.jpeg" /><br/>Napi kvíz]]></description>
+      <pubDate>Sun, 16 Aug 2026 03:48:09 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1671456199_WhatsApp3.jpeg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1671456199_WhatsApp3.jpeg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Tárkonyos, tejes paszulyleves füstölt kolbásszal</title>
+      <link>https://maszol.ro/videok/Erdely-izei-tarkonyos-tejes-paszulyleves-fustolt-kolbasszal</link>
+      <guid isPermaLink="true">https://maszol.ro/videok/Erdely-izei-tarkonyos-tejes-paszulyleves-fustolt-kolbasszal</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2022November/18/video_paszulyleves_maszol_01.jpg" /><br/>Tárkonyos, tejes paszulyleves füstölt kolbásszal]]></description>
+      <pubDate>Sun, 16 Aug 2026 03:48:06 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2022November/18/video_paszulyleves_maszol_01.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2022November/18/video_paszulyleves_maszol_01.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Erdély legjei – Hargita megye: Énlaka</title>
+      <link>https://maszol.ro/videok/Erdely-legjei-Hargita-megye-Enlaka</link>
+      <guid isPermaLink="true">https://maszol.ro/videok/Erdely-legjei-Hargita-megye-Enlaka</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026Junius/14/videosmall_Enlaka_10.jpg" /><br/>Erdély legjei – Hargita megye: Énlaka]]></description>
+      <pubDate>Sun, 16 Aug 2026 03:48:06 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026Junius/14/videosmall_Enlaka_10.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026Junius/14/videosmall_Enlaka_10.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Ezer Székely Leány Napja: „a népviselet nem csupán ruha, hanem az egyik legfontosabb jelkép” (VIDEÓ)</title>
+      <link>https://maszol.ro/videok/Ezer-Szekely-Leany-Napja-a-nepviselet-nem-csupan-ruha-hanem-az-egyik-legfontosabb-jelkep</link>
+      <guid isPermaLink="true">https://maszol.ro/videok/Ezer-Szekely-Leany-Napja-a-nepviselet-nem-csupan-ruha-hanem-az-egyik-legfontosabb-jelkep</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_Julius/04/videosmall_Timeline_1_01_00_05_21.png" /><br/>Ezer Székely Leány Napja: „a népviselet nem csupán ruha, hanem az egyik legfontosabb jelkép” (VIDEÓ)]]></description>
+      <pubDate>Sun, 16 Aug 2026 03:48:06 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_Julius/04/videosmall_Timeline_1_01_00_05_21.png" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_Julius/04/videosmall_Timeline_1_01_00_05_21.png" type="image/png" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Az in vitro növényszaporítás szerepe</title>
       <link>https://hargitanepe.ro/feher-kopenyes-kerteszkedes</link>
@@ -381,72 +447,6 @@
       <author>Hargita Népe</author>
       <media:content url="https://hargitanepe.ro/images/data/423x222/1786697651_0_Afelholdarnyeka_muzeum_lfcs-2-.jpg" medium="image"/>
       <enclosure url="https://hargitanepe.ro/images/data/423x222/1786697651_0_Afelholdarnyeka_muzeum_lfcs-2-.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Önfeledt csobbanás kánikulában</title>
-      <link>https://hargitanepe.ro/hirek/kiemelt/kerti-medence-az-udvaron</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/hirek/kiemelt/kerti-medence-az-udvaron</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/1200x630/1786702171_1_felido.jpg" /><br/>Önfeledt csobbanás kánikulában]]></description>
-      <pubDate>Sat, 15 Aug 2026 09:25:37 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/1200x630/1786702171_1_felido.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/1200x630/1786702171_1_felido.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] A megmaradás és az összetartozás jegyében öntötték össze a búzát Zsobokon</title>
-      <link>https://maszol.ro/belfold/A-megmaradas-es-az-osszetartozas-jegyeben-ontottek-ossze-a-buzat-Zsobokon</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/A-megmaradas-es-az-osszetartozas-jegyeben-ontottek-ossze-a-buzat-Zsobokon</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/15/cikk_buzaosszeontes_zsobok_2608_km_1.jpg" /><br/>A megmaradás és az összetartozás jegyében öntötték össze a búzát Zsobokon]]></description>
-      <pubDate>Sat, 15 Aug 2026 09:25:34 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/15/cikk_buzaosszeontes_zsobok_2608_km_1.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/15/cikk_buzaosszeontes_zsobok_2608_km_1.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Aszály sújtotta a földeket, mégsem feledkeztek meg a rászorulókról a bihari gazdák</title>
-      <link>https://maszol.ro/belfold/Aszaly-sujtotta-a-foldeket-megsem-feledkeztek-meg-a-raszorulokrol-a-bihari-gazdak</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Aszaly-sujtotta-a-foldeket-megsem-feledkeztek-meg-a-raszorulokrol-a-bihari-gazdak</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/15/cikk_2026_08_14_Bihar_buzaosszeontes_Foto_Borsi_Balazs-98.jpg" /><br/>Aszály sújtotta a földeket, mégsem feledkeztek meg a rászorulókról a bihari gazdák]]></description>
-      <pubDate>Sat, 15 Aug 2026 09:25:34 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/15/cikk_2026_08_14_Bihar_buzaosszeontes_Foto_Borsi_Balazs-98.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/15/cikk_2026_08_14_Bihar_buzaosszeontes_Foto_Borsi_Balazs-98.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Magyarázatot vár a PSD-képviselő a Bolojan-Tănăsescu találkozóra</title>
-      <link>https://maszol.ro/belfold/Magyarazatot-var-a-PSD-kepviselo-a-Bolojan-Tanasescu-talalkozora</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Magyarazatot-var-a-PSD-kepviselo-a-Bolojan-Tanasescu-talalkozora</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/15/cikksmall_alkotmanybirosag_curtea_constitutionala_fb_2601_1.jpg" /><br/>Magyarázatot vár a PSD-képviselő a Bolojan-Tănăsescu találkozóra]]></description>
-      <pubDate>Sat, 15 Aug 2026 09:25:34 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/15/cikksmall_alkotmanybirosag_curtea_constitutionala_fb_2601_1.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/15/cikksmall_alkotmanybirosag_curtea_constitutionala_fb_2601_1.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Hemzsegnek a drónok a román légtér közelében</title>
-      <link>https://maszol.ro/belfold/Hemzsegnek-a-dronok-a-roman-legter-kozeleben</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Hemzsegnek-a-dronok-a-roman-legter-kozeleben</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/15/cikksmall_dron1_mirutafb_260814_1.jpg" /><br/>Hemzsegnek a drónok a román légtér közelében]]></description>
-      <pubDate>Sat, 15 Aug 2026 09:25:34 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/15/cikksmall_dron1_mirutafb_260814_1.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/15/cikksmall_dron1_mirutafb_260814_1.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Hőségriasztás hat megyében</title>
-      <link>https://maszol.ro/belfold/Hosegriasztas-hat-megyeben</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Hosegriasztas-hat-megyeben</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/15/cikksmall_pexels-fatih-turan-63325184-12413177.jpg" /><br/>Hőségriasztás hat megyében]]></description>
-      <pubDate>Sat, 15 Aug 2026 09:25:34 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/15/cikksmall_pexels-fatih-turan-63325184-12413177.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/15/cikksmall_pexels-fatih-turan-63325184-12413177.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
