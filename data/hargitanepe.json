@@ -1,5 +1,14 @@
 [
   {
+    "title": "[Hargita Népe] Nyár végi arctorna",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/feludules-a-bornek",
+    "description": "A nyári forróság és a légkondicionált terekben töltött idő hatására az évszak végére azt tapasztalhatjuk, hogy arcbőrünk szárazabbnak, kevésbé feszesnek tűnik: ilyenkor érdemes beépíteni a bőrápolási rutinunkba azt a napi néhány perces arctornát, amitől feszesebbnek, energikusabbnak fog tűnni az arcunk. Ha pedig rendszeressé tesszük ezeket a gyakorlatokat, hosszú távú eredményeknek örülhetünk.",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1786703032_0_budoar.jpg",
+    "published": "2026-08-16T09:26:46.528905+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] Az egészségünk múlhat rajta",
     "link": "https://hargitanepe.ro/hirek/kiemelt/a-tokeletes-agynemuhigienia-titka",
     "description": "Az egészségünk múlhat rajta",
@@ -1184,69 +1193,6 @@
     "description": "Ha nincs áram, előfordulhat, hogy a vezetékes víz sem jut el a fogyasztókhoz: a hétvégén Székelyudvarhely teljes lakossága mintegy másfél napig maradt víz nélkül, miután egy vihar elhúzódó áramkimaradást okozott, s emiatt leállt egy szivattyúház – a problémát ideiglenesen egy Brassóból hozott, az áramszolgáltató által biztosított generátor segítségével kellett áthidalni. A regionális víz- és csatornaszolgáltatót arról kérdeztük, mi a stratégiájuk ilyen esetekre.",
     "image": "https://hargitanepe.ro/images/data/1200x630/1786433015_3_harvizulepitomedence_hi15_web.jpg",
     "published": "2026-08-11T10:00:24.950053+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Szeszélyes elegancia",
-    "link": "https://hargitanepe.ro/a-jo-palinkahoz-tokeletes-kemia-kell-2026-07-21",
-    "description": "Szeszélyes elegancia",
-    "image": "https://hargitanepe.ro/images/data/423x222/1784621283_1_gabor_sz_szeszely_lfcs-1-_web.jpg",
-    "published": "2026-08-11T07:07:18.674319+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Jól kezdték a bajnokságot az FK Csíkszereda fiatal labdarúgói",
-    "link": "https://hargitanepe.ro/harom-gyozelem-egy-vereseg",
-    "description": "Jól kezdték a bajnokságot az FK Csíkszereda fiatal labdarúgói",
-    "image": "https://hargitanepe.ro/images/data/423x222/1786390034_0_FKU15.jpg",
-    "published": "2026-08-11T07:07:18.673982+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Sport röviden (08. 11.)",
-    "link": "https://hargitanepe.ro/sport-roviden-08-11",
-    "description": "Sport röviden (08. 11.)",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1781778310_0_sport.jpg",
-    "published": "2026-08-11T07:07:18.673923+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] 35 ezer lejért készült hulladéktároló a nagyvadak ellen",
-    "link": "https://hargitanepe.ro/ket-medvebiztos-kukat-telepitettek",
-    "description": "35 ezer lejért készült hulladéktároló a nagyvadak ellen",
-    "image": "https://hargitanepe.ro/images/data/423x222/1786351626_0_medvebiztos_kukak_bph-1-_web.jpg",
-    "published": "2026-08-11T07:07:18.673734+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Székely Konyha és Kert",
-    "link": "https://hargitanepe.ro/feherboros-fekete-kagylo-bazsalikomos-majonezzel",
-    "description": "Székely Konyha és Kert",
-    "image": "https://hargitanepe.ro/images/data/423x222/1786352572_0_DSC_3942.jpg",
-    "published": "2026-08-11T07:07:18.673667+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Jól kezdték a bajnokságot az FK Csíkszereda fiatal labdarúgói",
-    "link": "https://hargitanepe.ro/hirek/foci/harom-gyozelem-egy-vereseg",
-    "description": "Jól kezdték a bajnokságot az FK Csíkszereda fiatal labdarúgói",
-    "image": "https://hargitanepe.ro/images/data/423x222/1786390034_0_FKU15.jpg",
-    "published": "2026-08-11T07:07:18.673356+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Zajlik a pótérettségi írásbeli szakasza",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/a-romant-ismetlik-meg-a-legtobben",
-    "description": "Csíkszeredában, Gyer­gyó­szentmiklóson és Szé­kely­udvarhelyen ala­kí­tottak ki egy-egy vizs­gaközpontot azok szá­mára, akik újra pró­bálkoznak az átmenő osztályzatért, az érettségi oklevél megszerzésének reményében. Hétfőn az írásbeli vizsgákkal folytatódott a pótérettségi.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1786390444_0_erettsegiillusztracio_hi05_web.jpg",
-    "published": "2026-08-11T07:07:18.673188+00:00",
     "author": "Hargita Népe",
     "category": "Hargita Népe"
   }

@@ -5,9 +5,64 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Sun, 16 Aug 2026 06:38:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 09:26:46 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Nyár végi arctorna</title>
+      <link>https://hargitanepe.ro/hirek/kiemelt/feludules-a-bornek</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/hirek/kiemelt/feludules-a-bornek</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/1200x630/1786703032_0_budoar.jpg" /><br/>A nyári forróság és a légkondicionált terekben töltött idő hatására az évszak végére azt tapasztalhatjuk, hogy arcbőrünk szárazabbnak, kevésbé feszesnek tűnik: ilyenkor érdemes beépíteni a bőrápolási rutinunkba azt a napi néhány perces arctornát, amitől feszesebbnek, energikusabbnak fog tűnni az arcunk. Ha pedig rendszeressé tesszük ezeket a gyakorlatokat, hosszú távú eredményeknek örülhetünk.]]></description>
+      <pubDate>Sun, 16 Aug 2026 09:26:46 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/1200x630/1786703032_0_budoar.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/1200x630/1786703032_0_budoar.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Ismét itt a kánikula</title>
+      <link>https://maszol.ro/belfold/Ismet-itt-a-kanikula</link>
+      <guid isPermaLink="true">https://maszol.ro/belfold/Ismet-itt-a-kanikula</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/16/cikk_hoseg_20260625_agerpres_london.jpg" /><br/>Ismét itt a kánikula]]></description>
+      <pubDate>Sun, 16 Aug 2026 09:26:43 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_augusztus/16/cikk_hoseg_20260625_agerpres_london.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_augusztus/16/cikk_hoseg_20260625_agerpres_london.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Tizenketten haltak meg egy magyarországi közúti balesetben</title>
+      <link>https://maszol.ro/kulfold/Tizenketten-haltak-meg-egy-magyarorszagi-kozuti-balesetben</link>
+      <guid isPermaLink="true">https://maszol.ro/kulfold/Tizenketten-haltak-meg-egy-magyarorszagi-kozuti-balesetben</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/16/cikksmall_buszbaleset_MTI_Mathe_Zoltan.jpg" /><br/>Tizenketten haltak meg egy magyarországi közúti balesetben]]></description>
+      <pubDate>Sun, 16 Aug 2026 09:26:43 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_augusztus/16/cikksmall_buszbaleset_MTI_Mathe_Zoltan.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_augusztus/16/cikksmall_buszbaleset_MTI_Mathe_Zoltan.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Tíz lej alá csökkent a gázolaj ára</title>
+      <link>https://maszol.ro/gazdasag/Tiz-lej-ala-csokkent-a-gazolaj-ara-1</link>
+      <guid isPermaLink="true">https://maszol.ro/gazdasag/Tiz-lej-ala-csokkent-a-gazolaj-ara-1</guid>
+      <description><![CDATA[<img src="https://maszol.ro/uploads/2026_augusztus/16/tankolas_benzinkut_uzemanyag_toltoallomas_pixabay.jpg" /><br/>Tíz lej alá csökkent a gázolaj ára]]></description>
+      <pubDate>Sun, 16 Aug 2026 09:26:43 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/uploads/2026_augusztus/16/tankolas_benzinkut_uzemanyag_toltoallomas_pixabay.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/uploads/2026_augusztus/16/tankolas_benzinkut_uzemanyag_toltoallomas_pixabay.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Erdély legjei-válogatás: Ismerd meg az erdélyi nemesség múltját!</title>
+      <link>https://maszol.ro/kultura/Erdely-legjei-valogatas-Ismerd-meg-az-erdelyi-nemesseg-multjat</link>
+      <guid isPermaLink="true">https://maszol.ro/kultura/Erdely-legjei-valogatas-Ismerd-meg-az-erdelyi-nemesseg-multjat</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2025julius/09/cikk_Timeline_1_(Resolve)_-_synced_00_00_00_19.png" /><br/>Mutatunk néhány kevésbé ismert, de annál különlegesebb kúriát és kastély, amelyekhez mindenképp érdemes ellátogatni.]]></description>
+      <pubDate>Sun, 16 Aug 2026 09:26:43 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2025julius/09/cikk_Timeline_1_(Resolve)_-_synced_00_00_00_19.png" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2025julius/09/cikk_Timeline_1_(Resolve)_-_synced_00_00_00_19.png" type="image/png" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Az egészségünk múlhat rajta</title>
       <link>https://hargitanepe.ro/hirek/kiemelt/a-tokeletes-agynemuhigienia-titka</link>
@@ -392,61 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_augusztus/15/cikk_bilincs_letartoztatas_rendorseg_pexels.jpg" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_augusztus/15/cikk_bilincs_letartoztatas_rendorseg_pexels.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Súlyos baleset: négy személy, köztük két gyermek került kórházba</title>
-      <link>https://maszol.ro/belfold/Sulyos-baleset-negy-szemely-koztuk-ket-gyermek-kerult-korhazba</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Sulyos-baleset-negy-szemely-koztuk-ket-gyermek-kerult-korhazba</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/15/cikksmall_baleset_isusibiu.jpg" /><br/>Súlyos baleset: négy személy, köztük két gyermek került kórházba]]></description>
-      <pubDate>Sat, 15 Aug 2026 12:36:26 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/15/cikksmall_baleset_isusibiu.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/15/cikksmall_baleset_isusibiu.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Nicușor Dan: a Fekete-tenger kulcsfontosságú Európa biztonsága szempontjából</title>
-      <link>https://maszol.ro/belfold/Nicusor-Dan-a-Fekete-tenger-kulcsfontossagu-Europa-biztonsaga-szempontjabol</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Nicusor-Dan-a-Fekete-tenger-kulcsfontossagu-Europa-biztonsaga-szempontjabol</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/15/cikksmall_nicusor_dan_251231_fb.jpg" /><br/>Nicușor Dan: a Fekete-tenger kulcsfontosságú Európa biztonsága szempontjából]]></description>
-      <pubDate>Sat, 15 Aug 2026 12:36:26 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/15/cikksmall_nicusor_dan_251231_fb.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/15/cikksmall_nicusor_dan_251231_fb.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Kifütyülték Bolojant Konstancán</title>
-      <link>https://maszol.ro/belfold/Kifutyultek-Bolojant-Konstancan</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Kifutyultek-Bolojant-Konstancan</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/15/cikksmall_760353403_3389923374520243_2213888293182950424_n.jpg" /><br/>Kifütyülték Bolojant Konstancán]]></description>
-      <pubDate>Sat, 15 Aug 2026 12:36:26 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/15/cikksmall_760353403_3389923374520243_2213888293182950424_n.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/15/cikksmall_760353403_3389923374520243_2213888293182950424_n.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Földrengés rázta meg Granada térségét</title>
-      <link>https://maszol.ro/kulfold/Foldrenges-razta-meg-Granada-terseget</link>
-      <guid isPermaLink="true">https://maszol.ro/kulfold/Foldrenges-razta-meg-Granada-terseget</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/15/cikksmall_granada_foldrenges_spanyolorszag_260815_agerpres_epa.jpg" /><br/>Földrengés rázta meg Granada térségét]]></description>
-      <pubDate>Sat, 15 Aug 2026 12:36:26 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/15/cikksmall_granada_foldrenges_spanyolorszag_260815_agerpres_epa.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/15/cikksmall_granada_foldrenges_spanyolorszag_260815_agerpres_epa.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Benyújtották a kifizetési kérelmet</title>
-      <link>https://maszol.ro/gazdasag/Benyujtottak-a-kifizetesi-kerelmet</link>
-      <guid isPermaLink="true">https://maszol.ro/gazdasag/Benyujtottak-a-kifizetesi-kerelmet</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/15/cikksmall_774475707_937115128672241_5285600048186288382_n.jpg" /><br/>Benyújtották a kifizetési kérelmet]]></description>
-      <pubDate>Sat, 15 Aug 2026 12:36:26 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/15/cikksmall_774475707_937115128672241_5285600048186288382_n.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/15/cikksmall_774475707_937115128672241_5285600048186288382_n.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>

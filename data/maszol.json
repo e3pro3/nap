@@ -1,5 +1,41 @@
 [
   {
+    "title": "[Maszol] Ismét itt a kánikula",
+    "link": "https://maszol.ro/belfold/Ismet-itt-a-kanikula",
+    "description": "Ismét itt a kánikula",
+    "image": "https://maszol.ro/resized/2026_augusztus/16/cikk_hoseg_20260625_agerpres_london.jpg",
+    "published": "2026-08-16T09:26:43.552885+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Tizenketten haltak meg egy magyarországi közúti balesetben",
+    "link": "https://maszol.ro/kulfold/Tizenketten-haltak-meg-egy-magyarorszagi-kozuti-balesetben",
+    "description": "Tizenketten haltak meg egy magyarországi közúti balesetben",
+    "image": "https://maszol.ro/resized/2026_augusztus/16/cikksmall_buszbaleset_MTI_Mathe_Zoltan.jpg",
+    "published": "2026-08-16T09:26:43.551656+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Tíz lej alá csökkent a gázolaj ára",
+    "link": "https://maszol.ro/gazdasag/Tiz-lej-ala-csokkent-a-gazolaj-ara-1",
+    "description": "Tíz lej alá csökkent a gázolaj ára",
+    "image": "https://maszol.ro/uploads/2026_augusztus/16/tankolas_benzinkut_uzemanyag_toltoallomas_pixabay.jpg",
+    "published": "2026-08-16T09:26:43.551360+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Erdély legjei-válogatás: Ismerd meg az erdélyi nemesség múltját!",
+    "link": "https://maszol.ro/kultura/Erdely-legjei-valogatas-Ismerd-meg-az-erdelyi-nemesseg-multjat",
+    "description": "Mutatunk néhány kevésbé ismert, de annál különlegesebb kúriát és kastély, amelyekhez mindenképp érdemes ellátogatni.",
+    "image": "https://maszol.ro/resized/2025julius/09/cikk_Timeline_1_(Resolve)_-_synced_00_00_00_19.png",
+    "published": "2026-08-16T09:26:43.036333+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
     "title": "[Maszol] A román légtérbe behatoló drónt lőttek le spanyol vadászgépek",
     "link": "https://maszol.ro/belfold/A-roman-legterbe-behatolo-dront-lottek-le-spanyol-vadaszgepek",
     "description": "A román légtérbe behatoló drónt lőttek le spanyol vadászgépek",
@@ -2039,96 +2075,6 @@
     "description": "Százakat öltek meg hazatérésük után a börtönökből toborzott orosz katonák, akiket Putyin hősökként méltatott",
     "image": "https://maszol.ro/resized/2026_augusztus/11/cikk_orosz_katona_Agerpres_EPA.jpg",
     "published": "2026-08-11T10:00:21.588738+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Két személy került kórházba égési sérülésekkel egy erdélyi tűzeset után",
-    "link": "https://maszol.ro/belfold/Ket-szemely-kerult-korhazba-egesi-serulesekkel-egy-erdelyi-tuzeset-utan",
-    "description": "Két személy került kórházba égési sérülésekkel egy erdélyi tűzeset után",
-    "image": "https://maszol.ro/resized/2026_augusztus/11/cikk_WhatsApp-Image-2026-08-10-at-18-41-11-1.jpg",
-    "published": "2026-08-11T07:07:15.640653+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Először emeltek vádat hegyi vezető ellen Romániában (VIDEÓ)",
-    "link": "https://maszol.ro/belfold/Eloszor-emeltek-vadat-hegyi-vezeto-ellen-Romaniaban-VIDEO",
-    "description": "Először emeltek vádat hegyi vezető ellen Romániában (VIDEÓ)",
-    "image": "https://maszol.ro/resized/2026_augusztus/11/cikk_hegyimentok_AI.png",
-    "published": "2026-08-11T07:07:15.640552+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Zuckerberg nagy terve: mindenki számára elérhető „szuperintelligencia”",
-    "link": "https://maszol.ro/kulfold/Zuckerberg-nagy-terve-mindenki-szamara-elerheto-szuperintelligencia",
-    "description": "Zuckerberg nagy terve: mindenki számára elérhető „szuperintelligencia”",
-    "image": "https://maszol.ro/resized/2026_augusztus/11/cikksmall_Mark_Z.jpg",
-    "published": "2026-08-11T07:07:15.639541+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Legalább 111 halottja van a kolumbiai földrengésnek, az elnök szükségállapotot rendel el",
-    "link": "https://maszol.ro/kulfold/Legalabb-111-halottja-van-a-kolumbiai-foldrengesnek-az-elnok-szuksegallapotot-rendel-el",
-    "description": "Legalább 111 halottja van a kolumbiai földrengésnek, az elnök szükségállapotot rendel el",
-    "image": "https://maszol.ro/resized/2026_augusztus/11/cikksmall_agerpres_19552684.jpg",
-    "published": "2026-08-11T07:07:15.639461+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Pokróccal mentettek meg egy erkélyről lezuhanó négyéves kislányt (VIDEÓ)",
-    "link": "https://maszol.ro/kulfold/Pokroccal-mentettek-meg-egy-erkelyrol-lezuhano-negyeves-kislanyt-VIDEO",
-    "description": "Pokróccal mentettek meg egy erkélyről lezuhanó négyéves kislányt (VIDEÓ)",
-    "image": "https://maszol.ro/resized/2026_augusztus/11/cikksmall_769131133_122134786599191249_3788265564598817050_n.jpg",
-    "published": "2026-08-11T07:07:15.639143+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] A korábbi becsléseknél gyorsabban csökken a Duna vízszintje Csernavodánál",
-    "link": "https://maszol.ro/belfold/A-korabbi-becsleseknel-gyorsabban-csokken-a-Duna-vizszintje-Csernavodanal",
-    "description": "A korábbi becsléseknél gyorsabban csökken a Duna vízszintje Csernavodánál",
-    "image": "https://maszol.ro/resized/2026_augusztus/11/cikk_robbantas_digi_(2).png",
-    "published": "2026-08-11T07:07:15.639040+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Kiadták az előrejelzést: ilyen időjárás lesz szeptember elejéig",
-    "link": "https://maszol.ro/belfold/A-meteorologusok-szerint-ilyen-idojaras-lesz-szeptember-elejeig",
-    "description": "A négyhetes előrejelzés nem konkrét napokra vonatkozó időjárás-jelentés, hanem a heti átlaghőmérséklet és a csapadékmennyiség sokéves átlaghoz viszonyított várható eltérését mutatja.",
-    "image": "https://maszol.ro/resized/2026_augusztus/11/cikk_idojaras_elorejelzes.png",
-    "published": "2026-08-11T07:07:15.638956+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Több erdélyi színház is esélyes a Színikritikusok Díjára",
-    "link": "https://maszol.ro/kultura/Tobb-erdelyi-szinhaz-is-eselyes-a-Szinikritikusok-Dijara",
-    "description": "A magyar Színházi Kritikusok Céhe 47. alkalommal adja át a Színikritikusok Díját, amellyel az előző évad kiemelkedő színházi teljesítményeit ismerik el.",
-    "image": "https://maszol.ro/resized/2026_augusztus/11/cikk_IMG_20220815_122613x.jpg",
-    "published": "2026-08-11T07:07:15.638867+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Kedden megválasztják Magyarország köztársasági elnökét",
-    "link": "https://maszol.ro/kulfold/Ma-megvalasztjak-Magyarorszag-koztarsasagi-elnoket",
-    "description": "Kedden megválasztják Magyarország köztársasági elnökét",
-    "image": "https://maszol.ro/uploads/2026_augusztus/11/Baka_Andras.jpg",
-    "published": "2026-08-11T07:07:15.638735+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Már nem a jövő: sofőr nélküli taxik közlekednek, de megbüntetheti-e a rendőr az önvezető autót?",
-    "link": "https://maszol.ro/kulfold/Megbuntetheti-e-a-rendor-az-onvezeto-autot",
-    "description": "Már nem a jövő: sofőr nélküli taxik közlekednek, de megbüntetheti-e a rendőr az önvezető autót?",
-    "image": "https://maszol.ro/resized/2026_Julius/20/cikk_pexels-stephen-leonardi-587681991-35076289.jpg",
-    "published": "2026-08-11T07:07:15.225232+00:00",
     "author": "Maszol",
     "category": "Maszol"
   }
