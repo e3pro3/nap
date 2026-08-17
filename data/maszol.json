@@ -1,5 +1,104 @@
 [
   {
+    "title": "[Maszol] Követ dobtak a rendőrautóra – Egy rendőr megsérült",
+    "link": "https://maszol.ro/belfold/Kovet-dobtak-a-rendorautora-Egy-rendor-megserult",
+    "description": "Követ dobtak a rendőrautóra – Egy rendőr megsérült",
+    "image": "https://maszol.ro/resized/2026_augusztus/17/cikk_rendorauto_Agerpres.jpg",
+    "published": "2026-08-17T15:24:22.089108+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Egymillió eurós tűzkár Lécfalván – Prioritás a háromszéki hulladékválogatás működtetése",
+    "link": "https://maszol.ro/belfold/Egymillio-euros-tuzkar-Lecfalvan-Prioritas-a-haromszeki-hulladekvalogatas-mukodtetese",
+    "description": "Egymillió eurós tűzkár Lécfalván – Prioritás a háromszéki hulladékválogatás működtetése",
+    "image": "https://maszol.ro/resized/2026_augusztus/17/cikk_20260817_foto_TamasSandor_FB_oldala_kiegett_valogato_csarnok2.jpg",
+    "published": "2026-08-17T15:24:22.089040+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Napfogyatkozás 2026: Románia északnyugati részén is látható az év ritka csillagászati jelensége",
+    "link": "https://maszol.ro/eletmod/Napfogyatkozas-2026-Romania-eszaknyugati-reszen-is-lathato-az-ev-ritka-csillagaszati-jelensege",
+    "description": "Napfogyatkozás 2026: Románia északnyugati részén is látható az év ritka csillagászati jelensége",
+    "image": "https://maszol.ro/resized/2026_augusztus/12/cikksmall_pexels-gleive-37045046.jpg",
+    "published": "2026-08-17T15:24:22.088389+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Árvízriadót rendeltek el a hidrológusok hét megyében",
+    "link": "https://maszol.ro/belfold/Arvizriadot-rendeltek-el-a-hidrologusok-het-megyeben",
+    "description": "Árvízriadót rendeltek el a hidrológusok hét megyében",
+    "image": "https://maszol.ro/resized/2026_augusztus/12/cikksmall_belbor_(1).jpg",
+    "published": "2026-08-17T15:24:22.088292+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Hívatlan utasok: két kecske felszállt a buszra (VIDEÓ)",
+    "link": "https://maszol.ro/kulfold/Hivatlan-utasok-ket-kecske-felszallt-a-buszra-VIDEO",
+    "description": "Hívatlan utasok: két kecske felszállt a buszra (VIDEÓ)",
+    "image": "https://maszol.ro/resized/2026_augusztus/17/cikksmall_kecske_pexels1.jpg",
+    "published": "2026-08-17T15:24:22.088031+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Ma is rekordot írtak a napelemek",
+    "link": "https://maszol.ro/gazdasag/Ma-is-rekordot-irtak-a-napelemek",
+    "description": "Ma is rekordot írtak a napelemek",
+    "image": "https://maszol.ro/resized/2026_augusztus/17/cikksmall_napelem-facebook-electrica.jpg",
+    "published": "2026-08-17T15:24:22.087962+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Sikerrel zárult a 16. Csíkszeredai Nemzetközi Jazzfesztivál",
+    "link": "https://maszol.ro/kultura/Sikerrel-zarult-a-16-Csikszeredai-Nemzetkozi-Jazzfesztival",
+    "description": "Sikerrel zárult a 16. Csíkszeredai Nemzetközi Jazzfesztivál",
+    "image": "https://maszol.ro/resized/2026_augusztus/17/cikksmall_YazzAhmed.jpg",
+    "published": "2026-08-17T15:24:22.087889+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Az NL-csoport megnyerését célozza Hagi a válogatott élén",
+    "link": "https://maszol.ro/sport/Az-NL-csoport-megnyereset-celozza-Hagi-a-valogatott-elen",
+    "description": "Az NL-csoport megnyerését célozza Hagi a válogatott élén",
+    "image": "https://maszol.ro/resized/2026_augusztus/17/cikksmall_gheorghe_hagi_2604_frf_1.jpg",
+    "published": "2026-08-17T15:24:22.087824+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Márton Áron életét új zenei világban meséli el az Én népem vállalom folkopera Csíkszeredában",
+    "link": "https://maszol.ro/kultura/Marton-Aron-eletet-uj-zenei-vilagban-meseli-el-a-Nepemert-vallalom-folkopera-Csikszeredaban",
+    "description": "Márton Áron életét új zenei világban meséli el az Én népem vállalom folkopera Csíkszeredában",
+    "image": "https://maszol.ro/resized/2026_augusztus/17/cikksmall_MartonAron-wiki.jpg",
+    "published": "2026-08-17T15:24:22.087681+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Ez is történt: Újonc verte a CFR-t, dicstelen tornászok, dollármilliókat bukott Federer",
+    "link": "https://maszol.ro/sport/Ez-is-tortent-Ujonc-verte-a-CFR-t-dicstelen-tornaszok-dollarmilliokat-bukott-Federer",
+    "description": "Ez is történt: Újonc verte a CFR-t, dicstelen tornászok, dollármilliókat bukott Federer",
+    "image": "https://maszol.ro/resized/2026_augusztus/17/cikksmall_torna_2.jpg",
+    "published": "2026-08-17T15:24:22.087597+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Putyin kipécézheti Romániát, a tengeri gázprojekt sem kockázatmentes",
+    "link": "https://maszol.ro/belfold/Putyin-kipecezheti-Romaniat-a-tengeri-gazprojekt-sem-kockazatmentes",
+    "description": "A Fekete-tengeri román kontinentális talapzatban zajló kitermelés esetében veszélyt jelentő körülményként merül fel az orosz-ukrán háború.",
+    "image": "https://maszol.ro/resized/2026_augusztus/17/cikk_dronok_defenseromania_fboldala.jpg",
+    "published": "2026-08-17T15:24:22.087327+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
     "title": "[Maszol] Sürgeti az erdélyi erőmű befejezését Bolojan, hogy ne kelljen áramot vásároljon az ország",
     "link": "https://maszol.ro/belfold/Surgeti-az-erdelyi-eromu-befejezeset-Bolojan-hogy-ne-kelljen-aramot-vasaroljon-az-orszag",
     "description": "Sürgeti az erdélyi erőmű befejezését Bolojan, hogy ne kelljen áramot vásároljon az ország",
@@ -1832,96 +1931,6 @@
     "description": "Panaszkodnak a Tate fivérek",
     "image": "https://maszol.ro/resized/2026_augusztus/12/cikksmall_Opera_Snapshot_2026-08-12_184950_x-com.png",
     "published": "2026-08-12T15:58:42.020657+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Akár már ősztől csökkenhet az iskolaigazgatók és tanfelügyelők kötelező óraszáma",
-    "link": "https://maszol.ro/belfold/Akar-mar-osztol-csokkenhet-az-iskolaigazgatok-es-tanfelugyelok-kotelezo-oraszama",
-    "description": "Akár már ősztől csökkenhet az iskolaigazgatók és tanfelügyelők kötelező óraszáma",
-    "image": "https://maszol.ro/resized/2026_augusztus/12/cikk_diakok_tanulas_olvasas_iskola_oktatas_tanugy_pexels_(4).jpg",
-    "published": "2026-08-12T13:08:50.309713+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Mircea Abdrudean a kormány intézkedéseinek tulajdonítja az infláció csökkenését",
-    "link": "https://maszol.ro/belfold/Mircea-Abdrudean-a-kormany-intezkedeseinek-tulajdonitja-az-inflacio-csokkeneset",
-    "description": "Mircea Abdrudean a kormány intézkedéseinek tulajdonítja az infláció csökkenését",
-    "image": "https://maszol.ro/resized/2026_augusztus/12/cikk_mircea_abrudean_2509_fb_pnl_.jpg",
-    "published": "2026-08-12T13:08:50.309664+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Megnősült Cristiano Ronaldo",
-    "link": "https://maszol.ro/eletmod/Megnosult-Cristiano-Ronaldo",
-    "description": "Megnősült Cristiano Ronaldo",
-    "image": "https://maszol.ro/resized/2026_augusztus/12/cikksmall_20221205_katar_2022_cristiano_ronaldo_agerpres_xinhua.jpg",
-    "published": "2026-08-12T13:08:50.308978+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Putyin üzent: nyugati hajókat foglalhat el",
-    "link": "https://maszol.ro/kulfold/Putyin-uzent-nyugati-hajokat-foglalhat-el",
-    "description": "Putyin üzent: nyugati hajókat foglalhat el",
-    "image": "https://maszol.ro/resized/2026_augusztus/12/cikksmall_Putyin_valasztas_2024_03_18_agerpres_EPA.jpg",
-    "published": "2026-08-12T13:08:50.308932+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Brit felmérés: így vélekednek a románokról",
-    "link": "https://maszol.ro/kulfold/Brit-felmeres-igy-velekednek-a-romanokrol",
-    "description": "Brit felmérés: így vélekednek a románokról",
-    "image": "https://maszol.ro/resized/2026_augusztus/12/cikksmall_london_rendorseg_Fb1.jpg",
-    "published": "2026-08-12T13:08:50.308882+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Friss közvélemény-kutatást közöltek, változott a Tisza és a Mi Hazánk megítélése",
-    "link": "https://maszol.ro/kulfold/Friss-kozvelemeny-kutatast-kozoltek-valtozott-a-Tisza-es-a-Mi-Hazank-megitelese",
-    "description": "Friss közvélemény-kutatást közöltek, változott a Tisza és a Mi Hazánk megítélése",
-    "image": "https://maszol.ro/resized/2026_augusztus/12/cikksmall_parlament_tiszapart_fboldala.jpg",
-    "published": "2026-08-12T13:08:50.308655+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Részlegesen újraindult a kataszteri hivatal online rendszere, de sok felhasználónál továbbra sem működik",
-    "link": "https://maszol.ro/belfold/Reszlegesen-ujraindult-a-kataszteri-hivatal-online-rendszere-de-sok-felhasznalonal-tovabbra-sem-mukodik",
-    "description": "Részlegesen újraindult a kataszteri hivatal online rendszere, de sok felhasználónál továbbra sem működik",
-    "image": "https://maszol.ro/uploads/2026_augusztus/12/Screenshot_2026-08-12_131824.png",
-    "published": "2026-08-12T13:08:50.308540+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Idén a bihari szórványba is elér a Debreceni Virágkarnevál",
-    "link": "https://maszol.ro/belfold/Iden-a-bihari-szorvanyba-is-eler-a-Debreceni-Viragkarneval",
-    "description": "Idén a bihari szórványba is elér a Debreceni Virágkarnevál",
-    "image": "https://maszol.ro/resized/2026_augusztus/12/cikk_viragkarneval_Biharban_bb.jpg",
-    "published": "2026-08-12T13:08:49.790260+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Csütörtök reggel kezdik a cernavodai erőmű leállítását",
-    "link": "https://maszol.ro/belfold/Csutortok-reggel-kezdik-a-cernavodai-eromu-leallitasat",
-    "description": "Csütörtök reggel kezdik a cernavodai erőmű leállítását",
-    "image": "https://maszol.ro/resized/2026_augusztus/12/cikk_cenravoda_reaktor_atomeromu_kettes_nuclearelectrica.jpg",
-    "published": "2026-08-12T13:08:49.790175+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Meghiúsult Sántha Xénia első csúcstámadása a Khan Tengrin – Betemette a lavina (VIDEÓ)",
-    "link": "https://maszol.ro/eletmod/Meghiusult-Santha-Xenia-elso-csucstamadasa-a-Khan-Tengrin",
-    "description": "A csíkszeredai hegymászó a kedvezőtlen időjárás, a friss hó és a fokozódó lavinaveszély miatt döntött az alaptáborba való visszatérés mellett.",
-    "image": "https://maszol.ro/resized/2026_augusztus/12/cikk_771453423_37656245710686891_1163329734129300647_n_(1).jpg",
-    "published": "2026-08-12T13:08:49.790081+00:00",
     "author": "Maszol",
     "category": "Maszol"
   }
