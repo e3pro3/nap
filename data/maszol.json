@@ -1,5 +1,86 @@
 [
   {
+    "title": "[Maszol] Államfői vétó – Mi lesz a tanárok és orvosok fizetésével?",
+    "link": "https://maszol.ro/belfold/Allamfoi-veto-Mi-lesz-a-tanarok-es-orvosok-fizetesevel",
+    "description": "Államfői vétó – Mi lesz a tanárok és orvosok fizetésével?",
+    "image": "https://maszol.ro/resized/2026_augusztus/17/cikk_ber_torveny_fizetes_unsplash.jpg",
+    "published": "2026-08-17T09:40:58.506838+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Zilah és Magyarkecel együtt készít elő közlekedési beruházást",
+    "link": "https://maszol.ro/belfold/Zilah-es-Magyarkecel-egyutt-keszit-elo-kozlekedesi-beruhazast",
+    "description": "Zilah és Magyarkecel együtt készít elő közlekedési beruházást",
+    "image": "https://maszol.ro/resized/2026_augusztus/17/cikk_zilah_felulnezetbol_facebook-1536x1150.jpg",
+    "published": "2026-08-17T09:40:58.506767+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Ünnepi műsorral készül Csíkszereda augusztus 20-án",
+    "link": "https://maszol.ro/kultura/Unnepi-musorral-keszul-Csikszereda-augusztus-20-an",
+    "description": "Ünnepi műsorral készül Csíkszereda augusztus 20-án",
+    "image": "https://maszol.ro/resized/2026_augusztus/17/cikksmall_536273290_1332046988927445_8158647436425700766_n.jpg",
+    "published": "2026-08-17T09:40:58.505839+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Az első félévében is nettó áramiportőrök voltunk",
+    "link": "https://maszol.ro/gazdasag/Az-elso-feleveben-is-netto-aramiportorok-voltunk",
+    "description": "Az első félévében is nettó áramiportőrök voltunk",
+    "image": "https://maszol.ro/resized/2026_augusztus/17/cikksmall_eletromos_energia_aram_agerpres.jpg",
+    "published": "2026-08-17T09:40:58.505772+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Kettős gyilkosság: egy férfi megölte feleségét és sógornőjét, majd öngyilkosságot kísérelt meg",
+    "link": "https://maszol.ro/belfold/Kettos-gyilkossag-egy-ferfi-megolte-feleseget-es-sogornojet-majd-ongyilkossagot-kiserelt-meg",
+    "description": "Kettős gyilkosság: egy férfi megölte feleségét és sógornőjét, majd öngyilkosságot kísérelt meg",
+    "image": "https://maszol.ro/resized/2026_augusztus/17/cikksmall_kes_Pixabay_(1).jpg",
+    "published": "2026-08-17T09:40:58.505701+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Rövidesen közvetlenül a Romgaztól is vásárolhat földgázt a lakosság",
+    "link": "https://maszol.ro/gazdasag/Rovidesen-kozvetlenul-a-Romgaztol-is-vasarolhat-foldgazt-a-lakossag",
+    "description": "Rövidesen közvetlenül a Romgaztól is vásárolhat földgázt a lakosság",
+    "image": "https://maszol.ro/resized/2026_augusztus/17/cikksmall_gaz_Pixabay.jpg",
+    "published": "2026-08-17T09:40:58.505558+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Hétfőn hőségriasztás – Kedden drasztikus lehűlés és viharok",
+    "link": "https://maszol.ro/belfold/Hetfon-hosegriasztas-Kedden-drasztikus-lehules-es-viharok",
+    "description": "Hétfőn hőségriasztás – Kedden drasztikus lehűlés és viharok",
+    "image": "https://maszol.ro/resized/2026_augusztus/17/cikk_nyar_zivatar_Pexels.jpg",
+    "published": "2026-08-17T09:40:58.505325+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Szeptember 1-jétől nem lesz szükség egészségügyi kártyára – Indul a digitális portál",
+    "link": "https://maszol.ro/belfold/Szeptember-1-jetol-nem-lesz-szukseg-egeszsegugyi-kartyara-Indul-a-digitalis-portal",
+    "description": "Szeptember 1-jétől nem lesz szükség egészségügyi kártyára – Indul a digitális portál",
+    "image": "https://maszol.ro/resized/2026_augusztus/17/cikk_orvos_szamitogep_Pexels.jpg",
+    "published": "2026-08-17T09:40:58.505239+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Bukarest új eszköze Moldovában: templomépítéssel szorítaná vissza Moszkva befolyását",
+    "link": "https://maszol.ro/belfold/Bukarest-uj-eszkoze-Moldovaban-templomepitessel-szoritana-vissza-Moszkva-befolyasat",
+    "description": "Román állami támogatásból tizenhat templom épült vagy épül jelenleg a Moldovai Köztársaság területén.",
+    "image": "https://maszol.ro/resized/2026_augusztus/17/cikk_maia_sandu_fboldala_(1).jpg",
+    "published": "2026-08-17T09:40:58.505112+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
     "title": "[Maszol] Tűzoltók hozták le a tetőről a bajba jutott cicát",
     "link": "https://maszol.ro/belfold/Tuzoltok-hoztak-le-a-tetorol-a-bajba-jutott-cicat",
     "description": "Tűzoltók hozták le a tetőről a bajba jutott cicát",
@@ -1805,96 +1886,6 @@
     "description": "A bizalmatlansági indítvány óta, azaz több mint három hónapja egy teljes jogkörrel nem rendelkező kabinet vezeti az országot.",
     "image": "https://maszol.ro/resized/2026_augusztus/12/cikk_nicusor_dan_fboldal.jpg",
     "published": "2026-08-12T10:04:26.296495+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Elkészült a Maros-parti bicikliút marosszentgyörgyi szakasza",
-    "link": "https://maszol.ro/belfold/Elkeszult-a-Maros-parti-bicikliut-Marosszentgyorgyi-szakasza",
-    "description": "Elkészült a Maros-parti bicikliút marosszentgyörgyi szakasza",
-    "image": "https://maszol.ro/resized/2026_augusztus/12/cikk_bicikiut_Szentgyorgy2.jpg",
-    "published": "2026-08-12T07:24:24.134332+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Öten haltak meg egy balesetben: három gyalogost gázolt el egy jogosítvány nélküli sofőr",
-    "link": "https://maszol.ro/belfold/Oten-haltak-meg-egy-balesetben-harom-gyalogost-gazolt-el-egy-jogositvany-nelkuli-sofor",
-    "description": "Öten haltak meg egy balesetben: három gyalogost gázolt el egy jogosítvány nélküli sofőr",
-    "image": "https://maszol.ro/resized/2026_augusztus/12/cikk_accident-dambovita-foto-columna-tv-770x540.jpg",
-    "published": "2026-08-12T07:24:24.134259+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Második gyárát építi Nagyszalontán egy belga nagyvállalat",
-    "link": "https://maszol.ro/gazdasag/Masodik-gyarat-epiti-Nagyszalontan-egy-belga-nagyvallalat",
-    "description": "Második gyárát építi Nagyszalontán egy belga nagyvállalat",
-    "image": "https://maszol.ro/resized/2026_augusztus/12/cikksmall_gyar_Facebook_Nagyszalonta.jpg",
-    "published": "2026-08-12T07:24:24.133339+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Újabb bázist nyit Erdélyben a Wizz Air",
-    "link": "https://maszol.ro/gazdasag/Ujabb-bazist-nyit-Erdelyben-a-Wizz-Air",
-    "description": "Újabb bázist nyit Erdélyben a Wizz Air",
-    "image": "https://maszol.ro/resized/2026_augusztus/12/cikksmall_repter_Facebook.jpg",
-    "published": "2026-08-12T07:24:24.133194+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Magyar siker: Halász Bence országos csúccsal lett Európa-bajnok kalapácsvetésben",
-    "link": "https://maszol.ro/sport/Magyar-siker-Halasz-Bence-orszagos-csuccsal-lett-Europa-bajnok-kalapacsvetesben",
-    "description": "Magyar siker: Halász Bence országos csúccsal lett Európa-bajnok kalapácsvetésben",
-    "image": "https://maszol.ro/resized/2026_augusztus/12/cikksmall_debre20260811042-e1786476666356-1140x640.jpg",
-    "published": "2026-08-12T07:24:24.132962+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Tíz százalék alá csökkent az infláció",
-    "link": "https://maszol.ro/gazdasag/Tiz-szazalek-ala-csokkent-az-inflacio-1",
-    "description": "Tíz százalék alá csökkent az infláció",
-    "image": "https://maszol.ro/resized/2026_augusztus/12/cikksmall_inflacio_Pixabay.jpg",
-    "published": "2026-08-12T07:24:24.132887+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Rendszeresen fürdőzőkre támad egy teknős a tengerparton",
-    "link": "https://maszol.ro/kulfold/Rendszeresen-furdozokre-tamad-egy-teknos-a-tengerparton",
-    "description": "Rendszeresen fürdőzőkre támad egy teknős a tengerparton",
-    "image": "https://maszol.ro/resized/2026_augusztus/12/cikksmall_Caretta_caretta_060417w2.jpg",
-    "published": "2026-08-12T07:24:24.132803+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Két orosz harci drónt semmisítettek meg a tűzszerészek a Neptun Deep gázmezőnél",
-    "link": "https://maszol.ro/belfold/Ket-orosz-harci-dront-semmisitettek-meg-a-tuzszereszek-a-Neptun-Deep-gazmezonel",
-    "description": "Két orosz harci drónt semmisítettek meg a tűzszerészek a Neptun Deep gázmezőnél",
-    "image": "https://maszol.ro/uploads/2026_augusztus/12/dron2.jpg",
-    "published": "2026-08-12T07:24:24.132696+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Napfogyatkozás 2026: Románia északnyugati részén is látható az év ritka csillagászati jelensége",
-    "link": "https://maszol.ro/eletmod/Napfogyatkozas-2026-Romania-eszaknyugati-reszen-is-lathato-az-ev-ritka-csillagaszati-jelensege",
-    "description": "Az 2026. augusztus 12-i részleges napfogyatkozás megfigyelésére Románia északnyugati részén lesznek a legjobb feltételek.",
-    "image": "https://maszol.ro/resized/2026_augusztus/12/cikk_pexels-gleive-37045046.jpg",
-    "published": "2026-08-12T07:24:23.486959+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Tizenhat évesen már restaurált Molnár Sára Zenta",
-    "link": "https://maszol.ro/kultura/Interju-Molnar-Zenta-restauratorral",
-    "description": "A fiatal restaurátor biztos abban, hogy a jövőjét is a művészet világában képzeli el.",
-    "image": "https://maszol.ro/resized/2026_augusztus/03/Molnar_Zenta_interjuhoz/cikk_Molnar_Zenta.png",
-    "published": "2026-08-12T07:24:23.486785+00:00",
     "author": "Maszol",
     "category": "Maszol"
   }
