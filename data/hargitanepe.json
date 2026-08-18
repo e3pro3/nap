@@ -1,5 +1,77 @@
 [
   {
+    "title": "[Hargita Népe] Két erdélyi fiatal a nemzetközi izlandi lovasok között",
+    "link": "https://hargitanepe.ro/ket-erdelyi-fiatal-a-nemzetkozi-izlandi-lovasok-kozott",
+    "description": "A FEIF YouthCup hosszú hagyományra visszatekintő, kétévente megrendezett nemzetközi ifjúsági esemény, amely az izlandi lovasutánpótlás számára különleges találkozási, tanulási és versenyzési lehetőséget biztosít.",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1787047010_0_izlandi",
+    "published": "2026-08-18T12:45:17.570153+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Borboly-per: halasztás",
+    "link": "https://hargitanepe.ro/borboly-per-halasztas-2026-08-18",
+    "description": "Borboly-per: halasztás",
+    "image": "https://hargitanepe.ro/images/data/423x222/1787043047_0_04_megyetanacsules_lfcs-3-.jpg",
+    "published": "2026-08-18T12:45:17.569973+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] FEIF YouthCup 2026",
+    "link": "https://hargitanepe.ro/hirek/sport/ket-erdelyi-fiatal-a-nemzetkozi-izlandi-lovasok-kozott",
+    "description": "FEIF YouthCup 2026",
+    "image": "https://hargitanepe.ro/images/data/423x222/1787047010_0_izlandi",
+    "published": "2026-08-18T12:45:17.569705+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Huszártoborzót tartottak a Homoródmentén",
+    "link": "https://hargitanepe.ro/hirek/udvarhelyszek/regi-hagyomany-ujraelve",
+    "description": "Huszártoborzót tartottak a Homoródmentén",
+    "image": "https://hargitanepe.ro/images/data/423x222/1787042643_0_02_huszartoborzo_homorodmenten1.jpg",
+    "published": "2026-08-18T12:45:17.569653+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Képes időutazás: Csipike 60+ Kolozsváron",
+    "link": "https://hargitanepe.ro/hirek/szines/rusz-livia-illusztracioibol-nyilik-csipike-kiallitas",
+    "description": "Képes időutazás: Csipike 60+ Kolozsváron",
+    "image": "https://hargitanepe.ro/images/data/423x222/1787048103_0_16_magazin_Csipike_aluvial_quadro_aug_18copy.jpg",
+    "published": "2026-08-18T12:45:17.569599+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] ECHOES – Science, Art and Tech",
+    "link": "https://hargitanepe.ro/hirek/csikszek/megujulva-ter-vissza-a-tudomanyos-fesztival-csikszeredaba",
+    "description": "ECHOES – Science, Art and Tech",
+    "image": "https://hargitanepe.ro/images/data/423x222/1787051742_1_Echoes_sajttaj_lfcs",
+    "published": "2026-08-18T12:45:17.569523+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Pénzhiány miatt elakadt a vánszorgó projekt",
+    "link": "https://hargitanepe.ro/hirek/csikszek/palyaznanak-a-budosfurdoi-kezelobazisra",
+    "description": "Pénzhiány miatt elakadt a vánszorgó projekt",
+    "image": "https://hargitanepe.ro/images/data/423x222/1787044347_0_04_kezelobazis_VL-2-.jpg",
+    "published": "2026-08-18T12:45:17.569462+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Folyamatban a mobilitási projekt megvalósítása",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/macskakoves-utcak-ekesitik-majd-szekelyudvarhely-kozpontjat",
+    "description": "A héten elkezdték a székelyudvarhelyi Bethlen Gábor utca alsó szakaszának felújítását. Közben a mobilitási projekt részeként a város három központi utcáját szintén korszerűsítik, a Tompa László, az Eötvös József és a Vár utca is új burkolatot kap.",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1787043544_0_Utcafeljitasok_hi02.jpg",
+    "published": "2026-08-18T12:45:17.569340+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] A kategóriás AmaTur torna Csíkszeredában",
     "link": "https://hargitanepe.ro/kilencvenkilencen-jatszottak",
     "description": "A kategóriás AmaTur torna Csíkszeredában",
@@ -1139,33 +1211,6 @@
     "description": "8,8 kilométer hosszan terítettek le aszfaltot Ho­mo­ródszentmárton község településeinek harminckét utcájára. Az Anghel Saligny programból támogatott beruházást befejezték, a közösség elégedett, és használja a korszerűbbé tett utakat – az önkormányzat ugyanakkor 1,3 millió lejes hitelt kényszerült felvenni az önrész fedezéséhez.",
     "image": "https://hargitanepe.ro/images/data/1200x630/1786604022_1_03_homorodszentmartonutcak_hi01_cm-2-.jpg",
     "published": "2026-08-13T13:09:54.945359+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Jelenetet rendezett a Nap szigetének szeszélyes kedvese",
-    "link": "https://hargitanepe.ro/hompolygo-tortenetek-az-etnarol",
-    "description": "Jelenetet rendezett a Nap szigetének szeszélyes kedvese",
-    "image": "https://hargitanepe.ro/images/data/423x222/1786533357_0_etna_salvo_cocinafacebookoldala_web.jpg",
-    "published": "2026-08-13T10:05:46.831939+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] TEDx Udvarhely",
-    "link": "https://hargitanepe.ro/hirek/udvarhelyszek/ujra-a-moziban",
-    "description": "TEDx Udvarhely",
-    "image": "https://hargitanepe.ro/images/data/423x222/1786602951_0_02_tedx_hi03_arh.jpg",
-    "published": "2026-08-13T10:05:46.831592+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Évekre szűnik meg a síszezon, ha nem sikerül egyezségre jutni a pályaüzemeltetés felett",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/damoklesz-kardja-a-madarasi-hargita-felett",
-    "description": "Hatalmas kiesést fog okozni Hargita megye turizmusának, ha a Madarasi-Hargitán nemcsak az idén, hanem a következő néhány évben is elmarad a síszezon a pálya üzemeltetése körül kialakult nézeteltérések miatt. A sípályákat 2003 óta bérlő Bagolykő Kft. szerződése idén lejár, a tulajdonos közbirtokosság pedig másik vállalkozói csoportosulásnak adná bérbe a területeket. Ha jogi útra terelődik az ügy, a per évekig elhúzódhat.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1786607343_0_hargitasipalya_hi02.jpg",
-    "published": "2026-08-13T10:05:46.831499+00:00",
     "author": "Hargita Népe",
     "category": "Hargita Népe"
   }
