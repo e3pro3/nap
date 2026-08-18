@@ -5,9 +5,20 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Tue, 18 Aug 2026 01:12:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 03:44:01 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Blokád</title>
+      <link>https://hargitanepe.ro/nehez-helyzetbe-hozza-a-juhtenyesztoket-az-orszagot-sujto-exporttilalom</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/nehez-helyzetbe-hozza-a-juhtenyesztoket-az-orszagot-sujto-exporttilalom</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1783424023_0_IMG_7177.jpg" /><br/>Blokád]]></description>
+      <pubDate>Tue, 18 Aug 2026 03:44:01 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1783424023_0_IMG_7177.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1783424023_0_IMG_7177.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Székely Konyha és Kert</title>
       <link>https://szekelykonyhaeskert.ro/magazin/540-egeszsegtudatos-szoszok-ontetek</link>
@@ -436,17 +447,6 @@
       <author>Hargita Népe</author>
       <media:content url="https://hargitanepe.ro/images/data/423x222/1786910666_0__DSF4564.jpg" medium="image"/>
       <enclosure url="https://hargitanepe.ro/images/data/423x222/1786910666_0__DSF4564.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Soron kívüli tanácsülés</title>
-      <link>https://hargitanepe.ro/hirek/kiemelt/kanyadi-sandor-nevet-veszi-fel-a-szekelyudvarhelyi-konyvtar</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/hirek/kiemelt/kanyadi-sandor-nevet-veszi-fel-a-szekelyudvarhelyi-konyvtar</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1786963599_0_1786963102_0_soronkivulitanacsules_hi01.jpg" /><br/>Soron kívüli tanácsülés]]></description>
-      <pubDate>Mon, 17 Aug 2026 12:42:51 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1786963599_0_1786963102_0_soronkivulitanacsules_hi01.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1786963599_0_1786963102_0_soronkivulitanacsules_hi01.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
