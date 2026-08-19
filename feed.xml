@@ -5,9 +5,20 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Tue, 18 Aug 2026 21:23:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 01:13:31 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Maszol] Ideiglenesen 20 százalékkal csökkenti a Pénzügyminisztérium a gázolaj jövedéki adóját</title>
+      <link>https://maszol.ro/gazdasag/Ideiglenesen-20-szazalekkal-csokkenti-a-Penzugyminiszterium-a-gazolaj-jovedeki-adojat</link>
+      <guid isPermaLink="true">https://maszol.ro/gazdasag/Ideiglenesen-20-szazalekkal-csokkenti-a-Penzugyminiszterium-a-gazolaj-jovedeki-adojat</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/13/cikksmall_benzin_Pexels.jpg" /><br/>Ideiglenesen 20 százalékkal csökkenti a Pénzügyminisztérium a gázolaj jövedéki adóját]]></description>
+      <pubDate>Wed, 19 Aug 2026 01:13:28 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_augusztus/13/cikksmall_benzin_Pexels.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_augusztus/13/cikksmall_benzin_Pexels.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Központi Fejlesztési Régió:</title>
       <link>https://hargitanepe.ro/tejfeldolgozasban-kiemelt-helyen</link>
@@ -436,17 +447,6 @@
       <author>Hargita Népe</author>
       <media:content url="https://hargitanepe.ro/images/data/423x222/1787042643_0_02_huszartoborzo_homorodmenten1.jpg" medium="image"/>
       <enclosure url="https://hargitanepe.ro/images/data/423x222/1787042643_0_02_huszartoborzo_homorodmenten1.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Képes időutazás: Csipike 60+ Kolozsváron</title>
-      <link>https://hargitanepe.ro/hirek/szines/rusz-livia-illusztracioibol-nyilik-csipike-kiallitas</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/hirek/szines/rusz-livia-illusztracioibol-nyilik-csipike-kiallitas</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1787048103_0_16_magazin_Csipike_aluvial_quadro_aug_18copy.jpg" /><br/>Képes időutazás: Csipike 60+ Kolozsváron]]></description>
-      <pubDate>Tue, 18 Aug 2026 12:45:17 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1787048103_0_16_magazin_Csipike_aluvial_quadro_aug_18copy.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1787048103_0_16_magazin_Csipike_aluvial_quadro_aug_18copy.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
