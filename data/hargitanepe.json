@@ -1,5 +1,86 @@
 [
   {
+    "title": "[Hargita Népe] Továbbra is alternatív helyszíneken",
+    "link": "https://hargitanepe.ro/kevesebb-penzbol-es-epulet-nelkul-kezd-evadot-a-csiki-jatekszin",
+    "description": "Továbbra is alternatív helyszíneken",
+    "image": "https://hargitanepe.ro/images/data/423x222/1787211541_1_VeresAlbert_lfcs-1-.jpg",
+    "published": "2026-08-20T18:38:20.554111+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Kevés a turista, lemondtak róla",
+    "link": "https://hargitanepe.ro/tusnadfurdon-megsem-lesz-fizetos-parkolas",
+    "description": "Kevés a turista, lemondtak róla",
+    "image": "https://hargitanepe.ro/images/data/423x222/1787212207_0_fizetos_parkolo.jfif",
+    "published": "2026-08-20T18:38:20.554051+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Tamási Áron gimnáziumi bentlakás",
+    "link": "https://hargitanepe.ro/elbontottak-a-beomlott-epuletreszt",
+    "description": "Tamási Áron gimnáziumi bentlakás",
+    "image": "https://hargitanepe.ro/images/data/423x222/1787212800_0_gimibentlakas26augusztus_hi03.jpg",
+    "published": "2026-08-20T18:38:20.553988+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Közterületi ellenőrzés Csíkszeredában",
+    "link": "https://hargitanepe.ro/birsagoljak-az-engedely-nelkuli-arusitokat",
+    "description": "Közterületi ellenőrzés Csíkszeredában",
+    "image": "https://hargitanepe.ro/images/data/423x222/1787213224_0_vadontermogyumolcsok_lfcs-2-.jpg",
+    "published": "2026-08-20T18:38:20.553920+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Véget érhet a lájkszámlálás és a végtelenített görgetés",
+    "link": "https://hargitanepe.ro/hirek/orszag-vilag/ezermilliardos-per-a-meta-ellen",
+    "description": "Véget érhet a lájkszámlálás és a végtelenített görgetés",
+    "image": "https://hargitanepe.ro/images/data/423x222/1787216938_0_pexelsshutterspeed15406293.jpg",
+    "published": "2026-08-20T18:38:20.553580+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Csíkszeredai megemlékezés",
+    "link": "https://hargitanepe.ro/hirek/csikszek/megaldottak-az-uj-kenyeret-szent-istvan-unnepen",
+    "description": "Csíkszeredai megemlékezés",
+    "image": "https://hargitanepe.ro/images/data/423x222/1787248530_3_ARON5710.jpg",
+    "published": "2026-08-20T18:38:20.553474+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Panelproli",
+    "link": "https://hargitanepe.ro/hirek/szines/fajdalom",
+    "description": "Panelproli",
+    "image": "https://hargitanepe.ro/images/data/423x222/1747219784_bloff_webre.jpg",
+    "published": "2026-08-20T18:38:20.553406+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Szent István-nap és az új kenyér ünnepe Székelyudvarhelyen",
+    "link": "https://hargitanepe.ro/hirek/udvarhelyszek/a-kenyerben-benne-van-a-fold-ereje-az-ember-verejteke-es-isten-aldasa",
+    "description": "Szent István-nap és az új kenyér ünnepe Székelyudvarhelyen",
+    "image": "https://hargitanepe.ro/images/data/423x222/1787249370_0_augusztus20hn_hi07.jpg",
+    "published": "2026-08-20T18:38:20.553337+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Vetró Artúr",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/nagy-imrere-gondolok-3",
+    "description": "Vetró Artúr",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1787220029_3_18_muhely_NagyImre_1038_3483_01722.jpg",
+    "published": "2026-08-20T18:38:20.553249+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] A lakás új ékköve: a hangsúlyfal visszatérése",
     "link": "https://hargitanepe.ro/a-lakas-uj-ekkove-a-hangsulyfal-visszaterese-2026-07-14",
     "description": "A lakás új ékköve: a hangsúlyfal visszatérése",
@@ -1418,42 +1499,6 @@
     "description": "Az in vitro növényszaporítás szerepe",
     "image": "https://hargitanepe.ro/images/data/423x222/1782292808_0_1_labor_lfcs-6-1-.jpg",
     "published": "2026-08-15T21:20:48.826309+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Fél évszázados a Csíksomlyói Ifjúsági Találkozó",
-    "link": "https://hargitanepe.ro/ahol-az-iranytu-isten-fele-mutat",
-    "description": "Fél évszázados a Csíksomlyói Ifjúsági Találkozó",
-    "image": "https://hargitanepe.ro/images/data/423x222/1786698905_0_csit1_foto_Csiksomlyói",
-    "published": "2026-08-15T18:28:42.235976+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Intelligens közlekedési projekt",
-    "link": "https://hargitanepe.ro/mar-22-digitalis-buszmegalloi-panelt-felszereltek-csikszeredaban-2026-08-14",
-    "description": "Intelligens közlekedési projekt",
-    "image": "https://hargitanepe.ro/images/data/423x222/1786723818_2_buszmegallo_panelek_TEE3.jpeg",
-    "published": "2026-08-15T18:28:42.235913+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Zarándoklat az Egyeskőhöz",
-    "link": "https://hargitanepe.ro/hirek/csikszek/bekere-hivva",
-    "description": "Zarándoklat az Egyeskőhöz",
-    "image": "https://hargitanepe.ro/images/data/423x222/1786814690_2_WhatsApp",
-    "published": "2026-08-15T18:28:42.235523+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] György Katalinnal a népviseletgyűjtésről beszélgettünk",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/asszonysorsok-a-viselet-mogul",
-    "description": "Hétköznapivá vált, hogy közösségeinkben ünnepnapokon ismét sokan öltöznek népviseletbe – ilyen téren az elmúlt évtized egyik legmeghatározóbb helyi trendjének is nevezhető Székelyföldön, hogy mind több nő, férfi és gyermek készíttette el és hordja alkalmanként a saját tájegysége, vidéke hagyományos viseletét. Ez a gesztus ugyanakkor az autentikusság iránti igényt is megtestesíti. Az eltérő színvilágú, díszítésű, mintájú, más-más életkorhoz és társadalmi helyzethez illő ruhák közötti eligazodást sok forrás segíti, egyikük épp az a FolkApp digitális adatbázis, ami György Katalin kutató- és gyűjtőmunkájának eredményeként érhető el az online térben. Erről beszélgettünk vele, de arról is kérdeztük, hogy van az, hogy „visszatanuljuk” a népviseletünket, azaz hogy a legtöbben nem gyermekkorból hozzák, hanem felnőttként értik meg, miért fontos, és mit mond ma rólunk elődeink öltözködési módja.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1786702363_0_1.jpg",
-    "published": "2026-08-15T18:28:42.235440+00:00",
     "author": "Hargita Népe",
     "category": "Hargita Népe"
   }
