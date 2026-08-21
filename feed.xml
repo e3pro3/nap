@@ -5,9 +5,20 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Thu, 20 Aug 2026 21:27:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 01:17:00 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Az in vitro növényszaporítás szerepe</title>
+      <link>https://hargitanepe.ro/feher-kopenyes-kerteszkedes</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/feher-kopenyes-kerteszkedes</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1782292808_0_1_labor_lfcs-6-1-.jpg" /><br/>Az in vitro növényszaporítás szerepe]]></description>
+      <pubDate>Fri, 21 Aug 2026 01:17:00 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1782292808_0_1_labor_lfcs-6-1-.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1782292808_0_1_labor_lfcs-6-1-.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Ha lesz miből, aszfaltköpeny kerül a Madarasi-Hargitára vezető erdei útra</title>
       <link>https://hargitanepe.ro/a-terv-megvan-penz-viszont-nincs-ra</link>
@@ -436,17 +447,6 @@
       <author>Hargita Népe</author>
       <media:content url="https://hargitanepe.ro/images/data/1200x630/1787213224_0_vadontermogyumolcsok_lfcs-2-.jpg" medium="image"/>
       <enclosure url="https://hargitanepe.ro/images/data/1200x630/1787213224_0_vadontermogyumolcsok_lfcs-2-.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Füstbe borult Temesvár: a szerbiai erdő- és bozóttüzek füstje érte el a várost</title>
-      <link>https://maszol.ro/belfold/Fustbe-borult-Temesvar-a-szerbiai-erdo-es-bozottuzek-fustje-erte-el-a-varost</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Fustbe-borult-Temesvar-a-szerbiai-erdo-es-bozottuzek-fustje-erte-el-a-varost</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/20/cikk_temesvar_fust.jpg" /><br/>Füstbe borult Temesvár: a szerbiai erdő- és bozóttüzek füstje érte el a várost]]></description>
-      <pubDate>Thu, 20 Aug 2026 12:49:11 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/20/cikk_temesvar_fust.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/20/cikk_temesvar_fust.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
