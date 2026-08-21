@@ -5,9 +5,53 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Fri, 21 Aug 2026 18:35:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 21:23:58 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Az Erdélyi Ferences Rendtartomány nyári találkozója Csíksomlyón</title>
+      <link>https://hargitanepe.ro/szerzetesi-hivatas-emberi-meltosag</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/szerzetesi-hivatas-emberi-meltosag</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1787298027_0_szerzetes.jpg" /><br/>Az Erdélyi Ferences Rendtartomány nyári találkozója Csíksomlyón]]></description>
+      <pubDate>Fri, 21 Aug 2026 21:23:58 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1787298027_0_szerzetes.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1787298027_0_szerzetes.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] A Stanford University friss modellezési tanulmánya szerint</title>
+      <link>https://hargitanepe.ro/hirek/kiemelt/veszelyesebb-a-hoseg-a-60-felettiekre-mint-eddig-tudtuk</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/hirek/kiemelt/veszelyesebb-a-hoseg-a-60-felettiekre-mint-eddig-tudtuk</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/1200x630/1787304316_0_kanikula.jpg" /><br/>Erdőtüzek, hosszan tartó hőhullámok és aszály sújtja Európát – az idei lesz várhatóan a világ leggyorsabban felmelegedő kontinensének eddigi legforróbb nyara.]]></description>
+      <pubDate>Fri, 21 Aug 2026 21:23:58 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/1200x630/1787304316_0_kanikula.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/1200x630/1787304316_0_kanikula.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Újra megnyitják a roncsprogramot: minden kategóriára, így a motorkerékpárokra is jut forrás</title>
+      <link>https://maszol.ro/belfold/Ujra-megnyitjak-a-roncsprogramot-minden-kategoriara-igy-a-motorkerekparokra-is-jut-forras</link>
+      <guid isPermaLink="true">https://maszol.ro/belfold/Ujra-megnyitjak-a-roncsprogramot-minden-kategoriara-igy-a-motorkerekparokra-is-jut-forras</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/21/cikk_motorkerekpar_Pexels1.jpg" /><br/>Újra megnyitják a roncsprogramot: minden kategóriára, így a motorkerékpárokra is jut forrás]]></description>
+      <pubDate>Fri, 21 Aug 2026 21:23:55 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_augusztus/21/cikk_motorkerekpar_Pexels1.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_augusztus/21/cikk_motorkerekpar_Pexels1.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Több százezer tonna marhahús vámmentes behozatalárról szóló megállapodást jelentett be Trump</title>
+      <link>https://maszol.ro/gazdasag/Tobb-szazezer-tonna-marhahus-vammentes-behozatalarrol-szolo-megallapodast-jelentett-Trump</link>
+      <guid isPermaLink="true">https://maszol.ro/gazdasag/Tobb-szazezer-tonna-marhahus-vammentes-behozatalarrol-szolo-megallapodast-jelentett-Trump</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/21/cikksmall_hamburger_Pixabay.jpg" /><br/>Több százezer tonna marhahús vámmentes behozatalárról szóló megállapodást jelentett be Trump]]></description>
+      <pubDate>Fri, 21 Aug 2026 21:23:55 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_augusztus/21/cikksmall_hamburger_Pixabay.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_augusztus/21/cikksmall_hamburger_Pixabay.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Sakksuli (739.)</title>
       <link>https://hargitanepe.ro/sakksuli-739</link>
@@ -403,51 +447,6 @@
       <author>Hargita Népe</author>
       <media:content url="https://hargitanepe.ro/images/data/423x222/1787302076_0_10_magazin_gasztroregio_IlyesLevente_ITA_aug_21.jpg" medium="image"/>
       <enclosure url="https://hargitanepe.ro/images/data/423x222/1787302076_0_10_magazin_gasztroregio_IlyesLevente_ITA_aug_21.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Az Erdélyi Ferences Rendtartomány nyári találkozója Csíksomlyón</title>
-      <link>https://hargitanepe.ro/hirek/csikszek/szerzetesi-hivatas-emberi-meltosag</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/hirek/csikszek/szerzetesi-hivatas-emberi-meltosag</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1787298027_0_szerzetes.jpg" /><br/>Az Erdélyi Ferences Rendtartomány nyári találkozója Csíksomlyón]]></description>
-      <pubDate>Fri, 21 Aug 2026 12:46:17 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1787298027_0_szerzetes.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1787298027_0_szerzetes.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Márton Áron életművét bemutató zenemű Csíkszeredában</title>
-      <link>https://hargitanepe.ro/hirek/kiemelt/gyokereinkben-az-elet-rendje</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/hirek/kiemelt/gyokereinkben-az-elet-rendje</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/1200x630/1787298852_0_20260819_193351_cm.jpg" /><br/>Én népem – Légy hű, és életet adok neked! címmel mutatják be szombat este Csíkszeredában a marosvásárhelyi Mustármag közösség szervezésében azt a zeneművet, amelyben néptáncosok, népzenészek és színművészek idézik meg a néhai erdélyi püspök, Márton Áron életművét. 
-A mintegy 130 szereplőt felvonultató előadásban a zene mellett néptánc, vetítés és fényjáték is segíti a szentéletű püspök életművének megidézését és üzenetének továbbadását.]]></description>
-      <pubDate>Fri, 21 Aug 2026 12:46:17 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/1200x630/1787298852_0_20260819_193351_cm.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/1200x630/1787298852_0_20260819_193351_cm.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Pulzus a Vásárhelyi Forgatagon: három nap a közösségről, párbeszédről és Maros megye jövőjéről</title>
-      <link>https://maszol.ro/belfold/Pulzus-a-Vasarhelyi-Forgatagon-harom-nap-a-kozossegrol-parbeszedrol-es-Maros-megye-jovojerol</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Pulzus-a-Vasarhelyi-Forgatagon-harom-nap-a-kozossegrol-parbeszedrol-es-Maros-megye-jovojerol</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/21/cikk_csibi_attila_fboldala.jpg" /><br/>Pulzus a Vásárhelyi Forgatagon: három nap a közösségről, párbeszédről és Maros megye jövőjéről]]></description>
-      <pubDate>Fri, 21 Aug 2026 12:46:14 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/21/cikk_csibi_attila_fboldala.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/21/cikk_csibi_attila_fboldala.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Ultimátumot adtak a mentősök: „Az életmentés nem lehet agresszió célpontja”</title>
-      <link>https://maszol.ro/belfold/Ultimatumot-adtak-a-mentosok-Az-eletmentes-nem-lehet-agresszio-celpontja</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Ultimatumot-adtak-a-mentosok-Az-eletmentes-nem-lehet-agresszio-celpontja</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/21/cikk_mentoauto_Szekely_Zita.jpg" /><br/>Ultimátumot adtak a mentősök: „Az életmentés nem lehet agresszió célpontja”]]></description>
-      <pubDate>Fri, 21 Aug 2026 12:46:14 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/21/cikk_mentoauto_Szekely_Zita.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/21/cikk_mentoauto_Szekely_Zita.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
