@@ -5,9 +5,20 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Sat, 22 Aug 2026 18:29:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 21:20:56 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Beszélgetés Esztány Győző építésszel</title>
+      <link>https://hargitanepe.ro/a-hagyomanyorzes-ne-teherre-hanem-kozos-felemelo-alkotassa-valjon</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/a-hagyomanyorzes-ne-teherre-hanem-kozos-felemelo-alkotassa-valjon</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1782905507_0_esztany" /><br/>Beszélgetés Esztány Győző építésszel]]></description>
+      <pubDate>Sat, 22 Aug 2026 21:20:56 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1782905507_0_esztany" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1782905507_0_esztany" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Örökségmentés, népdal és közösség egy fedél alatt</title>
       <link>https://hargitanepe.ro/latogatas-a-tibodi-tajhazban</link>
@@ -436,17 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_augusztus/22/cikksmall_tuz_arad_garazs.jpg" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_augusztus/22/cikksmall_tuz_arad_garazs.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Már nem éri meg?  – Történelmi mélyponton a külföldi munkavállalás</title>
-      <link>https://maszol.ro/gazdasag/Mar-nem-eri-meg-Tortenelmi-melyponton-a-kulfoldi-munkavallalas</link>
-      <guid isPermaLink="true">https://maszol.ro/gazdasag/Mar-nem-eri-meg-Tortenelmi-melyponton-a-kulfoldi-munkavallalas</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/22/cikksmall_demografia_emberek_utca_Pexels.jpg" /><br/>Már nem éri meg?  – Történelmi mélyponton a külföldi munkavállalás]]></description>
-      <pubDate>Sat, 22 Aug 2026 09:25:59 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/22/cikksmall_demografia_emberek_utca_Pexels.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/22/cikksmall_demografia_emberek_utca_Pexels.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
