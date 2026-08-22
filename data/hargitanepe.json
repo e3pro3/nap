@@ -1,5 +1,50 @@
 [
   {
+    "title": "[Hargita Népe] Örökségmentés, népdal és közösség egy fedél alatt",
+    "link": "https://hargitanepe.ro/latogatas-a-tibodi-tajhazban",
+    "description": "Örökségmentés, népdal és közösség egy fedél alatt",
+    "image": "https://hargitanepe.ro/images/data/423x222/1782908256_0_tibod.jpeg",
+    "published": "2026-08-22T18:29:40.557447+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Porta",
+    "link": "https://hargitanepe.ro/ilyen-antal-zoltan-epitesz-portaja",
+    "description": "Porta",
+    "image": "https://hargitanepe.ro/assets/img/video-tag.svg",
+    "published": "2026-08-22T18:29:40.557384+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] A ház, ahol a csendnek is emlékezete van",
+    "link": "https://hargitanepe.ro/lucia-nover-oroksege-ma-is-el-remeten",
+    "description": "A ház, ahol a csendnek is emlékezete van",
+    "image": "https://hargitanepe.ro/assets/img/gallery-tag.svg",
+    "published": "2026-08-22T18:29:40.557272+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Korszerűsítik a Csíki Mozi hőcserélő rendszerét",
+    "link": "https://hargitanepe.ro/korszerusitik-a-csiki-mozi-hocserelo-rendszeret",
+    "description": "Korszerűsítik a Csíki Mozi hőcserélő rendszerét",
+    "image": "https://hargitanepe.ro/images/data/423x222/1787300114_0_Mozi_lfcs-2-.jpg",
+    "published": "2026-08-22T18:29:40.556567+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Beszélgetés Pap Zsolt sportkommunikációs szakemberrel",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/kommunikacios-edzes-sportoloknak",
+    "description": "A sportban a jó teljesítmény önmagában már nem mindig elég: a nyilvános megszólalás és a tudatos kommunikáció is egyre fontosabb része a sikernek – ezt a felismerést ültette át gyakorlatba Pap Zsolt sportkommunikációs szakember, a Székelyföldi Jégkorong Akadémia munkatársa, aki a Mixed Zone márka kitalálója. A szakember a 99 lapos kártyacsomaggal szeretné játékos formában felkészíteni a fiatal sportolókat a média és a közösségi platformok kihívásaira.",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1787310772_1_cimlapra.jpg",
+    "published": "2026-08-22T18:29:40.556252+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] A tehéntejtermelés gyengélkedig, miközben…",
     "link": "https://hargitanepe.ro/nott-a-vagasra-szant-allatok-szama",
     "description": "A tehéntejtermelés gyengélkedig, miközben…",
@@ -1562,78 +1607,6 @@
     "description": "Hasonló a hasonlóval? Az ellentétek vonzzák egymást? Melyik kijelentésnek van nagyobb igazsága? Mi alapján, hogyan választunk párt? És ki választ: a nő vagy a férfi? Vajon tényleg mindenkinek van valahol egy neki rendelt társa? Válaszokat kerestünk.",
     "image": "https://hargitanepe.ro/images/data/1200x630/1786961174_0_pexels.jpg",
     "published": "2026-08-17T18:39:07.950843+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Tizennégy aranyéremmel és két különdíjjal tértek haza",
-    "link": "https://hargitanepe.ro/koszegen-bokszoltak-a-godakosok",
-    "description": "Tizennégy aranyéremmel és két különdíjjal tértek haza",
-    "image": "https://hargitanepe.ro/images/data/423x222/1786522168_0_godakohoz.jpg",
-    "published": "2026-08-17T15:24:25.529562+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Sport röviden (08.12.)",
-    "link": "https://hargitanepe.ro/sport-roviden-0812",
-    "description": "Sport röviden (08.12.)",
-    "image": "https://hargitanepe.ro/images/data/423x222/1781778310_0_sport.jpg",
-    "published": "2026-08-17T15:24:25.529498+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Korongokkal a világ felé",
-    "link": "https://hargitanepe.ro/korongokkal-a-vilag-fele",
-    "description": "Egy marék repülőkorong, néhány kosár és egy erdős-dombos pálya – ennyi is elég volt ahhoz, hogy Székelyudvarhely felkerüljön a nemzetközi disc golf térképére. A Hillside Transylvanián megrendezett Transylvania Open tíz ország harminc versenyzőjét vonzotta a városba, a pálya pedig a külföldi játékosok szerint is különleges kihívást jelentett. A verseny véget ért, de a történet csak most kezdődik: a szervezők helyi ligával és újabb nemzetközi viadalokkal folytatnák.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1786958478_0_discgolf_TO_0815_HT_Zakarias.jpg",
-    "published": "2026-08-17T15:24:25.529292+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] 615 hamisított ruhadarabot foglaltak le",
-    "link": "https://hargitanepe.ro/615-hamisitott-ruhadarabot-foglaltak-le",
-    "description": "615 hamisított ruhadarabot foglaltak le",
-    "image": "https://hargitanepe.ro/images/data/423x222/1786948465_0_politiaromana.jpeg",
-    "published": "2026-08-17T15:24:25.529064+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Generátort bérel a Harvíz Székelyudvarhelyre",
-    "link": "https://hargitanepe.ro/tanulsagok-es-felkeszules",
-    "description": "Generátort bérel a Harvíz Székelyudvarhelyre",
-    "image": "https://hargitanepe.ro/images/data/423x222/1786950561_0_harviz_viztisztito_allomas_transzformatorhaz_hi01.jpg",
-    "published": "2026-08-17T15:24:25.528996+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Miniszter: nem nőtt a lakosság veszélyeztetettsége",
-    "link": "https://hargitanepe.ro/hirek/belfold/vadaszgepek-lelottek-egy-dront-galac-megyeben",
-    "description": "Miniszter: nem nőtt a lakosság veszélyeztetettsége",
-    "image": "https://hargitanepe.ro/images/data/423x222/1786962512_0_McDonnell_Douglas.jpg",
-    "published": "2026-08-17T15:24:25.528681+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Székely Konyha és Kert",
-    "link": "https://szekelykonyhaeskert.ro/recept/1975-fekete-erdo-pavlova",
-    "description": "Székely Konyha és Kert",
-    "image": "https://hargitanepe.ro/images/data/423x222/1786958049_0_NIK_6659.jpg",
-    "published": "2026-08-17T15:24:25.528611+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Új sportág talált otthonra Székelyudvarhelyen",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/korongokkal-a-vilag-fele",
-    "description": "Egy marék repülőkorong, néhány kosár és egy erdős-dombos pálya – ennyi is elég volt ahhoz, hogy Székelyudvarhely felkerüljön a nemzetközi disc golf térképére. A Hillside Transylvanián megrendezett Transylvania Open tíz ország harminc versenyzőjét vonzotta a városba, a pálya pedig a külföldi játékosok szerint is különleges kihívást jelentett. A verseny véget ért, de a történet csak most kezdődik: a szervezők helyi ligával és újabb nemzetközi viadalokkal folytatnák.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1786958478_0_discgolf_TO_0815_HT_Zakarias.jpg",
-    "published": "2026-08-17T15:24:25.528526+00:00",
     "author": "Hargita Népe",
     "category": "Hargita Népe"
   }
