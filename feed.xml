@@ -5,9 +5,31 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Sun, 23 Aug 2026 03:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 06:39:48 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Blokád</title>
+      <link>https://hargitanepe.ro/nehez-helyzetbe-hozza-a-juhtenyesztoket-az-orszagot-sujto-exporttilalom</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/nehez-helyzetbe-hozza-a-juhtenyesztoket-az-orszagot-sujto-exporttilalom</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1783424023_0_IMG_7177.jpg" /><br/>Blokád]]></description>
+      <pubDate>Sun, 23 Aug 2026 06:39:48 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1783424023_0_IMG_7177.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1783424023_0_IMG_7177.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Kolozsvári Magyar Napok: a felsőoktatás átalakításáról rendeztek kerekasztal-beszélgetést</title>
+      <link>https://maszol.ro/belfold/Kolozsvari-Magyar-Napok-a-felsooktatas-atalakitasarol-rendeztek-kerekasztal-beszelgetest</link>
+      <guid isPermaLink="true">https://maszol.ro/belfold/Kolozsvari-Magyar-Napok-a-felsooktatas-atalakitasarol-rendeztek-kerekasztal-beszelgetest</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/23/cikk_egyetem_MTI.jpg" /><br/>Kolozsvári Magyar Napok: a felsőoktatás átalakításáról rendeztek kerekasztal-beszélgetést]]></description>
+      <pubDate>Sun, 23 Aug 2026 06:39:45 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_augusztus/23/cikk_egyetem_MTI.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_augusztus/23/cikk_egyetem_MTI.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Beszélgetés Esztány Győző építésszel</title>
       <link>https://hargitanepe.ro/a-hagyomanyorzes-ne-teherre-hanem-kozos-felemelo-alkotassa-valjon</link>
@@ -425,28 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_augusztus/22/cikksmall_alkotmanybirosag_Pixabay.jpg" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_augusztus/22/cikksmall_alkotmanybirosag_Pixabay.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Magyar nemesítés hozhatja el az akác reneszánszát világszerte</title>
-      <link>https://maszol.ro/gazdasag/Magyar-nemesites-hozhatja-el-az-akac-reneszanszat-vilagszerte</link>
-      <guid isPermaLink="true">https://maszol.ro/gazdasag/Magyar-nemesites-hozhatja-el-az-akac-reneszanszat-vilagszerte</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/22/cikksmall_akac_Silvanus_Forestry.jpg" /><br/>Magyar nemesítés hozhatja el az akác reneszánszát világszerte]]></description>
-      <pubDate>Sat, 22 Aug 2026 09:25:59 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/22/cikksmall_akac_Silvanus_Forestry.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/22/cikksmall_akac_Silvanus_Forestry.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Garázsok gyúltak meg – Két ember megsérült, RO-Alert riasztást adtak ki a nagy füst miatt</title>
-      <link>https://maszol.ro/belfold/Garazsok-gyultak-meg-Ket-ember-megserult-RO-Alert-riasztast-adtak-ki-a-nagy-fust-miatt</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Garazsok-gyultak-meg-Ket-ember-megserult-RO-Alert-riasztast-adtak-ki-a-nagy-fust-miatt</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/22/cikksmall_tuz_arad_garazs.jpg" /><br/>Garázsok gyúltak meg – Két ember megsérült, RO-Alert riasztást adtak ki a nagy füst miatt]]></description>
-      <pubDate>Sat, 22 Aug 2026 09:25:59 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/22/cikksmall_tuz_arad_garazs.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/22/cikksmall_tuz_arad_garazs.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
