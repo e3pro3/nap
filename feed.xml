@@ -5,9 +5,31 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Mon, 24 Aug 2026 18:38:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 21:28:38 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Székely Gazda 2026. július 18.</title>
+      <link>https://hargitanepe.ro/-2026-07-20</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/-2026-07-20</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1784532940_0_8.jpg" /><br/>Székely Gazda 2026. július 18.]]></description>
+      <pubDate>Mon, 24 Aug 2026 21:28:38 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1784532940_0_8.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1784532940_0_8.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Kis területen nagy érték</title>
+      <link>https://hargitanepe.ro/aranyat-ero-fuszer-200-viragbol-lesz-1-gramm-safrany</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/aranyat-ero-fuszer-200-viragbol-lesz-1-gramm-safrany</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1787131638_1__1_safrany_foto_kallaieva-7-.jpg" /><br/>Kis területen nagy érték]]></description>
+      <pubDate>Mon, 24 Aug 2026 21:28:38 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1787131638_1__1_safrany_foto_kallaieva-7-.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1787131638_1__1_safrany_foto_kallaieva-7-.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Sántha Xénia: feladni egy csúcsot nem szégyen, hanem bátorság</title>
       <link>https://hargitanepe.ro/santha-xenia-feladni-egy-csucsot-nem-szegyen-hanem-batorsag</link>
@@ -425,28 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_augusztus/24/cikksmall_drogdiler__bilincs_pixabay.jpg" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_augusztus/24/cikksmall_drogdiler__bilincs_pixabay.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] „Művészeti projekt” okozott fennakadást a vasúti forgalomban – Büntetőeljárás indult</title>
-      <link>https://maszol.ro/belfold/Muveszeti-projekt-okozott-fennakadast-a-vasuti-forgalomban-Buntetoeljaras-indult</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Muveszeti-projekt-okozott-fennakadast-a-vasuti-forgalomban-Buntetoeljaras-indult</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/24/cikksmall_vasut_vonat_sin_pexels_(1).jpg" /><br/>„Művészeti projekt” okozott fennakadást a vasúti forgalomban – Büntetőeljárás indult]]></description>
-      <pubDate>Mon, 24 Aug 2026 12:49:34 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/24/cikksmall_vasut_vonat_sin_pexels_(1).jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/24/cikksmall_vasut_vonat_sin_pexels_(1).jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Hamis euróval vásároltak autókat: nyolc helyszínen csapott le a rendőrség</title>
-      <link>https://maszol.ro/belfold/Hamis-euroval-vasaroltak-autokat-nyolc-helyszinen-csapott-le-a-rendorseg</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Hamis-euroval-vasaroltak-autokat-nyolc-helyszinen-csapott-le-a-rendorseg</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/24/cikksmall_euro2.jpg" /><br/>Hamis euróval vásároltak autókat: nyolc helyszínen csapott le a rendőrség]]></description>
-      <pubDate>Mon, 24 Aug 2026 12:49:34 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/24/cikksmall_euro2.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/24/cikksmall_euro2.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
