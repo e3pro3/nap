@@ -5,9 +5,31 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Mon, 24 Aug 2026 21:28:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 01:14:42 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Két hazában otthon</title>
+      <link>https://hargitanepe.ro/oroszhegyi-nyarak-melbourne-i-telek-2026-07-15</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/oroszhegyi-nyarak-melbourne-i-telek-2026-07-15</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1784112519_5_balintoroszhegy5_web.jpg" /><br/>Két hazában otthon]]></description>
+      <pubDate>Tue, 25 Aug 2026 01:14:42 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1784112519_5_balintoroszhegy5_web.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1784112519_5_balintoroszhegy5_web.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Visszahívtak egy terméket a Lidl polcairól</title>
+      <link>https://maszol.ro/belfold/Visszahivtak-egy-termeket-a-Lidl-polcairol-1</link>
+      <guid isPermaLink="true">https://maszol.ro/belfold/Visszahivtak-egy-termeket-a-Lidl-polcairol-1</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/19/cikksmall_uzlet_ANVSA_Gemini.jpg" /><br/>Visszahívtak egy terméket a Lidl polcairól]]></description>
+      <pubDate>Tue, 25 Aug 2026 01:14:39 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_augusztus/19/cikksmall_uzlet_ANVSA_Gemini.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_augusztus/19/cikksmall_uzlet_ANVSA_Gemini.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Székely Gazda 2026. július 18.</title>
       <link>https://hargitanepe.ro/-2026-07-20</link>
@@ -425,28 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2022Július/29/recept/video_krumpli_maszol_02.jpg" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2022Július/29/recept/video_krumpli_maszol_02.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Eltűnt egy 37 éves marosvásárhelyi férfi, a rendőrség a lakosság segítségét kéri</title>
-      <link>https://maszol.ro/belfold/Eltunt-egy-37-eves-marosvasarhelyi-ferfi-a-rendorseg-a-lakossag-segitseget-keri</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Eltunt-egy-37-eves-marosvasarhelyi-ferfi-a-rendorseg-a-lakossag-segitseget-keri</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/24/cikksmall_WhatsApp-Image-2026-08-23-at-12-19-08-jpeg.jpg" /><br/>Eltűnt egy 37 éves marosvásárhelyi férfi, a rendőrség a lakosság segítségét kéri]]></description>
-      <pubDate>Mon, 24 Aug 2026 12:49:34 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/24/cikksmall_WhatsApp-Image-2026-08-23-at-12-19-08-jpeg.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/24/cikksmall_WhatsApp-Image-2026-08-23-at-12-19-08-jpeg.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Előzetes letartóztatásban a férfi, aki bántalmazta és halálosan megfenyegette a vadőrt</title>
-      <link>https://maszol.ro/belfold/Elozetes-letartoztatasban-a-ferfi-aki-bantalmazta-es-halalosan-megfenyegette-a-vadort</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Elozetes-letartoztatasban-a-ferfi-aki-bantalmazta-es-halalosan-megfenyegette-a-vadort</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/24/cikksmall_drogdiler__bilincs_pixabay.jpg" /><br/>Előzetes letartóztatásban a férfi, aki bántalmazta és halálosan megfenyegette a vadőrt]]></description>
-      <pubDate>Mon, 24 Aug 2026 12:49:34 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/24/cikksmall_drogdiler__bilincs_pixabay.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/24/cikksmall_drogdiler__bilincs_pixabay.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
