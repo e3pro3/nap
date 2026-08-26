@@ -1,5 +1,50 @@
 [
   {
+    "title": "[Hargita Népe] Új üzlet Csíkszeredában",
+    "link": "https://hargitanepe.ro/epul-a-penny",
+    "description": "Új üzlet Csíkszeredában",
+    "image": "https://hargitanepe.ro/images/data/423x222/1787727127_0_penny_epitkezes_lfcs-2-.jpg",
+    "published": "2026-08-26T12:51:30.957372+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Közbeszerzés előtt",
+    "link": "https://hargitanepe.ro/hirek/udvarhelyszek/epulhet-a-parti-setany",
+    "description": "Közbeszerzés előtt",
+    "image": "https://hargitanepe.ro/images/data/423x222/1787732266_0_kukullopart_hi03.jpg",
+    "published": "2026-08-26T12:51:30.957163+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Szeptember első hétvégéje",
+    "link": "https://hargitanepe.ro/hirek/csikszek/a-fiataloke-lesz-a-foszerep-az-idei-cloud-youth-fesztivalon-2026-08-26",
+    "description": "Szeptember első hétvégéje",
+    "image": "https://hargitanepe.ro/images/data/423x222/1787742519_2_Cloud",
+    "published": "2026-08-26T12:51:30.957093+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] A hűség és a feltétel nélküli szeretet ünnepe",
+    "link": "https://hargitanepe.ro/hirek/szines/ma-van-a-kutyak-vilagnapja",
+    "description": "A hűség és a feltétel nélküli szeretet ünnepe",
+    "image": "https://hargitanepe.ro/images/data/423x222/1787729886_0_9_magazin_kutya_vilagnap_sza1_aug_26.jpg",
+    "published": "2026-08-26T12:51:30.957045+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Tanévkezdés a megye szórványtelepülésein",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/alacsony-gyermekletszammal-osszevont-osztalyokban",
+    "description": "A 2026–2027-es tanévben is kihívást jelent a megye szórványtelepülésein az iskolakezdés: az alacsony születésszám hatása évről évre megmutatkozik. Maroshévízen speciális engedéllyel indulhat kilencedik osztály, Borszéken idén nem lesz új középiskolai osztály.",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1787732608_0_gyergyo_szorvanyiskola_iratkozas_kemenyjanoselmliceum.jpg",
+    "published": "2026-08-26T12:51:30.956978+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] Gyerekirodalmi kvíz",
     "link": "https://hargitanepe.ro/csaladi",
     "description": "Gyerekirodalmi kvíz",
@@ -1283,42 +1328,6 @@
     "description": "A térségben gyakorlott összes, és néhány meghonosítás előtt álló sportágba is belekóstolhatnak a gyergyóiak négy napon át, augusztus 26–30. között. A Mozdulj, Gyergyó! első kiadásának célja kicsiktől idősekig mindenkit mozgásra ösztönözni.",
     "image": "https://hargitanepe.ro/images/data/1200x630/1787300551_0_mozduljgyergyo_bph-1-.jpg",
     "published": "2026-08-21T15:32:36.211481+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Két hét maradt a PNRR zárásáig",
-    "link": "https://hargitanepe.ro/nem-erkeztek-meg-a-buszok-veszelyben-a-28-millio-lejes-beruhazas",
-    "description": "Két hét maradt a PNRR zárásáig",
-    "image": "https://hargitanepe.ro/images/data/423x222/1787256466_0_669356610_1602454068550033_2146681709299958565_n.jpg",
-    "published": "2026-08-21T12:46:17.387075+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Székely ízek Ecuadorban",
-    "link": "https://hargitanepe.ro/hirek/szines/ilyes-levente-kepviseli-hargita-megyet-a-gasztronomiai-vilagtalalkozon",
-    "description": "Székely ízek Ecuadorban",
-    "image": "https://hargitanepe.ro/images/data/423x222/1787302076_0_10_magazin_gasztroregio_IlyesLevente_ITA_aug_21.jpg",
-    "published": "2026-08-21T12:46:17.386756+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Az Erdélyi Ferences Rendtartomány nyári találkozója Csíksomlyón",
-    "link": "https://hargitanepe.ro/hirek/csikszek/szerzetesi-hivatas-emberi-meltosag",
-    "description": "Az Erdélyi Ferences Rendtartomány nyári találkozója Csíksomlyón",
-    "image": "https://hargitanepe.ro/images/data/423x222/1787298027_0_szerzetes.jpg",
-    "published": "2026-08-21T12:46:17.386688+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Márton Áron életművét bemutató zenemű Csíkszeredában",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/gyokereinkben-az-elet-rendje",
-    "description": "Én népem – Légy hű, és életet adok neked! címmel mutatják be szombat este Csíkszeredában a marosvásárhelyi Mustármag közösség szervezésében azt a zeneművet, amelyben néptáncosok, népzenészek és színművészek idézik meg a néhai erdélyi püspök, Márton Áron életművét. \nA mintegy 130 szereplőt felvonultató előadásban a zene mellett néptánc, vetítés és fényjáték is segíti a szentéletű püspök életművének megidézését és üzenetének továbbadását.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1787298852_0_20260819_193351_cm.jpg",
-    "published": "2026-08-21T12:46:17.386608+00:00",
     "author": "Hargita Népe",
     "category": "Hargita Népe"
   }
