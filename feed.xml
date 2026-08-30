@@ -5,9 +5,31 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Sat, 29 Aug 2026 22:59:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 03:57:51 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Székely Gazda 2026. július 18.</title>
+      <link>https://hargitanepe.ro/-2026-07-20</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/-2026-07-20</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1784532940_0_8.jpg" /><br/>Székely Gazda 2026. július 18.]]></description>
+      <pubDate>Sun, 30 Aug 2026 03:57:51 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1784532940_0_8.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1784532940_0_8.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Kis területen nagy érték</title>
+      <link>https://hargitanepe.ro/aranyat-ero-fuszer-200-viragbol-lesz-1-gramm-safrany</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/aranyat-ero-fuszer-200-viragbol-lesz-1-gramm-safrany</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1787131638_1__1_safrany_foto_kallaieva-7-.jpg" /><br/>Kis területen nagy érték]]></description>
+      <pubDate>Sun, 30 Aug 2026 03:57:51 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1787131638_1__1_safrany_foto_kallaieva-7-.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1787131638_1__1_safrany_foto_kallaieva-7-.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Megyei agrárstatisztika: tovább zsugorodik a burgonya termőterülete</title>
       <link>https://hargitanepe.ro/jol-lathatoan-atrendezodik-a-vetesszerkezet</link>
@@ -425,28 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/uploads/2026_augusztus/29/789161050_1574749984148999_3551864033577093119_n.jpg" medium="image"/>
       <enclosure url="https://maszol.ro/uploads/2026_augusztus/29/789161050_1574749984148999_3551864033577093119_n.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] „Az itthoni közösség hajt előre” – Magyar bajnoki érmekkel építi sprintkarrierjét Jakab Apor</title>
-      <link>https://maszol.ro/sport/Az-itthoni-kozosseg-hajt-elore-Magyar-bajnoki-ermekkel-epiti-sprintkarrierjet-Jakab-Apor</link>
-      <guid isPermaLink="true">https://maszol.ro/sport/Az-itthoni-kozosseg-hajt-elore-Magyar-bajnoki-ermekkel-epiti-sprintkarrierjet-Jakab-Apor</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/26/cikk_Jakab_Apor_4.jpg" /><br/>Idei remek eredményei és egyéni rekordjai után jövőre az U23-as Európa-bajnokságon is szeretne bizonyítani.]]></description>
-      <pubDate>Sat, 29 Aug 2026 12:36:08 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/26/cikk_Jakab_Apor_4.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/26/cikk_Jakab_Apor_4.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Hétvégi időjárás: kánikulára és heves zivatarokra számíthatunk</title>
-      <link>https://maszol.ro/belfold/Hetvegi-idojaras-kanikulara-es-heves-zivatarokra-szamithatunk</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Hetvegi-idojaras-kanikulara-es-heves-zivatarokra-szamithatunk</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_augusztus/29/cikk_kanikula_hoseg_szokokut_idojaras_spanyolorszag_230731_AGERPRES_EPA_(1)_(1).jpg" /><br/>A meteorológusok szerint a meleg idő a jövő hét elején is kitart.]]></description>
-      <pubDate>Sat, 29 Aug 2026 12:36:08 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_augusztus/29/cikk_kanikula_hoseg_szokokut_idojaras_spanyolorszag_230731_AGERPRES_EPA_(1)_(1).jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_augusztus/29/cikk_kanikula_hoseg_szokokut_idojaras_spanyolorszag_230731_AGERPRES_EPA_(1)_(1).jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
