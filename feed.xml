@@ -5,9 +5,53 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Tue, 01 Sep 2026 18:10:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 23:04:01 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Célegyenesben a PNRR-beruházások Hargita megyében</title>
+      <link>https://hargitanepe.ro/elmarad-hat-projekt-atvetele</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/elmarad-hat-projekt-atvetele</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1788250732_0_szinhaz_lfcs-4-_web.jpg" /><br/>Célegyenesben a PNRR-beruházások Hargita megyében]]></description>
+      <pubDate>Tue, 01 Sep 2026 23:04:01 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1788250732_0_szinhaz_lfcs-4-_web.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1788250732_0_szinhaz_lfcs-4-_web.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] A megszorítások eredménye</title>
+      <link>https://hargitanepe.ro/hirek/kiemelt/latvanyosan-csokkent-a-koltsegvetesi-hiany</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/hirek/kiemelt/latvanyosan-csokkent-a-koltsegvetesi-hiany</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/1200x630/1788261351_0_alexandrunazare_fb_03_web.jpg" /><br/>Jelentősen csökkent az ország költségvetési hiánya az év első hét hónapjában, és eközben a beruházásokra is többet fordított az állam – jelen­tette be hétfőn Alexandru Nazare ügyvivő pénzügyminiszter. Az állam bevételei több mint tizenegy százalékkal nőttek, a kiadások emelkedése ellenben nem érte el a három százalékot. Egyes elemzések szerint ugyanakkor a hiánycsökkenés jelenlegi üteme az év második felében már nem tartható fenn.]]></description>
+      <pubDate>Tue, 01 Sep 2026 23:04:01 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/1200x630/1788261351_0_alexandrunazare_fb_03_web.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/1200x630/1788261351_0_alexandrunazare_fb_03_web.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] A vörös beavatkozási tervet is aktiválták tömeges rosszullét miatt</title>
+      <link>https://maszol.ro/belfold/A-voros-beavatkozasi-tervet-is-aktivaltak-tomeges-rosszullet-miatt</link>
+      <guid isPermaLink="true">https://maszol.ro/belfold/A-voros-beavatkozasi-tervet-is-aktivaltak-tomeges-rosszullet-miatt</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/01/cikk_mento_Facebook_ambulanta_(1).jpg" /><br/>A vörös beavatkozási tervet is aktiválták tömeges rosszullét miatt]]></description>
+      <pubDate>Tue, 01 Sep 2026 23:03:58 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_szeptember/01/cikk_mento_Facebook_ambulanta_(1).jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_szeptember/01/cikk_mento_Facebook_ambulanta_(1).jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Németország bezárja az utolsó orosz konzulátust és egy kulturális központot a repülőtéri dróntámadás miatt</title>
+      <link>https://maszol.ro/kulfold/Nemetorszag-bezarja-az-utolso-orosz-konzulatust-es-egy-kulturalis-kozpontot-a-repuloteri-drontamadas-miatt</link>
+      <guid isPermaLink="true">https://maszol.ro/kulfold/Nemetorszag-bezarja-az-utolso-orosz-konzulatust-es-egy-kulturalis-kozpontot-a-repuloteri-drontamadas-miatt</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/01/cikksmall_agerpres_19545029.jpg" /><br/>Németország bezárja az utolsó orosz konzulátust és egy kulturális központot a repülőtéri dróntámadás miatt]]></description>
+      <pubDate>Tue, 01 Sep 2026 23:03:58 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_szeptember/01/cikksmall_agerpres_19545029.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_szeptember/01/cikksmall_agerpres_19545029.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Tanévkezdésre készülnek Székelyudvarhelyen</title>
       <link>https://hargitanepe.ro/szerelik-a-kontenertermeket</link>
@@ -403,50 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_szeptember/01/cikksmall_cikk_vasarlas.png" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_szeptember/01/cikksmall_cikk_vasarlas.png" type="image/png" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Felkészültek az új tanévre Szilágy megye oktatási intézményeiben</title>
-      <link>https://maszol.ro/belfold/Felkeszultek-az-uj-tanevre-Szilagy-megye-oktatasi-intezmenyeiben</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Felkeszultek-az-uj-tanevre-Szilagy-megye-oktatasi-intezmenyeiben</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/01/cikksmall_IMG_2233.jpg" /><br/>Felkészültek az új tanévre Szilágy megye oktatási intézményeiben]]></description>
-      <pubDate>Tue, 01 Sep 2026 13:57:22 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_szeptember/01/cikksmall_IMG_2233.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_szeptember/01/cikksmall_IMG_2233.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Két autó ütközött a 12A jelzésű országúton Hargita megyében</title>
-      <link>https://maszol.ro/belfold/Ket-auto-utkozott-a-12A-jelzesu-orszaguton-Hargita-megyeben</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Ket-auto-utkozott-a-12A-jelzesu-orszaguton-Hargita-megyeben</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/01/cikksmall_rendorseg_szirena__sajat_grok_.jpg" /><br/>Két autó ütközött a 12A jelzésű országúton Hargita megyében]]></description>
-      <pubDate>Tue, 01 Sep 2026 13:57:22 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_szeptember/01/cikksmall_rendorseg_szirena__sajat_grok_.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_szeptember/01/cikksmall_rendorseg_szirena__sajat_grok_.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Lezuhant drónt találtak Vaslui megyében</title>
-      <link>https://maszol.ro/belfold/Lezuhant-dront-talaltak-Vaslui-megyeben</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Lezuhant-dront-talaltak-Vaslui-megyeben</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/01/cikksmall_dron-vaslui.jpg" /><br/>Lezuhant drónt találtak Vaslui megyében]]></description>
-      <pubDate>Tue, 01 Sep 2026 13:57:22 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_szeptember/01/cikksmall_dron-vaslui.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_szeptember/01/cikksmall_dron-vaslui.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Cseke Attila: a fejlesztési tárca teljesítette a mérföldköveket, egyetlen eurót sem fog elveszíteni</title>
-      <link>https://maszol.ro/belfold/Cseke-Attila-a-fejlesztesi-tarca-teljesitette-a-merfoldkoveket-egyetlen-eurot-sem-fog-elvesziteni</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Cseke-Attila-a-fejlesztesi-tarca-teljesitette-a-merfoldkoveket-egyetlen-eurot-sem-fog-elvesziteni</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/01/cikksmall_cseke_attila_2507_govro_.jpg" /><br/>Cseke Attila: a fejlesztési tárca teljesítette a mérföldköveket, egyetlen eurót sem fog elveszíteni]]></description>
-      <pubDate>Tue, 01 Sep 2026 13:57:22 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_szeptember/01/cikksmall_cseke_attila_2507_govro_.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_szeptember/01/cikksmall_cseke_attila_2507_govro_.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
