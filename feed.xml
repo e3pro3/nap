@@ -5,9 +5,20 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Mon, 31 Aug 2026 20:40:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 00:24:31 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Szeszélyes elegancia</title>
+      <link>https://hargitanepe.ro/a-jo-palinkahoz-tokeletes-kemia-kell-2026-07-21</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/a-jo-palinkahoz-tokeletes-kemia-kell-2026-07-21</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1784621283_1_gabor_sz_szeszely_lfcs-1-_web.jpg" /><br/>Szeszélyes elegancia]]></description>
+      <pubDate>Tue, 01 Sep 2026 00:24:31 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1784621283_1_gabor_sz_szeszely_lfcs-1-_web.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1784621283_1_gabor_sz_szeszely_lfcs-1-_web.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Nők a történelemben</title>
       <link>https://hargitanepe.ro/csaladi</link>
@@ -436,17 +447,6 @@
       <author>Hargita Népe</author>
       <media:content url="https://hargitanepe.ro/images/data/423x222/1788112946_0_focifk_cfr_gol__lfcs8-.jpg" medium="image"/>
       <enclosure url="https://hargitanepe.ro/images/data/423x222/1788112946_0_focifk_cfr_gol__lfcs8-.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Egy súlyos vesebeteg kisfiú gyógykezelésének támogatására</title>
-      <link>https://hargitanepe.ro/jotekonysagi-humorest</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/jotekonysagi-humorest</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1788158940_0_1000008175.jpg" /><br/>Egy súlyos vesebeteg kisfiú gyógykezelésének támogatására]]></description>
-      <pubDate>Mon, 31 Aug 2026 12:52:10 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1788158940_0_1000008175.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1788158940_0_1000008175.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
