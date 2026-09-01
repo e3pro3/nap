@@ -1,5 +1,185 @@
 [
   {
+    "title": "[Maszol] Valós időben követhető a betegek ellátása a csíkszeredai sürgősségen",
+    "link": "https://maszol.ro/belfold/Valos-idoben-kovetheto-a-betegek-ellatasa-a-csikszeredai-surgossegen",
+    "description": "Valós időben követhető a betegek ellátása a csíkszeredai sürgősségen",
+    "image": "https://maszol.ro/resized/2026_szeptember/01/cikk_791863075_1379596287048038_4415812690816321548_n.jpg",
+    "published": "2026-09-01T08:20:57.413972+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Kedden is volt egy földrengés",
+    "link": "https://maszol.ro/belfold/Kedden-is-volt-egy-foldrenges",
+    "description": "Kedden is volt egy földrengés",
+    "image": "https://maszol.ro/resized/2026_szeptember/01/cikk_foldrenges_szeizmograf_agerpres.jpg",
+    "published": "2026-09-01T08:20:57.413924+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Tragédia: tizenöt újszülött vesztette életét egy kórháztűzben",
+    "link": "https://maszol.ro/kulfold/Tragedia-tizenot-ujszulott-vesztette-eletet-egy-korhaztuzben",
+    "description": "Tragédia: tizenöt újszülött vesztette életét egy kórháztűzben",
+    "image": "https://maszol.ro/resized/2026_augusztus/26/cikksmall_halottak_napja_mindenszentek_Kolozsvar_Hazsongardi_temeto_BSz_(7).jpg",
+    "published": "2026-09-01T08:20:57.413408+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Még több légvédelmi eszközt gyártat a Pentagon az amerikai hadiiparral",
+    "link": "https://maszol.ro/kulfold/Meg-tobb-legvedelmi-eszkozt-gyartat-a-Pentagon-az-amerikai-hadiiparral",
+    "description": "Még több légvédelmi eszközt gyártat a Pentagon az amerikai hadiiparral",
+    "image": "https://maszol.ro/resized/2026_szeptember/01/cikksmall_528053290_1228001142671207_8667399973338707806_n.jpg",
+    "published": "2026-09-01T08:20:57.413295+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Második világháborús lövedéket találtak Csíkszeredában",
+    "link": "https://maszol.ro/belfold/Masodik-vilaghaborus-lovedeket-talaltak-Csikszeredaban",
+    "description": "Második világháborús lövedéket találtak Csíkszeredában",
+    "image": "https://maszol.ro/resized/2026_szeptember/01/cikksmall_lovedek_isu.jpg",
+    "published": "2026-09-01T08:20:57.413250+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Milliárdokat hozott a 3000 lejnél nagyobb nyugdíjak megadóztatása az egészségbiztosítási alapnak",
+    "link": "https://maszol.ro/gazdasag/Milliardokat-hozott-a-3000-lejnel-nagyobb-nyugdijak-megadoztatasa-az-egeszsegbiztositasi-alapnak",
+    "description": "Milliárdokat hozott a 3000 lejnél nagyobb nyugdíjak megadóztatása az egészségbiztosítási alapnak",
+    "image": "https://maszol.ro/resized/2026_szeptember/01/cikksmall_orvos_sztetoszkop_telefon_pexels.jpg",
+    "published": "2026-09-01T08:20:57.413204+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Két légi célpontot észleltek a román határ közelében – Riasztották a lakosságot",
+    "link": "https://maszol.ro/belfold/Ket-legi-celpontot-eszleltek-a-roman-hatar-kozeleben-Riasztottak-a-lakossagot",
+    "description": "Két légi célpontot észleltek a román határ közelében – Riasztották a lakosságot",
+    "image": "https://maszol.ro/resized/2026_szeptember/01/cikksmall_F16_agerpres_(1).jpg",
+    "published": "2026-09-01T08:20:57.413160+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Könyvbemutató: Bukarestbe látogat Angela Merkel, Nicușor Dannal is találkozik",
+    "link": "https://maszol.ro/kultura/Konyvbemutato-Bukarestbe-latogat-Angela-Merkel-Nicusor-Dannal-is-talalkozik",
+    "description": "Könyvbemutató: Bukarestbe látogat Angela Merkel, Nicușor Dannal is találkozik",
+    "image": "https://maszol.ro/resized/2026_szeptember/01/cikksmall_angela_merkel_nemet_kancellar_ager-epa.jpg",
+    "published": "2026-09-01T08:20:57.413117+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Az átlagosnál melegebb szeptemberre számíthatunk – Kiderült, lesz-e eső",
+    "link": "https://maszol.ro/belfold/Az-atlagosnal-melegebb-szeptemberre-szamithatunk-Kiderult-lesz-e-eso",
+    "description": "Az átlagosnál melegebb szeptemberre számíthatunk – Kiderült, lesz-e eső",
+    "image": "https://maszol.ro/resized/2026_szeptember/01/cikksmall_osz-gyermek-pexels.jpg",
+    "published": "2026-09-01T08:20:57.413068+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Módosította költségvetését Hargita Megye Tanácsa – Oktatási és kulturális programokra is jut többletforrás",
+    "link": "https://maszol.ro/belfold/Modositotta-koltsegveteset-Hargita-Megye-Tanacsa-Oktatasi-es-kulturalis-programokra-is-jut-tobbletforras",
+    "description": "Módosította költségvetését Hargita Megye Tanácsa – Oktatási és kulturális programokra is jut többletforrás",
+    "image": "https://maszol.ro/resized/2026_szeptember/01/cikksmall_Tanacsules_2026aug31_1.jpg",
+    "published": "2026-09-01T08:20:57.413023+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Hegyvidéki turizmus: az idei év a túlélésről szól",
+    "link": "https://maszol.ro/gazdasag/Hegyvideki-turizmus-az-idei-ev-a-tulelesrol-szol",
+    "description": "Hegyvidéki turizmus: az idei év a túlélésről szól",
+    "image": "https://maszol.ro/resized/2026_szeptember/01/cikksmall_turista_Pixabay.jpg",
+    "published": "2026-09-01T08:20:57.412974+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Rajtol a „Tengerpart mindenkinek” – Mennyibe kerül a szállás a román tengerparton?",
+    "link": "https://maszol.ro/belfold/Rajtol-a-Tengerpart-mindenkinek-Mennyibe-kerul-a-szallas-a-roman-tengerparton",
+    "description": "Rajtol a „Tengerpart mindenkinek” – Mennyibe kerül a szállás a román tengerparton?",
+    "image": "https://maszol.ro/resized/2026_szeptember/01/cikksmall_tengerpart_AdobeStock.jpg",
+    "published": "2026-09-01T08:20:57.412925+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Szlovákia alacsonyan repülő célok felderítésére alkalmas radarokat küld Romániába",
+    "link": "https://maszol.ro/belfold/Szlovakia-alacsonyan-repulo-celok-felderitesere-alkalmas-radarokat-kuld-Romaniaba",
+    "description": "Szlovákia alacsonyan repülő célok felderítésére alkalmas radarokat küld Romániába",
+    "image": "https://maszol.ro/resized/2026_szeptember/01/cikksmall_radu_Miruta_Facebook.jpg",
+    "published": "2026-09-01T08:20:57.412865+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Már több mint ezer halálos áldozata van a nepáli és kínai áradásoknak",
+    "link": "https://maszol.ro/kulfold/Mar-tobb-mint-ezer-halalos-aldozata-van-a-nepali-es-kinai-aradasoknak",
+    "description": "Már több mint ezer halálos áldozata van a nepáli és kínai áradásoknak",
+    "image": "https://maszol.ro/resized/2026_szeptember/01/cikksmall_agerpres_19592193.jpg",
+    "published": "2026-09-01T08:20:57.412818+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] A lengyel import diktálja az alma árát a hazai piacon",
+    "link": "https://maszol.ro/gazdasag/A-lengyel-import-diktalja-az-alma-arat-a-hazai-piacon",
+    "description": "A lengyel import diktálja az alma árát a hazai piacon",
+    "image": "https://maszol.ro/resized/2026_szeptember/01/cikksmall_alma_Pixabay.jpg",
+    "published": "2026-09-01T08:20:57.412581+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Orosz támadás érte az ukrán–román komphatárátkelőt – Leállt a vámvizsgálat (VIDEÓ)",
+    "link": "https://maszol.ro/belfold/Orosz-tamadas-erte-az-ukranroman-komphataratkelot-Leallt-a-vamvizsgalat-VIDEO",
+    "description": "Orosz támadás érte az ukrán–román komphatárátkelőt – Leállt a vámvizsgálat (VIDEÓ)",
+    "image": "https://maszol.ro/uploads/2026_szeptember/01/drontamadas_Tulcea_ISU.jpg",
+    "published": "2026-09-01T08:20:57.412482+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Működik az adócsökkentés, ismét 10 lej alá süllyedt a gázolaj ára",
+    "link": "https://maszol.ro/gazdasag/Mukodik-az-adocsokkentes-ismet-10-lej-ala-sullyedt-a-gazolaj-ara",
+    "description": "Működik az adócsökkentés, ismét 10 lej alá süllyedt a gázolaj ára",
+    "image": "https://maszol.ro/resized/2026_szeptember/01/cikk_tankolas_benzinkut_uzemanyag_toltoallomas_pixabay.jpg",
+    "published": "2026-09-01T08:20:56.948925+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Minden pénz elment: tízből kilencen egy lejt sem tudtak félretenni (SZAVAZZ!)",
+    "link": "https://maszol.ro/belfold/Minden-penz-elment-tizbol-kilencen-egy-lejt-sem-tudtak-felretenni-SZAVAZZ",
+    "description": "Minden pénz elment: tízből kilencen egy lejt sem tudtak félretenni (SZAVAZZ!)",
+    "image": "https://maszol.ro/resized/2026_szeptember/01/cikk_penz_ures_tarca_Pexels_(1).jpg",
+    "published": "2026-09-01T08:20:56.948853+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Kedden kezdődik az új parlamenti ülésszak – Kiemelt feladat lesz a teljes jogkörű kormány beiktatása",
+    "link": "https://maszol.ro/belfold/Kedden-kezdodik-az-uj-parlamenti-ulesszak-Kiemelt-feladat-lesz-a-teljes-jogkoru-kormany-beiktatasa",
+    "description": "Kedden kezdődik az új parlamenti ülésszak – Kiemelt feladat lesz a teljes jogkörű kormány beiktatása",
+    "image": "https://maszol.ro/uploads/2026_szeptember/01/parlament.jpg",
+    "published": "2026-09-01T08:20:56.948741+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Kábelrengeteg Bukarest felett: tizenévesek forradalmasították az internet-hozzáférést",
+    "link": "https://maszol.ro/belfold/Kabelrengeteg-Bukarest-felett-tizenevesek-forradalmasitottak-az-internet-hozzaferest",
+    "description": "Ezek a kezdeményezések teremtették meg azt a műszaki és társadalmi közeget, amelyben Románia az elsők között térhetett át a nagy sebességű, optikai szálas internetre.",
+    "image": "https://maszol.ro/resized/2026_szeptember/01/cikk_diak_online_Unsplash.jpg",
+    "published": "2026-09-01T08:20:56.465941+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
     "title": "[Maszol] Elítélték a volt polgármestert",
     "link": "https://maszol.ro/belfold/Eliteltek-a-volt-polgarmestert",
     "description": "Elítélték a volt polgármestert",
