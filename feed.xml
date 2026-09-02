@@ -5,9 +5,31 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Wed, 02 Sep 2026 20:35:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 23:00:53 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Újabb orvosi premier Székelyudvarhelyen</title>
+      <link>https://hargitanepe.ro/kimeletes-uj-technologiat-vezettek-be-az-emlorak-sebeszeteben</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/kimeletes-uj-technologiat-vezettek-be-az-emlorak-sebeszeteben</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1788330762_0_orvosi_premier_FB.jpg" /><br/>Újabb orvosi premier Székelyudvarhelyen]]></description>
+      <pubDate>Wed, 02 Sep 2026 23:00:53 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1788330762_0_orvosi_premier_FB.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1788330762_0_orvosi_premier_FB.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Eredeti állapotába állították vissza</title>
+      <link>https://hargitanepe.ro/latogathato-az-urmanczy-kastely</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/latogathato-az-urmanczy-kastely</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1788332309_0_gyergyo_urmanczykastely_felujitas1_szaboteklakatalin_web.jpg" /><br/>Eredeti állapotába állították vissza]]></description>
+      <pubDate>Wed, 02 Sep 2026 23:00:53 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1788332309_0_gyergyo_urmanczykastely_felujitas1_szaboteklakatalin_web.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1788332309_0_gyergyo_urmanczykastely_felujitas1_szaboteklakatalin_web.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] A ház, ahol a csendnek is emlékezete van</title>
       <link>https://hargitanepe.ro/lucia-nover-oroksege-ma-is-el-remeten</link>
@@ -425,28 +447,6 @@
       <author>Hargita Népe</author>
       <media:content url="https://hargitanepe.ro/images/data/423x222/1784620635_1_palinka_janos" medium="image"/>
       <enclosure url="https://hargitanepe.ro/images/data/423x222/1784620635_1_palinka_janos" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] A juhtenyésztés jövője a mesterséges termékenyítés</title>
-      <link>https://hargitanepe.ro/cel-a-sikeres-szaporulat</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/cel-a-sikeres-szaporulat</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1787055799_0__4_juhok_kosok_LT.jpg" /><br/>A juhtenyésztés jövője a mesterséges termékenyítés]]></description>
-      <pubDate>Wed, 02 Sep 2026 10:45:25 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1787055799_0__4_juhok_kosok_LT.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1787055799_0__4_juhok_kosok_LT.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Nemzetközi kupameccs Csíkszeredában</title>
-      <link>https://hargitanepe.ro/a-szep-bucsu-remenyeben</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/a-szep-bucsu-remenyeben</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1788292588_0_fk_nok.jpeg" /><br/>Nemzetközi kupameccs Csíkszeredában]]></description>
-      <pubDate>Wed, 02 Sep 2026 10:45:25 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1788292588_0_fk_nok.jpeg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1788292588_0_fk_nok.jpeg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
