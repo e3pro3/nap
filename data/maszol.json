@@ -1,5 +1,194 @@
 [
   {
+    "title": "[Maszol] Motorbaleset Marosvásárhelyen: meghalt egy fiatalember",
+    "link": "https://maszol.ro/belfold/Motorbaleset-Marosvasarhelyen-meghalt-egy-fiatalember",
+    "description": "Motorbaleset Marosvásárhelyen: meghalt egy fiatalember",
+    "image": "https://maszol.ro/resized/2026_szeptember/04/cikk_Kolozsvar_mentoauto_Foto_Borsi_Balazs_(50)_(1).jpg",
+    "published": "2026-09-04T10:44:04.348579+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Siegfried Mureşan: Azt akarjuk, hogy Romániának továbbra is hozzáértő kormánya legyen",
+    "link": "https://maszol.ro/belfold/Siegfried-Muresan-Azt-akarjuk-hogy-Romanianak-tovabbra-is-hozzaerto-kormanya-legyen",
+    "description": "Siegfried Mureşan: Azt akarjuk, hogy Romániának továbbra is hozzáértő kormánya legyen",
+    "image": "https://maszol.ro/resized/2026_szeptember/04/cikk_741131271_1774784990608626_2726349563438904318_n.jpg",
+    "published": "2026-09-04T10:44:04.348505+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] áfonyalekváros Túró Rudi torta",
+    "link": "https://maszol.ro/videok/Erdely-izei-afonyalekvaros-Turo-Rudi-torta",
+    "description": "áfonyalekváros Túró Rudi torta",
+    "image": "https://maszol.ro/resized/2022Április/15/video_torta_m.jpg",
+    "published": "2026-09-04T10:44:04.348384+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Tejfölös újkrumpli-paprikás",
+    "link": "https://maszol.ro/videok/Erdely-izei-tejfolos-ujkrumpli-paprikas",
+    "description": "Erdély ízei a Nobilacasa ajánlásával",
+    "image": "https://maszol.ro/resized/2022Július/29/recept/video_krumpli_maszol_02.jpg",
+    "published": "2026-09-04T10:44:04.348304+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] AI-szuperhatalommá válna a régiónk? Kilenc ország indított közös programot",
+    "link": "https://maszol.ro/belfold/AI-szuperhatalomma-valna-a-regionk-Kilenc-orszag-inditott-kozos-programot",
+    "description": "AI-szuperhatalommá válna a régiónk? Kilenc ország indított közös programot",
+    "image": "https://maszol.ro/resized/2026_szeptember/04/cikksmall_pexels-googledeepmind-18069697.jpg",
+    "published": "2026-09-04T10:44:04.347488+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Trump szerint soha nem látott nagyságrendben gyárt hadianyagot az USA – Ukrajna is kaphat licencet",
+    "link": "https://maszol.ro/kulfold/Trump-szerint-soha-nem-latott-nagysagrendben-gyart-hadianyagot-az-USA-Ukrajna-is-kaphat-licencet",
+    "description": "Trump szerint soha nem látott nagyságrendben gyárt hadianyagot az USA – Ukrajna is kaphat licencet",
+    "image": "https://maszol.ro/resized/2026_szeptember/04/cikksmall_528053290_1228001142671207_8667399973338707806_n.jpg",
+    "published": "2026-09-04T10:44:04.347378+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Tűz ütött ki a házban: egy gyermek és édesanyja bennégett",
+    "link": "https://maszol.ro/belfold/Tuz-utott-ki-a-hazban-egy-gyermek-es-edesanyja-bennegett",
+    "description": "Tűz ütött ki a házban: egy gyermek és édesanyja bennégett",
+    "image": "https://maszol.ro/resized/2026_szeptember/04/cikksmall_vlcsnap-2026-09-04-07h12m41s046.jpg",
+    "published": "2026-09-04T10:44:04.347301+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Kiadós esők nélkül és a megszokottnál enyhébb idővel telik az ősz első hónapja",
+    "link": "https://maszol.ro/belfold/Kiados-esok-nelkul-es-a-megszokottnal-enyhebb-idovel-telik-az-osz-elso-honapja",
+    "description": "Kiadós esők nélkül és a megszokottnál enyhébb idővel telik az ősz első hónapja",
+    "image": "https://maszol.ro/resized/2026_szeptember/04/cikksmall_pexels-shanix-18588863.jpg",
+    "published": "2026-09-04T10:44:04.347233+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] A brit külügyminiszterrel tárgyalt Oana Ţoiu Londonban",
+    "link": "https://maszol.ro/belfold/A-brit-kulugyminiszterrel-targyalt-Oana-Toiu-Londonban",
+    "description": "A brit külügyminiszterrel tárgyalt Oana Ţoiu Londonban",
+    "image": "https://maszol.ro/resized/2026_szeptember/04/cikksmall_oana_toiu_fboldala.jpg",
+    "published": "2026-09-04T10:44:04.347162+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Egy bíró felfüggesztette Trump rendeletét a születés jogán járó állampolgárság korlátozásáról",
+    "link": "https://maszol.ro/kulfold/Egy-biro-felfuggesztette-Trump-rendeletet-a-szuletes-jogan-jaro-allampolgarsag-korlatozasarol",
+    "description": "Egy bíró felfüggesztette Trump rendeletét a születés jogán járó állampolgárság korlátozásáról",
+    "image": "https://maszol.ro/resized/2026_szeptember/04/cikksmall_702382397_122175923690723345_6756993896414810268_n.jpg",
+    "published": "2026-09-04T10:44:04.347092+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Lejtmenetben a kiskereskedelem",
+    "link": "https://maszol.ro/gazdasag/Lejtmenetben-a-kiskereskedelem",
+    "description": "Lejtmenetben a kiskereskedelem",
+    "image": "https://maszol.ro/resized/2026_szeptember/04/cikksmall_csokkenes_Pixabay.jpg",
+    "published": "2026-09-04T10:44:04.347020+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Erősödött júliusban a hazai turizmus, de az éves mérleg még negatív",
+    "link": "https://maszol.ro/gazdasag/Erosodott-juliusban-a-hazai-turizmus-de-az-eves-merleg-meg-negativ",
+    "description": "Erősödött júliusban a hazai turizmus, de az éves mérleg még negatív",
+    "image": "https://maszol.ro/resized/2026_szeptember/04/cikksmall_pexels-cottonbro-6466494.jpg",
+    "published": "2026-09-04T10:44:04.346951+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Kiderült Tom Curry halálának az oka",
+    "link": "https://maszol.ro/eletmod/Kiderult-Tom-Curry-halalanak-az-oka",
+    "description": "Kiderült Tom Curry halálának az oka",
+    "image": "https://maszol.ro/resized/2026_szeptember/04/cikksmall_tim_curry_kepernyomentes.png",
+    "published": "2026-09-04T10:44:04.346879+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Vádat emelt a DIICOT a Tate fivérek ellen",
+    "link": "https://maszol.ro/belfold/Vadat-emelt-a-DIICOT-a-Tate-fiverek-ellen",
+    "description": "Vádat emelt a DIICOT a Tate fivérek ellen",
+    "image": "https://maszol.ro/resized/2026_szeptember/04/cikksmall_HHVDq_nWgAA05UQ_(1).jpg",
+    "published": "2026-09-04T10:44:04.346801+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Dimian: nincs káosz az oktatásban, csak sok a megoldásra váró probléma",
+    "link": "https://maszol.ro/belfold/Dimian-nincs-kaosz-az-oktatasban-csak-sok-a-megoldasra-varo-problema",
+    "description": "Dimian: nincs káosz az oktatásban, csak sok a megoldásra váró probléma",
+    "image": "https://maszol.ro/resized/2026_szeptember/04/cikksmall_iskola_oktatas_iskolapad_tanugy_chatgpt_sajat.png",
+    "published": "2026-09-04T10:44:04.346728+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Péntektől újra adhatunk kölcsön az államnak kedvezményes, adómentes kamattal",
+    "link": "https://maszol.ro/gazdasag/Pentektol-ujra-adhatunk-kolcson-az-allamnak-kedvezmenyes-adomentes-kamattal-1",
+    "description": "Péntektől újra adhatunk kölcsön az államnak kedvezményes, adómentes kamattal",
+    "image": "https://maszol.ro/resized/2026_szeptember/04/cikksmall_fidelis_ministerul_finantelor.jpg",
+    "published": "2026-09-04T10:44:04.346252+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Lassú gyártás, hitelek, USA-függőség: sok sebből vérzik az EU védelmi terve",
+    "link": "https://maszol.ro/kulfold/Lassu-gyartas-hitelek-USA-fuggoseg-sok-sebbol-verzik-az-EU-vedelmi-terve",
+    "description": "Lassú gyártás, hitelek, USA-függőség: sok sebből vérzik az EU védelmi terve",
+    "image": "https://maszol.ro/uploads/2026_szeptember/04/749076914_3537039989778260_797715415808258767_n.jpg",
+    "published": "2026-09-04T10:44:04.346105+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Közel 2,9 millió diák kezdi meg a tanulást hétfőn – Így épül fel a 2026–2027-es tanév",
+    "link": "https://maszol.ro/belfold/Kozel-29-millio-diak-kezdi-meg-a-tanulast-hetfon-Igy-epul-fel-a-20262027-es-tanev",
+    "description": "A tanítási év szeptember 7-én kezdődik és 2027. június 18-án ér véget.",
+    "image": "https://maszol.ro/resized/2026_szeptember/04/cikk_ruslan-horovyi-rajrNwpgQ9U-unsplash_(1).jpg",
+    "published": "2026-09-04T10:44:03.940881+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Moszkva teszteli Európa vörös vonalait: közös válaszra készül az EU és a NATO",
+    "link": "https://maszol.ro/kulfold/Moszkva-teszteli-Europa-voros-vonalait-kozos-valaszra-keszul-az-EU-es-a-NATO",
+    "description": "Moszkva teszteli Európa vörös vonalait: közös válaszra készül az EU és a NATO",
+    "image": "https://maszol.ro/resized/2026_szeptember/3/cikk_rutte_ursula_agerpres.jpg",
+    "published": "2026-09-04T10:44:03.940794+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Kitart a vészhelyzet Parajdon",
+    "link": "https://maszol.ro/belfold/Kitart-a-veszhelyzet-Parajdon",
+    "description": "Kitart a vészhelyzet Parajdon",
+    "image": "https://maszol.ro/resized/2026_szeptember/04/cikk_Parajd_Farkas_Endre.jpg",
+    "published": "2026-09-04T10:44:03.940701+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Besárgult a térkép háromnegyede: figyelmeztetést adott ki a meteorológiai szolgálat",
+    "link": "https://maszol.ro/belfold/Besargult-a-terkep-haromnegyede-figyelmeztetest-adott-ki-a-meteorologiai-szolgalat",
+    "description": "Besárgult a térkép háromnegyede: figyelmeztetést adott ki a meteorológiai szolgálat",
+    "image": "https://maszol.ro/uploads/2026_szeptember/04/kanikula_Agerpres_20230725.jpg",
+    "published": "2026-09-04T10:44:03.940559+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
     "title": "[Maszol] A világ egyik legkülönlegesebb sertésfajtája, amelyet még a medve is elkerül – Ismerd meg a mangalicát, a magyar örökséget",
     "link": "https://maszol.ro/videok/A-vilag-egyik-legkulonlegesebb-sertesfajtaja-amelyet-meg-a-medve-is-elkerul-Ismerd-meg-a-mangalicat-a-magyar-orokseget",
     "description": "A világ egyik legkülönlegesebb sertésfajtája, amelyet még a medve is elkerül – Ismerd meg a mangalicát, a magyar örökséget",
