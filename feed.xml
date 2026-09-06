@@ -5,9 +5,42 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Sat, 05 Sep 2026 22:39:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 03:14:27 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Vitaminok</title>
+      <link>https://hargitanepe.ro/csaladi</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/csaladi</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1712915204_csaladi_kviz_webre.jpg" /><br/>Vitaminok]]></description>
+      <pubDate>Sun, 06 Sep 2026 03:14:27 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1712915204_csaladi_kviz_webre.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1712915204_csaladi_kviz_webre.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Napi kvíz</title>
+      <link>https://hargitanepe.ro/kviz</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/kviz</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1671456199_WhatsApp3.jpeg" /><br/>Napi kvíz]]></description>
+      <pubDate>Sun, 06 Sep 2026 03:14:27 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1671456199_WhatsApp3.jpeg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1671456199_WhatsApp3.jpeg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Tárkonyos, tejes paszulyleves füstölt kolbásszal</title>
+      <link>https://maszol.ro/videok/Erdely-izei-tarkonyos-tejes-paszulyleves-fustolt-kolbasszal</link>
+      <guid isPermaLink="true">https://maszol.ro/videok/Erdely-izei-tarkonyos-tejes-paszulyleves-fustolt-kolbasszal</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2022November/18/video_paszulyleves_maszol_01.jpg" /><br/>Tárkonyos, tejes paszulyleves füstölt kolbásszal]]></description>
+      <pubDate>Sun, 06 Sep 2026 03:14:24 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2022November/18/video_paszulyleves_maszol_01.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2022November/18/video_paszulyleves_maszol_01.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] A lakás új ékköve: a hangsúlyfal visszatérése</title>
       <link>https://hargitanepe.ro/a-lakas-uj-ekkove-a-hangsulyfal-visszaterese-2026-07-14</link>
@@ -414,39 +447,6 @@
       <author>Hargita Népe</author>
       <media:content url="https://hargitanepe.ro/images/data/423x222/1785844285_1_pisztrangaszat_erdofule_lfcs-3-_web.jpg" medium="image"/>
       <enclosure url="https://hargitanepe.ro/images/data/423x222/1785844285_1_pisztrangaszat_erdofule_lfcs-3-_web.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Változik a megyei könyvtár programja</title>
-      <link>https://hargitanepe.ro/valtozik-a-megyei-konyvtar-programja-2026-09-04</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/valtozik-a-megyei-konyvtar-programja-2026-09-04</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1690872276_konyvtar_haziolvasmany_ilusztr_lfcs" /><br/>Változik a megyei könyvtár programja]]></description>
-      <pubDate>Fri, 04 Sep 2026 20:21:21 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1690872276_konyvtar_haziolvasmany_ilusztr_lfcs" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1690872276_konyvtar_haziolvasmany_ilusztr_lfcs" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Sok osztályról kellett lemondani</title>
-      <link>https://hargitanepe.ro/tobb-mint-haromszaz-hely-maradt-uresen-a-szakkozepiskolakban</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/tobb-mint-haromszaz-hely-maradt-uresen-a-szakkozepiskolakban</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1788511435_0_szakoktatas_szekelykaroly_isk_lfcs-2-_web.jpg" /><br/>Sok osztályról kellett lemondani]]></description>
-      <pubDate>Fri, 04 Sep 2026 20:21:21 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1788511435_0_szakoktatas_szekelykaroly_isk_lfcs-2-_web.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1788511435_0_szakoktatas_szekelykaroly_isk_lfcs-2-_web.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Folytatják a Lábbusz programot Gyergyószentmiklóson és Gyergyóremetén</title>
-      <link>https://hargitanepe.ro/gyalogosan-az-iskolaba</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/gyalogosan-az-iskolaba</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1788513741_0_gyergyo_labbuszprogram_fenyvesjaratfboldal_web.jpg" /><br/>Folytatják a Lábbusz programot Gyergyószentmiklóson és Gyergyóremetén]]></description>
-      <pubDate>Fri, 04 Sep 2026 20:21:21 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1788513741_0_gyergyo_labbuszprogram_fenyvesjaratfboldal_web.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1788513741_0_gyergyo_labbuszprogram_fenyvesjaratfboldal_web.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>

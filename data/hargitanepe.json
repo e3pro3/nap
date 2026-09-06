@@ -1,5 +1,23 @@
 [
   {
+    "title": "[Hargita Népe] Vitaminok",
+    "link": "https://hargitanepe.ro/csaladi",
+    "description": "Vitaminok",
+    "image": "https://hargitanepe.ro/images/data/423x222/1712915204_csaladi_kviz_webre.jpg",
+    "published": "2026-09-06T03:14:27.181155+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Napi kvíz",
+    "link": "https://hargitanepe.ro/kviz",
+    "description": "Napi kvíz",
+    "image": "https://hargitanepe.ro/images/data/423x222/1671456199_WhatsApp3.jpeg",
+    "published": "2026-09-06T03:14:27.181073+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] A lakás új ékköve: a hangsúlyfal visszatérése",
     "link": "https://hargitanepe.ro/a-lakas-uj-ekkove-a-hangsulyfal-visszaterese-2026-07-14",
     "description": "A lakás új ékköve: a hangsúlyfal visszatérése",
@@ -1391,15 +1409,6 @@
     "description": "Ismét birtokba vehették Székelyudvarhelyen hétfőn az autósok és a gyalogosok a megújult Tompa László utcát. Új forgalmi rend lépett életbe a korszerűsített útszakaszon.",
     "image": "https://hargitanepe.ro/images/data/1200x630/1788247775_0_tompalaszloutca_hi01_web.jpg",
     "published": "2026-09-01T08:21:00.488127+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Szeszélyes elegancia",
-    "link": "https://hargitanepe.ro/a-jo-palinkahoz-tokeletes-kemia-kell-2026-07-21",
-    "description": "Szeszélyes elegancia",
-    "image": "https://hargitanepe.ro/images/data/423x222/1784621283_1_gabor_sz_szeszely_lfcs-1-_web.jpg",
-    "published": "2026-09-01T00:24:31.654967+00:00",
     "author": "Hargita Népe",
     "category": "Hargita Népe"
   }
