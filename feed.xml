@@ -5,9 +5,20 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Tue, 08 Sep 2026 23:13:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 03:24:17 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Beszélgetés Ványolós Endre építésszel</title>
+      <link>https://hargitanepe.ro/elhetobb-telepulesek-elobb-terek</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/elhetobb-telepulesek-elobb-terek</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1787655262_6_azujsagcimlapjara.jpeg" /><br/>Beszélgetés Ványolós Endre építésszel]]></description>
+      <pubDate>Wed, 09 Sep 2026 03:24:17 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1787655262_6_azujsagcimlapjara.jpeg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1787655262_6_azujsagcimlapjara.jpeg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Központi Fejlesztési Régió:</title>
       <link>https://hargitanepe.ro/tejfeldolgozasban-kiemelt-helyen</link>
@@ -436,17 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_szeptember/08/cikksmall_roman_hirszerzo_szolgalat_sri_ager.jpg" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_szeptember/08/cikksmall_roman_hirszerzo_szolgalat_sri_ager.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Az alkotmányossági bizottság megkezdte a Bolojan-Tănăsescu találkozó körülményeinek kivizsgálását</title>
-      <link>https://maszol.ro/belfold/Az-alkotmanyossagi-bizottsag-megkezdte-a-Bolojan-Tanasescu-talalkozo-korulmenyeinek-kivizsgalasat</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Az-alkotmanyossagi-bizottsag-megkezdte-a-Bolojan-Tanasescu-talalkozo-korulmenyeinek-kivizsgalasat</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/08/cikksmall_Ilie_Bolojan_260213_pnl_fb.jpg" /><br/>Az alkotmányossági bizottság megkezdte a Bolojan-Tănăsescu találkozó körülményeinek kivizsgálását]]></description>
-      <pubDate>Tue, 08 Sep 2026 16:06:15 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_szeptember/08/cikksmall_Ilie_Bolojan_260213_pnl_fb.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_szeptember/08/cikksmall_Ilie_Bolojan_260213_pnl_fb.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
