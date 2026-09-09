@@ -5,9 +5,42 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Wed, 09 Sep 2026 20:32:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 22:57:59 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Pisztráng minden mennyiségben</title>
+      <link>https://hargitanepe.ro/erdofule-horogra-akadt-innovacio</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/erdofule-horogra-akadt-innovacio</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1785844285_1_pisztrangaszat_erdofule_lfcs-3-_web.jpg" /><br/>Pisztráng minden mennyiségben]]></description>
+      <pubDate>Wed, 09 Sep 2026 22:57:59 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1785844285_1_pisztrangaszat_erdofule_lfcs-3-_web.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1785844285_1_pisztrangaszat_erdofule_lfcs-3-_web.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Erdély legjei: A homoródszentpáli madárpihenő</title>
+      <link>https://maszol.ro/videok/Erdely-legjei-A-homorodszentpali-madarpiheno</link>
+      <guid isPermaLink="true">https://maszol.ro/videok/Erdely-legjei-A-homorodszentpali-madarpiheno</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2024Szeptember/20/videosmall_Madarpiheno_-_synced_00_04_19_19.png" /><br/>Erdély legjei: A homoródszentpáli madárpihenő]]></description>
+      <pubDate>Wed, 09 Sep 2026 22:57:56 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2024Szeptember/20/videosmall_Madarpiheno_-_synced_00_04_19_19.png" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2024Szeptember/20/videosmall_Madarpiheno_-_synced_00_04_19_19.png" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Nem örökölhető automatikusan: ennyi özvegyi nyugdíj járhat a házastársnak</title>
+      <link>https://maszol.ro/belfold/Nem-orokolheto-automatikusan-a-nyugdij-ennyi-ozvegyi-nyugdij-jarhat-a-hazastarsnak</link>
+      <guid isPermaLink="true">https://maszol.ro/belfold/Nem-orokolheto-automatikusan-a-nyugdij-ennyi-ozvegyi-nyugdij-jarhat-a-hazastarsnak</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/3/cikksmall_idos_oreg_nyugdijas_andreea-popa_unsplash.jpg" /><br/>Nem örökölhető automatikusan: ennyi özvegyi nyugdíj járhat a házastársnak]]></description>
+      <pubDate>Wed, 09 Sep 2026 22:57:56 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_szeptember/3/cikksmall_idos_oreg_nyugdijas_andreea-popa_unsplash.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_szeptember/3/cikksmall_idos_oreg_nyugdijas_andreea-popa_unsplash.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Székely Gazda 2026. július 18.</title>
       <link>https://hargitanepe.ro/-2026-07-20</link>
@@ -414,39 +447,6 @@
       <author>Hargita Népe</author>
       <media:content url="https://hargitanepe.ro/images/data/423x222/1788885448_0_FKnoi_fkcs.jpg" medium="image"/>
       <enclosure url="https://hargitanepe.ro/images/data/423x222/1788885448_0_FKnoi_fkcs.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Sorsoltak az elit vébére</title>
-      <link>https://hargitanepe.ro/kanadaval-kezdenek-a-magyar-hokisok</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/kanadaval-kezdenek-a-magyar-hokisok</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1788934970_0_hoki_hunkanada.jpg" /><br/>Sorsoltak az elit vébére]]></description>
-      <pubDate>Wed, 09 Sep 2026 10:51:01 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1788934970_0_hoki_hunkanada.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1788934970_0_hoki_hunkanada.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Két új játékost igazolt a héten az FK Csíkszereda</title>
-      <link>https://hargitanepe.ro/ket-uj-jatekost-igazolt-a-heten-az-fk-csikszereda</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/ket-uj-jatekost-igazolt-a-heten-az-fk-csikszereda</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1788935585_0_fk.jpg" /><br/>Két új játékost igazolt a héten az FK Csíkszereda]]></description>
-      <pubDate>Wed, 09 Sep 2026 10:51:01 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1788935585_0_fk.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1788935585_0_fk.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Mit nézzünk a tévében?</title>
-      <link>https://hargitanepe.ro/2026-09-09-mit-nezzunk-a-teveben-2026-09-09</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/2026-09-09-mit-nezzunk-a-teveben-2026-09-09</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1675756532_sportkozv.jpg" /><br/>Mit nézzünk a tévében?]]></description>
-      <pubDate>Wed, 09 Sep 2026 10:51:01 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1675756532_sportkozv.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1675756532_sportkozv.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
