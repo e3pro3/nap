@@ -1,5 +1,176 @@
 [
   {
+    "title": "[Maszol] Robbanóanyagot találtak Sepsiszentgyörgy központjában",
+    "link": "https://maszol.ro/belfold/Robbanoanyagot-talaltak-Sepsiszentgyorgy-kozpontjaban",
+    "description": "Robbanóanyagot találtak Sepsiszentgyörgy központjában",
+    "image": "https://maszol.ro/resized/2026_szeptember/09/cikk_20260909_foto_ISU_Covasna_robbanoanyag.jpg",
+    "published": "2026-09-09T16:01:07.108235+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Utolsó csobbanás: jövő héten bezár a sepsiszentgyörgyi strand",
+    "link": "https://maszol.ro/belfold/Utolso-csobbanas-jovo-heten-bezar-a-sepsiszentgyorgyi-strand",
+    "description": "Utolsó csobbanás: jövő héten bezár a sepsiszentgyörgyi strand",
+    "image": "https://maszol.ro/resized/2026_szeptember/09/cikk_20260909_foto_SepsiRekreativ_sepsiszentgyorgyi_strand.jpg",
+    "published": "2026-09-09T16:01:07.108190+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] áfonyalekváros Túró Rudi torta",
+    "link": "https://maszol.ro/videok/Erdely-izei-afonyalekvaros-Turo-Rudi-torta",
+    "description": "áfonyalekváros Túró Rudi torta",
+    "image": "https://maszol.ro/resized/2022Április/15/video_torta_m.jpg",
+    "published": "2026-09-09T16:01:07.108135+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Tejfölös újkrumpli-paprikás",
+    "link": "https://maszol.ro/videok/Erdely-izei-tejfolos-ujkrumpli-paprikas",
+    "description": "Erdély ízei a Nobilacasa ajánlásával",
+    "image": "https://maszol.ro/resized/2022Július/29/recept/video_krumpli_maszol_02.jpg",
+    "published": "2026-09-09T16:01:07.108088+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Péntektől újra adhatunk kölcsön az államnak kedvezményes, adómentes kamattal",
+    "link": "https://maszol.ro/gazdasag/Pentektol-ujra-adhatunk-kolcson-az-allamnak-kedvezmenyes-adomentes-kamattal-1",
+    "description": "Péntektől újra adhatunk kölcsön az államnak kedvezményes, adómentes kamattal",
+    "image": "https://maszol.ro/resized/2026_szeptember/04/cikksmall_fidelis_ministerul_finantelor.jpg",
+    "published": "2026-09-09T16:01:07.107647+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Közel húsz produkcióval készül a dráMA17 Székelyudvarhelyen",
+    "link": "https://maszol.ro/kultura/Kozel-husz-produkcioval-keszul-a-draMA17-Szekelyudvarhelyen",
+    "description": "Közel húsz produkcióval készül a dráMA17 Székelyudvarhelyen",
+    "image": "https://maszol.ro/resized/2026_szeptember/09/cikksmall_IMG_1623.jpg",
+    "published": "2026-09-09T16:01:07.107525+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Mi marad, amikor fogy az idő? – Igazán fontos dolgokról készül előadás a Tamási Áron Színházban",
+    "link": "https://maszol.ro/kultura/Mi-marad-amikor-fogy-az-ido-Igazan-fontos-dolgokrol-keszul-eloadas-a-Tamasi-Aron-Szinhazban",
+    "description": "Mi marad, amikor fogy az idő? – Igazán fontos dolgokról készül előadás a Tamási Áron Színházban",
+    "image": "https://maszol.ro/resized/2026_szeptember/09/cikksmall_IMG_2026-09-08_02.jpg",
+    "published": "2026-09-09T16:01:07.107489+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Decemberre elkészülhet a csíkszeredai megyeháza felújítása",
+    "link": "https://maszol.ro/belfold/Decemberre-elkeszulhet-a-csikszeredai-megyehaza-felujitasa",
+    "description": "Decemberre elkészülhet a csíkszeredai megyeháza felújítása",
+    "image": "https://maszol.ro/resized/2026_szeptember/09/cikksmall_782169102_2552179205221459_3035657197806228116_n.jpg",
+    "published": "2026-09-09T16:01:07.107448+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Egészségtudatosító programsorozat indul Hargita megyében",
+    "link": "https://maszol.ro/eletmod/Egeszsegtudatosito-programsorozat-indul-Hargita-megyeben",
+    "description": "Egészségtudatosító programsorozat indul Hargita megyében",
+    "image": "https://maszol.ro/resized/2026_szeptember/09/cikksmall_zM6O8qzt0U5qYXixRo0KtD2rlnPKfhsN8afOzfyKlTDOszem936KOx0L8VAZLfljRhuV8j-SXWIIDT0aXFi8h61xG9xOZtrfavgoDzDp-gLBp8Ort93CZi5znUcqN-cRfhvM98z7UXYRncxW2CF5DtVf1OPUIeFvBySzHJ0R1eJYcpdgTl6atXy5uRAZk9Mh.jpg",
+    "published": "2026-09-09T16:01:07.107409+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Hatalmas hitelszerződést kötöttek egy erdélyi aranybányászati projektre",
+    "link": "https://maszol.ro/gazdasag/Hatalmas-hitelszerzodest-kotottek-egy-erdelyi-aranybanyaszati-projektre",
+    "description": "Hatalmas hitelszerződést kötöttek egy erdélyi aranybányászati projektre",
+    "image": "https://maszol.ro/resized/2026_szeptember/09/cikksmall_arany_pixabay_stevebidmead.jpg",
+    "published": "2026-09-09T16:01:07.107365+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Bogdan Pelmuș munkáiból nyílik kiállítás Csíkszeredában",
+    "link": "https://maszol.ro/kultura/Bogdan-Pelmus-munkaibol-nyilik-kiallitas-Csikszeredaban",
+    "description": "Bogdan Pelmuș munkáiból nyílik kiállítás Csíkszeredában",
+    "image": "https://maszol.ro/resized/2026_szeptember/09/cikksmall_jobb.jpg",
+    "published": "2026-09-09T16:01:07.107324+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Lángra lobbant egy lakóépület Kolozsvár alvóvárosában",
+    "link": "https://maszol.ro/belfold/Langra-lobbant-egy-lakoepulet-Kolozsvar-alvovarosaban",
+    "description": "Lángra lobbant egy lakóépület Kolozsvár alvóvárosában",
+    "image": "https://maszol.ro/resized/2026_szeptember/09/cikksmall_tuz_stiridecluj-ro.jpg",
+    "published": "2026-09-09T16:01:07.107279+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Közel 130 millió lejt fordítanak idén az oktatás fejlesztésére Marosvásárhelyen",
+    "link": "https://maszol.ro/belfold/Kozel-130-millio-lejt-forditanak-iden-az-oktatas-fejlesztesere-Marosvasarhelyen",
+    "description": "Közel 130 millió lejt fordítanak idén az oktatás fejlesztésére Marosvásárhelyen",
+    "image": "https://maszol.ro/resized/2026_szeptember/09/cikksmall_801465501_2182471149280839_1173213407328071722_n.jpg",
+    "published": "2026-09-09T16:01:07.107239+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Halasztással indult Georgescu pere",
+    "link": "https://maszol.ro/belfold/Halasztassal-indult-Georgescu-pere",
+    "description": "Halasztással indult Georgescu pere",
+    "image": "https://maszol.ro/resized/2026_szeptember/09/cikksmall_birosag_itelet_torveny_pexels.jpg",
+    "published": "2026-09-09T16:01:07.107198+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Helikopterrel mentettek ki egy turistát a Kárpátokból",
+    "link": "https://maszol.ro/belfold/Helikopterrel-mentettek-ki-egy-turistat-a-Karpatokbol",
+    "description": "Helikopterrel mentettek ki egy turistát a Kárpátokból",
+    "image": "https://maszol.ro/resized/2026_szeptember/09/cikksmall_salvamont_Facebook_Salvamont.jpg",
+    "published": "2026-09-09T16:01:07.107070+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Antal Lóránt a mikonoszi útról: Ha valakit ezzel megbántottam, akkor elnézést kérek",
+    "link": "https://maszol.ro/belfold/Antal-Lorant-a-mikonoszi-utrol-Ha-valakit-ezzel-megbantottam-akkor-elnezest-kerek",
+    "description": "Antal Lóránt a mikonoszi útról: Ha valakit ezzel megbántottam, akkor elnézést kérek",
+    "image": "https://maszol.ro/uploads/2026_szeptember/09/antal_lorant_fboldala.jpg",
+    "published": "2026-09-09T16:01:07.106820+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Megcsókoltatná a román zászlót a tisztségviselőkkel és a diákokkal is az AUR-os törvénytervezet",
+    "link": "https://maszol.ro/belfold/Megcsokoltatna-a-roman-zaszlot-a-tisztsegviselokkel-es-diakokkal-az-AUR-os-torvenytervezet",
+    "description": "Megcsókoltatná a román zászlót a tisztségviselőkkel és a diákokkal is az AUR-os törvénytervezet",
+    "image": "https://maszol.ro/resized/2026_szeptember/09/cikk_George-Simion-AUR-presedinte.jpg",
+    "published": "2026-09-09T16:01:06.591665+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Tíz százalékkal drágulhat a villanyáram az elkövetkező időszakban",
+    "link": "https://maszol.ro/gazdasag/Tiz-szazalekkal-dragulhat-a-villanyaram-az-elkovetkezo-idoszakban",
+    "description": "Tíz százalékkal drágulhat a villanyáram az elkövetkező időszakban",
+    "image": "https://maszol.ro/resized/2026_szeptember/09/cikk_villanyora.jpg",
+    "published": "2026-09-09T16:01:06.591616+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Két év befagyasztás után nyugdíjemelés jöhet 2027 januárjától",
+    "link": "https://maszol.ro/belfold/Ket-ev-befagyasztas-utan-johet-az-ujabb-nyugdijemeles-mutatjuk-mennyi-lehet-a-novekedes",
+    "description": "Két év befagyasztás után 2027 januárjától ismét emelkedhet a romániai nyugdíjak kiszámításánál használt referenciapont (VPR) értéke.",
+    "image": "https://maszol.ro/resized/2026_szeptember/09/cikk_nyugdij_Nyugdijpenztar_Facebook.jpg",
+    "published": "2026-09-09T16:01:06.591528+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
     "title": "[Maszol] Több mint 650 embert mentettek ki a hegyekből augusztusban",
     "link": "https://maszol.ro/belfold/Tobb-mint-650-embert-mentettek-ki-a-hegyekbol-augusztusban",
     "description": "Több mint 650 embert mentettek ki a hegyekből augusztusban",
@@ -1643,105 +1814,6 @@
     "description": "A romániai nyugdíjrendszer külön szabályok alapján biztosít utódnyugdíjat a hátramaradt házastársnak és a gyermekeknek.",
     "image": "https://maszol.ro/resized/2026_szeptember/3/cikk_idos_oreg_nyugdijas_andreea-popa_unsplash.jpg",
     "published": "2026-09-04T20:21:18.075183+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Lejárt szavatosságú fertőtlenítőszer miatt bírságolták meg a maroshévízi kórházat",
-    "link": "https://maszol.ro/belfold/Lejart-szavatossagu-fertotlenitoszer-miatt-birsagoltak-meg-a-maroshevizi-korhazat",
-    "description": "Lejárt szavatosságú fertőtlenítőszer miatt bírságolták meg a maroshévízi kórházat",
-    "image": "https://maszol.ro/resized/2026_szeptember/04/cikk_517903713_791927609825751_691299810259414391_n.jpg",
-    "published": "2026-09-04T15:51:34.240647+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Súlyos baleset: hárman meghaltak, ketten megsérültek",
-    "link": "https://maszol.ro/belfold/Sulyos-baleset-harman-meghaltak-ketten-megserultek",
-    "description": "Súlyos baleset: hárman meghaltak, ketten megsérültek",
-    "image": "https://maszol.ro/resized/2026_szeptember/04/cikk_baleset_dpdcr.jpg",
-    "published": "2026-09-04T15:51:34.240571+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Kitoloncolós videójátékot indított a Fehér Ház a hivatalos honlapján",
-    "link": "https://maszol.ro/kulfold/Kitoloncolos-videojatekot-inditott-a-Feher-Haz-a-hivatalos-honlapjan",
-    "description": "Kitoloncolós videójátékot indított a Fehér Ház a hivatalos honlapján",
-    "image": "https://maszol.ro/resized/2026_szeptember/04/cikksmall_Trump_Vance_20250512_agerpres_(1).jpg",
-    "published": "2026-09-04T15:51:34.239696+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] A nagybányai festőiskola szellemiségét továbbvivő kortárs alkotók műveiből nyílik kiállítás Bukarestben",
-    "link": "https://maszol.ro/belfold/A-nagybanyai-festoiskola-szellemiseget-tovabbvivo-kortars-alkotok-muveibol-nyilik-kiallitas-Bukarestben",
-    "description": "A nagybányai festőiskola szellemiségét továbbvivő kortárs alkotók műveiből nyílik kiállítás Bukarestben",
-    "image": "https://maszol.ro/resized/2026_szeptember/04/cikksmall_0b376b3ffdf6d8b9aefdd43e90668ef2.jpg",
-    "published": "2026-09-04T15:51:34.239629+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Új tanév, régi veszélyek: nagy hangsúlyt fektetnek a drogprevencióra Szilágy megyében",
-    "link": "https://maszol.ro/belfold/Uj-tanev-regi-veszelyek-nagy-hangsulyt-fektetnek-a-drogprevenciora-Szilagy-megyeben",
-    "description": "Új tanév, régi veszélyek: nagy hangsúlyt fektetnek a drogprevencióra Szilágy megyében",
-    "image": "https://maszol.ro/resized/2026_szeptember/04/cikksmall_iskola-diakok-pexels.jpg",
-    "published": "2026-09-04T15:51:34.239555+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Több mint 700 ezer gyermek részesült tanszertámogatásban az elmúlt tanévben",
-    "link": "https://maszol.ro/belfold/Tobb-mint-700-ezer-gyermek-reszesult-tanszertamogatasban-az-elmult-tanevben",
-    "description": "Több mint 700 ezer gyermek részesült tanszertámogatásban az elmúlt tanévben",
-    "image": "https://maszol.ro/resized/2026_szeptember/04/cikksmall_tanszer.jpg",
-    "published": "2026-09-04T15:51:34.239473+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Konstanca: dróndarabot találtak a Modern strandon",
-    "link": "https://maszol.ro/belfold/Konstanca-drondarabot-talaltak-a-Modern-strandon",
-    "description": "Konstanca: dróndarabot találtak a Modern strandon",
-    "image": "https://maszol.ro/resized/2026_szeptember/04/cikksmall_drona-constanta.jpg",
-    "published": "2026-09-04T15:51:34.239400+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Újabb medvét lőttek ki Brassópojánán",
-    "link": "https://maszol.ro/belfold/Ujabb-medvet-lottek-ki-Brassopojanan",
-    "description": "Újabb medvét lőttek ki Brassópojánán",
-    "image": "https://maszol.ro/resized/2026_szeptember/04/cikksmall_794094066_1602052368131315_7746695316520784069_n.jpg",
-    "published": "2026-09-04T15:51:34.239330+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Rossz ágyak miatt nem engedik az alvást több óvodában",
-    "link": "https://maszol.ro/belfold/Rossz-agyak-miatt-nem-engedik-az-alvast-tobb-ovodaban",
-    "description": "Rossz ágyak miatt nem engedik az alvást több óvodában",
-    "image": "https://maszol.ro/resized/2026_szeptember/04/cikksmall_agy_fogyasztovedelem.jpg",
-    "published": "2026-09-04T15:51:34.239258+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Több mint 17 millió lejből újul meg az erzsébetvárosi Apafi-kastély",
-    "link": "https://maszol.ro/belfold/Tobb-mint-17-millio-lejbol-ujul-meg-az-erzsebetvarosi-Apafi-kastely",
-    "description": "Több mint 17 millió lejből újul meg az erzsébetvárosi Apafi-kastély",
-    "image": "https://maszol.ro/resized/2026_szeptember/04/cikk_Castel-Apafi-vechi-6-1024x688.jpg",
-    "published": "2026-09-04T15:51:34.238977+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] „Németország legveszélyesebb embere” a hatalom küszöbén, de valóban van mitől félni?",
-    "link": "https://maszol.ro/kulfold/Nemetorszag-legveszelyesebb-embere-a-hatalom-kuszoben-de-valoban-van-mitol-felni",
-    "description": "A szász-anhalti választás meggyengítheti Friedrich Merz kancellárt, de egy kis tartomány eredménye önmagában nem dönti meg a szövetségi kormányt.",
-    "image": "https://maszol.ro/resized/2026_szeptember/3/cikk_Ulrich_Siegmund_fboldala.jpg",
-    "published": "2026-09-04T15:51:34.238791+00:00",
     "author": "Maszol",
     "category": "Maszol"
   }
