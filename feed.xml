@@ -5,9 +5,42 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Sun, 13 Sep 2026 22:55:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 03:40:36 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Továbbadni a tudást</title>
+      <link>https://hargitanepe.ro/nem-eloadasokat-tartanak-hanem-elmenyt-adnak</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/nem-eloadasokat-tartanak-hanem-elmenyt-adnak</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/assets/img/gallery-tag.svg" /><br/>Továbbadni a tudást]]></description>
+      <pubDate>Mon, 14 Sep 2026 03:40:36 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/assets/img/gallery-tag.svg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/assets/img/gallery-tag.svg" type="image/svg+xml" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Blokád</title>
+      <link>https://hargitanepe.ro/nehez-helyzetbe-hozza-a-juhtenyesztoket-az-orszagot-sujto-exporttilalom</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/nehez-helyzetbe-hozza-a-juhtenyesztoket-az-orszagot-sujto-exporttilalom</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1783424023_0_IMG_7177.jpg" /><br/>Blokád]]></description>
+      <pubDate>Mon, 14 Sep 2026 03:40:36 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1783424023_0_IMG_7177.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1783424023_0_IMG_7177.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] A barnaszén – nem konvencionális – diadalútja</title>
+      <link>https://hargitanepe.ro/szekely-zoldsegtermesztoket-megmento-matrai-lignit</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/szekely-zoldsegtermesztoket-megmento-matrai-lignit</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1787136669_0__2_3_lignitprojekt_megerkezettaszallitmany_foto_SZGE_Facebook.jpg" /><br/>A barnaszén – nem konvencionális – diadalútja]]></description>
+      <pubDate>Mon, 14 Sep 2026 03:40:36 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1787136669_0__2_3_lignitprojekt_megerkezettaszallitmany_foto_SZGE_Facebook.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1787136669_0__2_3_lignitprojekt_megerkezettaszallitmany_foto_SZGE_Facebook.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Maszol] Irdatlan szélturbinákat állítanak fel</title>
       <link>https://maszol.ro/gazdasag/Irdatlan-szelturbinakat-allitanak-fel</link>
@@ -414,39 +447,6 @@
       <author>Hargita Népe</author>
       <media:content url="https://hargitanepe.ro/images/data/423x222/1789233662_0_gyergyo_urmanczyemleknap1_urmanczynandoregyesulet.jpg" medium="image"/>
       <enclosure url="https://hargitanepe.ro/images/data/423x222/1789233662_0_gyergyo_urmanczyemleknap1_urmanczynandoregyesulet.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Helyi értékek, régi házak</title>
-      <link>https://hargitanepe.ro/hirek/porta/uj-eselyt-kaphat-az-epitett-orokseg</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/hirek/porta/uj-eselyt-kaphat-az-epitett-orokseg</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/1200x630/1789116143_0_lazarlaszlo_web.jpg" /><br/>A régi házak sorsa sokszor azon múlik, hogy valaki felismeri-e bennük az értéket még akkor, amikor a tulajdonos számára már inkább tehernek tűnnek. Egy több évtizedes épület nem feltétlenül műemlék, mégis fontos része lehet annak a tájnak és településképnek, amelyben áll. A Homoród-Küküllő LEADER Egyesület éppen ezt a köztes, sokáig kevésbé kezelt területet próbálta feltérképezni: helyi építészeti értékeket kerestek, dokumentáltak, majd olyan rendszert dolgoztak ki, amelynek segítségével ezek az épületek helyi örökségvédelmi listára kerülhetnek.]]></description>
-      <pubDate>Sat, 12 Sep 2026 20:14:55 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/1200x630/1789116143_0_lazarlaszlo_web.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/1200x630/1789116143_0_lazarlaszlo_web.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Súlyos szabálytalanságok derültek ki a kisméretű moduláris atomreaktorok projektjéről</title>
-      <link>https://maszol.ro/belfold/Sulyos-szabalytalansagok-derultek-ki-a-kismeretu-modularis-atomreaktorok-projektjerol</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Sulyos-szabalytalansagok-derultek-ki-a-kismeretu-modularis-atomreaktorok-projektjerol</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/12/cikk_modularis_Nuscale.jpg" /><br/>Súlyos szabálytalanságok derültek ki a kisméretű moduláris atomreaktorok projektjéről]]></description>
-      <pubDate>Sat, 12 Sep 2026 20:14:51 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_szeptember/12/cikk_modularis_Nuscale.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_szeptember/12/cikk_modularis_Nuscale.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Drón zuhant le Suceava megyében</title>
-      <link>https://maszol.ro/belfold/Dron-zuhant-le-Suceava-megyeben</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Dron-zuhant-le-Suceava-megyeben</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/12/cikk_Cabecera_AdobeStock_dron_eg_madar.jpg" /><br/>Drón zuhant le Suceava megyében]]></description>
-      <pubDate>Sat, 12 Sep 2026 20:14:51 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_szeptember/12/cikk_Cabecera_AdobeStock_dron_eg_madar.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_szeptember/12/cikk_Cabecera_AdobeStock_dron_eg_madar.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
