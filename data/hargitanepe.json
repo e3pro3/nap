@@ -1,5 +1,104 @@
 [
   {
+    "title": "[Hargita Népe] Mennyit tud Baliról?",
+    "link": "https://hargitanepe.ro/csaladi",
+    "description": "Mennyit tud Baliról?",
+    "image": "https://hargitanepe.ro/images/data/423x222/1712915204_csaladi_kviz_webre.jpg",
+    "published": "2026-09-16T16:15:41.073977+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Napi kvíz",
+    "link": "https://hargitanepe.ro/kviz",
+    "description": "Napi kvíz",
+    "image": "https://hargitanepe.ro/images/data/423x222/1671456199_WhatsApp3.jpeg",
+    "published": "2026-09-16T16:15:41.073911+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] V. Nektária Székelyföldi Mézverseny",
+    "link": "https://hargitanepe.ro/kozel-haromszaz-mezmintat-kostoltak-vegig",
+    "description": "V. Nektária Székelyföldi Mézverseny",
+    "image": "https://hargitanepe.ro/images/data/423x222/1789540070_0_nektaria_hatosgyorgy_mezbiralat.jpg",
+    "published": "2026-09-16T16:15:41.073573+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Igazgatói versenyvizsga",
+    "link": "https://hargitanepe.ro/interjuztatjak-is-a-jelolteket",
+    "description": "Igazgatói versenyvizsga",
+    "image": "https://hargitanepe.ro/images/data/423x222/1789541788_0_igazgatoiroda_hi01_web.jpg",
+    "published": "2026-09-16T16:15:41.073457+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Tudás, amelynek jövője van",
+    "link": "https://hargitanepe.ro/tudas-amelynek-jovoje-van",
+    "description": "Tudás, amelynek jövője van",
+    "image": "https://hargitanepe.ro/images/data/423x222/1789544576_0_10_vamszer",
+    "published": "2026-09-16T16:15:41.073376+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Rendezni kell az építmény jogi helyzetét, hogy javításokat végezhessenek rajta",
+    "link": "https://hargitanepe.ro/megmentenek-az-osszeomlastol-a-szarhegyi-fedeles-hidat",
+    "description": "Rendezni kell az építmény jogi helyzetét, hogy javításokat végezhessenek rajta",
+    "image": "https://hargitanepe.ro/images/data/423x222/1789545365_1_gyergyo_szarhegyifedeleshid2_szarhegyiph_web.jpg",
+    "published": "2026-09-16T16:15:41.073307+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Megyénkben kevés a szakképzetlen pedagógus",
+    "link": "https://hargitanepe.ro/hirek/hargita-megye/egyre-nehezebb-matektanart-talalni",
+    "description": "Megyénkben kevés a szakképzetlen pedagógus",
+    "image": "https://hargitanepe.ro/images/data/423x222/1789547984_1_pedagogusillusztracio_hi02_web.jpg",
+    "published": "2026-09-16T16:15:41.073059+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Segítség a szülőknek",
+    "link": "https://hargitanepe.ro/hirek/hargita-megye/delutani-oktatas-az-iskola-alapitvanynal",
+    "description": "Segítség a szülőknek",
+    "image": "https://hargitanepe.ro/images/data/423x222/1789548490_0_iskolaalapitvany_kemenyjanoselmeletiliceum_fb_01_web.jpg",
+    "published": "2026-09-16T16:15:41.072933+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Pénz, mesterséges intelligencia és jövő",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/negy-nemzet-otven-fiatalja-tanult-egyutt-a-digifin-quest-ifjusagi-cseren",
+    "description": "Pénz, mesterséges intelligencia és jövő",
+    "image": "https://hargitanepe.ro/images/data/423x222/1789549427_0_07_poganyhavas_erasmus_poganyhavas2_cm.jpg",
+    "published": "2026-09-16T16:15:41.072845+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Exporttilalom miatt vonultak utcára a juhtenyésztők",
+    "link": "https://hargitanepe.ro/hirek/belfold/eroszakba-torkollott-a-bukaresti-tuntetes",
+    "description": "Exporttilalom miatt vonultak utcára a juhtenyésztők",
+    "image": "https://hargitanepe.ro/images/data/423x222/1789550140_0_agerpres_juhasztunetes_bukarestben_260915.jpeg",
+    "published": "2026-09-16T16:15:41.072738+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Beszélgetés dr. Sudár Balázs történésszel, turkológussal",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/dr-sudar-balazs-a-kor-embere-meg-a-legsanyarubb-idokben-is-meglatta-a-szepet",
+    "description": "Augusztus derekán nyitották meg és december közepéig látogatható a Csíki Székely Múzeum A félhold árnyéka. Erdély és az Oszmán Birodalom című nagyszabású időszakos kiállítása. A Mohács 500 emlékévhez kapcsolódó tárlat azt mutatja be, miként formálta „a törökkel való együttélés” Erdély tárgyi és szellemi örökségét, és milyen nyomai élnek tovább napjainkig. A kiállítás kurátorával, dr. Sudár Balázzsal, az ELTE BTK Történettudományi Kutatóintézet tudományos főmunkatársával, a Budapesti Történeti Múzeum muzeológusával Erdély valódi geopolitikai státuszáról, a függetlenség mítoszáról, a mindennapi szokások átvételéről, valamint a kiállítás legizgalmasabb műtárgyleleteiről beszélgettünk.",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1789547566_0_beszelgetes_SudarBalazs_tortenesz_GI1.jpg",
+    "published": "2026-09-16T16:15:41.072549+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] Vătămăniuc-Bartha Dávid történelmi bemutatkozása",
     "link": "https://hargitanepe.ro/egy-udvarhelyi-pamplonaban",
     "description": "Vătămăniuc-Bartha Dávid történelmi bemutatkozása",
@@ -1094,78 +1193,6 @@
     "description": "Hazaköltözött fiatalok kezdeményezése a Pekengo Egyesület, amelynek tagjai a sportban nem a teljesítményt, hanem az együtt megélt élményeket keresik. Slackline, sziklamászás, terepfutás, kerékpározás és közösségi kezdeményezések – a csíkszeredai egyesület egyik alapítója arról beszél, hogyan lehet mozgással közösséget építeni, miért jó néha kilépni a komfortzónából, és miért fontos, hogy a város ne csak élhetőbb, hanem összetartóbb is legyen.",
     "image": "https://hargitanepe.ro/images/data/1200x630/1789113990_0_01_csaladi_kiajanlo_szept_11_nagy_hunor_arch.png",
     "published": "2026-09-11T20:33:10.438086+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Szeszélyes elegancia",
-    "link": "https://hargitanepe.ro/a-jo-palinkahoz-tokeletes-kemia-kell-2026-07-21",
-    "description": "Szeszélyes elegancia",
-    "image": "https://hargitanepe.ro/images/data/423x222/1784621283_1_gabor_sz_szeszely_lfcs-1-_web.jpg",
-    "published": "2026-09-11T15:58:04.748277+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Fărăszkóp",
-    "link": "https://hargitanepe.ro/faraszkop-2026-09-10",
-    "description": "Fărăszkóp",
-    "image": "https://hargitanepe.ro/images/data/423x222/1692957417_szuz.jpg",
-    "published": "2026-09-11T15:58:04.747747+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Évszázados örökségből nemzetközi márka",
-    "link": "https://hargitanepe.ro/az-orszagban-elsokent-kapott-nemzetkozi-zold-minositest-hargita-megye",
-    "description": "Évszázados örökségből nemzetközi márka",
-    "image": "https://hargitanepe.ro/images/data/423x222/1682608410_gyergyo_panoramakabinrongalas2_salvamontgyergyo.jpg",
-    "published": "2026-09-11T15:58:04.747545+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Október 23. kapcsán",
-    "link": "https://hargitanepe.ro/hirek/friss/diakutaztatasi-program",
-    "description": "Október 23. kapcsán",
-    "image": "https://hargitanepe.ro/images/data/423x222/1709894911_probaerettsegi_HI02.JPG",
-    "published": "2026-09-11T15:58:04.747293+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Adj esélyt! Adj otthont!",
-    "link": "https://hargitanepe.ro/hirek/csikszek/nyilt-nap-lesz-a-csikszeredai-kutyamenhelyen",
-    "description": "Adj esélyt! Adj otthont!",
-    "image": "https://hargitanepe.ro/images/data/423x222/1789110254_0_10_magazin_kutyamenhely_fb1_szept_11.jpg",
-    "published": "2026-09-11T15:58:04.747238+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Ideiglenesen Parajdon járnak iskolába az alsósófalvi diákok",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/dolgoznak-a-sukosd-ferenc-altalanos-iskola-felujitasan",
-    "description": "Ideiglenesen Parajdon járnak iskolába az alsósófalvi diákok",
-    "image": "https://hargitanepe.ro/images/data/423x222/1789110528_0_alsosofalva_iskolafelujitas_nyl_web.jpg",
-    "published": "2026-09-11T15:58:04.747181+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Ifjúsági képzőművészeti tárlat Csíkszeredában",
-    "link": "https://hargitanepe.ro/hirek/csikszek/talalkozas-ii",
-    "description": "Ifjúsági képzőművészeti tárlat Csíkszeredában",
-    "image": "https://hargitanepe.ro/images/data/423x222/1789111139_0_image0_web.jpg",
-    "published": "2026-09-11T15:58:04.747120+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Kilencvenöt éve szentelték fel a csíksomlyói kegytemplom orgonáját",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/a-kegyhely-hangja",
-    "description": "Kilencvenöt éves a csíksomlyói kegytemplom or­gonája. Erdély egyik legkorszerűbb – három­ma­nuálos, pedálos, 40 regiszteres, elektromos trak­túrájú – hangszerét 1931. szeptember 8-án, Kis­boldogasszony ünnepén áldották meg.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1789111671_0_orgona_csiksomlyo_lfcs-2-_web.jpg",
-    "published": "2026-09-11T15:58:04.747037+00:00",
     "author": "Hargita Népe",
     "category": "Hargita Népe"
   }
