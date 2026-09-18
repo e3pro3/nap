@@ -5,9 +5,42 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Thu, 17 Sep 2026 23:29:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 03:29:20 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Helyi értékek, régi házak</title>
+      <link>https://hargitanepe.ro/uj-eselyt-kaphat-az-epitett-orokseg</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/uj-eselyt-kaphat-az-epitett-orokseg</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1789116143_0_lazarlaszlo_web.jpg" /><br/>Helyi értékek, régi házak]]></description>
+      <pubDate>Fri, 18 Sep 2026 03:29:20 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1789116143_0_lazarlaszlo_web.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1789116143_0_lazarlaszlo_web.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] János Előd: A székely pálinka minőségi fejlődése megkérdőjelezhetetlen</title>
+      <link>https://hargitanepe.ro/a-keritesszaggatok-kora-lejart-2026-07-21</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/a-keritesszaggatok-kora-lejart-2026-07-21</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1784620635_1_palinka_janos" /><br/>János Előd: A székely pálinka minőségi fejlődése megkérdőjelezhetetlen]]></description>
+      <pubDate>Fri, 18 Sep 2026 03:29:20 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1784620635_1_palinka_janos" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1784620635_1_palinka_janos" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Mi a jó töltött káposzta titka? A parajdi fesztiválon utánajártunk (VIDEÓ)</title>
+      <link>https://maszol.ro/videok/Mi-a-jo-toltott-kaposzta-titka-A-parajdi-fesztivalon-utanajartunk-VIDEO</link>
+      <guid isPermaLink="true">https://maszol.ro/videok/Mi-a-jo-toltott-kaposzta-titka-A-parajdi-fesztivalon-utanajartunk-VIDEO</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/12/video_b478d4a6-a5eb-4b0c-8022-c3e9bee55642.jpg" /><br/>Mi a jó töltött káposzta titka? A parajdi fesztiválon utánajártunk (VIDEÓ)]]></description>
+      <pubDate>Fri, 18 Sep 2026 03:29:17 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_szeptember/12/video_b478d4a6-a5eb-4b0c-8022-c3e9bee55642.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_szeptember/12/video_b478d4a6-a5eb-4b0c-8022-c3e9bee55642.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Új szabályok az építkezésben</title>
       <link>https://hargitanepe.ro/mit-hoz-hargita-megyenek-az-uj-urbanisztikai-kodex</link>
@@ -414,39 +447,6 @@
       <author>Hargita Népe</author>
       <media:content url="https://hargitanepe.ro/images/data/423x222/1789585441_0_Myrmidone_lfcs-11-_web.jpg" medium="image"/>
       <enclosure url="https://hargitanepe.ro/images/data/423x222/1789585441_0_Myrmidone_lfcs-11-_web.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Megkezdi európai kupaszereplését a Fradi</title>
-      <link>https://hargitanepe.ro/hirek/foci/indul-az-utazas</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/hirek/foci/indul-az-utazas</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1789586680_0_fradijohoz.jpg" /><br/>Megkezdi európai kupaszereplését a Fradi]]></description>
-      <pubDate>Thu, 17 Sep 2026 11:05:30 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1789586680_0_fradijohoz.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1789586680_0_fradijohoz.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Hargita megyei önkormányzatok az országos szemétszedési akcióban</title>
-      <link>https://hargitanepe.ro/hirek/hargita-megye/tobb-ezer-embernek-nem-mindegy</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/hirek/hargita-megye/tobb-ezer-embernek-nem-mindegy</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1726559608_letsdoit_hulladek_FB_cm.JPG" /><br/>Hargita megyei önkormányzatok az országos szemétszedési akcióban]]></description>
-      <pubDate>Thu, 17 Sep 2026 11:05:30 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1726559608_letsdoit_hulladek_FB_cm.JPG" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1726559608_letsdoit_hulladek_FB_cm.JPG" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Az alpolgármester lemondását kéri az őt delegáló szervezet</title>
-      <link>https://hargitanepe.ro/hirek/kiemelt/nem-tamogatja-klein-laszlot-a-szekelykereszturi-rmdsz</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/hirek/kiemelt/nem-tamogatja-klein-laszlot-a-szekelykereszturi-rmdsz</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1789626320_0_rmdsz_elnoksegi_kozlemeny_szekelykereszturi_rmdsz_web.jpg" /><br/>Az alpolgármester lemondását kéri az őt delegáló szervezet]]></description>
-      <pubDate>Thu, 17 Sep 2026 11:05:30 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1789626320_0_rmdsz_elnoksegi_kozlemeny_szekelykereszturi_rmdsz_web.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1789626320_0_rmdsz_elnoksegi_kozlemeny_szekelykereszturi_rmdsz_web.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
