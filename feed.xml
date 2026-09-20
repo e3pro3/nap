@@ -5,9 +5,20 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Sun, 20 Sep 2026 20:26:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 23:01:45 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Egy ház történetét nem feltétlenül kell újraírni</title>
+      <link>https://hargitanepe.ro/seta-kottmayer-tiborral-az-abasfalvi-horvath-es-gergely-haz-kozott</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/seta-kottmayer-tiborral-az-abasfalvi-horvath-es-gergely-haz-kozott</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1787656319_1_kottmayertibor.jpeg" /><br/>Egy ház történetét nem feltétlenül kell újraírni]]></description>
+      <pubDate>Sun, 20 Sep 2026 23:01:45 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1787656319_1_kottmayertibor.jpeg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1787656319_1_kottmayertibor.jpeg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Túl a csehországi tornán is</title>
       <link>https://hargitanepe.ro/vereseg-zaraskent-2026-09-15</link>
@@ -436,17 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_szeptember/20/cikksmall_muresan_Fb.jpg" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_szeptember/20/cikksmall_muresan_Fb.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] FRISSÍTVE – Szörnyű baleset: egy 19 éves fiatal meghalt, két tizenéves súlyosan megsérült</title>
-      <link>https://maszol.ro/belfold/Szornyu-baleset-egy-19-eves-fiatal-meghalt-ket-tizeneves-sulyosan-megserult</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Szornyu-baleset-egy-19-eves-fiatal-meghalt-ket-tizeneves-sulyosan-megserult</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/20/cikksmall_baleset_Prahova_ISU.jpg" /><br/>FRISSÍTVE – Szörnyű baleset: egy 19 éves fiatal meghalt, két tizenéves súlyosan megsérült]]></description>
-      <pubDate>Sun, 20 Sep 2026 10:44:57 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_szeptember/20/cikksmall_baleset_Prahova_ISU.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_szeptember/20/cikksmall_baleset_Prahova_ISU.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
