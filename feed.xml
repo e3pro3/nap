@@ -5,9 +5,75 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Mon, 21 Sep 2026 19:52:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 23:51:19 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] A világirodalom híres nyitómondatai</title>
+      <link>https://hargitanepe.ro/csaladi</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/csaladi</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1712915204_csaladi_kviz_webre.jpg" /><br/>A világirodalom híres nyitómondatai]]></description>
+      <pubDate>Mon, 21 Sep 2026 23:51:19 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1712915204_csaladi_kviz_webre.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1712915204_csaladi_kviz_webre.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Napi kvíz</title>
+      <link>https://hargitanepe.ro/kviz</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/kviz</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1671456199_WhatsApp3.jpeg" /><br/>Napi kvíz]]></description>
+      <pubDate>Mon, 21 Sep 2026 23:51:19 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1671456199_WhatsApp3.jpeg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1671456199_WhatsApp3.jpeg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Eb-arany Tiranából</title>
+      <link>https://hargitanepe.ro/eb-arany-tiranabol</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/eb-arany-tiranabol</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1789542908_0_judo.jpg" /><br/>Eb-arany Tiranából]]></description>
+      <pubDate>Mon, 21 Sep 2026 23:51:19 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1789542908_0_judo.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1789542908_0_judo.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Székely Konyha és Kert</title>
+      <link>https://www.youtube.com/watch?v=yfW1rITNleU</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=yfW1rITNleU</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/assets/img/video-tag.svg" /><br/>Székely Konyha és Kert]]></description>
+      <pubDate>Mon, 21 Sep 2026 23:51:19 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/assets/img/video-tag.svg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/assets/img/video-tag.svg" type="image/svg+xml" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Tárkonyos, tejes paszulyleves füstölt kolbásszal</title>
+      <link>https://maszol.ro/videok/Erdely-izei-tarkonyos-tejes-paszulyleves-fustolt-kolbasszal</link>
+      <guid isPermaLink="true">https://maszol.ro/videok/Erdely-izei-tarkonyos-tejes-paszulyleves-fustolt-kolbasszal</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2022November/18/video_paszulyleves_maszol_01.jpg" /><br/>Tárkonyos, tejes paszulyleves füstölt kolbásszal]]></description>
+      <pubDate>Mon, 21 Sep 2026 23:51:17 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2022November/18/video_paszulyleves_maszol_01.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2022November/18/video_paszulyleves_maszol_01.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Számvevőszék: több millió nyugdíjat tévesen számoltak újra</title>
+      <link>https://maszol.ro/belfold/Szamvevoszek-tobb-millio-nyugdijat-tevesen-szamoltak-ujra</link>
+      <guid isPermaLink="true">https://maszol.ro/belfold/Szamvevoszek-tobb-millio-nyugdijat-tevesen-szamoltak-ujra</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/16/cikksmall_oreg_nyugdijas_nepesseg_demografia_Adobe_Stock_(2).jpg" /><br/>Számvevőszék: több millió nyugdíjat tévesen számoltak újra]]></description>
+      <pubDate>Mon, 21 Sep 2026 23:51:17 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_szeptember/16/cikksmall_oreg_nyugdijas_nepesseg_demografia_Adobe_Stock_(2).jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_szeptember/16/cikksmall_oreg_nyugdijas_nepesseg_demografia_Adobe_Stock_(2).jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Biológiai megoldások: gyógynövényekkel a természetes növényvédelemért</title>
       <link>https://hargitanepe.ro/a-vegyszermentes-kert-nem-kompromisszum</link>
@@ -381,72 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_szeptember/21/cikksmall_Konya_Bence.png" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_szeptember/21/cikksmall_Konya_Bence.png" type="image/png" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Hivatalos: Siegfried Mureșan a kijelölt miniszterelnök – Tíz napja van a kormányprogramja bemutatására</title>
-      <link>https://maszol.ro/belfold/Hivatalos-Siegfried-Muresan-a-kormanyfojelolt-Tiz-napja-van-a-kormanyprogramja-bemutatasara</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Hivatalos-Siegfried-Muresan-a-kormanyfojelolt-Tiz-napja-van-a-kormanyprogramja-bemutatasara</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/21/cikksmall_agerpres_19655982.jpg" /><br/>Hivatalos: Siegfried Mureșan a kijelölt miniszterelnök – Tíz napja van a kormányprogramja bemutatására]]></description>
-      <pubDate>Mon, 21 Sep 2026 19:52:45 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_szeptember/21/cikksmall_agerpres_19655982.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_szeptember/21/cikksmall_agerpres_19655982.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Bartók Béla és Kallós Zoltán emléke előtt tiszteleg Szalay Zoltán új zeneműve</title>
-      <link>https://maszol.ro/kultura/Bartok-Bela-es-Kallos-Zoltan-emleke-elott-tiszteleg-Szalay-Zoltan-uj-zenemuve</link>
-      <guid isPermaLink="true">https://maszol.ro/kultura/Bartok-Bela-es-Kallos-Zoltan-emleke-elott-tiszteleg-Szalay-Zoltan-uj-zenemuve</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/videothumbnails/cikksmall_813282278_1431788455717245_6172466706170737775_n.jpg" /><br/>Bartók Béla és Kallós Zoltán emléke előtt tiszteleg Szalay Zoltán új zeneműve]]></description>
-      <pubDate>Mon, 21 Sep 2026 19:52:45 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/videothumbnails/cikksmall_813282278_1431788455717245_6172466706170737775_n.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/videothumbnails/cikksmall_813282278_1431788455717245_6172466706170737775_n.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Női rendezők fesztiválja Háromszéken: különleges helyszínekkel jön az egyedülálló filmfesztivál</title>
-      <link>https://maszol.ro/kultura/Noi-rendezok-fesztivalja-Haromszeken-kulonleges-helyszinekkel-jon-az-egyedulallo-filmfesztival</link>
-      <guid isPermaLink="true">https://maszol.ro/kultura/Noi-rendezok-fesztivalja-Haromszeken-kulonleges-helyszinekkel-jon-az-egyedulallo-filmfesztival</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/21/cikksmall_20260921_foto_EvaFilmMakersFest_noi_filmrendezok_fesztivalja_Irina_Nistor_filmkritikus.jpg" /><br/>Női rendezők fesztiválja Háromszéken: különleges helyszínekkel jön az egyedülálló filmfesztivál]]></description>
-      <pubDate>Mon, 21 Sep 2026 19:52:45 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_szeptember/21/cikksmall_20260921_foto_EvaFilmMakersFest_noi_filmrendezok_fesztivalja_Irina_Nistor_filmkritikus.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_szeptember/21/cikksmall_20260921_foto_EvaFilmMakersFest_noi_filmrendezok_fesztivalja_Irina_Nistor_filmkritikus.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Döntött a PSD a Mureșan-kormányról, a PNL szerint tovább mélyítik a válságot</title>
-      <link>https://maszol.ro/belfold/Dontott-a-PSD-a-Muresan-kormanyrol-a-PNL-szerint-tovabb-melyitik-a-valsagot</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Dontott-a-PSD-a-Muresan-kormanyrol-a-PNL-szerint-tovabb-melyitik-a-valsagot</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/21/cikk_800239299_996086193517756_7883438254114026704_n.jpg" /><br/>Döntött a PSD a Mureșan-kormányról, a PNL szerint tovább mélyítik a válságot]]></description>
-      <pubDate>Mon, 21 Sep 2026 19:52:45 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_szeptember/21/cikk_800239299_996086193517756_7883438254114026704_n.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_szeptember/21/cikk_800239299_996086193517756_7883438254114026704_n.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Kisebb a gáztartalék a tavalyinál, de az El Nino besegíthet</title>
-      <link>https://maszol.ro/gazdasag/Kisebb-a-gaztartalek-a-tavalyinal-de-az-El-Nino-besegithet</link>
-      <guid isPermaLink="true">https://maszol.ro/gazdasag/Kisebb-a-gaztartalek-a-tavalyinal-de-az-El-Nino-besegithet</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/21/cikksmall_200528_gaz_gazvezetek_maramaros_megyei_tanacs.jpg" /><br/>Kisebb a gáztartalék a tavalyinál, de az El Nino besegíthet]]></description>
-      <pubDate>Mon, 21 Sep 2026 19:52:45 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_szeptember/21/cikksmall_200528_gaz_gazvezetek_maramaros_megyei_tanacs.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_szeptember/21/cikksmall_200528_gaz_gazvezetek_maramaros_megyei_tanacs.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Sokkoló felfedezés Slatinán: A pandémiában elhunytak holttesteit találták meg zsákokban (VIDEÓ)</title>
-      <link>https://maszol.ro/belfold/Sokkolo-felfedezes-Slatinan-A-pandemiaban-elhunytak-holttesteit-talaltak-meg-zsakokban-VIDEO</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Sokkolo-felfedezes-Slatinan-A-pandemiaban-elhunytak-holttesteit-talaltak-meg-zsakokban-VIDEO</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/21/cikksmall_temeto_slatina_kepernomentes.jpg" /><br/>Sokkoló felfedezés Slatinán: A pandémiában elhunytak holttesteit találták meg zsákokban (VIDEÓ)]]></description>
-      <pubDate>Mon, 21 Sep 2026 19:52:45 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_szeptember/21/cikksmall_temeto_slatina_kepernomentes.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_szeptember/21/cikksmall_temeto_slatina_kepernomentes.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
