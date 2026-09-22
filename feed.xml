@@ -5,9 +5,31 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Mon, 21 Sep 2026 23:51:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 03:36:43 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Szeszélyes elegancia</title>
+      <link>https://hargitanepe.ro/a-jo-palinkahoz-tokeletes-kemia-kell-2026-07-21</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/a-jo-palinkahoz-tokeletes-kemia-kell-2026-07-21</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1784621283_1_gabor_sz_szeszely_lfcs-1-_web.jpg" /><br/>Szeszélyes elegancia]]></description>
+      <pubDate>Tue, 22 Sep 2026 03:36:43 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1784621283_1_gabor_sz_szeszely_lfcs-1-_web.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1784621283_1_gabor_sz_szeszely_lfcs-1-_web.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Beszélgetés dr. Heltai Miklóssal, a Magyar Agrár- és Élettudományi Egyetem Vadgazdálkodási és Természetvédelmi Intézetének igazgatójával</title>
+      <link>https://hargitanepe.ro/amikor-a-vadon-elo-allat-varosi-szomszedda-valik</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/amikor-a-vadon-elo-allat-varosi-szomszedda-valik</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1788346809_1_drHeltaiMiklos_lfcs-7-_cm.jpg" /><br/>Beszélgetés dr. Heltai Miklóssal, a Magyar Agrár- és Élettudományi Egyetem Vadgazdálkodási és Természetvédelmi Intézetének igazgatójával]]></description>
+      <pubDate>Tue, 22 Sep 2026 03:36:43 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1788346809_1_drHeltaiMiklos_lfcs-7-_cm.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1788346809_1_drHeltaiMiklos_lfcs-7-_cm.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] A világirodalom híres nyitómondatai</title>
       <link>https://hargitanepe.ro/csaladi</link>
@@ -425,28 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_szeptember/21/cikksmall_agerpres_19653487.jpg" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_szeptember/21/cikksmall_agerpres_19653487.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Nagytakarítás Kézdivásárhelyen és Csernátonban: több száz diák húzott kesztyűt</title>
-      <link>https://maszol.ro/belfold/Nagytakaritas-Kezdivasarhelyen-es-Csernatonban-tobb-szaz-diak-huzott-kesztyut</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Nagytakaritas-Kezdivasarhelyen-es-Csernatonban-tobb-szaz-diak-huzott-kesztyut</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/21/cikksmall_letsdoit_(2).jpg" /><br/>Nagytakarítás Kézdivásárhelyen és Csernátonban: több száz diák húzott kesztyűt]]></description>
-      <pubDate>Mon, 21 Sep 2026 19:52:45 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_szeptember/21/cikksmall_letsdoit_(2).jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_szeptember/21/cikksmall_letsdoit_(2).jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Két erdélyi színész is elnyerte a Színikritikusok Díját</title>
-      <link>https://maszol.ro/kultura/Ket-erdelyi-szinesz-is-elnyerte-a-Szinikritikusok-Dijat</link>
-      <guid isPermaLink="true">https://maszol.ro/kultura/Ket-erdelyi-szinesz-is-elnyerte-a-Szinikritikusok-Dijat</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/21/cikksmall_Konya_Bence.png" /><br/>Két erdélyi színész is elnyerte a Színikritikusok Díját]]></description>
-      <pubDate>Mon, 21 Sep 2026 19:52:45 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_szeptember/21/cikksmall_Konya_Bence.png" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_szeptember/21/cikksmall_Konya_Bence.png" type="image/png" length="0"/>
     </item>
   </channel>
 </rss>
