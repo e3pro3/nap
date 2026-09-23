@@ -5,9 +5,20 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Tue, 22 Sep 2026 23:32:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 03:36:24 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Új szabályok az építkezésben</title>
+      <link>https://hargitanepe.ro/mit-hoz-hargita-megyenek-az-uj-urbanisztikai-kodex</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/mit-hoz-hargita-megyenek-az-uj-urbanisztikai-kodex</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1789115180_1_ujszabalyozasok1_web.jpg" /><br/>Új szabályok az építkezésben]]></description>
+      <pubDate>Wed, 23 Sep 2026 03:36:23 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1789115180_1_ujszabalyozasok1_web.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1789115180_1_ujszabalyozasok1_web.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Életmentő gépekre gyűjtenek támogatást</title>
       <link>https://hargitanepe.ro/defibrillatorokat-az-iskolakba</link>
@@ -436,17 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_szeptember/22/cikksmall_dragulas_aremelkedes_gazdasag_vasarloero_chatgpt.png" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_szeptember/22/cikksmall_dragulas_aremelkedes_gazdasag_vasarloero_chatgpt.png" type="image/png" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Újabb őrizetbevétel a gazdatüntetés nyomán</title>
-      <link>https://maszol.ro/belfold/Ujabb-orizetbevetel-a-gazdatuntetes-nyoman</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Ujabb-orizetbevetel-a-gazdatuntetes-nyoman</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/22/cikksmall_juhaszok_tuntetes_juhtenyesztok_bukarest_victoriei_agerpres_2026_09_15.jpg" /><br/>Újabb őrizetbevétel a gazdatüntetés nyomán]]></description>
-      <pubDate>Tue, 22 Sep 2026 16:23:48 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_szeptember/22/cikksmall_juhaszok_tuntetes_juhtenyesztok_bukarest_victoriei_agerpres_2026_09_15.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_szeptember/22/cikksmall_juhaszok_tuntetes_juhtenyesztok_bukarest_victoriei_agerpres_2026_09_15.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
