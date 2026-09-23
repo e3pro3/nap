@@ -1,5 +1,86 @@
 [
   {
+    "title": "[Hargita Népe] Blöff",
+    "link": "https://hargitanepe.ro/bloff-2026-09-22",
+    "description": "Blöff",
+    "image": "https://hargitanepe.ro/images/data/423x222/1790078674_0_szekeres_UJ_piroska.jpg",
+    "published": "2026-09-23T16:14:03.569590+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Változások Székelyudvarhely központjában",
+    "link": "https://hargitanepe.ro/nincs-tourinfo-lebontottak-a-bodet",
+    "description": "Változások Székelyudvarhely központjában",
+    "image": "https://hargitanepe.ro/images/data/423x222/1790105466_0_lebontotttourinfobode_hi01_web.jpg",
+    "published": "2026-09-23T16:14:03.569496+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Vigyáznak Szejkefürdő ékére",
+    "link": "https://hargitanepe.ro/harom-szekelykaput-restauraltak",
+    "description": "Vigyáznak Szejkefürdő ékére",
+    "image": "https://hargitanepe.ro/images/data/423x222/1790145293_0_szekelykapu_FB_web.jpg",
+    "published": "2026-09-23T16:14:03.569387+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Terelőutakat jelöltek ki",
+    "link": "https://hargitanepe.ro/hirek/friss/leszakadt-a-tatros-hid-csobanoson",
+    "description": "Terelőutakat jelöltek ki",
+    "image": "https://hargitanepe.ro/images/data/423x222/1790159533_1_hid_leszakadt_isuj_bacau_fb1.jfif",
+    "published": "2026-09-23T16:14:03.569132+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] VIII. Őszi Orgonamuzsika koncertsorozat",
+    "link": "https://hargitanepe.ro/hirek/udvarhelyszek/megismertetik-udvarhelyszek-szepen-szolo-orgonait",
+    "description": "VIII. Őszi Orgonamuzsika koncertsorozat",
+    "image": "https://hargitanepe.ro/images/data/423x222/1790155301_0_osziorgonamuzsika_hi01_web.jpg",
+    "published": "2026-09-23T16:14:03.569024+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Társadalmi egyenjogúság és elismerés",
+    "link": "https://hargitanepe.ro/hirek/szines/ma-van-a-jelnyelv-nemzetkozi-napja",
+    "description": "Társadalmi egyenjogúság és elismerés",
+    "image": "https://hargitanepe.ro/images/data/423x222/1790156938_0_9_magazin_jelnyelv_magnific1_szept_23.jpg",
+    "published": "2026-09-23T16:14:03.568957+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Munkaerőpiaci körkép",
+    "link": "https://hargitanepe.ro/hirek/hargita-megye/konnyebben-talalnak-allast-a-varosiak",
+    "description": "Munkaerőpiaci körkép",
+    "image": "https://hargitanepe.ro/images/data/423x222/1790154754_0_sommerhivatal_lfcs-3-_web.jpg",
+    "published": "2026-09-23T16:14:03.568890+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Üzemanyagárak az Európai Unióban",
+    "link": "https://hargitanepe.ro/hirek/orszag-vilag/csak-a-spanyoloknal-dragult-jobban",
+    "description": "Üzemanyagárak az Európai Unióban",
+    "image": "https://hargitanepe.ro/images/data/423x222/1785225782_0_10_uzemanyag_dragulas_ilusztr_lfcs-1-_web.jpg",
+    "published": "2026-09-23T16:14:03.568819+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Cu drag Nelu",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/szeredai-bedekker-rendkivul-fiatalon-szuletett-noi-szobrasszal",
+    "description": "Mint már hírül adtuk, Bálint András-díjban részesült lapunk munkatársa, Para István karikaturista. Az alábbiakban a díjátadás alkalmával elhangzott méltatás szerkesztett változatát olvashatjuk.",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1790157367_0_BalintAndras_dij_lfcs-5-_web.jpg",
+    "published": "2026-09-23T16:14:03.568683+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] Helyi értékek, régi házak",
     "link": "https://hargitanepe.ro/uj-eselyt-kaphat-az-epitett-orokseg",
     "description": "Helyi értékek, régi házak",
@@ -1013,105 +1094,6 @@
     "description": "A kudzsíri asszony 111 évet élt",
     "image": "https://hargitanepe.ro/images/data/1200x630/1789715949_0_1.jpeg",
     "published": "2026-09-18T20:29:48.726822+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Román tesztgyűjteményt kapnak a magyar diákok",
-    "link": "https://hargitanepe.ro/roman-tesztgyujtemenyt-kapnak-a-magyar-diakok-2026-09-18",
-    "description": "Román tesztgyűjteményt kapnak a magyar diákok",
-    "image": "https://hargitanepe.ro/images/data/423x222/1789712950_0_rmdsztanszerek_rmdsz_web.jpg",
-    "published": "2026-09-18T15:56:31.237364+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Óvatosságra intenek a tűzoltók",
-    "link": "https://hargitanepe.ro/benzinnel-akart-begyujtani-sulyosan-megserult-egy-ferfi",
-    "description": "Óvatosságra intenek a tűzoltók",
-    "image": "https://hargitanepe.ro/images/data/423x222/1728116445_Veres",
-    "published": "2026-09-18T15:56:31.237249+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Mária-út Csíksomlyó  és Máriapócs között",
-    "link": "https://hargitanepe.ro/maria-ut-csiksomlyo-es-mariapocs-kozott-2026-09-18",
-    "description": "Mária-út Csíksomlyó  és Máriapócs között",
-    "image": "https://hargitanepe.ro/images/data/423x222/1753182404_Mariaszobor_szentmarton_lfcs(1).jpg",
-    "published": "2026-09-18T15:56:31.237187+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Rangos elismerés a Figura Stúdió Színház tagjának",
-    "link": "https://hargitanepe.ro/bartha-borokae-a-kaszas-attila-dij",
-    "description": "Rangos elismerés a Figura Stúdió Színház tagjának",
-    "image": "https://hargitanepe.ro/images/data/423x222/1789723298_0_barthaboroka_dij_fb_pkü.jpg",
-    "published": "2026-09-18T15:56:31.237101+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Soron kívüli ülésen döntöttek:",
-    "link": "https://hargitanepe.ro/hirek/hargita-megye/januarig-berli-a-varos-a-marton-aron-kulturalis-kozpont-helyisegeit",
-    "description": "Soron kívüli ülésen döntöttek:",
-    "image": "https://hargitanepe.ro/images/data/423x222/1734609554_csikszeredaiph_vn_008_web.JPG",
-    "published": "2026-09-18T15:56:31.236898+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Nőtt a munkanélküliség a megyében augusztusban",
-    "link": "https://hargitanepe.ro/hirek/hargita-megye/diakokbol-munkanelkuliek-2026-09-18",
-    "description": "Nőtt a munkanélküliség a megyében augusztusban",
-    "image": "https://hargitanepe.ro/images/data/423x222/1709894911_probaerettsegi_HI02.JPG",
-    "published": "2026-09-18T15:56:31.236832+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Nemzetközi kiállítással egybekötve",
-    "link": "https://hargitanepe.ro/hirek/udvarhelyszek/elkezdodott-a-33-szekelyudvarhelyi-oszi-vasar",
-    "description": "Nemzetközi kiállítással egybekötve",
-    "image": "https://hargitanepe.ro/images/data/423x222/1789729581_0_oszivasar_Web_hi08.jpg",
-    "published": "2026-09-18T15:56:31.236765+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Hiába várják a kártérítést, a minisztérium nem tudja tartani a harmincnapos határidőt",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/240-allatot-oltek-meg-iden-a-vadak-2026-09-18",
-    "description": "Hiába várják a kártérítést, a minisztérium nem tudja tartani a harmincnapos határidőt",
-    "image": "https://hargitanepe.ro/images/data/423x222/1789714979_0_06_csikszentsimoni_vadkarok_007_ph_cm.jpg",
-    "published": "2026-09-18T15:56:31.236664+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Para István („Parapista”) és Sükösd Levente részesült elismerésben",
-    "link": "https://hargitanepe.ro/hirek/csikszek/balint-andras-emlekdijakat-adtak-at-csikszeredaban",
-    "description": "Para István („Parapista”) és Sükösd Levente részesült elismerésben",
-    "image": "https://hargitanepe.ro/images/data/423x222/1789734133_10_Balint",
-    "published": "2026-09-18T15:56:31.236600+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Megnevezte miniszterelnök-jelöltjét Nicușor Dan",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/siegfried-muresan-alakithat-kormanyt-2026-09-18",
-    "description": "Megnevezte miniszterelnök-jelöltjét Nicușor Dan",
-    "image": "https://hargitanepe.ro/images/data/423x222/1789714292_0_nicusordan_presidencypontro_2_web.jpg",
-    "published": "2026-09-18T15:56:31.236531+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Szejkefürdői Unitárius Találkozó",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/lathatova-valo-isteni-szeretet-2026-09-18",
-    "description": "„A jó cselekvésben pedig ne fáradjunk el” – a Galatákhoz írt levélből választott bibliai idézet volt a mottója a szeptember 12-én szervezett 27. Szejkefürdői Unitárius Találkozónak. Erdély különböző vidékeiről és Magyarországról mintegy 1200-an érkeztek az egyház hagyományos őszi találkozójára, hogy együtt ünnepeljenek.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1789715261_2_unittalalkozo3_foto_BarabasiOrs_web.jpg",
-    "published": "2026-09-18T15:56:31.236399+00:00",
     "author": "Hargita Népe",
     "category": "Hargita Népe"
   }
