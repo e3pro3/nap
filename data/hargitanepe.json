@@ -1,5 +1,167 @@
 [
   {
+    "title": "[Hargita Népe] Kétnapos fesztivált tartanak",
+    "link": "https://hargitanepe.ro/motorsportparade-csikszeredaban",
+    "description": "Kétnapos fesztivált tartanak",
+    "image": "https://hargitanepe.ro/images/data/423x222/1790230645_0_inczetamas_1.jpg",
+    "published": "2026-09-24T11:12:39.686804+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Alapemberek dőltek ki a magyar válogatottból",
+    "link": "https://hargitanepe.ro/kenyszeru-cserek",
+    "description": "Alapemberek dőltek ki a magyar válogatottból",
+    "image": "https://hargitanepe.ro/images/data/423x222/1790230866_0_fociVargaB_SallaiR.jpeg",
+    "published": "2026-09-24T11:12:39.686738+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Sport röviden (09.24.)",
+    "link": "https://hargitanepe.ro/sport-roviden-0924",
+    "description": "Sport röviden (09.24.)",
+    "image": "https://hargitanepe.ro/images/data/423x222/1781778310_0_sport.jpg",
+    "published": "2026-09-24T11:12:39.686679+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Távozik Szabó István az FK Csíkszereda éléről",
+    "link": "https://hargitanepe.ro/tavozik-szabo-istvan-az-fk-csikszereda-elerol",
+    "description": "Már nem Szabó István irányítja a Szuperligában szereplő FK Csíkszereda felnőtt férficsapatát. A klub tájékoztatása szerint a felek megegyezéssel bontották fel a szerződést.",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1790245285_0_802964873_1694759915985853_203774869057997510_n.jpg",
+    "published": "2026-09-24T11:12:39.686619+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] VIII. Őszi Orgonamuzsika koncertsorozat",
+    "link": "https://hargitanepe.ro/megismertetik-udvarhelyszek-szepen-szolo-orgonait",
+    "description": "VIII. Őszi Orgonamuzsika koncertsorozat",
+    "image": "https://hargitanepe.ro/images/data/423x222/1790155301_0_osziorgonamuzsika_hi01_web.jpg",
+    "published": "2026-09-24T11:12:39.686557+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Társadalmi egyenjogúság és elismerés",
+    "link": "https://hargitanepe.ro/ma-van-a-jelnyelv-nemzetkozi-napja",
+    "description": "Társadalmi egyenjogúság és elismerés",
+    "image": "https://hargitanepe.ro/images/data/423x222/1790156938_0_9_magazin_jelnyelv_magnific1_szept_23.jpg",
+    "published": "2026-09-24T11:12:39.686479+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Cu drag Nelu",
+    "link": "https://hargitanepe.ro/szeredai-bedekker-rendkivul-fiatalon-szuletett-noi-szobrasszal",
+    "description": "Cu drag Nelu",
+    "image": "https://hargitanepe.ro/images/data/423x222/1790157367_0_BalintAndras_dij_lfcs-5-_web.jpg",
+    "published": "2026-09-24T11:12:39.686420+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Üzemanyagárak az Európai Unióban",
+    "link": "https://hargitanepe.ro/csak-a-spanyoloknal-dragult-jobban",
+    "description": "Üzemanyagárak az Európai Unióban",
+    "image": "https://hargitanepe.ro/images/data/423x222/1785225782_0_10_uzemanyag_dragulas_ilusztr_lfcs-1-_web.jpg",
+    "published": "2026-09-24T11:12:39.686362+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Hány éves a házi kedvencünk?",
+    "link": "https://hargitanepe.ro/dns-alapu-keplettel-szamitjak-ki-a-kutyak-valodi-eletkorat-a-tudosok",
+    "description": "Hány éves a házi kedvencünk?",
+    "image": "https://hargitanepe.ro/images/data/423x222/1790158858_0_9_magazin_kutya_dns_magnific1_szept_23.jpg",
+    "published": "2026-09-24T11:12:39.686303+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Kockázat, alkotás, díjak és tudás: Karsai Béla nagyvállalkozóval beszélgettünk",
+    "link": "https://hargitanepe.ro/cegbirodalom-vegvarral-a-szekelyfoldon",
+    "description": "Kockázat, alkotás, díjak és tudás: Karsai Béla nagyvállalkozóval beszélgettünk",
+    "image": "https://hargitanepe.ro/images/data/423x222/1790159331_0_karsaib_web.jpg",
+    "published": "2026-09-24T11:12:39.686243+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Egymást követő három éjszaka is 10 Celsius-fok alatt volt a hőmérséklet",
+    "link": "https://hargitanepe.ro/elinditjak-a-tavfutest-gyergyoszentmikloson",
+    "description": "Egymást követő három éjszaka is 10 Celsius-fok alatt volt a hőmérséklet",
+    "image": "https://hargitanepe.ro/images/data/423x222/1790189363_0_futes_bph_web.jpg",
+    "published": "2026-09-24T11:12:39.686150+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Egyre többet fizetünk tankoláskor",
+    "link": "https://hargitanepe.ro/egyre-tobbet-fizetunk-tankolaskor",
+    "description": "Egyre többet fizetünk tankoláskor",
+    "image": "https://hargitanepe.ro/images/data/423x222/1790189726_0_benzinkutakszeptember_hi06_web.jpg",
+    "published": "2026-09-24T11:12:39.686088+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Kétnapos fesztivált tartanak",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/motorsportparade-csikszeredaban",
+    "description": "Kétnapos fesztivált tartanak",
+    "image": "https://hargitanepe.ro/images/data/423x222/1790230645_0_inczetamas_1.jpg",
+    "published": "2026-09-24T11:12:39.685784+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Alapemberek dőltek ki a magyar válogatottból",
+    "link": "https://hargitanepe.ro/hirek/foci/kenyszeru-cserek",
+    "description": "Alapemberek dőltek ki a magyar válogatottból",
+    "image": "https://hargitanepe.ro/images/data/423x222/1790230866_0_fociVargaB_SallaiR.jpeg",
+    "published": "2026-09-24T11:12:39.685666+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] DR–12: fejlesztési lehetőség fiatal gazdáknak",
+    "link": "https://hargitanepe.ro/hirek/friss/200-ezer-eurora-palyazhatnak",
+    "description": "DR–12: fejlesztési lehetőség fiatal gazdáknak",
+    "image": "https://hargitanepe.ro/images/data/423x222/1790231370_0_pityokaszedes2026_vn_001_web.jpg",
+    "published": "2026-09-24T11:12:39.685600+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Soron kívüli tanácsülés Gyergyószentmiklóson",
+    "link": "https://hargitanepe.ro/hirek/gyergyoszek/digitalizacio-es-zoldenergia",
+    "description": "Soron kívüli tanácsülés Gyergyószentmiklóson",
+    "image": "https://hargitanepe.ro/images/data/423x222/1790240497_0_02_gyergyo_szakorvosokerkezese1_bszszarchiv_cm.jpg",
+    "published": "2026-09-24T11:12:39.685496+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Labdarúgás",
+    "link": "https://hargitanepe.ro/hirek/sport/tavozik-szabo-istvan-az-fk-csikszereda-elerol",
+    "description": "Labdarúgás",
+    "image": "https://hargitanepe.ro/images/data/423x222/1790245285_0_802964873_1694759915985853_203774869057997510_n.jpg",
+    "published": "2026-09-24T11:12:39.685426+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Az élő hagyományokért",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/pedagoguskepzes-vandortanchaz-udvarhelyszeken",
+    "description": "Indul az új évad a Kaszaj Egyesületnél, az Udvarhely Néptáncműhelynél és Erdélyi Hagyományok Háza Alapítványnál. A három székelyudvarhelyi kulturális szervezetnek egy a célja: minél több gyermeknek, fiatalnak és felnőttnek színvonalas hagyományos népi programot kínálni a hangszeres képzéstől a táncoktatásig.",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1790231721_0_tancmuhelysajtaj_hi01_web.jpg",
+    "published": "2026-09-24T11:12:39.685296+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] Belsőépítészeti alapelvek, amelyek hosszú távon is működnek",
     "link": "https://hargitanepe.ro/belsoepiteszeti-alapelvek-amelyek-hosszu-tavon-is-mukodnek",
     "description": "Egy lakás lehet divatos, mégsem biztos, hogy otthonos. Lehet benne gyönyörű kanapé, különleges lámpa, látványos burkolat és gondosan kiválasztott dekoráció, mégis hiányozhat belőle valami nehezen megfogható: az érzés, hogy jó benne élni. A jó belső tér ugyanis nem pusztán szép tárgyak egymás mellé rendezett együttese. Sokkal inkább arról szól, hogyan kapcsolódik egymáshoz a tér, a fény, a színek, az anyagok és – mindenekelőtt – az ott élő ember.",
