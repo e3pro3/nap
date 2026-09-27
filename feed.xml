@@ -5,9 +5,152 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Sun, 27 Sep 2026 11:30:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 16:30:46 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Egy értékes hagyaték története</title>
+      <link>https://hargitanepe.ro/egy-ertekes-hagyatek-tortenete</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/egy-ertekes-hagyatek-tortenete</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/1200x630/1790250057_0_cimlapra.jpeg" /><br/>A kápolnásfalusi tájház ajtaján belépve nem egyszerűen egy régi parasztházba érkezik a látogató: a háromosztatú épületben egymás mellett sorakoznak azok a tárgyak, amelyek egykor a falu mindennapjaihoz tartoztak: kelengyésládák, szőttesek, régi padok, faedények, szövéshez használt eszközök. A ház maga is része a gyűjteménynek, hiszen pontosan olyan épület, amilyenben ezek a tárgyak egykor használatban voltak.]]></description>
+      <pubDate>Sun, 27 Sep 2026 16:30:46 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/1200x630/1790250057_0_cimlapra.jpeg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/1200x630/1790250057_0_cimlapra.jpeg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Közelképben Bözödújfalu története</title>
+      <link>https://hargitanepe.ro/hirek/kiemelt/elsullyedt-mult-arado-emlekezet</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/hirek/kiemelt/elsullyedt-mult-arado-emlekezet</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1790327826_0_bozod_MatheRobert_foto.png" /><br/>Közelképben Bözödújfalu története]]></description>
+      <pubDate>Sun, 27 Sep 2026 16:30:46 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1790327826_0_bozod_MatheRobert_foto.png" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1790327826_0_bozod_MatheRobert_foto.png" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Kápolnásfalu tájháza</title>
+      <link>https://hargitanepe.ro/hirek/porta/egy-ertekes-hagyatek-tortenete</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/hirek/porta/egy-ertekes-hagyatek-tortenete</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/1200x630/1790250057_0_cimlapra.jpeg" /><br/>A kápolnásfalusi tájház ajtaján belépve nem egyszerűen egy régi parasztházba érkezik a látogató: a háromosztatú épületben egymás mellett sorakoznak azok a tárgyak, amelyek egykor a falu mindennapjaihoz tartoztak: kelengyésládák, szőttesek, régi padok, faedények, szövéshez használt eszközök. A ház maga is része a gyűjteménynek, hiszen pontosan olyan épület, amilyenben ezek a tárgyak egykor használatban voltak.]]></description>
+      <pubDate>Sun, 27 Sep 2026 16:30:46 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/1200x630/1790250057_0_cimlapra.jpeg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/1200x630/1790250057_0_cimlapra.jpeg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Viharos széllel indul a hét – Több megyére érvényes figyelmeztetés</title>
+      <link>https://maszol.ro/belfold/Viharos-szellel-indul-a-het-Tobb-megyere-ervenyes-figyelmeztetes</link>
+      <guid isPermaLink="true">https://maszol.ro/belfold/Viharos-szellel-indul-a-het-Tobb-megyere-ervenyes-figyelmeztetes</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/27/cikk_pexels-peter-kovesi-421914941-15211414.jpg" /><br/>Viharos széllel indul a hét – Több megyére érvényes figyelmeztetés]]></description>
+      <pubDate>Sun, 27 Sep 2026 16:30:44 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_szeptember/27/cikk_pexels-peter-kovesi-421914941-15211414.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_szeptember/27/cikk_pexels-peter-kovesi-421914941-15211414.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Leégett egy háztáji melléképület nagy része Alsóboldogfalván</title>
+      <link>https://maszol.ro/belfold/Leegett-egy-haztaji-mellekepulet-nagy-resze-Alsoboldogfalvan</link>
+      <guid isPermaLink="true">https://maszol.ro/belfold/Leegett-egy-haztaji-mellekepulet-nagy-resze-Alsoboldogfalvan</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/27/cikk_tuzeset.png" /><br/>Leégett egy háztáji melléképület nagy része Alsóboldogfalván]]></description>
+      <pubDate>Sun, 27 Sep 2026 16:30:44 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_szeptember/27/cikk_tuzeset.png" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_szeptember/27/cikk_tuzeset.png" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Nyugdíjas vámpírok, Johnny Depp és vegytiszta rocktörténelem az örömzenélés jegyében – Budapesten koncertezett a Hollywood Vampires</title>
+      <link>https://maszol.ro/kultura/Nyugdijas-vampirok-Johnny-Depp-es-vegytiszta-rocktortenelem-az-oromzeneles-jegyeben-Budapesten-koncertezett-a-Hollywood-Vampires</link>
+      <guid isPermaLink="true">https://maszol.ro/kultura/Nyugdijas-vampirok-Johnny-Depp-es-vegytiszta-rocktortenelem-az-oromzeneles-jegyeben-Budapesten-koncertezett-a-Hollywood-Vampires</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/27/cikksmall_Hollywood_Vampires.png" /><br/>Nyugdíjas vámpírok, Johnny Depp és vegytiszta rocktörténelem az örömzenélés jegyében – Budapesten koncertezett a Hollywood Vampires]]></description>
+      <pubDate>Sun, 27 Sep 2026 16:30:44 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_szeptember/27/cikksmall_Hollywood_Vampires.png" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_szeptember/27/cikksmall_Hollywood_Vampires.png" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Személyre szóló levélben vázolta Siegfried Mureșan, mit vár el miniszterjelöltjeitől</title>
+      <link>https://maszol.ro/belfold/Szemelyre-szolo-levelben-vazolta-Siegfried-Muresan-mit-var-el-miniszterjeloltjeitol</link>
+      <guid isPermaLink="true">https://maszol.ro/belfold/Szemelyre-szolo-levelben-vazolta-Siegfried-Muresan-mit-var-el-miniszterjeloltjeitol</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/27/cikksmall_siegfried_muresan_260919_agerpres_(2).jpg" /><br/>Személyre szóló levélben vázolta Siegfried Mureșan, mit vár el miniszterjelöltjeitől]]></description>
+      <pubDate>Sun, 27 Sep 2026 16:30:44 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_szeptember/27/cikksmall_siegfried_muresan_260919_agerpres_(2).jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_szeptember/27/cikksmall_siegfried_muresan_260919_agerpres_(2).jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] XIV. Leó pápa: Folytatni kell a szexuális erőszak elleni küzdelmet az egyházban</title>
+      <link>https://maszol.ro/kulfold/XIV-Leo-papa-Folytatni-kell-a-szexualis-eroszak-elleni-kuzdelmet-az-egyhazban</link>
+      <guid isPermaLink="true">https://maszol.ro/kulfold/XIV-Leo-papa-Folytatni-kell-a-szexualis-eroszak-elleni-kuzdelmet-az-egyhazban</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/27/cikksmall_papalatogatas.png" /><br/>XIV. Leó pápa: Folytatni kell a szexuális erőszak elleni küzdelmet az egyházban]]></description>
+      <pubDate>Sun, 27 Sep 2026 16:30:44 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_szeptember/27/cikksmall_papalatogatas.png" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_szeptember/27/cikksmall_papalatogatas.png" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Fiatal tehetségek vették birtokba a színpadot Kézdivásárhelyen</title>
+      <link>https://maszol.ro/kultura/Fiatal-tehetsegek-vettek-birtokba-a-szinpadot-Kezdivasarhelyen</link>
+      <guid isPermaLink="true">https://maszol.ro/kultura/Fiatal-tehetsegek-vettek-birtokba-a-szinpadot-Kezdivasarhelyen</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/27/cikksmall_04szinpadra.jpg" /><br/>Fiatal tehetségek vették birtokba a színpadot Kézdivásárhelyen]]></description>
+      <pubDate>Sun, 27 Sep 2026 16:30:44 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_szeptember/27/cikksmall_04szinpadra.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_szeptember/27/cikksmall_04szinpadra.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Vodkát ivott egy italboltban, majd álomra szenderült a dobozokon egy majom Indiában</title>
+      <link>https://maszol.ro/kulfold/Vodkat-ivott-egy-italboltban-majd-alomra-szenderult-a-dobozokon-egy-majom-Indiaban</link>
+      <guid isPermaLink="true">https://maszol.ro/kulfold/Vodkat-ivott-egy-italboltban-majd-alomra-szenderult-a-dobozokon-egy-majom-Indiaban</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/27/cikksmall_reszeg_majom.png" /><br/>Vodkát ivott egy italboltban, majd álomra szenderült a dobozokon egy majom Indiában]]></description>
+      <pubDate>Sun, 27 Sep 2026 16:30:44 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_szeptember/27/cikksmall_reszeg_majom.png" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_szeptember/27/cikksmall_reszeg_majom.png" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Szalmaszálon őrzött hagyomány – Beszélgetés Bondár Hajnalka nagyszalontai kézműves-oktatóval</title>
+      <link>https://maszol.ro/eletmod/Szalmaszalon-orzott-hagyomany-Beszelgetes-Bondar-Hajnalka-nagyszalontai-kezmuves-oktatoval</link>
+      <guid isPermaLink="true">https://maszol.ro/eletmod/Szalmaszalon-orzott-hagyomany-Beszelgetes-Bondar-Hajnalka-nagyszalontai-kezmuves-oktatoval</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/24/cikk_Szalmaszal-4.jpg" /><br/>Szalmaszálon őrzött hagyomány – Beszélgetés Bondár Hajnalka nagyszalontai kézműves-oktatóval]]></description>
+      <pubDate>Sun, 27 Sep 2026 16:30:44 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_szeptember/24/cikk_Szalmaszal-4.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_szeptember/24/cikk_Szalmaszal-4.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] „A gonoszságnak és a jóságnak sincs nemzetisége” – Emlékezés a gyantai mészárlás áldozataira</title>
+      <link>https://maszol.ro/kultura/A-gonoszsagnak-es-a-josagnak-sincs-nemzetisege-Emlekezes-a-gyantai-meszarlas-aldozataira</link>
+      <guid isPermaLink="true">https://maszol.ro/kultura/A-gonoszsagnak-es-a-josagnak-sincs-nemzetisege-Emlekezes-a-gyantai-meszarlas-aldozataira</guid>
+      <description><![CDATA[<img src="https://maszol.ro/uploads/2026_szeptember/27/2026_09_27_Gyanta_megemlekezes_Foto_Borsi_Balazs-12.jpg" /><br/>„A gonoszságnak és a jóságnak sincs nemzetisége” – Emlékezés a gyantai mészárlás áldozataira]]></description>
+      <pubDate>Sun, 27 Sep 2026 16:30:44 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/uploads/2026_szeptember/27/2026_09_27_Gyanta_megemlekezes_Foto_Borsi_Balazs-12.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/uploads/2026_szeptember/27/2026_09_27_Gyanta_megemlekezes_Foto_Borsi_Balazs-12.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Újjászületett Sólyomkő-vár: uniós pénzből restaurálták az erdélyi fejedelmek bihari sasfészkét</title>
+      <link>https://maszol.ro/kultura/Ujjaszuletett-Solyomko-var-unios-penzbol-restauraltak-az-erdelyi-fejedelmek-bihari-sasfeszket</link>
+      <guid isPermaLink="true">https://maszol.ro/kultura/Ujjaszuletett-Solyomko-var-unios-penzbol-restauraltak-az-erdelyi-fejedelmek-bihari-sasfeszket</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/24/cikk_var1_PZ.jpg" /><br/>Több erdélyi fejedelemnek is a tulajdonában volt, a Habsburgok rombolták le, 2,1 millió eurós beruházással született újjá.]]></description>
+      <pubDate>Sun, 27 Sep 2026 16:30:44 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_szeptember/24/cikk_var1_PZ.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_szeptember/24/cikk_var1_PZ.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Bárányhátszín mustáros-kakukkfüves szósszal</title>
       <link>https://szekelykonyhaeskert.ro/recept/1841-baranyhatszin-mustaros-kakukkfuves-szosszal</link>
@@ -304,149 +447,6 @@
       <author>Hargita Népe</author>
       <media:content url="https://hargitanepe.ro/images/data/1200x630/1790249751_0_martonildiko2.jpg" medium="image"/>
       <enclosure url="https://hargitanepe.ro/images/data/1200x630/1790249751_0_martonildiko2.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Építészet, természet, közösség és közös alkotás találkozott</title>
-      <link>https://hargitanepe.ro/hirek/porta/negy-tabor-sok-tapasztalat</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/hirek/porta/negy-tabor-sok-tapasztalat</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/1200x630/1790249751_0_martonildiko2.jpg" /><br/>Mi történik, amikor egy építőtábor története beköltözik egy fesztiválra? Új emberek, új kérdések és új nézőpontok találkoznak – miközben kiderül, hogy az építészet iránti érdeklődés messze túlmutat az egyetemi stúdiókon és a tervrajzokon.]]></description>
-      <pubDate>Sat, 26 Sep 2026 15:54:33 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/1200x630/1790249751_0_martonildiko2.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/1200x630/1790249751_0_martonildiko2.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Szerdán dől el a Mureșan-kormány sorsa</title>
-      <link>https://maszol.ro/belfold/Szerdan-dol-el-a-Muresan-kormany-sorsa</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Szerdan-dol-el-a-Muresan-kormany-sorsa</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/26/cikk_parlament_agerpres_1.jpg" /><br/>Szerdán dől el a Mureșan-kormány sorsa]]></description>
-      <pubDate>Sat, 26 Sep 2026 15:54:31 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_szeptember/26/cikk_parlament_agerpres_1.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_szeptember/26/cikk_parlament_agerpres_1.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Számít a PSD szavazataira Siegfried Mureșan</title>
-      <link>https://maszol.ro/belfold/Szamit-a-PSD-szavazataira-Siegfried-Muresan</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Szamit-a-PSD-szavazataira-Siegfried-Muresan</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/26/cikk_Siegfried_Muresan_3.jpg" /><br/>Számít a PSD szavazataira Siegfried Mureșan]]></description>
-      <pubDate>Sat, 26 Sep 2026 15:54:31 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_szeptember/26/cikk_Siegfried_Muresan_3.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_szeptember/26/cikk_Siegfried_Muresan_3.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] RMDSZ: az új kormányban is kiállunk a magyar közösség jogaiért</title>
-      <link>https://maszol.ro/belfold/RMDSZ-az-uj-kormanyban-is-kiallunk-a-magyar-kozosseg-jogaiert</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/RMDSZ-az-uj-kormanyban-is-kiallunk-a-magyar-kozosseg-jogaiert</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/26/cikksmall_tanczos_Facebook_Tanczos_Barna.jpg" /><br/>RMDSZ: az új kormányban is kiállunk a magyar közösség jogaiért]]></description>
-      <pubDate>Sat, 26 Sep 2026 15:54:31 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_szeptember/26/cikksmall_tanczos_Facebook_Tanczos_Barna.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_szeptember/26/cikksmall_tanczos_Facebook_Tanczos_Barna.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Sokat faragtunk le a költségvetési hiányból</title>
-      <link>https://maszol.ro/gazdasag/Sokat-faragtunk-le-a-koltsegvetesi-hianybol</link>
-      <guid isPermaLink="true">https://maszol.ro/gazdasag/Sokat-faragtunk-le-a-koltsegvetesi-hianybol</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/26/cikksmall_deficit_pexels.jpg" /><br/>Sokat faragtunk le a költségvetési hiányból]]></description>
-      <pubDate>Sat, 26 Sep 2026 15:54:31 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_szeptember/26/cikksmall_deficit_pexels.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_szeptember/26/cikksmall_deficit_pexels.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Magyarországi fesztiválon szerepel a Kolozsvári Állami Magyar Színház</title>
-      <link>https://maszol.ro/kultura/Magyarorszagi-fesztivalon-szerepel-a-Kolozsvari-Allami-Magyar-Szinhaz</link>
-      <guid isPermaLink="true">https://maszol.ro/kultura/Magyarorszagi-fesztivalon-szerepel-a-Kolozsvari-Allami-Magyar-Szinhaz</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/26/cikksmall_Abigel_Facebook_KAMSZ.jpg" /><br/>Magyarországi fesztiválon szerepel a Kolozsvári Állami Magyar Színház]]></description>
-      <pubDate>Sat, 26 Sep 2026 15:54:31 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_szeptember/26/cikksmall_Abigel_Facebook_KAMSZ.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_szeptember/26/cikksmall_Abigel_Facebook_KAMSZ.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] A gyermekeknek a mesterséges intelligenciával szembeni megóvására szólított fel a pápa</title>
-      <link>https://maszol.ro/kulfold/A-gyermekeknek-a-mesterseges-intelligenciaval-szembeni-megovasara-szolitott-fel-a-papa</link>
-      <guid isPermaLink="true">https://maszol.ro/kulfold/A-gyermekeknek-a-mesterseges-intelligenciaval-szembeni-megovasara-szolitott-fel-a-papa</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/26/cikksmall_papa_Facebook_Vatican_News.jpg" /><br/>A gyermekeknek a mesterséges intelligenciával szembeni megóvására szólított fel a pápa]]></description>
-      <pubDate>Sat, 26 Sep 2026 15:54:31 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_szeptember/26/cikksmall_papa_Facebook_Vatican_News.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_szeptember/26/cikksmall_papa_Facebook_Vatican_News.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Miért hisszük el a leghajmeresztőbb rémhíreket? – Szociológus a városi legendákról és tévhitekről</title>
-      <link>https://maszol.ro/belfold/Miert-hisszuk-el-a-leghajmeresztobb-remhireket-Szociologus-a-varosi-legendakroles-tevhitekrol</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Miert-hisszuk-el-a-leghajmeresztobb-remhireket-Szociologus-a-varosi-legendakroles-tevhitekrol</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/18/cikk_remhir_Pexels.jpg" /><br/>Miért hisszük el a leghajmeresztőbb rémhíreket? – Szociológus a városi legendákról és tévhitekről]]></description>
-      <pubDate>Sat, 26 Sep 2026 15:54:31 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_szeptember/18/cikk_remhir_Pexels.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_szeptember/18/cikk_remhir_Pexels.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Egy ház történetét nem feltétlenül kell újraírni</title>
-      <link>https://hargitanepe.ro/seta-kottmayer-tiborral-az-abasfalvi-horvath-es-gergely-haz-kozott</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/seta-kottmayer-tiborral-az-abasfalvi-horvath-es-gergely-haz-kozott</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1787656319_1_kottmayertibor.jpeg" /><br/>Egy ház történetét nem feltétlenül kell újraírni]]></description>
-      <pubDate>Sat, 26 Sep 2026 10:54:44 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1787656319_1_kottmayertibor.jpeg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1787656319_1_kottmayertibor.jpeg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] A Romániai Katolikus Püspöki Konferencia őszi ülése</title>
-      <link>https://hargitanepe.ro/egyutt-az-egyhaz-jovojerol</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/egyutt-az-egyhaz-jovojerol</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1790322442_0_torony_puspokikonferencia_foto_Costin" /><br/>A Romániai Katolikus Püspöki Konferencia őszi ülése]]></description>
-      <pubDate>Sat, 26 Sep 2026 10:54:44 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1790322442_0_torony_puspokikonferencia_foto_Costin" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1790322442_0_torony_puspokikonferencia_foto_Costin" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Előnyösebb, egészségesebb</title>
-      <link>https://hargitanepe.ro/hirek/kiemelt/gyumolcsfacsemetek-ultetese-osszel</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/hirek/kiemelt/gyumolcsfacsemetek-ultetese-osszel</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/1200x630/1790324995_1_felido_magnific.jpg" /><br/>A gyümölcsfák telepítésénél nemcsak az számít, milyen fajtát választunk, hanem az is, hogy mikor kerül a csemete a földbe. Íme a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara ajánlásai.]]></description>
-      <pubDate>Sat, 26 Sep 2026 10:54:44 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/1200x630/1790324995_1_felido_magnific.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/1200x630/1790324995_1_felido_magnific.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Benyújtották a parlamentnek a Mureșan-kormány programját</title>
-      <link>https://maszol.ro/belfold/Benyujtottak-a-parlamentnek-a-Muresan-kormany-programjat</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Benyujtottak-a-parlamentnek-a-Muresan-kormany-programjat</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/26/cikk_Muresan_Facebook_Siegfried_Muresan.jpg" /><br/>Benyújtották a parlamentnek a Mureșan-kormány programját]]></description>
-      <pubDate>Sat, 26 Sep 2026 10:54:41 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_szeptember/26/cikk_Muresan_Facebook_Siegfried_Muresan.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_szeptember/26/cikk_Muresan_Facebook_Siegfried_Muresan.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Újabb lépés a családon belüli erőszak áldozatainak támogatásáért: Maros megye is csatlakozik a VENUS II országos programhoz (X)</title>
-      <link>https://maszol.ro/belfold/Ujabb-lepes-a-csaladon-beluli-eroszak-aldozatainak-tamogatasaert-Maros-megye-is-csatlakozik-a-VENUS-II-orszagos-programhoz-X</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Ujabb-lepes-a-csaladon-beluli-eroszak-aldozatainak-tamogatasaert-Maros-megye-is-csatlakozik-a-VENUS-II-orszagos-programhoz-X</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/25/cikk_BSS_8935_(1).jpg" /><br/>Újabb lépés a családon belüli erőszak áldozatainak támogatásáért: Maros megye is csatlakozik a VENUS II országos programhoz (X)]]></description>
-      <pubDate>Sat, 26 Sep 2026 10:54:41 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_szeptember/25/cikk_BSS_8935_(1).jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_szeptember/25/cikk_BSS_8935_(1).jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
