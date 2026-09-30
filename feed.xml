@@ -5,9 +5,20 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Tue, 29 Sep 2026 19:48:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 00:04:50 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Maszol] Sikkasztást gyanúja egy erdélyi jótékonysági egyesületnél</title>
+      <link>https://maszol.ro/belfold/Sikkasztast-gyanuja-egy-erdelyi-jotekonysagi-egyesuletnel</link>
+      <guid isPermaLink="true">https://maszol.ro/belfold/Sikkasztast-gyanuja-egy-erdelyi-jotekonysagi-egyesuletnel</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/24/cikksmall_police-4566193_1280.jpg" /><br/>Sikkasztást gyanúja egy erdélyi jótékonysági egyesületnél]]></description>
+      <pubDate>Wed, 30 Sep 2026 00:04:47 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_szeptember/24/cikksmall_police-4566193_1280.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_szeptember/24/cikksmall_police-4566193_1280.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Nem a trendektől lesz otthon az otthon</title>
       <link>https://hargitanepe.ro/belsoepiteszeti-alapelvek-amelyek-hosszu-tavon-is-mukodnek</link>
@@ -436,17 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_szeptember/29/cikksmall_apa_lanya_gyermek_Pexels.jpg" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_szeptember/29/cikksmall_apa_lanya_gyermek_Pexels.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Negyed évszázadot ünnepel a Sapientia Marosvásárhelyen</title>
-      <link>https://maszol.ro/belfold/Negyed-evszazadot-unnepel-a-Sapientia-Marosvasarhelyen</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Negyed-evszazadot-unnepel-a-Sapientia-Marosvasarhelyen</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/29/cikksmall_Sapientia.jpg" /><br/>Negyed évszázadot ünnepel a Sapientia Marosvásárhelyen]]></description>
-      <pubDate>Tue, 29 Sep 2026 19:48:06 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_szeptember/29/cikksmall_Sapientia.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_szeptember/29/cikksmall_Sapientia.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
