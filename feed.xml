@@ -5,9 +5,20 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Thu, 01 Oct 2026 19:07:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 20:09:34 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Építészet, természet, közösség és közös alkotás találkozott</title>
+      <link>https://hargitanepe.ro/negy-tabor-sok-tapasztalat</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/negy-tabor-sok-tapasztalat</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1790249751_0_martonildiko2.jpg" /><br/>Építészet, természet, közösség és közös alkotás találkozott]]></description>
+      <pubDate>Thu, 01 Oct 2026 20:09:34 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1790249751_0_martonildiko2.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1790249751_0_martonildiko2.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Talán már októbertől lehet jelentkezni az új energiatárolási pályázatra</title>
       <link>https://hargitanepe.ro/a-masodpercek-helyett-a-pontszam-dont</link>
@@ -436,17 +447,6 @@
       <author>Hargita Népe</author>
       <media:content url="https://hargitanepe.ro/images/data/423x222/1790837997_0_energiatarolo_foto_Udvari_Tamas-1-_web.jpg" medium="image"/>
       <enclosure url="https://hargitanepe.ro/images/data/423x222/1790837997_0_energiatarolo_foto_Udvari_Tamas-1-_web.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Premier a „boldogság kulcsáról” Udvarhelyen</title>
-      <link>https://hargitanepe.ro/hirek/kiemelt/gyerekeloadassal-nyitjak-az-uj-evadot</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/hirek/kiemelt/gyerekeloadassal-nyitjak-az-uj-evadot</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/1200x630/1790850513_0_szinhazevadnyito_fotodanielhelga.jpg" /><br/>Új gyerekelőadással várja az érdeklődőket a székelyudvarhelyi Tomcsa Sándor Színház: évadjuk első bemutatóját, a Boldog Mese című gyerekelőadást október 2-án láthatja a közönség.]]></description>
-      <pubDate>Thu, 01 Oct 2026 12:33:39 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/1200x630/1790850513_0_szinhazevadnyito_fotodanielhelga.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/1200x630/1790850513_0_szinhazevadnyito_fotodanielhelga.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
