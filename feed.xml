@@ -5,9 +5,31 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Sun, 04 Oct 2026 23:51:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 04:23:26 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Aláírták a kivitelezési szerződést</title>
+      <link>https://hargitanepe.ro/hirek/kiemelt/kezdodik-a-virag-negyed-felujitasa</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/hirek/kiemelt/kezdodik-a-virag-negyed-felujitasa</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/1200x630/1791146322_0_viragnegyed_kivitelezo_facebookfoto_web.jpg" /><br/>Aláírták a kivitelezési szerződést]]></description>
+      <pubDate>Mon, 05 Oct 2026 04:23:26 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/1200x630/1791146322_0_viragnegyed_kivitelezo_facebookfoto_web.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/1200x630/1791146322_0_viragnegyed_kivitelezo_facebookfoto_web.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Flydubai-incidens: halálbüntetés várhat a merényletre készülő másodpilótára</title>
+      <link>https://maszol.ro/kulfold/Flydubai-incidens-halalbuntetes-varhat-a-merenyletre-keszulo-masodpilotara</link>
+      <guid isPermaLink="true">https://maszol.ro/kulfold/Flydubai-incidens-halalbuntetes-varhat-a-merenyletre-keszulo-masodpilotara</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_oktober/5/cikksmall_pexels-gluschenko-39917366.jpg" /><br/>Flydubai-incidens: halálbüntetés várhat a merényletre készülő másodpilótára]]></description>
+      <pubDate>Mon, 05 Oct 2026 04:23:23 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_oktober/5/cikksmall_pexels-gluschenko-39917366.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_oktober/5/cikksmall_pexels-gluschenko-39917366.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Nem a trendektől lesz otthon az otthon</title>
       <link>https://hargitanepe.ro/belsoepiteszeti-alapelvek-amelyek-hosszu-tavon-is-mukodnek</link>
@@ -425,28 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_oktober/3/cikk_nicusor_Facebuk.jpg" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_oktober/3/cikk_nicusor_Facebuk.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Halálra gázolt a vonat egy idős férfit</title>
-      <link>https://maszol.ro/belfold/Halalra-gazolt-a-vonat-egy-idos-ferfit</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Halalra-gazolt-a-vonat-egy-idos-ferfit</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_oktober/3/cikksmall_vonat-sin-unsplash.jpg" /><br/>Halálra gázolt a vonat egy idős férfit]]></description>
-      <pubDate>Sat, 03 Oct 2026 20:39:37 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_oktober/3/cikksmall_vonat-sin-unsplash.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_oktober/3/cikksmall_vonat-sin-unsplash.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] A csendes utat választotta – 15 évvel a Csillag születik-győzelem után a kézdivásárhelyi László Attilával beszélgettünk</title>
-      <link>https://maszol.ro/eletmod/A-csendes-utat-valasztotta-15-evvel-a-Csillag-szuletik-gyozelem-utan-a-kezdivasarhelyi-Laszlo-Attilaval-beszelgettunk</link>
-      <guid isPermaLink="true">https://maszol.ro/eletmod/A-csendes-utat-valasztotta-15-evvel-a-Csillag-szuletik-gyozelem-utan-a-kezdivasarhelyi-Laszlo-Attilaval-beszelgettunk</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_szeptember/29/cikk_2026_09_27_Nagyszalonta_Laszlo_Attila_Foto_Borsi_Balazs.jpg" /><br/>A csendes utat választotta – 15 évvel a Csillag születik-győzelem után a kézdivásárhelyi László Attilával beszélgettünk]]></description>
-      <pubDate>Sat, 03 Oct 2026 20:39:37 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_szeptember/29/cikk_2026_09_27_Nagyszalonta_Laszlo_Attila_Foto_Borsi_Balazs.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_szeptember/29/cikk_2026_09_27_Nagyszalonta_Laszlo_Attila_Foto_Borsi_Balazs.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
