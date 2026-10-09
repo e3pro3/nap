@@ -1,5 +1,77 @@
 [
   {
+    "title": "[Hargita Népe] Sakksuli (746.)",
+    "link": "https://hargitanepe.ro/sakksuli-746-2026-10-09",
+    "description": "Sakksuli (746.)",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1791534193_0_Sakksuli_abra_746_2026_10_09.jpg",
+    "published": "2026-10-09T18:01:25.785861+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Nagy érdeklődés övezi az ingyenes mellrákszűrő kampányt",
+    "link": "https://hargitanepe.ro/betelt-mind-a-szaz-hely",
+    "description": "Nagy érdeklődés övezi az ingyenes mellrákszűrő kampányt",
+    "image": "https://hargitanepe.ro/images/data/423x222/1791528319_0_mammografia_freeoik_01_web.jpg",
+    "published": "2026-10-09T18:01:25.785722+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Két tinédzser életét vesztette",
+    "link": "https://hargitanepe.ro/vonat-gazolt-el-egy-mopedet-csikverebesen",
+    "description": "Két tinédzser életét vesztette",
+    "image": "https://hargitanepe.ro/images/data/423x222/1791528454_0_baleset_verebes_isu2.jpeg",
+    "published": "2026-10-09T18:01:25.785680+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Méltánytalan versenyhelyzetről beszélnek a busztársaságok vezetői",
+    "link": "https://hargitanepe.ro/fuvarozok-razos-uton",
+    "description": "Méltánytalan versenyhelyzetről beszélnek a busztársaságok vezetői",
+    "image": "https://hargitanepe.ro/images/data/423x222/1791529770_0_buszjarat_lfcs-3-_web.jpg",
+    "published": "2026-10-09T18:01:25.785627+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Rádiókommunikációs eszközöket kaptak az önkéntes tűzoltóknak",
+    "link": "https://hargitanepe.ro/hirek/gyergyoszek/hatekony-kommunikacio-katasztrofahelyzetekben",
+    "description": "Rádiókommunikációs eszközöket kaptak az önkéntes tűzoltóknak",
+    "image": "https://hargitanepe.ro/images/data/423x222/1791546428_0_gyergyo_hmt_radiokommeszkozok2_lfcs.jpg",
+    "published": "2026-10-09T18:01:25.785427+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Assisi Szent Ferenc csontereklyéje a csíksomlyói kegytemplomban",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/multat-es-jelent-osszekoto-orokseg",
+    "description": "Assisi Szent Ferenc csontereklyéje a csíksomlyói kegytemplomban",
+    "image": "https://hargitanepe.ro/images/data/423x222/1791532639_0_SztFereklye2_foto_ErdelyiFerencesekFB.jpg",
+    "published": "2026-10-09T18:01:25.785383+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] A gyógykezelésre járók száma nem változott számottevően Borszéken",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/visszaesett-az-idegenforgalom",
+    "description": "A gyógykezelésre járók száma nem változott számottevően Borszéken",
+    "image": "https://hargitanepe.ro/images/data/423x222/1791533489_0_gyergyo_borszek_turisztikaiadatok_illusztracio_web.jpg",
+    "published": "2026-10-09T18:01:25.785312+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Kormányalakítási tárgyalások",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/niculescu-kompromisszumot-keres",
+    "description": "Nem értenek egyet a pártok a következő kormány összetételéről, de a kabinet beiktatását kívülről is támogathatják. A Szociáldemokrata Párt (PSD) gazdaságpolitikai irányváltást akar, és a Nemzeti Liberális Párttal (PNL), valamint az RMDSZ-szel alakítana kormányt. A liberálisok nem vállalják a közös kormányzást. Luca Niculescu kijelölt miniszterelnök csütörtökön megkezdte a kormányalakítási tárgyalásokat.",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1791533934_0_lucaniculescu_fb_web.jpg",
+    "published": "2026-10-09T18:01:25.785189+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] Új szabályok az építkezésben",
     "link": "https://hargitanepe.ro/mit-hoz-hargita-megyenek-az-uj-urbanisztikai-kodex",
     "description": "Új szabályok az építkezésben",
@@ -1283,78 +1355,6 @@
     "description": "Projektindító közlemény",
     "image": "https://hargitanepe.ro/images/data/423x222/1790933893_0_Szekelykeresztur_projektindito_kozlemeny_HU.jpg",
     "published": "2026-10-04T20:55:29.995620+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] A ház, ahol a csendnek is emlékezete van",
-    "link": "https://hargitanepe.ro/lucia-nover-oroksege-ma-is-el-remeten",
-    "description": "A ház, ahol a csendnek is emlékezete van",
-    "image": "https://hargitanepe.ro/assets/img/gallery-tag.svg",
-    "published": "2026-10-04T16:31:23.143715+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Továbbadni a tudást",
-    "link": "https://hargitanepe.ro/nem-eloadasokat-tartanak-hanem-elmenyt-adnak",
-    "description": "Továbbadni a tudást",
-    "image": "https://hargitanepe.ro/assets/img/gallery-tag.svg",
-    "published": "2026-10-04T16:31:23.143650+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Élő tájház Lövétén",
-    "link": "https://hargitanepe.ro/minden-targy-mogott-emberi-sorsok-es-aktiv-kozosseg-all",
-    "description": "Élő tájház Lövétén",
-    "image": "https://hargitanepe.ro/images/data/423x222/1786448082_0_lovete_web.jpg",
-    "published": "2026-10-04T16:31:23.143584+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Helyi értékek, régi házak",
-    "link": "https://hargitanepe.ro/uj-eselyt-kaphat-az-epitett-orokseg",
-    "description": "Helyi értékek, régi házak",
-    "image": "https://hargitanepe.ro/images/data/423x222/1789116143_0_lazarlaszlo_web.jpg",
-    "published": "2026-10-04T16:31:23.143486+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Országos statisztika, helyi mutatók",
-    "link": "https://hargitanepe.ro/loban-elso-hargita-megye-szarvasmarhaban-is-dobogos",
-    "description": "Országos statisztika, helyi mutatók",
-    "image": "https://hargitanepe.ro/images/data/423x222/1790682486_0__1_romfeldJanos_lipicai",
-    "published": "2026-10-04T16:31:23.143199+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Válságtűrő vastehén",
-    "link": "https://hargitanepe.ro/valsagturo-vastehen",
-    "description": "Negyed évszázada építi családi gazdaságát a csík­madarasi Fazakas Imre, szinte a nulláról indulva mára 50 hektáros családi vállalkozást vezet. Mintegy tizenöt éve állt át a biogazdálkodásra, huszonöt fejőstehene tejét a környéken üzembe állított három tejautomata – népszerű nevén vastehén – révén közvetlenül értékesíti. Úgy látja, a tejválság árnyékában ez teremt lehetőséget a fennmaradásra.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1790682807_1_bio_fazakasimre_madaras_tehen_foto_LT-2-_web.jpg",
-    "published": "2026-10-04T16:31:23.143131+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Elemzés Székely Csaba 10 című darabjáról",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/iteletkeptelenseg",
-    "description": "Elemzés Székely Csaba 10 című darabjáról",
-    "image": "https://hargitanepe.ro/images/data/423x222/1790938073_0_kritika.jpg",
-    "published": "2026-10-04T16:31:23.142419+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Biogazdálkodás Csíkmadarason: tejben, vajban",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/valsagturo-vastehen",
-    "description": "Negyed évszázada építi családi gazdaságát a csík­madarasi Fazakas Imre, szinte a nulláról indulva mára 50 hektáros családi vállalkozást vezet. Mintegy tizenöt éve állt át a biogazdálkodásra, huszonöt fejőstehene tejét a környéken üzembe állított három tejautomata – népszerű nevén vastehén – révén közvetlenül értékesíti. Úgy látja, a tejválság árnyékában ez teremt lehetőséget a fennmaradásra.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1790682807_1_bio_fazakasimre_madaras_tehen_foto_LT-2-_web.jpg",
-    "published": "2026-10-04T16:31:23.142327+00:00",
     "author": "Hargita Népe",
     "category": "Hargita Népe"
   }
