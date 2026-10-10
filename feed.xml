@@ -5,9 +5,53 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Sat, 10 Oct 2026 17:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 21:14:11 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Élő tájház Lövétén</title>
+      <link>https://hargitanepe.ro/minden-targy-mogott-emberi-sorsok-es-aktiv-kozosseg-all</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/minden-targy-mogott-emberi-sorsok-es-aktiv-kozosseg-all</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1786448082_0_lovete_web.jpg" /><br/>Élő tájház Lövétén]]></description>
+      <pubDate>Sat, 10 Oct 2026 21:14:11 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1786448082_0_lovete_web.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1786448082_0_lovete_web.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] A nyugalom szigete Homoródkarácsonyfalva fölött</title>
+      <link>https://hargitanepe.ro/hirek/kiemelt/dungo-feredo-oszi-napsutesben</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/hirek/kiemelt/dungo-feredo-oszi-napsutesben</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/1200x630/1791537450_4_dungo_feredo_5.jpeg" /><br/>A falusi feredők hangulata merőben más, mint a népes, gyakran zajos, divatos wellnesslétesítményeké. Ezek a természettel összeolvadó kisebb helyek más módon „kínálják” a pihenés, harmónia, nyugalom feltételeit. A homoródkarácsonyfalvi Dungó feredő egyszerűségével valósággal kiszakít a mindennapi pörgésből. És október végéig még látogatható.]]></description>
+      <pubDate>Sat, 10 Oct 2026 21:14:11 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/1200x630/1791537450_4_dungo_feredo_5.jpeg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/1200x630/1791537450_4_dungo_feredo_5.jpeg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Állítólag jön a világvége – Megvan a pontos dátum is</title>
+      <link>https://maszol.ro/kulfold/Allitolag-jon-a-vilagvege-megvan-a-pontos-datum-is</link>
+      <guid isPermaLink="true">https://maszol.ro/kulfold/Allitolag-jon-a-vilagvege-megvan-a-pontos-datum-is</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_oktober/5/cikksmall_placidplace-earth-7570299.jpg" /><br/>Állítólag jön a világvége – Megvan a pontos dátum is]]></description>
+      <pubDate>Sat, 10 Oct 2026 21:14:10 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_oktober/5/cikksmall_placidplace-earth-7570299.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_oktober/5/cikksmall_placidplace-earth-7570299.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Világkörüli út: a férfi, aki 28 éve gyalogol hazafelé</title>
+      <link>https://maszol.ro/eletmod/Vilagkoruli-ut-a-ferfi-aki-28-eve-gyalogol-hazafele</link>
+      <guid isPermaLink="true">https://maszol.ro/eletmod/Vilagkoruli-ut-a-ferfi-aki-28-eve-gyalogol-hazafele</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_oktober/9/cikk_index_(6).jpg" /><br/>Világkörüli út: a férfi, aki 28 éve gyalogol hazafelé]]></description>
+      <pubDate>Sat, 10 Oct 2026 21:14:10 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_oktober/9/cikk_index_(6).jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_oktober/9/cikk_index_(6).jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Egy ház történetét nem feltétlenül kell újraírni</title>
       <link>https://hargitanepe.ro/seta-kottmayer-tiborral-az-abasfalvi-horvath-es-gergely-haz-kozott</link>
@@ -403,50 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_oktober/9/cikk_agerpres_19706474.jpg" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_oktober/9/cikk_agerpres_19706474.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Erdély legjei – Szatmár megye: Kaplony, a honfoglalás kori település</title>
-      <link>https://maszol.ro/eletmod/Erdely-legjei-Szatmar-megye-Kaplony-a-honfoglalaskori-telepules</link>
-      <guid isPermaLink="true">https://maszol.ro/eletmod/Erdely-legjei-Szatmar-megye-Kaplony-a-honfoglalaskori-telepules</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_oktober/4/cikksmall_Kaplony_09.jpg" /><br/>Erdély legjei – Szatmár megye: Kaplony, a honfoglalás kori település]]></description>
-      <pubDate>Sat, 10 Oct 2026 00:30:16 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_oktober/4/cikksmall_Kaplony_09.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_oktober/4/cikksmall_Kaplony_09.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Világszerte emelkedett a kivégzések száma, a halálbüntetés eltörlését kéri az EU</title>
-      <link>https://maszol.ro/kulfold/Vilagszerte-emelkedett-a-kivegzesek-szama-a-halalbuntetes-eltorleset-keri-az-EU</link>
-      <guid isPermaLink="true">https://maszol.ro/kulfold/Vilagszerte-emelkedett-a-kivegzesek-szama-a-halalbuntetes-eltorleset-keri-az-EU</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_oktober/9/cikksmall_strasbourg_europai_parlament_ukran_zaszloval_ager-epa_(2)_(2).jpg" /><br/>Világszerte emelkedett a kivégzések száma, a halálbüntetés eltörlését kéri az EU]]></description>
-      <pubDate>Sat, 10 Oct 2026 00:30:16 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_oktober/9/cikksmall_strasbourg_europai_parlament_ukran_zaszloval_ager-epa_(2)_(2).jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_oktober/9/cikksmall_strasbourg_europai_parlament_ukran_zaszloval_ager-epa_(2)_(2).jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Sakksuli (746.)</title>
-      <link>https://hargitanepe.ro/sakksuli-746-2026-10-09</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/sakksuli-746-2026-10-09</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/1200x630/1791534193_0_Sakksuli_abra_746_2026_10_09.jpg" /><br/>Sakksuli (746.)]]></description>
-      <pubDate>Fri, 09 Oct 2026 18:01:25 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/1200x630/1791534193_0_Sakksuli_abra_746_2026_10_09.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/1200x630/1791534193_0_Sakksuli_abra_746_2026_10_09.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Nagy érdeklődés övezi az ingyenes mellrákszűrő kampányt</title>
-      <link>https://hargitanepe.ro/betelt-mind-a-szaz-hely</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/betelt-mind-a-szaz-hely</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1791528319_0_mammografia_freeoik_01_web.jpg" /><br/>Nagy érdeklődés övezi az ingyenes mellrákszűrő kampányt]]></description>
-      <pubDate>Fri, 09 Oct 2026 18:01:25 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1791528319_0_mammografia_freeoik_01_web.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1791528319_0_mammografia_freeoik_01_web.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
