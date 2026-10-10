@@ -1,5 +1,50 @@
 [
   {
+    "title": "[Hargita Népe] Helyi értékek, régi házak",
+    "link": "https://hargitanepe.ro/uj-eselyt-kaphat-az-epitett-orokseg",
+    "description": "Helyi értékek, régi házak",
+    "image": "https://hargitanepe.ro/images/data/423x222/1789116143_0_lazarlaszlo_web.jpg",
+    "published": "2026-10-10T00:30:17.585013+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Országos statisztika, helyi mutatók",
+    "link": "https://hargitanepe.ro/loban-elso-hargita-megye-szarvasmarhaban-is-dobogos",
+    "description": "Országos statisztika, helyi mutatók",
+    "image": "https://hargitanepe.ro/images/data/423x222/1790682486_0__1_romfeldJanos_lipicai",
+    "published": "2026-10-10T00:30:17.584735+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Válságtűrő vastehén",
+    "link": "https://hargitanepe.ro/valsagturo-vastehen",
+    "description": "Negyed évszázada építi családi gazdaságát a csík­madarasi Fazakas Imre, szinte a nulláról indulva mára 50 hektáros családi vállalkozást vezet. Mintegy tizenöt éve állt át a biogazdálkodásra, huszonöt fejőstehene tejét a környéken üzembe állított három tejautomata – népszerű nevén vastehén – révén közvetlenül értékesíti. Úgy látja, a tejválság árnyékában ez teremt lehetőséget a fennmaradásra.",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1790682807_1_bio_fazakasimre_madaras_tehen_foto_LT-2-_web.jpg",
+    "published": "2026-10-10T00:30:17.584667+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Bűnvádi eljárás jogtalan gépkocsivezetésért",
+    "link": "https://hargitanepe.ro/bunvadi-eljaras-jogtalan-gepkocsivezetesert",
+    "description": "Bűnvádi eljárás jogtalan gépkocsivezetésért",
+    "image": "https://hargitanepe.ro/images/data/423x222/1742742439_1727795455_rendorsegillusztracio24_hi12web.jpg",
+    "published": "2026-10-10T00:30:17.584117+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Több száz éves hagyomány a bírósági tárgyalótermekben",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/ezert-viselnek-ma-is-parokat-a-brit-birosagokon",
+    "description": "Több száz éves hagyomány a bírósági tárgyalótermekben",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1791535328_0_10_magazin_paroka_pexels1_okt_9web.jpg",
+    "published": "2026-10-10T00:30:17.583675+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] Sakksuli (746.)",
     "link": "https://hargitanepe.ro/sakksuli-746-2026-10-09",
     "description": "Sakksuli (746.)",
@@ -1328,33 +1373,6 @@
     "description": "Aláírták a kivitelezési szerződést",
     "image": "https://hargitanepe.ro/images/data/1200x630/1791146322_0_viragnegyed_kivitelezo_facebookfoto_web.jpg",
     "published": "2026-10-05T04:23:26.255924+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Nem a trendektől lesz otthon az otthon",
-    "link": "https://hargitanepe.ro/belsoepiteszeti-alapelvek-amelyek-hosszu-tavon-is-mukodnek",
-    "description": "Nem a trendektől lesz otthon az otthon",
-    "image": "https://hargitanepe.ro/images/data/423x222/1789116454_0_mozaik_web.jpg",
-    "published": "2026-10-04T23:51:17.791890+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Sport röviden (09. 29.)",
-    "link": "https://hargitanepe.ro/sport-roviden-09-29",
-    "description": "Sport röviden (09. 29.)",
-    "image": "https://hargitanepe.ro/images/data/423x222/1781778310_0_sport.jpg",
-    "published": "2026-10-04T23:51:17.791447+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Projektindító közlemény",
-    "link": "https://hargitanepe.ro/uzleti-inkubatorhaz-letrehozasa-szekelykeresztur-varosaban-2026-10-02",
-    "description": "Projektindító közlemény",
-    "image": "https://hargitanepe.ro/images/data/423x222/1790933893_0_Szekelykeresztur_projektindito_kozlemeny_HU.jpg",
-    "published": "2026-10-04T20:55:29.995620+00:00",
     "author": "Hargita Népe",
     "category": "Hargita Népe"
   }
