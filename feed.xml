@@ -5,9 +5,20 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Wed, 14 Oct 2026 19:11:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 23:43:38 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Sakksuli (746.)</title>
+      <link>https://hargitanepe.ro/sakksuli-746-2026-10-09</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/sakksuli-746-2026-10-09</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1791534193_0_Sakksuli_abra_746_2026_10_09.jpg" /><br/>Sakksuli (746.)]]></description>
+      <pubDate>Wed, 14 Oct 2026 23:43:38 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1791534193_0_Sakksuli_abra_746_2026_10_09.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1791534193_0_Sakksuli_abra_746_2026_10_09.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Az első győzelmére hajt az FK</title>
       <link>https://hargitanepe.ro/gazdag-sporthetvege-a-megyeben</link>
@@ -436,17 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_oktober/14/cikksmall_pexels-pavel-danilyuk-8438958.jpg" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_oktober/14/cikksmall_pexels-pavel-danilyuk-8438958.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Két sofőr ellen indult büntetőeljárás Hargita megyében</title>
-      <link>https://maszol.ro/belfold/Ket-sofor-ellen-indult-buntetoeljaras-Hargita-megyeben</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Ket-sofor-ellen-indult-buntetoeljaras-Hargita-megyeben</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_oktober/14/cikksmall_szirena_rendorseg_politie_pexels_(1)_(1).jpg" /><br/>Két sofőr ellen indult büntetőeljárás Hargita megyében]]></description>
-      <pubDate>Wed, 14 Oct 2026 14:21:18 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_oktober/14/cikksmall_szirena_rendorseg_politie_pexels_(1)_(1).jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_oktober/14/cikksmall_szirena_rendorseg_politie_pexels_(1)_(1).jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
