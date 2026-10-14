@@ -1,5 +1,131 @@
 [
   {
+    "title": "[Maszol] Újabb Ro-Alert riasztás: a nap folyamán ez már a negyedik",
+    "link": "https://maszol.ro/belfold/Ujabb-Ro-Alert-riasztas-a-nap-folyaman-ez-mar-a-negyedik",
+    "description": "Újabb Ro-Alert riasztás: a nap folyamán ez már a negyedik",
+    "image": "https://maszol.ro/resized/2026_oktober/14/cikk_F16_agerpres_(1)_(1).jpg",
+    "published": "2026-10-14T19:11:28.086501+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Fordulat a kolozsvári véres drámában: az úttesten talált nőt gyanúsítják nagyapja megölésével",
+    "link": "https://maszol.ro/belfold/Fordulat-a-kolozsvari-veres-dramaban-az-uttesten-talalt-not-gyanusitjak-nagyapja-megolesevel",
+    "description": "Fordulat a kolozsvári véres drámában: az úttesten talált nőt gyanúsítják nagyapja megölésével",
+    "image": "https://maszol.ro/resized/2026_oktober/14/cikk_rendorseg_politie_politia_szirena_chatgpt_sajat.png",
+    "published": "2026-10-14T19:11:28.086423+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Sok munkájuk volt a rohammentőknek",
+    "link": "https://maszol.ro/belfold/Sok-munkajuk-volt-a-rohammentoknek",
+    "description": "Sok munkájuk volt a rohammentőknek",
+    "image": "https://maszol.ro/resized/2026_oktober/14/cikksmall_smurd_mento_2510_dgsu_fb.jpg",
+    "published": "2026-10-14T19:11:28.085515+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Pszichológiai segítséget kapnak a tornatanár bántalmazását végignéző diákok",
+    "link": "https://maszol.ro/belfold/Pszichologiai-segitseget-kapnak-a-tornatanar-bantalmazasat-vegignezo-diakok",
+    "description": "Pszichológiai segítséget kapnak a tornatanár bántalmazását végignéző diákok",
+    "image": "https://maszol.ro/resized/2026_oktober/14/cikksmall_eroszak_pexels.jpg",
+    "published": "2026-10-14T19:11:28.085447+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Tizenegy szociáldemokrata miniszter lehet a Niculescu-kabinetben",
+    "link": "https://maszol.ro/belfold/Tizenegy-szocialdemokrata-miniszter-lehet-a-Niculescu-kabinetben",
+    "description": "Tizenegy szociáldemokrata miniszter lehet a Niculescu-kabinetben",
+    "image": "https://maszol.ro/resized/2026_oktober/14/cikksmall_luca_niculescu_261012_agerpres.jpg",
+    "published": "2026-10-14T19:11:28.085378+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Dróntámadások a Fekete-tengeren: Románia és Bulgária közösen sürgeti az EU-t és a NATO-t",
+    "link": "https://maszol.ro/belfold/Drontamadasok-a-Fekete-tengeren-Romania-es-Bulgaria-kozosen-surgeti-az-EU-t-es-a-NATO-t",
+    "description": "Dróntámadások a Fekete-tengeren: Románia és Bulgária közösen sürgeti az EU-t és a NATO-t",
+    "image": "https://maszol.ro/resized/2026_oktober/14/cikksmall_nicusor_dan_2610_presidency_.jpg",
+    "published": "2026-10-14T19:11:28.085301+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Az USR nem akarja támogatni a Niculescu-kormányt",
+    "link": "https://maszol.ro/belfold/Az-USR-nem-akarja-tamogatni-a-Niculescu-kormanyt",
+    "description": "Az USR nem akarja támogatni a Niculescu-kormányt",
+    "image": "https://maszol.ro/resized/2026_oktober/14/cikksmall_dominic_fritz_260928_fb.jpg",
+    "published": "2026-10-14T19:11:28.085234+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Elítélték a szeretőjét brutálisan meggyilkoló férfit",
+    "link": "https://maszol.ro/belfold/Eliteltek-a-szeretojet-brutalisan-meggyilkolo-ferfit",
+    "description": "Elítélték a szeretőjét brutálisan meggyilkoló férfit",
+    "image": "https://maszol.ro/resized/2026_oktober/14/cikksmall_2023_06_30_Nagyvarad_borton_elitelt_elozetes_fogvatartott_Foto_Borsi_Balazs-25.jpg",
+    "published": "2026-10-14T19:11:28.085165+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Valóban vizsgálódik az ügyészség a 2024-es elnökválasztás érvénytelenítése nyomán",
+    "link": "https://maszol.ro/belfold/Valoban-vizsgalodik-az-ugyeszseg-a-2024-es-elnokvalasztas-ervenytelenitese-nyoman",
+    "description": "Valóban vizsgálódik az ügyészség a 2024-es elnökválasztás érvénytelenítése nyomán",
+    "image": "https://maszol.ro/resized/2026_oktober/14/cikksmall_valasztas.png",
+    "published": "2026-10-14T19:11:28.085095+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Buszbaleset történt Maros megyében",
+    "link": "https://maszol.ro/belfold/Buszbaleset-tortent-Maros-megyeben",
+    "description": "Buszbaleset történt Maros megyében",
+    "image": "https://maszol.ro/resized/2026_oktober/14/cikksmall_848293490_1084606577829260_2739670101443426107_n.jpg",
+    "published": "2026-10-14T19:11:28.084929+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Tervek szerint halad XIV. Leó pápa műtét utáni lábadozása",
+    "link": "https://maszol.ro/kulfold/Tervek-szerint-halad-XIV-Leo-papa-mutet-utani-labadozasa",
+    "description": "Tervek szerint halad XIV. Leó pápa műtét utáni lábadozása",
+    "image": "https://maszol.ro/resized/2026_oktober/14/cikksmall_XIV_Leo_papa_vatikan_250509_agerpres_(4).jpg",
+    "published": "2026-10-14T19:11:28.084682+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Megszavazta a képviselőház az érdemjáradékot Bölöniéknek",
+    "link": "https://maszol.ro/sport/Megszavazta-a-kepviselohaz-az-erdemjaradekot-Bolonieknek",
+    "description": "Megszavazta a képviselőház az érdemjáradékot Bölöniéknek",
+    "image": "https://maszol.ro/uploads/2026_oktober/14/steaua86_(1).jpg",
+    "published": "2026-10-14T19:11:28.084532+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Hivatalos: kormányra lép a PSD a Niculescu-kabinetben",
+    "link": "https://maszol.ro/belfold/Hivatalos-kormanyra-lep-a-PSD-a-Niculescu-kabinetben",
+    "description": "Hivatalos: kormányra lép a PSD a Niculescu-kabinetben",
+    "image": "https://maszol.ro/resized/2026_oktober/14/cikk_sorin_grindeanu_psd_260924_agerpres_(1).jpg",
+    "published": "2026-10-14T19:11:27.672949+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
+    "title": "[Maszol] Gyermekek után csökkenhet a nők nyugdíjkorhatára, ez az előrehozott nyugdíjat is befolyásolja",
+    "link": "https://maszol.ro/belfold/Gyermekek-utan-csokkenhet-a-nok-nyugdijkorhatara-ez-az-elorehozott-nyugdijat-is-befolyasolja",
+    "description": "A kedvezmény azok számára is fontos lehet, akik már előrehozott nyugdíjban részesülnek: amikor jogosulttá válnak az öregségi nyugdíjra, az előrehozás miatti levonást megszüntetik.",
+    "image": "https://maszol.ro/resized/2026_oktober/14/cikk_nyugdijas_Pexels4.jpg",
+    "published": "2026-10-14T19:11:27.672725+00:00",
+    "author": "Maszol",
+    "category": "Maszol"
+  },
+  {
     "title": "[Maszol] Döntöttek a PNL parlamenti frakciói",
     "link": "https://maszol.ro/belfold/Dontottek-a-PNL-parlamenti-frakcioi",
     "description": "Döntöttek a PNL parlamenti frakciói",
@@ -1661,204 +1787,6 @@
     "description": "Világszerte emelkedett a kivégzések száma, a halálbüntetés eltörlését kéri az EU",
     "image": "https://maszol.ro/resized/2026_oktober/9/cikksmall_strasbourg_europai_parlament_ukran_zaszloval_ager-epa_(2)_(2).jpg",
     "published": "2026-10-10T00:30:16.606833+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Segélycsomagok érkeznek a rászorulóknak",
-    "link": "https://maszol.ro/belfold/Segelycsomagok-erkeznek-a-raszoruloknak",
-    "description": "Segélycsomagok érkeznek a rászorulóknak",
-    "image": "https://maszol.ro/resized/2026_oktober/9/cikk_article_127183_780_524.jpg",
-    "published": "2026-10-09T18:01:24.844595+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] A PSD azt kéri Dominic Fritztől, hogy mondjon le az USR éléről",
-    "link": "https://maszol.ro/belfold/A-PSD-azt-keri-Dominic-Fritztol-hogy-mondjon-le-az-USR-elerol",
-    "description": "A PSD azt kéri Dominic Fritztől, hogy mondjon le az USR éléről",
-    "image": "https://maszol.ro/resized/2026_oktober/9/cikk_dominic_fritz_2505_fb__(1).jpg",
-    "published": "2026-10-09T18:01:24.844552+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Pál D. Attila folytatná a munkát, de nem jelentkezhet a marosvásárhelyi színház igazgatói tisztségére",
-    "link": "https://maszol.ro/belfold/Pal-D-Attila-folytatna-a-munkat-de-nem-jelentkezhet-a-marosvasarhelyi-szinhaz-igazgatoi-tisztsegere",
-    "description": "Pál D. Attila folytatná a munkát, de nem jelentkezhet a marosvásárhelyi színház igazgatói tisztségére",
-    "image": "https://maszol.ro/resized/2026_oktober/9/cikksmall_pal_d_attila_vasarhelyi_szinhaz.jpg",
-    "published": "2026-10-09T18:01:24.844321+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Jóváhagyták a kilencedikesek új tankönyveit – Már csak az a kérdés, mikor kapják meg a diákok",
-    "link": "https://maszol.ro/belfold/Jovahagytak-a-kilencedikesek-uj-tankonyveit-Mar-csak-az-a-kerdes-mikor-kapjak-meg-a-diakok",
-    "description": "Jóváhagyták a kilencedikesek új tankönyveit – Már csak az a kérdés, mikor kapják meg a diákok",
-    "image": "https://maszol.ro/resized/2026_oktober/9/cikksmall_tankonyv_Pexels.jpg",
-    "published": "2026-10-09T18:01:24.844275+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] A holokauszt áldozataira emlékezik Románia",
-    "link": "https://maszol.ro/belfold/A-holokauszt-aldozataira-emlekezik-Romania",
-    "description": "A holokauszt áldozataira emlékezik Románia",
-    "image": "https://maszol.ro/resized/2026_oktober/9/cikk_pexels-pixabay-53442_(1).jpg",
-    "published": "2026-10-09T18:01:24.844225+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Átadták Székelyföld új turisztikai attrakcióját, az Erdélyi Költők és Írók Parkját",
-    "link": "https://maszol.ro/kultura/Atadtak-Szekelyfold-legujabb-turisztikai-attrakciojat-A-nagygalambfalvi-Erdelyi-Koltok-es-Irok-Parkja-harminc-erdelyi-alkotomunkassagat-mutatja-be",
-    "description": "Átadták Székelyföld új turisztikai attrakcióját, az Erdélyi Költők és Írók Parkját",
-    "image": "https://maszol.ro/resized/2026_oktober/3/cikksmall_IMG_20261003_142801.jpg",
-    "published": "2026-10-09T18:01:24.843985+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Újabb kormánytámogatás az iskolák udvari WC-inek felszámolására",
-    "link": "https://maszol.ro/belfold/Ujabb-kormanyzati-tamogatas-az-iskolai-udvari-WC-k-felszamolasara",
-    "description": "Újabb kormánytámogatás az iskolák udvari WC-inek felszámolására",
-    "image": "https://maszol.ro/resized/2026_oktober/9/cikksmall_pexels-jan-van-der-wolf-11680885-17791283.jpg",
-    "published": "2026-10-09T18:01:24.843878+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Halálos baleset: egy nő életét vesztette, többen megsérültek",
-    "link": "https://maszol.ro/belfold/Halalos-baleset-egy-no-eletet-vesztette-tobben-megserultek",
-    "description": "Halálos baleset: egy nő életét vesztette, többen megsérültek",
-    "image": "https://maszol.ro/resized/2026_oktober/9/cikksmall_mentohelikopter_isu_.jpg",
-    "published": "2026-10-09T18:01:24.843831+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Turizmus: Háromszéken és Maros megyében nőtt a forgalom, Hargitában és Biharban visszaesett",
-    "link": "https://maszol.ro/gazdasag/Turizmus-Haromszeken-es-Maros-megyeben-nott-a-forgalom-Hargitaban-es-Biharban-visszaesett",
-    "description": "Turizmus: Háromszéken és Maros megyében nőtt a forgalom, Hargitában és Biharban visszaesett",
-    "image": "https://maszol.ro/resized/2026_oktober/9/cikksmall_strand_Facebook_Baile_felix.jpg",
-    "published": "2026-10-09T18:01:24.843776+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Új rádiórendszer segíti a hargitai tűzoltók munkáját",
-    "link": "https://maszol.ro/belfold/Uj-radiorendszer-segiti-a-hargitai-tuzoltok-munkajat",
-    "description": "Új rádiórendszer segíti a hargitai tűzoltók munkáját",
-    "image": "https://maszol.ro/resized/2026_oktober/9/cikksmall_pexels-shvetsa-5965022.jpg",
-    "published": "2026-10-09T18:01:24.843730+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Idős házaspárt találtak holtan az autójukban",
-    "link": "https://maszol.ro/belfold/Idos-hazaspart-talaltak-holtan-az-autojukban",
-    "description": "Idős házaspárt találtak holtan az autójukban",
-    "image": "https://maszol.ro/resized/2026_oktober/9/cikksmall_baleset_idosek_brassoirendorseg.png",
-    "published": "2026-10-09T18:01:24.843689+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Újra ellepték a poloskák Kolozsvárt – Miért van ilyen sok büdösbogár, és miért jönnek be a lakásba?",
-    "link": "https://maszol.ro/belfold/Ujra-elleptek-a-poloskak-Kolozsvart-Miert-van-ilyen-sok-budosbogar-es-miert-jonnek-be-a-lakasba",
-    "description": "Újra ellepték a poloskák Kolozsvárt – Miért van ilyen sok büdösbogár, és miért jönnek be a lakásba?",
-    "image": "https://maszol.ro/resized/2026_oktober/9/cikksmall_pexels-nikola-tomasic-58494762-34297634.jpg",
-    "published": "2026-10-09T18:01:24.843648+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Hangyányit erősödött a lej az euróhoz képest",
-    "link": "https://maszol.ro/gazdasag/Hangyanyit-erosodott-a-lej-az-eurohoz-kepest-1",
-    "description": "Hangyányit erősödött a lej az euróhoz képest",
-    "image": "https://maszol.ro/resized/2026_oktober/9/cikksmall_penz_euro2_AdobeStock_1.jpg",
-    "published": "2026-10-09T18:01:24.843603+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Interaktív előadássorozattal járja be Erdélyt Zacher Gábor",
-    "link": "https://maszol.ro/belfold/Interaktiv-eloadassorozattal-jarja-be-Erdelyt-Zacher-Gabor",
-    "description": "Interaktív előadássorozattal járja be Erdélyt Zacher Gábor",
-    "image": "https://maszol.ro/resized/2026_oktober/9/cikksmall_zacher-facebook.jpg",
-    "published": "2026-10-09T18:01:24.843561+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Júniustól 8 halálesetet okozott a nyugat-nílusi vírus Romániában",
-    "link": "https://maszol.ro/belfold/Juniustol-8-halalesetet-okozott-a-nyugat-nilusi-virus-Romaniaban",
-    "description": "Júniustól 8 halálesetet okozott a nyugat-nílusi vírus Romániában",
-    "image": "https://maszol.ro/resized/2026_oktober/9/cikksmall_mosquitoe-1548975_1280.jpg",
-    "published": "2026-10-09T18:01:24.843518+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Vádat emelt a Georgescut támogató üzletember ellen a legfőbb ügyészség",
-    "link": "https://maszol.ro/belfold/Vadat-emelt-a-Georgescut-tamogato-uzletember-ellen-a-legfobb-ugyeszseg",
-    "description": "Vádat emelt a Georgescut támogató üzletember ellen a legfőbb ügyészség",
-    "image": "https://maszol.ro/resized/2026_oktober/9/cikksmall_bogdan_peschir_250320_agerpres_(1).jpg",
-    "published": "2026-10-09T18:01:24.843471+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Stop a rasszizmusnak! – Elindult a kormány online portálja",
-    "link": "https://maszol.ro/belfold/Stop-a-rasszizmusnak-Elindult-a-kormany-online-portalja",
-    "description": "Stop a rasszizmusnak! – Elindult a kormány online portálja",
-    "image": "https://maszol.ro/resized/2026_oktober/9/cikksmall_Stop_Rasismului_Reporting_Website.png",
-    "published": "2026-10-09T18:01:24.843419+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Meghosszabbította a kormány a három regionális sürgősségi kórház átadási határidejét",
-    "link": "https://maszol.ro/belfold/Meghosszabbitotta-a-kormany-a-harom-regionalis-surgossegi-korhaz-atadasi-hataridejet",
-    "description": "Meghosszabbította a kormány a három regionális sürgősségi kórház átadási határidejét",
-    "image": "https://maszol.ro/resized/2026_oktober/9/cikksmall_korhaz_facebook.jpg",
-    "published": "2026-10-09T18:01:24.843373+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Nem pénzügyi akadálya van a Marosvásárhelyi Nemzeti Színház felújításának",
-    "link": "https://maszol.ro/kultura/Nem-penzugyi-akadalya-van-a-Marosvasarhelyi-Nemzeti-Szinhaz-felujitasanak",
-    "description": "Évek óta várat magára a Marosvásárhelyi Nemzeti Színház épületének felújítása. Egy kormányhatározat választ el a beruházás megkezdésétől.",
-    "image": "https://maszol.ro/resized/2026_oktober/9/cikk_szinhazepulet-1920x800.jpg",
-    "published": "2026-10-09T18:01:24.843220+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Mi fér bele egy kávéba? Dobray Sarolta íróval, újságíróval beszélgetünk szombaton a Maszolon",
-    "link": "https://maszol.ro/eletmod/Mi-fer-bele-egy-kaveba-Dobray-Sarolta-iroval-ujsagiroval-beszelgetunk-szombaton-a-Maszolon",
-    "description": "Mi fér bele egy kávéba? Dobray Sarolta íróval, újságíróval beszélgetünk szombaton a Maszolon",
-    "image": "https://maszol.ro/resized/2026_oktober/8/cikk_kavezas_honlap_(4).png",
-    "published": "2026-10-09T18:01:24.843168+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Jobban nem élünk majd, de legalább rosszabbul sem? – Gazdasági kilátások 2027-re",
-    "link": "https://maszol.ro/gazdasag/Jobban-nem-elunk-majd-de-legalabb-rosszabbul-sem-Gazdasagi-kilatasok-2027-re",
-    "description": "Jobban nem élünk majd, de legalább rosszabbul sem? – Gazdasági kilátások 2027-re",
-    "image": "https://maszol.ro/resized/2026_oktober/9/cikk_Juhasz_Jacint_kozgazdasz.jpg",
-    "published": "2026-10-09T18:01:24.843113+00:00",
-    "author": "Maszol",
-    "category": "Maszol"
-  },
-  {
-    "title": "[Maszol] Moldova felszámolná a szovjet típusú járásokat, maradna Gagauzia autonómiája",
-    "link": "https://maszol.ro/kulfold/Moldova-felszamolna-a-szovjet-tipusu-jarasokat-maradna-Gagauzia-autonomiaja",
-    "description": "Vasile Tofan kormánya a szovjet eredetű, költségesnek és túlméretezettnek tartott rendszer felszámolásától hatékonyabb államot vár.",
-    "image": "https://maszol.ro/resized/2026_oktober/9/cikk_moldova_parlament_vasile_tofan_fboldala.jpg",
-    "published": "2026-10-09T18:01:24.843016+00:00",
     "author": "Maszol",
     "category": "Maszol"
   }
