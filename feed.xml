@@ -5,9 +5,20 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Fri, 16 Oct 2026 20:34:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 23:16:35 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] „A helyreállításnak egy titka van: jól kell csinálni”</title>
+      <link>https://hargitanepe.ro/a-helyreallitasnak-egy-titka-van-jol-kell-csinalni</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/a-helyreallitasnak-egy-titka-van-jol-kell-csinalni</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/1200x630/1791450013_0_adorjankuriaregi_web.jpg" /><br/>Mit jelent ma megőrizni azt, amit elődeink ránk hagytak? Hol húzódik a határ a hiteles helyreállítás és a mai igények kiszolgálása között, és hogyan maradhat élő egy régi épület vagy akár egy egész település anélkül, hogy elveszítené saját karakterét? A népi építészet értékei, a hely szelleme, a korszerűsítés és az örökségvédelem felelőssége egyre fontosabb kérdéseket vet fel. Albert-Homonnai Márton építésszel több évtizednyi tapasztalatáról, a helyreállítás dilemmáiról és arról beszélgettünk, hogyan adható tovább a múlt úgy, hogy közben a jövő számára is használható maradjon.]]></description>
+      <pubDate>Fri, 16 Oct 2026 23:16:35 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/1200x630/1791450013_0_adorjankuriaregi_web.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/1200x630/1791450013_0_adorjankuriaregi_web.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Egy régi kályha megmentett darabja a csíkbánkfalvi Malomházban</title>
       <link>https://hargitanepe.ro/csempebe-zart-mult</link>
@@ -436,17 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_oktober/16/cikksmall_pexels-joa70-32201000.jpg" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_oktober/16/cikksmall_pexels-joa70-32201000.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Pert vesztett a PNL, milliókat kell visszafizetnie az államnak</title>
-      <link>https://maszol.ro/belfold/Pert-vesztett-a-PNL-milliokat-kell-visszafizetnie-az-allamnak</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Pert-vesztett-a-PNL-milliokat-kell-visszafizetnie-az-allamnak</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_oktober/16/cikksmall_Ciuca_reklampanno_Kovacs_Zsolt_.jpg" /><br/>Pert vesztett a PNL, milliókat kell visszafizetnie az államnak]]></description>
-      <pubDate>Fri, 16 Oct 2026 16:10:48 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_oktober/16/cikksmall_Ciuca_reklampanno_Kovacs_Zsolt_.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_oktober/16/cikksmall_Ciuca_reklampanno_Kovacs_Zsolt_.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
