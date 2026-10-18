@@ -5,9 +5,31 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Sat, 17 Oct 2026 22:54:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 03:18:57 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Építészet, természet, közösség és közös alkotás találkozott</title>
+      <link>https://hargitanepe.ro/negy-tabor-sok-tapasztalat</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/negy-tabor-sok-tapasztalat</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1790249751_0_martonildiko2.jpg" /><br/>Építészet, természet, közösség és közös alkotás találkozott]]></description>
+      <pubDate>Sun, 18 Oct 2026 03:18:57 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1790249751_0_martonildiko2.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1790249751_0_martonildiko2.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Szörnyű baleset: három fiatal életét vesztette, ketten súlyosan megsérültek</title>
+      <link>https://maszol.ro/belfold/Szornyu-baleset-harom-fiatal-eletet-vesztette-ketten-sulyosan-megserultek</link>
+      <guid isPermaLink="true">https://maszol.ro/belfold/Szornyu-baleset-harom-fiatal-eletet-vesztette-ketten-sulyosan-megserultek</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_oktober/12/cikksmall_baleset-valcea-isu.jpg" /><br/>Szörnyű baleset: három fiatal életét vesztette, ketten súlyosan megsérültek]]></description>
+      <pubDate>Sun, 18 Oct 2026 03:18:56 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_oktober/12/cikksmall_baleset-valcea-isu.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_oktober/12/cikksmall_baleset-valcea-isu.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Új szabályok az építkezésben</title>
       <link>https://hargitanepe.ro/mit-hoz-hargita-megyenek-az-uj-urbanisztikai-kodex</link>
@@ -425,28 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_oktober/17/cikksmall_zelenszkij_costa_europai_tanacs_EU_20251024_agerpres.jpg" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_oktober/17/cikksmall_zelenszkij_costa_europai_tanacs_EU_20251024_agerpres.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Körvonalazódott megállapodás, döntés előtt a PNL</title>
-      <link>https://maszol.ro/belfold/Korvonalazodott-megallapodas-dontes-elott-a-PNL</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Korvonalazodott-megallapodas-dontes-elott-a-PNL</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_oktober/17/cikksmall_bolojan_2_2026_10_16_govro.jpg" /><br/>Körvonalazódott megállapodás, döntés előtt a PNL]]></description>
-      <pubDate>Sat, 17 Oct 2026 10:14:04 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_oktober/17/cikksmall_bolojan_2_2026_10_16_govro.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_oktober/17/cikksmall_bolojan_2_2026_10_16_govro.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Csökkent a költségvetési hiány</title>
-      <link>https://maszol.ro/gazdasag/Csokkent-a-koltsegvetesi-hiany</link>
-      <guid isPermaLink="true">https://maszol.ro/gazdasag/Csokkent-a-koltsegvetesi-hiany</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_oktober/17/cikksmall_koltsegvetes_Pixabay.jpg" /><br/>Csökkent a költségvetési hiány]]></description>
-      <pubDate>Sat, 17 Oct 2026 10:14:04 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_oktober/17/cikksmall_koltsegvetes_Pixabay.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_oktober/17/cikksmall_koltsegvetes_Pixabay.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
