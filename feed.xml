@@ -5,9 +5,64 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Sun, 18 Oct 2026 20:10:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 22:48:22 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Maradéktalanul megfelel a fogyasztóvédelmi előírásoknak a Hargita megyei kínálat</title>
+      <link>https://hargitanepe.ro/ellenorzott-mezek</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/ellenorzott-mezek</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1717593252_mezozon_lfcs" /><br/>Maradéktalanul megfelel a fogyasztóvédelmi előírásoknak a Hargita megyei kínálat]]></description>
+      <pubDate>Sun, 18 Oct 2026 22:48:22 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1717593252_mezozon_lfcs" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1717593252_mezozon_lfcs" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Kiütötte ellenfelét a VSK Székelyudvarhely futsalcsapata</title>
+      <link>https://hargitanepe.ro/golzaporos-siker</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/golzaporos-siker</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1791872731_0_futsal_RB_1012_HI.jpg" /><br/>Kiütötte ellenfelét a VSK Székelyudvarhely futsalcsapata]]></description>
+      <pubDate>Sun, 18 Oct 2026 22:48:22 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1791872731_0_futsal_RB_1012_HI.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1791872731_0_futsal_RB_1012_HI.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Pontot vitt el a FEHA</title>
+      <link>https://hargitanepe.ro/kinkeserves-csiki-gyozelem</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/kinkeserves-csiki-gyozelem</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1791873192_0_1310hoki.jpg" /><br/>Pontot vitt el a FEHA]]></description>
+      <pubDate>Sun, 18 Oct 2026 22:48:22 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1791873192_0_1310hoki.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1791873192_0_1310hoki.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Csonka forduló</title>
+      <link>https://hargitanepe.ro/megorizte-vezeto-poziciojat-a-balanbanya</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/megorizte-vezeto-poziciojat-a-balanbanya</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1791873420_0_10_12_megyeifoci_hi01.jpg" /><br/>Csonka forduló]]></description>
+      <pubDate>Sun, 18 Oct 2026 22:48:22 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1791873420_0_10_12_megyeifoci_hi01.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1791873420_0_10_12_megyeifoci_hi01.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Sport röviden (10. 13.)</title>
+      <link>https://hargitanepe.ro/sport-roviden-10-13-2026-10-13</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/sport-roviden-10-13-2026-10-13</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1781778310_0_sport.jpg" /><br/>Sport röviden (10. 13.)]]></description>
+      <pubDate>Sun, 18 Oct 2026 22:48:22 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1781778310_0_sport.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1781778310_0_sport.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Elemzés Reisz Gábor Földszint című filmjéről</title>
       <link>https://hargitanepe.ro/hirek/kiemelt/omladozo-magyar-valosag</link>
@@ -392,61 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_oktober/18/cikksmall_parizs_tunte.jpg" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_oktober/18/cikksmall_parizs_tunte.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Még mindig Magyarország a legnagyobb orosz vezetékesgáz-felvásárló az EU-ban</title>
-      <link>https://maszol.ro/gazdasag/Meg-mindig-Magyarorszag-a-legnagyobb-orosz-vezetekesgaz-felvasarlo-az-EU-ban</link>
-      <guid isPermaLink="true">https://maszol.ro/gazdasag/Meg-mindig-Magyarorszag-a-legnagyobb-orosz-vezetekesgaz-felvasarlo-az-EU-ban</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_oktober/18/cikksmall_gaz_Pixabay_(1).jpg" /><br/>Még mindig Magyarország a legnagyobb orosz vezetékesgáz-felvásárló az EU-ban]]></description>
-      <pubDate>Sun, 18 Oct 2026 10:29:39 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_oktober/18/cikksmall_gaz_Pixabay_(1).jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_oktober/18/cikksmall_gaz_Pixabay_(1).jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Hároméves csúcsra nőtt az euróövezet külkereskedelmi hiánya</title>
-      <link>https://maszol.ro/gazdasag/Haromeves-csucsra-nott-az-euroovezet-kulkereskedelmi-hianya</link>
-      <guid isPermaLink="true">https://maszol.ro/gazdasag/Haromeves-csucsra-nott-az-euroovezet-kulkereskedelmi-hianya</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_oktober/18/cikksmall_penz_euro4_AdobeStock.jpg" /><br/>Hároméves csúcsra nőtt az euróövezet külkereskedelmi hiánya]]></description>
-      <pubDate>Sun, 18 Oct 2026 10:29:39 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_oktober/18/cikksmall_penz_euro4_AdobeStock.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_oktober/18/cikksmall_penz_euro4_AdobeStock.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Ittas autóvezetőket kaptak el a rendőrök Hargita megyében</title>
-      <link>https://maszol.ro/belfold/Ittas-vezetoket-kaptak-el-a-rendorok-Hargita-megyeben</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Ittas-vezetoket-kaptak-el-a-rendorok-Hargita-megyeben</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_oktober/18/cikksmall_rendorseg_ellenorzes_alkohol_szonda_hr_megye.jpg" /><br/>Ittas autóvezetőket kaptak el a rendőrök Hargita megyében]]></description>
-      <pubDate>Sun, 18 Oct 2026 10:29:39 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_oktober/18/cikksmall_rendorseg_ellenorzes_alkohol_szonda_hr_megye.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_oktober/18/cikksmall_rendorseg_ellenorzes_alkohol_szonda_hr_megye.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Erős szélre, esőre, a hegyekben havazásra figyelmeztetnek vasárnap</title>
-      <link>https://maszol.ro/belfold/Eros-szelre-esore-a-hegyekben-havazasra-figyelmeztetnek-vasarnap</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Eros-szelre-esore-a-hegyekben-havazasra-figyelmeztetnek-vasarnap</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_oktober/18/cikksmall_szel_vihar_AdobeStock.jpg" /><br/>Erős szélre, esőre, a hegyekben havazásra figyelmeztetnek vasárnap]]></description>
-      <pubDate>Sun, 18 Oct 2026 10:29:39 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_oktober/18/cikksmall_szel_vihar_AdobeStock.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_oktober/18/cikksmall_szel_vihar_AdobeStock.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Dróttal átkötött zsákba zárta, majd a folyóba dobta a kiskutyát egy férfi</title>
-      <link>https://maszol.ro/belfold/Drottal-atkotott-zsakba-zarta-majd-a-folyoba-dobta-a-kiskutyat-egy-ferfi</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Drottal-atkotott-zsakba-zarta-majd-a-folyoba-dobta-a-kiskutyat-egy-ferfi</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_oktober/18/cikksmall_mentett_kutya1.jpg" /><br/>Dróttal átkötött zsákba zárta, majd a folyóba dobta a kiskutyát egy férfi]]></description>
-      <pubDate>Sun, 18 Oct 2026 10:29:39 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_oktober/18/cikksmall_mentett_kutya1.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_oktober/18/cikksmall_mentett_kutya1.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
