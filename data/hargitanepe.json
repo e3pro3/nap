@@ -1,5 +1,185 @@
 [
   {
+    "title": "[Hargita Népe] Beszélgetés Albert-Homonnai Márton építésszel",
+    "link": "https://hargitanepe.ro/a-helyreallitasnak-egy-titka-van-jol-kell-csinalni",
+    "description": "Beszélgetés Albert-Homonnai Márton építésszel",
+    "image": "https://hargitanepe.ro/images/data/423x222/1791450013_0_adorjankuriaregi_web.jpg",
+    "published": "2026-10-22T11:15:25.541857+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Maximális pontszámmal áll az élen Udvarhely",
+    "link": "https://hargitanepe.ro/hibatlan-cimvedo",
+    "description": "Maximális pontszámmal áll az élen Udvarhely",
+    "image": "https://hargitanepe.ro/images/data/423x222/1792609817_0_1021_ififutsalhoz.jpg",
+    "published": "2026-10-22T11:15:25.541600+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Meglepetés a Duna partján",
+    "link": "https://hargitanepe.ro/kinos-vereseg",
+    "description": "Meglepetés a Duna partján",
+    "image": "https://hargitanepe.ro/images/data/423x222/1792649343_0_1021_hokihoz.jpg",
+    "published": "2026-10-22T11:15:25.541574+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Sport röviden (10. 22.)",
+    "link": "https://hargitanepe.ro/sport-roviden-10-22",
+    "description": "Sport röviden (10. 22.)",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1781778310_0_sport.jpg",
+    "published": "2026-10-22T11:15:25.541549+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Szeptemberi autópiaci mérleg",
+    "link": "https://hargitanepe.ro/jelentos-visszaeses-a-gepjarmupiacon",
+    "description": "Szeptemberi autópiaci mérleg",
+    "image": "https://hargitanepe.ro/images/data/423x222/1792574659_0_beiratlanautok_hi01_web.jpg",
+    "published": "2026-10-22T11:15:25.541524+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Átláthatóbb kiállításszervezés a Csíki Székely Múzeumban",
+    "link": "https://hargitanepe.ro/tarlatrendezes-uj-alapokon",
+    "description": "Átláthatóbb kiállításszervezés a Csíki Székely Múzeumban",
+    "image": "https://hargitanepe.ro/images/data/423x222/1792574956_0_muzeum_ujrendszer_csszm_fb1_web.jpg",
+    "published": "2026-10-22T11:15:25.541496+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] A katasztrófavédelmi felügyelőség harmadik negyedévének mérlege",
+    "link": "https://hargitanepe.ro/ezernel-tobb-riasztas-harom-honap-alatt",
+    "description": "A katasztrófavédelmi felügyelőség harmadik negyedévének mérlege",
+    "image": "https://hargitanepe.ro/images/data/423x222/1792575888_0_tusoltosagstat_vn_001_web.jpg",
+    "published": "2026-10-22T11:15:25.541469+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Gyimesközéplok",
+    "link": "https://hargitanepe.ro/meg-kellett-erositeni-az-allomasi-iskola-alapjat-es-labazatat",
+    "description": "Gyimesközéplok",
+    "image": "https://hargitanepe.ro/images/data/423x222/1792576661_0_gyimeskozeplok.jpg",
+    "published": "2026-10-22T11:15:25.541442+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Munkaügyi ellenőrzések Hargita megyében",
+    "link": "https://hargitanepe.ro/tobb-mint-460-ezer-lej-birsagot-szabtak-ki-mult-honapban",
+    "description": "Munkaügyi ellenőrzések Hargita megyében",
+    "image": "https://hargitanepe.ro/images/data/423x222/1792578252_0_06_parajdisobanyajulius28_hi02_cm.jpg",
+    "published": "2026-10-22T11:15:25.541415+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Beszélgetés Váncsa Mónika képzőművésszel",
+    "link": "https://hargitanepe.ro/a-spontaneitas-es-az-elgondolashoz-valo-ragaszkodas-harcabol-szuletnek-az-alkotasaim",
+    "description": "Beszélgetés Váncsa Mónika képzőművésszel",
+    "image": "https://hargitanepe.ro/images/data/423x222/1792579658_0_VancsaMonikafoto_webcopy.jpg",
+    "published": "2026-10-22T11:15:25.541387+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Székelyudvarhelyen is fűtenek",
+    "link": "https://hargitanepe.ro/az-arakat-szeretnek-szinten-tartani",
+    "description": "Székelyudvarhelyen is fűtenek",
+    "image": "https://hargitanepe.ro/images/data/423x222/1792609537_1_tavfutes_udv_2_HI_web.jpg",
+    "published": "2026-10-22T11:15:25.541359+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] A település nagy részét érinti a beruházás",
+    "link": "https://hargitanepe.ro/negyveneves-gazvezetekrendszert-korszerusitenek-szentegyhazan",
+    "description": "A település nagy részét érinti a beruházás",
+    "image": "https://hargitanepe.ro/images/data/423x222/1792650354_0_03_illusztracio_gazhalozatillusztracio_hi01_web.jpg",
+    "published": "2026-10-22T11:15:25.541233+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Megszólalnak  a légvédelmi szirénák",
+    "link": "https://hargitanepe.ro/megszolalnak-a-legvedelmi-szirenak",
+    "description": "Megszólalnak  a légvédelmi szirénák",
+    "image": "https://hargitanepe.ro/images/data/423x222/1772482629_0_polgarivedelemhete_szirena_vn_arh1_web.jpg",
+    "published": "2026-10-22T11:15:25.541201+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Nemzetközi elfogatóparancs",
+    "link": "https://hargitanepe.ro/hirek/orszag-vilag/korozik-matolcsy-adamot-matolcsy-gyorgy-korabbi-jegybankelnok-fiat-2026-10-22",
+    "description": "Nemzetközi elfogatóparancs",
+    "image": "https://hargitanepe.ro/images/data/423x222/1792656252_0_police.hu.png",
+    "published": "2026-10-22T11:15:25.541079+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] A megsebesített diákot kórházba szállították",
+    "link": "https://hargitanepe.ro/hirek/belfold/macsetaval-tamadt-osztalytarsaira-2026-10-22",
+    "description": "A megsebesített diákot kórházba szállították",
+    "image": "https://hargitanepe.ro/images/data/423x222/1685455704_bilincs-illusztracio.jpeg",
+    "published": "2026-10-22T11:15:25.541025+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] A hulladékkezelési szerződés megkötését törvény szabályozza, és nem a helyi önkormányzatok",
+    "link": "https://hargitanepe.ro/hirek/hargita-nepe/a-decembertol-eletbe-lepo-egyseges-megyei-rendszer-celja-a-korabbi-szettagolt-mukodes-felszamolasa-es-az-atallas-soran-kiszamithato-szolgaltatas-bevezetese-2026-10-22",
+    "description": "A hulladékkezelési szerződés megkötését törvény szabályozza, és nem a helyi önkormányzatok",
+    "image": "https://hargitanepe.ro/images/data/423x222/1790279404_0_rde_hargita_02.jpeg",
+    "published": "2026-10-22T11:15:25.540997+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Sokan adományoztak a harangláb automatizálására",
+    "link": "https://hargitanepe.ro/hirek/gyergyoszek/osszefogas-a-bekeny-utcai-csengettyuert",
+    "description": "Sokan adományoztak a harangláb automatizálására",
+    "image": "https://hargitanepe.ro/images/data/423x222/1792651484_0_gyergyo_bekenyutcaicsengettyu1_bszsz_web.jpg",
+    "published": "2026-10-22T11:15:25.540965+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Október 22. a dadogás elfogadásának nemzetközi világnapja",
+    "link": "https://hargitanepe.ro/hirek/szines/hallgassuk-egymast-turelemmel",
+    "description": "Október 22. a dadogás elfogadásának nemzetközi világnapja",
+    "image": "https://hargitanepe.ro/images/data/423x222/1792660961_0_15_magazin_dadogas_magnific1_okt_22.jpg",
+    "published": "2026-10-22T11:15:25.540934+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] A Csíki konfekció és a Gubán Balázs legendája",
+    "link": "https://hargitanepe.ro/hirek/csikszek/az-ipar-hanyatlasa-ket-dokumentumfilm-tukreben",
+    "description": "A Csíki konfekció és a Gubán Balázs legendája",
+    "image": "https://hargitanepe.ro/images/data/423x222/1792652086_1_kozonsegtalalkozo_hmkk_lfcs-2-_web.jpg",
+    "published": "2026-10-22T11:15:25.540902+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Parkolóhelyeket szabadítanak fel Székelyudvarhelyen",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/elszallithatjak-az-elhagyott-autokat",
+    "description": "Elszállítanák a hosszú ideje meg nem mozdított, veszteglő autókat Székelyudvarhely köztereiről – erről készül határozatot elfogadni az önkormányzat.",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1792651806_4_elhagyottauto_hi03_web.jpg",
+    "published": "2026-10-22T11:15:25.540852+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] Egy régi kályha megmentett darabja a csíkbánkfalvi Malomházban",
     "link": "https://hargitanepe.ro/csempebe-zart-mult",
     "description": "Egy régi kályha megmentett darabja a csíkbánkfalvi Malomházban",
@@ -1220,60 +1400,6 @@
     "description": "Számos felhasználási módja van a savónak, mégis kevesen sütnek-főznek vele. A szentábrahámi Kelemen Irma azonban gyakran használja: kelt tésztákban, levesekben vagy akár karamell készítéséhez is. A gazdaságukból származó savóból a Székely Konyha és Kert műsorvezetőjével, Günther Ottóval tárkonyos báránybordalevest és ordás pohárdesszertet készített, bebizonyítva, hogy az orda kifőzése utáni, második savó is sokféleképpen használható.",
     "image": "https://hargitanepe.ro/images/data/1200x630/1792144215_0_post_528706341.jpg",
     "published": "2026-10-17T15:04:03.888079+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Pisztráng minden mennyiségben",
-    "link": "https://hargitanepe.ro/erdofule-horogra-akadt-innovacio",
-    "description": "Pisztráng minden mennyiségben",
-    "image": "https://hargitanepe.ro/images/data/423x222/1785844285_1_pisztrangaszat_erdofule_lfcs-3-_web.jpg",
-    "published": "2026-10-17T10:14:05.849892+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Kis területen nagy érték",
-    "link": "https://hargitanepe.ro/aranyat-ero-fuszer-200-viragbol-lesz-1-gramm-safrany",
-    "description": "Kis területen nagy érték",
-    "image": "https://hargitanepe.ro/images/data/423x222/1787131638_1__1_safrany_foto_kallaieva-7-.jpg",
-    "published": "2026-10-17T10:14:05.849811+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] A barnaszén – nem konvencionális – diadalútja",
-    "link": "https://hargitanepe.ro/szekely-zoldsegtermesztoket-megmento-matrai-lignit",
-    "description": "A barnaszén – nem konvencionális – diadalútja",
-    "image": "https://hargitanepe.ro/images/data/423x222/1787136669_0__2_3_lignitprojekt_megerkezettaszallitmany_foto_SZGE_Facebook.jpg",
-    "published": "2026-10-17T10:14:05.849745+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Székelyföldi gyógynövényágazat – termelés, gyűjtés, szabályozás",
-    "link": "https://hargitanepe.ro/a-termohelytol-a-piacig",
-    "description": "Székelyföldi gyógynövényágazat – termelés, gyűjtés, szabályozás",
-    "image": "https://hargitanepe.ro/images/data/423x222/1789553543_0__2_3_gyogynovenyek_foto_LT",
-    "published": "2026-10-17T10:14:05.849613+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Hadtörténészt, költőket és írót díjaztak",
-    "link": "https://hargitanepe.ro/atadtak-a-szekelyfold-kulturalis-folyoirat-idei-elismereseit",
-    "description": "Hadtörténészt, költőket és írót díjaztak",
-    "image": "https://hargitanepe.ro/images/data/423x222/1792153516_3_szekelyfold",
-    "published": "2026-10-17T10:14:05.849031+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Nyissa ki, ne tegye „bukóra”",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/szelloztetes-telen",
-    "description": "A hideg hónapokban hajlamosak vagyunk kevesebbet szellőztetni, hiszen senki sem szeretné, ha a gondosan felfűtött lakásból néhány perc alatt megszökne a meleg. A rendszeres légcsere azonban télen is elengedhetetlen: hozzájárul a megfelelő beltéri levegőminőséghez, segít megelőzni a túlzott párásodást és a penészedést, valamint egészségünk megőrzésében is fontos szerepe van.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1792143047_1_felido_magnific1.jpg",
-    "published": "2026-10-17T10:14:05.848618+00:00",
     "author": "Hargita Népe",
     "category": "Hargita Népe"
   }
