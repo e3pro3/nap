@@ -5,9 +5,31 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Wed, 21 Oct 2026 21:18:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 03:33:04 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Egy régi kályha megmentett darabja a csíkbánkfalvi Malomházban</title>
+      <link>https://hargitanepe.ro/csempebe-zart-mult</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/csempebe-zart-mult</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1791451438_2_cserepkalyha_malomhaz_tarlo_lfcs-3-_web.jpg" /><br/>Egy régi kályha megmentett darabja a csíkbánkfalvi Malomházban]]></description>
+      <pubDate>Thu, 22 Oct 2026 03:33:04 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1791451438_2_cserepkalyha_malomhaz_tarlo_lfcs-3-_web.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1791451438_2_cserepkalyha_malomhaz_tarlo_lfcs-3-_web.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Elengedhetetlen a megfelelő higiénia</title>
+      <link>https://hargitanepe.ro/kockazatok-a-sajtkeszites-soran</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/kockazatok-a-sajtkeszites-soran</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1789552404_0__1_sajt_bojticsemege_kezmuvessajtok_foto_SZGE.jpg" /><br/>Elengedhetetlen a megfelelő higiénia]]></description>
+      <pubDate>Thu, 22 Oct 2026 03:33:04 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1789552404_0__1_sajt_bojticsemege_kezmuvessajtok_foto_SZGE.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1789552404_0__1_sajt_bojticsemege_kezmuvessajtok_foto_SZGE.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Természeti értékekről gyermekeknek</title>
       <link>https://hargitanepe.ro/termeszeti-ertekekrol-gyermekeknek</link>
@@ -425,28 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_oktober/21/cikksmall_brexit_57415300.jpg" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_oktober/21/cikksmall_brexit_57415300.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Megbírságolták a Dinamót a magyarellenes skandálások miatt</title>
-      <link>https://maszol.ro/sport/Megbirsagoltak-a-Dinamot-a-magyarellenes-skandalasok-miatt</link>
-      <guid isPermaLink="true">https://maszol.ro/sport/Megbirsagoltak-a-Dinamot-a-magyarellenes-skandalasok-miatt</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_oktober/21/cikksmall_848599266_1659637339149536_467259555922998423_n.jpg" /><br/>Megbírságolták a Dinamót a magyarellenes skandálások miatt]]></description>
-      <pubDate>Wed, 21 Oct 2026 16:42:54 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_oktober/21/cikksmall_848599266_1659637339149536_467259555922998423_n.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_oktober/21/cikksmall_848599266_1659637339149536_467259555922998423_n.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Mit hoz a Niculescu-kabinet, merre tart a magyar-magyar viszony? – Kelemen Hunor válaszol</title>
-      <link>https://maszol.ro/belfold/Mit-hoz-a-Niculescu-kormany-merre-tart-a-magyar-magyar-viszony-Kelemen-Hunor-valaszol</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Mit-hoz-a-Niculescu-kormany-merre-tart-a-magyar-magyar-viszony-Kelemen-Hunor-valaszol</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_oktober/21/cikk_KH_nyito.png" /><br/>Ismét teljes jogú kormánya van Romániának, de a politikai stabilitás nem garantált. Közben a vártnál is döcögősebben alakul magyar-magyar viszony.]]></description>
-      <pubDate>Wed, 21 Oct 2026 16:42:54 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_oktober/21/cikk_KH_nyito.png" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_oktober/21/cikk_KH_nyito.png" type="image/png" length="0"/>
     </item>
   </channel>
 </rss>
