@@ -5,9 +5,20 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Thu, 22 Oct 2026 21:14:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 03:37:53 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Jövőkép a Közös Agrárpolitika átalakulásának árnyékában</title>
+      <link>https://hargitanepe.ro/konczei-csaba-szemleletvaltas-kell-a-szekelyfoldi-mezogazdasagban</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/konczei-csaba-szemleletvaltas-kell-a-szekelyfoldi-mezogazdasagban</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1789554083_0__4_konczeicsaba_foto_LT1-.jpg" /><br/>Jövőkép a Közös Agrárpolitika átalakulásának árnyékában]]></description>
+      <pubDate>Fri, 23 Oct 2026 03:37:53 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1789554083_0__4_konczeicsaba_foto_LT1-.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1789554083_0__4_konczeicsaba_foto_LT1-.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Kutyák, macskák veszettség elleni oltási kampánya</title>
       <link>https://hargitanepe.ro/fontos-a-megelozes-mar-a-kozelben-a-kor</link>
@@ -436,17 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_oktober/22/cikksmall_MOGYE1.jpg" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_oktober/22/cikksmall_MOGYE1.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Ukrajna: Oroszország nagy pusztításra tervezett, kazettás fejjel felszerelt rakétát vetett be Kijev ellen</title>
-      <link>https://maszol.ro/kulfold/Ukrajna-Oroszorszag-nagy-pusztitasra-tervezett-kazettas-fejjel-felszerelt-raketat-vetett-be-Kijev-ellen</link>
-      <guid isPermaLink="true">https://maszol.ro/kulfold/Ukrajna-Oroszorszag-nagy-pusztitasra-tervezett-kazettas-fejjel-felszerelt-raketat-vetett-be-Kijev-ellen</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_oktober/22/cikksmall_agerpres_19750730.jpg" /><br/>Ukrajna: Oroszország nagy pusztításra tervezett, kazettás fejjel felszerelt rakétát vetett be Kijev ellen]]></description>
-      <pubDate>Thu, 22 Oct 2026 16:43:36 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_oktober/22/cikksmall_agerpres_19750730.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_oktober/22/cikksmall_agerpres_19750730.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
