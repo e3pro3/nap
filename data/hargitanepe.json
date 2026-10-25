@@ -1,5 +1,23 @@
 [
   {
+    "title": "[Hargita Népe] Helyi értékek, régi házak",
+    "link": "https://hargitanepe.ro/uj-eselyt-kaphat-az-epitett-orokseg",
+    "description": "Helyi értékek, régi házak",
+    "image": "https://hargitanepe.ro/images/data/423x222/1789116143_0_lazarlaszlo_web.jpg",
+    "published": "2026-10-25T15:38:44.197931+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Falugazdász-szervezetek Erdélyben",
+    "link": "https://hargitanepe.ro/kozos-szakmai-hatter-a-magyar-gazdakert",
+    "description": "Falugazdász-szervezetek Erdélyben",
+    "image": "https://hargitanepe.ro/images/data/423x222/1788346197_0_falugazdasz_halozat_podiumbeszelgetes_foto_LT.jpg",
+    "published": "2026-10-25T15:38:44.197736+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] Bíróság előtt Tanasă, büntetőeljárás indult Georgescu ellen",
     "link": "https://hargitanepe.ro/eros-mondatok-csipos-kovetkezmenyek-2026-10-23",
     "description": "Bíróság előtt Tanasă, büntetőeljárás indult Georgescu ellen",
@@ -1247,105 +1265,6 @@
     "description": "Kik a digitális nomádok?",
     "image": "https://hargitanepe.ro/images/data/1200x630/1792499483_0_13_magazin_digitalisnomadok_magnific1_okt_20.jpg",
     "published": "2026-10-20T18:57:09.420004+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Elkezdődött a Mountain Spirit 26 hadgyakorlat",
-    "link": "https://hargitanepe.ro/elkezdodott-a-mountain-spirit-26-hadgyakorlat",
-    "description": "Elkezdődött a Mountain Spirit 26 hadgyakorlat",
-    "image": "https://hargitanepe.ro/images/data/423x222/1792478254_0_mountainspirit26_bg61vmfb_web.jpg",
-    "published": "2026-10-20T14:08:01.741077+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Nagyszabású közúti ellenőrzés",
-    "link": "https://hargitanepe.ro/rendorsegi-helikopterek-koroznek-hargita-megye-utjai-felett",
-    "description": "Nagyszabású közúti ellenőrzés",
-    "image": "https://hargitanepe.ro/images/data/423x222/1776752282_0_rendorsegillusztracio24_hi05_web.jpg",
-    "published": "2026-10-20T14:08:01.741018+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Szülőföldön magyarul",
-    "link": "https://hargitanepe.ro/november-elejen-indulhatnak-az-erdelyi-utalasok",
-    "description": "Szülőföldön magyarul",
-    "image": "https://hargitanepe.ro/images/data/423x222/1792480531_0_szulofoldonmagyarulillusztracio_hi03_web.jpg",
-    "published": "2026-10-20T14:08:01.740976+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Teljesen megbénult a pénzügyi szolgáltató",
-    "link": "https://hargitanepe.ro/leallt-a-revolut",
-    "description": "Teljesen megbénult a pénzügyi szolgáltató",
-    "image": "https://hargitanepe.ro/images/data/423x222/1742286296_revolut_ilusztr_lfcs",
-    "published": "2026-10-20T14:08:01.740912+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Családi múlt, közösségi érték",
-    "link": "https://hargitanepe.ro/megujul-a-jeles-ukapa-sirja-2",
-    "description": "Családi múlt, közösségi érték",
-    "image": "https://hargitanepe.ro/images/data/1792498663_1_siremlek_udv_web_1790764723_56d089fd.JPG",
-    "published": "2026-10-20T14:08:01.740870+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Lábbusz program Gyergyóditróban is",
-    "link": "https://hargitanepe.ro/labbusz-program-gyergyoditroban-is-2",
-    "description": "Lábbusz program Gyergyóditróban is",
-    "image": "https://hargitanepe.ro/images/data/1792498664_1_gyergyo_labbusz_ditro_illusztracio_bszsz_web_1790765581_1f49ed33.JPG",
-    "published": "2026-10-20T14:08:01.740824+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Az óraátállítás nem befolyásolja a vonatok menetrendjét",
-    "link": "https://hargitanepe.ro/hirek/orszag-vilag/vasarnap-visszaallitjuk-az-orat",
-    "description": "Az óraátállítás nem befolyásolja a vonatok menetrendjét",
-    "image": "https://hargitanepe.ro/images/data/423x222/1716019702_zarandokvonat",
-    "published": "2026-10-20T14:08:01.740677+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Jubilál a közösség egyik klasszikus értéke: idén 25 éves a Csíki Kamarazenekar",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/a-csendbol-szuletett-zenekar",
-    "description": "Jubilál a közösség egyik klasszikus értéke: idén 25 éves a Csíki Kamarazenekar",
-    "image": "https://hargitanepe.ro/images/data/423x222/1792483232_0_Csíki_Kamarazenekar_facebook_web.jpg",
-    "published": "2026-10-20T14:08:01.740601+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Zászlóra gyűjtenek",
-    "link": "https://hargitanepe.ro/hirek/hargita-megye/az-uzvolgyi-katonai-temetobe-keszul-a-calea-neamului-egyesulet",
-    "description": "Zászlóra gyűjtenek",
-    "image": "https://hargitanepe.ro/images/data/423x222/1734078021_uzvolgye_vn_001_cm.JPG",
-    "published": "2026-10-20T14:08:01.740554+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Idén is célba ért a Fuss NEKI! Udvarhely",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/jol-mozgositottak-a-waldorfosok",
-    "description": "Idén is célba ért a Fuss NEKI! Udvarhely",
-    "image": "https://hargitanepe.ro/images/data/423x222/1792497367_0_fussneki_5_AA_web.jpg",
-    "published": "2026-10-20T14:08:01.740435+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Építészeti díjak Hargita megyének",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/idotallo-alkotasok-kaptak-elismerest",
-    "description": "Két Hargita megyei építészeti stúdió nyert díjakat és kapott jelöléseket az Arhitectura.6 építészeti biennálé 2026-os kiadásán. A szemlén a csíkszeredai Petőfi Sándor Általános Iskolához készült tornatermet, az agyagfalvi református templom restaurálását, valamint a vargyasi Daniel-kastély parkjában készült hidat díjazták.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1792497788_0_gyergyo_epiteszetibiennale1_larixstudio_web.jpg",
-    "published": "2026-10-20T14:08:01.740373+00:00",
     "author": "Hargita Népe",
     "category": "Hargita Népe"
   }
