@@ -5,9 +5,42 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Sun, 25 Oct 2026 23:01:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 03:30:56 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Törölték a futamokat</title>
+      <link>https://hargitanepe.ro/toroltek-a-futamokat-2026-10-25</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/toroltek-a-futamokat-2026-10-25</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1781778310_0_sport.jpg" /><br/>Törölték a futamokat]]></description>
+      <pubDate>Mon, 26 Oct 2026 03:30:56 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1781778310_0_sport.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1781778310_0_sport.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Kerekes-gólok</title>
+      <link>https://hargitanepe.ro/kerekes-golok-2026-10-25</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/kerekes-golok-2026-10-25</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1781778310_0_sport.jpg" /><br/>Kerekes-gólok]]></description>
+      <pubDate>Mon, 26 Oct 2026 03:30:56 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1781778310_0_sport.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1781778310_0_sport.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Az 1956-os forradalomra emlékeztek</title>
+      <link>https://hargitanepe.ro/egy-nep-kialtott-megemlekezes-szekelyudvarhelyen</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/egy-nep-kialtott-megemlekezes-szekelyudvarhelyen</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1792826102_0_oktober23megemlekezes_hi01-4.jpg" /><br/>Az 1956-os forradalomra emlékeztek]]></description>
+      <pubDate>Mon, 26 Oct 2026 03:30:56 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1792826102_0_oktober23megemlekezes_hi01-4.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1792826102_0_oktober23megemlekezes_hi01-4.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Nem a trendektől lesz otthon az otthon</title>
       <link>https://hargitanepe.ro/belsoepiteszeti-alapelvek-amelyek-hosszu-tavon-is-mukodnek</link>
@@ -414,39 +447,6 @@
       <author>Hargita Népe</author>
       <media:content url="https://hargitanepe.ro/images/data/423x222/1788346809_1_drHeltaiMiklos_lfcs-7-_cm.jpg" medium="image"/>
       <enclosure url="https://hargitanepe.ro/images/data/423x222/1788346809_1_drHeltaiMiklos_lfcs-7-_cm.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Ki az előadó?</title>
-      <link>https://hargitanepe.ro/csaladi</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/csaladi</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1712915204_csaladi_kviz_webre.jpg" /><br/>Ki az előadó?]]></description>
-      <pubDate>Sat, 24 Oct 2026 20:19:38 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1712915204_csaladi_kviz_webre.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1712915204_csaladi_kviz_webre.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Napi kvíz</title>
-      <link>https://hargitanepe.ro/kviz</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/kviz</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1671456199_WhatsApp3.jpeg" /><br/>Napi kvíz]]></description>
-      <pubDate>Sat, 24 Oct 2026 20:19:38 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1671456199_WhatsApp3.jpeg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1671456199_WhatsApp3.jpeg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Két világ egy üvegfal mögött</title>
-      <link>https://hargitanepe.ro/hirek/kiemelt/akvaterrarisztika-ahol-a-viz-partot-mos-2026-10-23</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/hirek/kiemelt/akvaterrarisztika-ahol-a-viz-partot-mos-2026-10-23</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/1200x630/1792739827_0_felido_magnific.jpg" /><br/>Üvegfal mögé épített tavacska vagy csobogó, buja zöld növényzet, mohával borított sziklák és a repedésekben megbúvó apró állatok – az akvaterrárium a természet egy darabját varázsolhatja a lakásba. Az akvarisztikát és a terrarisztikát ötvöző hobbi kreatív építési lehetőséget kínál, miközben betekintést enged egy különleges, vízi-szárazföldi élővilág mindennapjaiba. A sikerhez azonban nem elég a látványos berendezés, a leendő lakók igényei és az élőhely egyensúlya is ugyanolyan fontos.]]></description>
-      <pubDate>Sat, 24 Oct 2026 20:19:38 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/1200x630/1792739827_0_felido_magnific.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/1200x630/1792739827_0_felido_magnific.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
