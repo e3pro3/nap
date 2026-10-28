@@ -5,9 +5,42 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Tue, 27 Oct 2026 21:52:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 04:19:27 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Kutyák, macskák veszettség elleni oltási kampánya</title>
+      <link>https://hargitanepe.ro/fontos-a-megelozes-mar-a-kozelben-a-kor</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/fontos-a-megelozes-mar-a-kozelben-a-kor</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1789552674_0__3_veszettseg_egeszsegugyi" /><br/>Kutyák, macskák veszettség elleni oltási kampánya]]></description>
+      <pubDate>Wed, 28 Oct 2026 04:19:27 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1789552674_0__3_veszettseg_egeszsegugyi" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1789552674_0__3_veszettseg_egeszsegugyi" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Székelyföldi gyógynövényágazat – termelés, gyűjtés, szabályozás</title>
+      <link>https://hargitanepe.ro/a-termohelytol-a-piacig</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/a-termohelytol-a-piacig</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1789553543_0__2_3_gyogynovenyek_foto_LT" /><br/>Székelyföldi gyógynövényágazat – termelés, gyűjtés, szabályozás]]></description>
+      <pubDate>Wed, 28 Oct 2026 04:19:27 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1789553543_0__2_3_gyogynovenyek_foto_LT" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1789553543_0__2_3_gyogynovenyek_foto_LT" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Megújult az APIA csíkszeredai székháza</title>
+      <link>https://hargitanepe.ro/korszerubb-korulmenyek-kozott-fogadjak-a-gazdakat</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/korszerubb-korulmenyek-kozott-fogadjak-a-gazdakat</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1791982484_0_Apia_epitkezes_lfcs-3-.jpg" /><br/>Megújult az APIA csíkszeredai székháza]]></description>
+      <pubDate>Wed, 28 Oct 2026 04:19:27 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1791982484_0_Apia_epitkezes_lfcs-3-.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1791982484_0_Apia_epitkezes_lfcs-3-.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Beszélgetés Albert-Homonnai Márton építésszel</title>
       <link>https://hargitanepe.ro/a-helyreallitasnak-egy-titka-van-jol-kell-csinalni</link>
@@ -414,39 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/video/video_paradicsomleves_1024.jpg" medium="image"/>
       <enclosure url="https://maszol.ro/resized/video/video_paradicsomleves_1024.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Veszettség: az elmúlt napokban nem volt újabb fertőzés Hargita megyében</title>
-      <link>https://maszol.ro/belfold/Veszettseg-az-elmult-napokban-nem-volt-ujabb-fertozes-Hargita-megyeben</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Veszettseg-az-elmult-napokban-nem-volt-ujabb-fertozes-Hargita-megyeben</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_oktober/27/cikksmall_roka_unsplash.jpg" /><br/>Veszettség: az elmúlt napokban nem volt újabb fertőzés Hargita megyében]]></description>
-      <pubDate>Tue, 27 Oct 2026 15:09:15 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_oktober/27/cikksmall_roka_unsplash.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_oktober/27/cikksmall_roka_unsplash.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Megkezdődött a juhok és kecskék oltása, Hargita megye egyelőre kimarad a kampányból</title>
-      <link>https://maszol.ro/gazdasag/Megkezdodott-a-juhok-es-kecskek-oltasa-Hargita-megye-egyelore-kimarad-a-kampanybol</link>
-      <guid isPermaLink="true">https://maszol.ro/gazdasag/Megkezdodott-a-juhok-es-kecskek-oltasa-Hargita-megye-egyelore-kimarad-a-kampanybol</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_oktober/27/cikksmall_juhok_kos_letai_tibor.png" /><br/>Megkezdődött a juhok és kecskék oltása, Hargita megye egyelőre kimarad a kampányból]]></description>
-      <pubDate>Tue, 27 Oct 2026 15:09:15 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_oktober/27/cikksmall_juhok_kos_letai_tibor.png" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_oktober/27/cikksmall_juhok_kos_letai_tibor.png" type="image/png" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Letöltendő börtönbüntetésre ítélték az Anastasia halálát okozó sofőrt – A kislány az Anastasia-törvény névadója</title>
-      <link>https://maszol.ro/belfold/Letoltendo-bortonbuntetesre-iteltek-az-Anastasia-halalat-okozo-sofort-A-kislany-az-Anastasia-torveny-nevadoja</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Letoltendo-bortonbuntetesre-iteltek-az-Anastasia-halalat-okozo-sofort-A-kislany-az-Anastasia-torveny-nevadoja</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_oktober/27/cikksmall_birosag_igazsag_Pexels.jpg" /><br/>Letöltendő börtönbüntetésre ítélték az Anastasia halálát okozó sofőrt – A kislány az Anastasia-törvény névadója]]></description>
-      <pubDate>Tue, 27 Oct 2026 15:09:15 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_oktober/27/cikksmall_birosag_igazsag_Pexels.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_oktober/27/cikksmall_birosag_igazsag_Pexels.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
