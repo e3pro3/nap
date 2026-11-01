@@ -1,5 +1,23 @@
 [
   {
+    "title": "[Hargita Népe] Helyi értékek, régi házak",
+    "link": "https://hargitanepe.ro/uj-eselyt-kaphat-az-epitett-orokseg",
+    "description": "Helyi értékek, régi házak",
+    "image": "https://hargitanepe.ro/images/data/423x222/1789116143_0_lazarlaszlo_web.jpg",
+    "published": "2026-11-01T04:41:55.110942+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Nem a trendektől lesz otthon az otthon",
+    "link": "https://hargitanepe.ro/belsoepiteszeti-alapelvek-amelyek-hosszu-tavon-is-mukodnek",
+    "description": "Nem a trendektől lesz otthon az otthon",
+    "image": "https://hargitanepe.ro/images/data/423x222/1789116454_0_mozaik_web.jpg",
+    "published": "2026-11-01T04:41:55.110841+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] Gyep- és legelőgazdálkodás Hargita megyében",
     "link": "https://hargitanepe.ro/havasok-barsonya",
     "description": "Gyep- és legelőgazdálkodás Hargita megyében",
@@ -1418,87 +1436,6 @@
     "description": "Figyelmeztet a vámhivatal",
     "image": "https://hargitanepe.ro/images/data/1200x630/1793084334_0_angolrendszam_beiratlanautok_hi01_web.jpg",
     "published": "2026-10-27T08:41:17.588858+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Görbülj rá!",
-    "link": "https://hargitanepe.ro/bekoltoznek-az-ivek-az-otthonokba",
-    "description": "Görbülj rá!",
-    "image": "https://hargitanepe.ro/images/data/423x222/1791450810_0_mozaik2_web.jpg",
-    "published": "2026-10-26T20:19:02.712197+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Gazdasági kilátások",
-    "link": "https://hargitanepe.ro/a-lej-tovabbi-gyengulesere-szamitanak-2026-10-26",
-    "description": "Gazdasági kilátások",
-    "image": "https://hargitanepe.ro/images/data/423x222/1793011562_0_Adrian",
-    "published": "2026-10-26T20:19:02.711672+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Ha a hegyekbe kirándulnánk",
-    "link": "https://hargitanepe.ro/valasszunk-rovidebb-utvonalat-2026-10-26",
-    "description": "Ha a hegyekbe kirándulnánk",
-    "image": "https://hargitanepe.ro/images/data/423x222/1670331728_turizmus_lfcs_arh-3.jpg",
-    "published": "2026-10-26T20:19:02.711628+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Vámőrségi mérleg",
-    "link": "https://hargitanepe.ro/hirek/hargita-megye/megugrott-a-kivitt-aruk-erteke-de-az-import-visszaesett-2026-10-26",
-    "description": "Vámőrségi mérleg",
-    "image": "https://hargitanepe.ro/images/data/423x222/1792998754_1_kosaizabella_prefkoll_lfcs-1-_web.jpg",
-    "published": "2026-10-26T20:19:02.711489+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Nehézségekkel küzd az európai légiközlekedési piac",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/ryanair-ceo-jovore-dragulnak-a-repjegyek-2026-10-26",
-    "description": "Nehézségekkel küzd az európai légiközlekedési piac",
-    "image": "https://hargitanepe.ro/assets/img/gallery-tag.svg",
-    "published": "2026-10-26T20:19:02.711413+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Választások Szlovákiában:",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/poziciojat-megorizte-de-teret-veszitett-a-magyar-part-2026-10-26",
-    "description": "Választások Szlovákiában:",
-    "image": "https://hargitanepe.ro/images/data/423x222/1793000082_0_gubiklaszlo_fb_webmasolat.jpg",
-    "published": "2026-10-26T20:19:02.711342+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Blöff",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/rendelo-az-ideges-doktornal-2026-10-26",
-    "description": "Blöff",
-    "image": "https://hargitanepe.ro/images/data/423x222/1747219784_bloff_webre.jpg",
-    "published": "2026-10-26T20:19:02.711298+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Kevesen maradtak a hősök közül – Cey-Bert Róbert Gyula íróval beszélgettünk",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/a-corvin-koz-harcosa-szekely-cimerrel-a-mellen-2026-10-26",
-    "description": "Kevesen maradtak a hősök közül – Cey-Bert Róbert Gyula íróval beszélgettünk",
-    "image": "https://hargitanepe.ro/images/data/423x222/1793002786_0_ceybert-1-_web.jpg",
-    "published": "2026-10-26T20:19:02.711253+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] KOMMENTSZEKCIÓ",
-    "link": "https://hargitanepe.ro/hirek/szines/2026-10-26-heti-damo-2026-10-26",
-    "description": "KOMMENTSZEKCIÓ",
-    "image": "https://hargitanepe.ro/images/data/423x222/1793002531_0_2.jpg",
-    "published": "2026-10-26T20:19:02.711162+00:00",
     "author": "Hargita Népe",
     "category": "Hargita Népe"
   }

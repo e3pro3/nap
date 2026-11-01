@@ -5,9 +5,53 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Sat, 31 Oct 2026 16:54:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 04:41:55 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Helyi értékek, régi házak</title>
+      <link>https://hargitanepe.ro/uj-eselyt-kaphat-az-epitett-orokseg</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/uj-eselyt-kaphat-az-epitett-orokseg</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1789116143_0_lazarlaszlo_web.jpg" /><br/>Helyi értékek, régi házak]]></description>
+      <pubDate>Sun, 01 Nov 2026 04:41:55 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1789116143_0_lazarlaszlo_web.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1789116143_0_lazarlaszlo_web.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Nem a trendektől lesz otthon az otthon</title>
+      <link>https://hargitanepe.ro/belsoepiteszeti-alapelvek-amelyek-hosszu-tavon-is-mukodnek</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/belsoepiteszeti-alapelvek-amelyek-hosszu-tavon-is-mukodnek</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1789116454_0_mozaik_web.jpg" /><br/>Nem a trendektől lesz otthon az otthon]]></description>
+      <pubDate>Sun, 01 Nov 2026 04:41:55 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1789116454_0_mozaik_web.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1789116454_0_mozaik_web.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Szilvaízes derelye</title>
+      <link>https://maszol.ro/videok/Erdely-izei-szilvaizes-derelye</link>
+      <guid isPermaLink="true">https://maszol.ro/videok/Erdely-izei-szilvaizes-derelye</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2024majus/31/video_P3020528.jpg" /><br/>Szilvaízes derelye]]></description>
+      <pubDate>Sun, 01 Nov 2026 04:41:54 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2024majus/31/video_P3020528.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2024majus/31/video_P3020528.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Gazdálkodás Székelyföldön – Az alkalmazkodás lesz a túlélés kulcsa</title>
+      <link>https://maszol.ro/gazdasag/Gazdalkodas-Szekelyfoldon-Az-alkalmazkodas-lesz-a-tuleles-kulcsa</link>
+      <guid isPermaLink="true">https://maszol.ro/gazdasag/Gazdalkodas-Szekelyfoldon-Az-alkalmazkodas-lesz-a-tuleles-kulcsa</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_oktober/23/cikk_farmer_mezogazdasag_juh_barany_unsplash.jpg" /><br/>A jövő nem egyetlen jó döntésen, hanem a rugalmas szerkezetváltáson, a tudatos vízgazdálkodáson, a szigorú költségellenőrzésen és a digitális átálláson múlik.]]></description>
+      <pubDate>Sun, 01 Nov 2026 04:41:54 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_oktober/23/cikk_farmer_mezogazdasag_juh_barany_unsplash.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_oktober/23/cikk_farmer_mezogazdasag_juh_barany_unsplash.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Gyep- és legelőgazdálkodás Hargita megyében</title>
       <link>https://hargitanepe.ro/havasok-barsonya</link>
@@ -403,50 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_oktober/30/cikksmall_Feher_Haz_pexels.jpg" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_oktober/30/cikksmall_Feher_Haz_pexels.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Több mint 60 olasz városban tüntetnek a megélhetési nehézségek és a háború miatt</title>
-      <link>https://maszol.ro/kulfold/Tobb-mint-60-olasz-varosban-tuntetnek-a-megelhetesi-nehezsegek-es-a-haboru-miatt</link>
-      <guid isPermaLink="true">https://maszol.ro/kulfold/Tobb-mint-60-olasz-varosban-tuntetnek-a-megelhetesi-nehezsegek-es-a-haboru-miatt</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_oktober/30/cikksmall_agerpres_19773359.jpg" /><br/>Több mint 60 olasz városban tüntetnek a megélhetési nehézségek és a háború miatt]]></description>
-      <pubDate>Fri, 30 Oct 2026 21:58:31 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_oktober/30/cikksmall_agerpres_19773359.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_oktober/30/cikksmall_agerpres_19773359.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Ukrajna uniós csatlakozása átrendezhetné a mezőgazdasági támogatásokat</title>
-      <link>https://maszol.ro/kulfold/Ukrajna-unios-csatlakozasa-atrendezhetne-a-mezogazdasagi-tamogatasokat</link>
-      <guid isPermaLink="true">https://maszol.ro/kulfold/Ukrajna-unios-csatlakozasa-atrendezhetne-a-mezogazdasagi-tamogatasokat</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_oktober/26/cikk_Vincze_Lorant_2_(1).jpg" /><br/>Milyen változásokra számíthatnak a gazdák, hogyan lehetne megvédeni a helyi termelőket, és mennyire támogatott Ukrajna uniós csatlakozása?]]></description>
-      <pubDate>Fri, 30 Oct 2026 21:58:31 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_oktober/26/cikk_Vincze_Lorant_2_(1).jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_oktober/26/cikk_Vincze_Lorant_2_(1).jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Legtöbben fehér krizantémot választanak</title>
-      <link>https://hargitanepe.ro/viragzo-kinalat-novekvo-koltsegek</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/viragzo-kinalat-novekvo-koltsegek</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1793340842_0_viragok_lfcs-2-_web.jpg" /><br/>Legtöbben fehér krizantémot választanak]]></description>
-      <pubDate>Fri, 30 Oct 2026 17:45:53 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1793340842_0_viragok_lfcs-2-_web.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1793340842_0_viragok_lfcs-2-_web.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Előzetes letartóztatásban marad a csíkdánfalvi cserbenhagyásos gázolás gyanúsítottja</title>
-      <link>https://hargitanepe.ro/elozetes-letartoztatasban-marad-a-csikdanfalvi-cserbenhagyasos-gazolas-gyanusitottja</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/elozetes-letartoztatasban-marad-a-csikdanfalvi-cserbenhagyasos-gazolas-gyanusitottja</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1791442289_1_bilincs_vn_003_web.jpg" /><br/>Előzetes letartóztatásban marad a csíkdánfalvi cserbenhagyásos gázolás gyanúsítottja]]></description>
-      <pubDate>Fri, 30 Oct 2026 17:45:53 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1791442289_1_bilincs_vn_003_web.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1791442289_1_bilincs_vn_003_web.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
