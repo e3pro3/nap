@@ -1,5 +1,50 @@
 [
   {
+    "title": "[Hargita Népe] Egy régi kályha megmentett darabja a csíkbánkfalvi Malomházban",
+    "link": "https://hargitanepe.ro/csempebe-zart-mult",
+    "description": "Egy régi kályha megmentett darabja a csíkbánkfalvi Malomházban",
+    "image": "https://hargitanepe.ro/images/data/423x222/1791451438_2_cserepkalyha_malomhaz_tarlo_lfcs-3-_web.jpg",
+    "published": "2026-11-02T00:18:48.834066+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Áttörést hozhat az oltás?",
+    "link": "https://hargitanepe.ro/a-juhok-es-kecskek-vakcinazasa-lehet-az-export-ujrainditasanak-kulcsa",
+    "description": "Áttörést hozhat az oltás?",
+    "image": "https://hargitanepe.ro/images/data/423x222/1773745617_0_06_juhok_LT.jpg",
+    "published": "2026-11-02T00:18:48.833928+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Jelentősen nőtt a fakitermelés a tavaly",
+    "link": "https://hargitanepe.ro/jelentosen-nott-a-fakitermeles-a-tavaly-2026-10-27",
+    "description": "Jelentősen nőtt a fakitermelés a tavaly",
+    "image": "https://hargitanepe.ro/images/data/423x222/1793093865_0__3_tuzifa_hirolyam.jpg",
+    "published": "2026-11-02T00:18:48.833759+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Több sertést és szárnyast,  kevesebb marhát és juhot vágtak",
+    "link": "https://hargitanepe.ro/tobb-sertest-es-szarnyast-kevesebb-marhat-es-juhot-vagtak-2026-10-27",
+    "description": "Több sertést és szárnyast,  kevesebb marhát és juhot vágtak",
+    "image": "https://hargitanepe.ro/images/data/423x222/1793094011_0__3_vagohid_ilusztr_arh_lfcs_hirolyam.jpg",
+    "published": "2026-11-02T00:18:48.833681+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Csíkszentsimon élt a lehetőséggel",
+    "link": "https://hargitanepe.ro/valtozas-az-elen-2026-10-27",
+    "description": "Csíkszentsimon élt a lehetőséggel",
+    "image": "https://hargitanepe.ro/images/data/423x222/1793083535_1_foci_kozmas-kaszon_2.jpg",
+    "published": "2026-11-02T00:18:48.833505+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] Uralkodói jelkép és a sírok dísze",
     "link": "https://hargitanepe.ro/krizantemtermesztes-a-csiki-hegyek-kozott-2026-10-27",
     "description": "Uralkodói jelkép és a sírok dísze",
@@ -1139,78 +1184,6 @@
     "description": "Megújult az APIA csíkszeredai székháza",
     "image": "https://hargitanepe.ro/images/data/423x222/1791982484_0_Apia_epitkezes_lfcs-3-.jpg",
     "published": "2026-10-28T04:19:27.544344+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Beszélgetés Albert-Homonnai Márton építésszel",
-    "link": "https://hargitanepe.ro/a-helyreallitasnak-egy-titka-van-jol-kell-csinalni",
-    "description": "Beszélgetés Albert-Homonnai Márton építésszel",
-    "image": "https://hargitanepe.ro/images/data/423x222/1791450013_0_adorjankuriaregi_web.jpg",
-    "published": "2026-10-27T21:52:11.654511+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Elsősorban a járvány által érintett megyékben immunizálják az állatokat",
-    "link": "https://hargitanepe.ro/elkezdodott-a-juhok-oltasa-de-hargita-megyeben-meg-varni-kell-2026-10-27",
-    "description": "Elsősorban a járvány által érintett megyékben immunizálják az állatokat",
-    "image": "https://hargitanepe.ro/images/data/423x222/1793087928_0_virag_juhokvn002_web.jpg",
-    "published": "2026-10-27T21:52:11.654260+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Gyorsítanák a diplomák honosítását",
-    "link": "https://hargitanepe.ro/tamogatnak-az-orvosok-hazatereset-2026-10-27",
-    "description": "Gyorsítanák a diplomák honosítását",
-    "image": "https://hargitanepe.ro/images/data/423x222/1793095870_0_Alexandru",
-    "published": "2026-10-27T21:52:11.653719+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Fordulat Szerbiában",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/vucsics-partja-veszitett-a-diakok-nyertek-a-valasztast-2026-10-27",
-    "description": "Fordulat Szerbiában",
-    "image": "https://hargitanepe.ro/images/data/423x222/1793089504_0_szerbiaivalasztasok_agerpres_19763035_web.jpg",
-    "published": "2026-10-27T21:52:11.653424+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Óvást emelt egy cég a közbeszerzés eredménye ellen",
-    "link": "https://hargitanepe.ro/hirek/hargita-megye/nem-hasznalhatok-a-konyvautomatak-2026-10-27",
-    "description": "Óvást emelt egy cég a közbeszerzés eredménye ellen",
-    "image": "https://hargitanepe.ro/assets/img/gallery-tag.svg",
-    "published": "2026-10-27T21:52:11.653359+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Egyéni előadás a Figuránál",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/egy-hoboc-kulonleges-utazasa-2026-10-27",
-    "description": "Egyéni előadás a Figuránál",
-    "image": "https://hargitanepe.ro/images/data/423x222/1793087675_1_gyergyo_figura_hoboc1_bszsz_web.jpg",
-    "published": "2026-10-27T21:52:11.653290+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Csíkszeredai műhely a nemzetközi porondon",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/vilagpiacra-lepne-a-delikates-couture-2026-10-27",
-    "description": "Csíkszeredai műhely a nemzetközi porondon",
-    "image": "https://hargitanepe.ro/images/data/423x222/1793088542_4_13_magazin_delikates_delikates4_okt_27.jpg",
-    "published": "2026-10-27T21:52:11.653220+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Elsősorban a járvány által érintett megyékben immunizálják az állatokat",
-    "link": "https://hargitanepe.ro/hirek/hargita-megye/elkezdodott-a-juhok-oltasa-de-hargita-megyeben-meg-varni-kell-2026-10-27",
-    "description": "Országszerte megkezdődött a juhok és kecskék immunizálása a kiskérődzők pestise (PPR), valamint a juh- és kecskehimlő (SGP) ellen. Stratégiai jelentőségük miatt a két dobrudzsai megyében mindkét betegség ellen oltanak, más megyékben viszont csak a juh- és kecskehimlő ellen immunizálnak. Hargita megye még nem kapott oltóanyagot.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1793087928_0_virag_juhokvn002_web.jpg",
-    "published": "2026-10-27T21:52:11.653135+00:00",
     "author": "Hargita Népe",
     "category": "Hargita Népe"
   }
