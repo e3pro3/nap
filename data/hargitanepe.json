@@ -1,5 +1,113 @@
 [
   {
+    "title": "[Hargita Népe] Beszélgetés Albert-Homonnai Márton építésszel",
+    "link": "https://hargitanepe.ro/a-helyreallitasnak-egy-titka-van-jol-kell-csinalni",
+    "description": "Beszélgetés Albert-Homonnai Márton építésszel",
+    "image": "https://hargitanepe.ro/images/data/423x222/1791450013_0_adorjankuriaregi_web.jpg",
+    "published": "2026-11-02T10:37:17.632145+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Tisztességesen helytállt a Rapid ellen az FK Csíkszereda",
+    "link": "https://hargitanepe.ro/a-vereseg-ellenere-biztato-a-jatek",
+    "description": "Tisztességesen helytállt a Rapid ellen az FK Csíkszereda",
+    "image": "https://hargitanepe.ro/images/data/423x222/1793599446_0_foci_FKRapid.jpg",
+    "published": "2026-11-02T10:37:17.631625+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Hét ponton belül",
+    "link": "https://hargitanepe.ro/szorossa-tett-mezony",
+    "description": "Hét ponton belül",
+    "image": "https://hargitanepe.ro/images/data/423x222/1793604298_0_hoki_bjahcsc.jpg",
+    "published": "2026-11-02T10:37:17.631571+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Sport röviden (11. 02.)",
+    "link": "https://hargitanepe.ro/sport-roviden-11-02",
+    "description": "Sport röviden (11. 02.)",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1781778310_0_sport.jpg",
+    "published": "2026-11-02T10:37:17.631513+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Különbségek és hasonlóságok a három megye szemétszállítási rendszereiben",
+    "link": "https://hargitanepe.ro/hulladekgazdalkodas-szekelyfoldi-viszonylatban",
+    "description": "Különbségek és hasonlóságok a három megye szemétszállítási rendszereiben",
+    "image": "https://hargitanepe.ro/images/data/423x222/1793349113_0_hulladekgazdalkodasbeszelgetes_hi01_web.jpg",
+    "published": "2026-11-02T10:37:17.631408+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Hajdó István emléke Gyergyószentmiklóson",
+    "link": "https://hargitanepe.ro/szonok-kozossegszervezo-es-kozszereplo",
+    "description": "Hajdó István emléke Gyergyószentmiklóson",
+    "image": "https://hargitanepe.ro/images/data/423x222/1793349847_0_gyergyo_torony_hajdoistvan_archivum.jpg",
+    "published": "2026-11-02T10:37:17.631339+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Kovászna, Hargita, Ialomița és Beszterce-Naszód megyében",
+    "link": "https://hargitanepe.ro/hirek/belfold/novembertol-uj-qr-kodos-nyugdijszelveny-2026-11-02",
+    "description": "Kovászna, Hargita, Ialomița és Beszterce-Naszód megyében",
+    "image": "https://hargitanepe.ro/images/data/423x222/1793612397_0_Harghita",
+    "published": "2026-11-02T10:37:17.630798+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Hét ponton belül",
+    "link": "https://hargitanepe.ro/hirek/hoki/szorossa-tett-mezony",
+    "description": "Hét ponton belül",
+    "image": "https://hargitanepe.ro/images/data/423x222/1793604298_0_hoki_bjahcsc.jpg",
+    "published": "2026-11-02T10:37:17.630733+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Jégre léphetnek az orosz hokisok",
+    "link": "https://hargitanepe.ro/hirek/hoki/nagy-lehet-a-kaosz",
+    "description": "Jégre léphetnek az orosz hokisok",
+    "image": "https://hargitanepe.ro/images/data/423x222/1793604504_0_hoki_oroszhoki.jpg",
+    "published": "2026-11-02T10:37:17.630669+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Túl van az odavágókon a 3. Liga",
+    "link": "https://hargitanepe.ro/hirek/foci/golig-sem-jutottak-el",
+    "description": "Túl van az odavágókon a 3. Liga",
+    "image": "https://hargitanepe.ro/images/data/423x222/1793604818_0_foci3Liga_RB_1031_HI.jpg",
+    "published": "2026-11-02T10:37:17.630603+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] A gyanúsítottakat kihallgatják",
+    "link": "https://hargitanepe.ro/hirek/orszag-vilag/tobb-mint-200-helyszinen-tart-hazkutatast-a-rendorseg-2026-11-02",
+    "description": "A gyanúsítottakat kihallgatják",
+    "image": "https://hargitanepe.ro/images/data/423x222/1781203318_0_04_rendorsegihir_DSCF8258_web.jpg",
+    "published": "2026-11-02T10:37:17.630534+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Finisben a csíksomlyói kegytemplom felújítása",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/megujultak-a-hitet-orzo-falak",
+    "description": "A végéhez közeledik a csíksomlyói kegytemplom három éve tartó felújítása. Az állványzatot takaró ponyvát már eltávolították, néhány napon belül az állványokat is lebontják, így a templom ismét teljes egészében látható lesz.",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1793602715_0_01_alulra_05_kegytemplom_munkalatok_lfcs-1-_cm.jpg",
+    "published": "2026-11-02T10:37:17.630403+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] Egy régi kályha megmentett darabja a csíkbánkfalvi Malomházban",
     "link": "https://hargitanepe.ro/csempebe-zart-mult",
     "description": "Egy régi kályha megmentett darabja a csíkbánkfalvi Malomházban",
@@ -1157,33 +1265,6 @@
     "description": "Animációs kuckóval bővült a Székelyudvarhely melletti Szejkefürdőn található Mini Erdély Park által kínált szórakozási lehetőségek sora. Az újdonságot az animáció világnapjára nyitották meg.",
     "image": "https://hargitanepe.ro/images/data/1200x630/1793176168_0_legendariummesekucko_hi01_web.jpg",
     "published": "2026-10-28T12:14:07.589834+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Kutyák, macskák veszettség elleni oltási kampánya",
-    "link": "https://hargitanepe.ro/fontos-a-megelozes-mar-a-kozelben-a-kor",
-    "description": "Kutyák, macskák veszettség elleni oltási kampánya",
-    "image": "https://hargitanepe.ro/images/data/423x222/1789552674_0__3_veszettseg_egeszsegugyi",
-    "published": "2026-10-28T04:19:27.544449+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Székelyföldi gyógynövényágazat – termelés, gyűjtés, szabályozás",
-    "link": "https://hargitanepe.ro/a-termohelytol-a-piacig",
-    "description": "Székelyföldi gyógynövényágazat – termelés, gyűjtés, szabályozás",
-    "image": "https://hargitanepe.ro/images/data/423x222/1789553543_0__2_3_gyogynovenyek_foto_LT",
-    "published": "2026-10-28T04:19:27.544420+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Megújult az APIA csíkszeredai székháza",
-    "link": "https://hargitanepe.ro/korszerubb-korulmenyek-kozott-fogadjak-a-gazdakat",
-    "description": "Megújult az APIA csíkszeredai székháza",
-    "image": "https://hargitanepe.ro/images/data/423x222/1791982484_0_Apia_epitkezes_lfcs-3-.jpg",
-    "published": "2026-10-28T04:19:27.544344+00:00",
     "author": "Hargita Népe",
     "category": "Hargita Népe"
   }
