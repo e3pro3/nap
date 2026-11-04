@@ -1,5 +1,140 @@
 [
   {
+    "title": "[Hargita Népe] Melyik évtizedben történt?",
+    "link": "https://hargitanepe.ro/csaladi",
+    "description": "Melyik évtizedben történt?",
+    "image": "https://hargitanepe.ro/images/data/423x222/1712915204_csaladi_kviz_webre.jpg",
+    "published": "2026-11-04T19:26:18.305213+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Napi kvíz",
+    "link": "https://hargitanepe.ro/kviz",
+    "description": "Napi kvíz",
+    "image": "https://hargitanepe.ro/images/data/423x222/1671456199_WhatsApp3.jpeg",
+    "published": "2026-11-04T19:26:18.305175+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Aki nem fizet, víz nélkül marad(hat)",
+    "link": "https://hargitanepe.ro/kozel-negymillio-lejjel-tartoznak-a-harviznek",
+    "description": "Aki nem fizet, víz nélkül marad(hat)",
+    "image": "https://hargitanepe.ro/images/data/423x222/1793776176_0_parajdiharvizpenztar_hi02_web.jpg",
+    "published": "2026-11-04T19:26:18.305004+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Készülnek a télre Székelyudvarhelyen",
+    "link": "https://hargitanepe.ro/csuszasgatlas-ujratoltve",
+    "description": "Készülnek a télre Székelyudvarhelyen",
+    "image": "https://hargitanepe.ro/images/data/423x222/1793776825_0_homokoslada_2_web.jpg",
+    "published": "2026-11-04T19:26:18.304969+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Dél-erdélyi gyorsforgalom",
+    "link": "https://hargitanepe.ro/jovore-tolodik-az-atadas-2026-11-04",
+    "description": "Dél-erdélyi gyorsforgalom",
+    "image": "https://hargitanepe.ro/images/data/423x222/1791443875_0_a8autopalya_cnir_261007_web.jpg",
+    "published": "2026-11-04T19:26:18.304895+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Értesítés",
+    "link": "https://hargitanepe.ro/ertesites",
+    "description": "Értesítés",
+    "image": "https://hargitanepe.ro/images/data/423x222/1785999443_0_bejelentes_kek.jpg",
+    "published": "2026-11-04T19:26:18.304860+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Folyamatos az ifjúsági lakások értékesítése Csíkszeredában",
+    "link": "https://hargitanepe.ro/ujabb-berlok-jeleztek-vasarlasi-szandekukat",
+    "description": "Folyamatos az ifjúsági lakások értékesítése Csíkszeredában",
+    "image": "https://hargitanepe.ro/images/data/423x222/1793788585_0_ANLlakasok_lfcs-3-_web.jpg",
+    "published": "2026-11-04T19:26:18.304822+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Borszéki tömegközlekedés",
+    "link": "https://hargitanepe.ro/idoigenyes-burokracia",
+    "description": "Borszéki tömegközlekedés",
+    "image": "https://hargitanepe.ro/images/data/423x222/1793789662_0_gyergyo_borszek_elektromosbuszok1_borszekiph_web.jpg",
+    "published": "2026-11-04T19:26:18.304782+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Nem jár szabadnap a szülőknek a tanévnyitó napján",
+    "link": "https://hargitanepe.ro/nem-jar-szabadnap-a-szuloknek-a-tanevnyito-napjan-2026-11-04",
+    "description": "Nem jár szabadnap a szülőknek a tanévnyitó napján",
+    "image": "https://hargitanepe.ro/images/data/423x222/1788762152_0_01_iskolakezdes_hi05_cm.jpg",
+    "published": "2026-11-04T19:26:18.304719+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Megújultak a Solymosok kultúrházai",
+    "link": "https://hargitanepe.ro/hirek/udvarhelyszek/modernizalt-kozepuletek-kis-es-nagysolymoson",
+    "description": "Megújultak a Solymosok kultúrházai",
+    "image": "https://hargitanepe.ro/images/data/423x222/1793790891_0_kissolymosimuvelodesiotthon_hi02_web.jpg",
+    "published": "2026-11-04T19:26:18.304597+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Új víznyelők a Decemberi forradalom utcában",
+    "link": "https://hargitanepe.ro/hirek/csikszek/orokos-gondot-orvosolnak",
+    "description": "Új víznyelők a Decemberi forradalom utcában",
+    "image": "https://hargitanepe.ro/images/data/423x222/1793791213_0_decemberi_forradalom_esoviz_TEE2_web.jpg",
+    "published": "2026-11-04T19:26:18.304558+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Emlékkonferenciával idézik fel a menasági matematikus munkásságát",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/a-csiki-tudos-aki-megfejtette-bolyai-titkait",
+    "description": "Emlékkonferenciával idézik fel a menasági matematikus munkásságát",
+    "image": "https://hargitanepe.ro/images/data/423x222/1793792337_0_06_KissElemeremlekkonferencia_plakat_cm.jpg",
+    "published": "2026-11-04T19:26:18.304495+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Szellemi műhely a magyar tudomány ünnepén Gyergyószentmiklóson",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/torteneszkonferencia-a-magyar-nyelvu-oktatasrol",
+    "description": "Szellemi műhely a magyar tudomány ünnepén Gyergyószentmiklóson",
+    "image": "https://hargitanepe.ro/images/data/423x222/1793792595_0_gyergyo_torteneszkonferencia1_bszsz_web.jpg",
+    "published": "2026-11-04T19:26:18.304456+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Az Európai Bizottság jelentése a romák társadalmi integrációjáról",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/lassan-halad-a-felzarkoztatas",
+    "description": "Az Európai Bizottság jelentése a romák társadalmi integrációjáról",
+    "image": "https://hargitanepe.ro/images/data/423x222/1793793151_0_tavaszutca_vn_001_web.jpg",
+    "published": "2026-11-04T19:26:18.304390+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Beszélgetés Lokodi Istvánnal, a Csíkszeredai Hallgatói Önkormányzat elnökével",
+    "link": "https://hargitanepe.ro/hirek/sapi-nepe/friss-vezetokent-egy-uj-tanevben",
+    "description": "Friss lendület, új ötletek, izgalommal teli várakozás. A Hallgatói Önkormányzat (HÖK) elnökével beszélgettünk idei terveikről, a készülő programokról és a hallgatók bevonásának lehetőségeiről.",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1793796026_0_HOK.jpg",
+    "published": "2026-11-04T19:26:18.304298+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] Építészet, természet, közösség és közös alkotás találkozott",
     "link": "https://hargitanepe.ro/negy-tabor-sok-tapasztalat",
     "description": "Építészet, természet, közösség és közös alkotás találkozott",
@@ -950,132 +1085,6 @@
     "description": "Énekesként a pillanat varázsát éli meg, keramikusként pedig lassú, aprólékos munkával alkot maradandót Dánél Kristóf, a Kika Kerámia megálmodója, aki édesapja fazekasműhelyében leste el az alapokat, ma pedig már nemzetközi követőtábornak mutatja meg a magastüzű agyag formálását. A fiatal alkotóval a zene és az agyagozás harmóniájáról, egyedi technikákról és a kézműves tárgyak lelkéről beszélgettünk.",
     "image": "https://hargitanepe.ro/images/data/1200x630/1793351553_0_portre_cimlap.jpg",
     "published": "2026-10-30T21:58:32.498613+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Legtöbben fehér krizantémot választanak",
-    "link": "https://hargitanepe.ro/viragzo-kinalat-novekvo-koltsegek",
-    "description": "Legtöbben fehér krizantémot választanak",
-    "image": "https://hargitanepe.ro/images/data/423x222/1793340842_0_viragok_lfcs-2-_web.jpg",
-    "published": "2026-10-30T17:45:53.271536+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Előzetes letartóztatásban marad a csíkdánfalvi cserbenhagyásos gázolás gyanúsítottja",
-    "link": "https://hargitanepe.ro/elozetes-letartoztatasban-marad-a-csikdanfalvi-cserbenhagyasos-gazolas-gyanusitottja",
-    "description": "Előzetes letartóztatásban marad a csíkdánfalvi cserbenhagyásos gázolás gyanúsítottja",
-    "image": "https://hargitanepe.ro/images/data/423x222/1791442289_1_bilincs_vn_003_web.jpg",
-    "published": "2026-10-30T17:45:53.271451+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Új elektromos buszokkal gazdagodhat Székelyudvarhely",
-    "link": "https://hargitanepe.ro/falvakra-is-terjeszkedhet-az-urbana",
-    "description": "Új elektromos buszokkal gazdagodhat Székelyudvarhely",
-    "image": "https://hargitanepe.ro/images/data/423x222/1793341987_0_02_elektromosbuszok_hi04_cm.jpg",
-    "published": "2026-10-30T17:45:53.271350+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Három intézmény visszaköltözhet a nemrégiben korszerűsített épületbe",
-    "link": "https://hargitanepe.ro/kulcsatado-a-havi-megyei-testuleti-ulesen",
-    "description": "Három intézmény visszaköltözhet a nemrégiben korszerűsített épületbe",
-    "image": "https://hargitanepe.ro/assets/img/gallery-tag.svg",
-    "published": "2026-10-30T17:45:53.271230+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Önállósodó szolgáltatók, magasabb díjszabás",
-    "link": "https://hargitanepe.ro/egyre-dragabb-a-vezetekes-viz",
-    "description": "Önállósodó szolgáltatók, magasabb díjszabás",
-    "image": "https://hargitanepe.ro/images/data/423x222/1793344535_2_remeteivizhaz_gyergyoremeteiph_03_web.jpg",
-    "published": "2026-10-30T17:45:53.271118+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Nem ihatók az Udvarhely környéki forrásvizek",
-    "link": "https://hargitanepe.ro/nem-ihatok-az-udvarhely-kornyeki-forrasvizek",
-    "description": "Nem ihatók az Udvarhely környéki forrásvizek",
-    "image": "https://hargitanepe.ro/images/data/423x222/1793345149_0_02_forrasvizek_helyzete_szekelyudvarhely_sb3_web.jpg",
-    "published": "2026-10-30T17:45:53.271031+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Csökkent a munkanélküliségi ráta Romániában",
-    "link": "https://hargitanepe.ro/csokkent-a-munkanelkulisegi-rata-romaniaban-2026-10-30",
-    "description": "Csökkent a munkanélküliségi ráta Romániában",
-    "image": "https://hargitanepe.ro/images/data/423x222/1793349799_0_A.J.O.F.M.",
-    "published": "2026-10-30T17:45:53.270938+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Szombat reggeltől havazni fog a Déli-Kárpátokban, 15–25 centiméteres hóréteg rakódhat le",
-    "link": "https://hargitanepe.ro/szombat-reggeltol-havazni-fog-a-deli-karpatokban-1525-centimeteres-horeteg-rakodhat-le-2026-10-30",
-    "description": "Szombat reggeltől havazni fog a Déli-Kárpátokban, 15–25 centiméteres hóréteg rakódhat le",
-    "image": "https://hargitanepe.ro/images/data/423x222/1792069978_0_madarasihargitahavazas_gyoppanzwebkamera_web.jpg",
-    "published": "2026-10-30T17:45:53.270841+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Bukarestben tüntetnek az állatvédő egyesületek képviselői a kóbor kutyákkal szembeni kegyetlen bánásmód miatt",
-    "link": "https://hargitanepe.ro/bukarestben-tuntetnek-az-allatvedo-egyesuletek-kepviseloi-a-kobor-kutyakkal-szembeni-kegyetlen-banasmod-miatt-2026-10-30",
-    "description": "Bukarestben tüntetnek az állatvédő egyesületek képviselői a kóbor kutyákkal szembeni kegyetlen bánásmód miatt",
-    "image": "https://hargitanepe.ro/images/data/423x222/1754562579_06_kutyabegyujtes_szekelyudvarhely2_web.JPG",
-    "published": "2026-10-30T17:45:53.270742+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Előrelépés a Farcád felé tervezett vízvezeték és a szerencsejáték-szabályozás ügyében",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/bevasarlokozpont-lehet-a-penznyelok-otthona",
-    "description": "Előrelépés a Farcád felé tervezett vízvezeték és a szerencsejáték-szabályozás ügyében",
-    "image": "https://hargitanepe.ro/images/data/423x222/1793345612_0_tanacsulesoktober_hi04_web.jpg",
-    "published": "2026-10-30T17:45:53.270291+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] A csíkszeredai képviselő-testület döntött",
-    "link": "https://hargitanepe.ro/hirek/hargita-megye/uj-villanyhalozat-epul-szecsenyben",
-    "description": "A csíkszeredai képviselő-testület döntött",
-    "image": "https://hargitanepe.ro/images/data/423x222/1793371019_0_tanacsules.jpeg",
-    "published": "2026-10-30T17:45:53.270077+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Különbségek és hasonlóságok a három megye szemétszállítási rendszereiben",
-    "link": "https://hargitanepe.ro/hirek/hargita-megye/hulladekgazdalkodas-szekelyfoldi-viszonylatban",
-    "description": "Különbségek és hasonlóságok a három megye szemétszállítási rendszereiben",
-    "image": "https://hargitanepe.ro/images/data/423x222/1793349113_0_hulladekgazdalkodasbeszelgetes_hi01_web.jpg",
-    "published": "2026-10-30T17:45:53.269923+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Hajdó István emléke Gyergyószentmiklóson",
-    "link": "https://hargitanepe.ro/hirek/gyergyoszek/szonok-kozossegszervezo-es-kozszereplo",
-    "description": "Hajdó István emléke Gyergyószentmiklóson",
-    "image": "https://hargitanepe.ro/images/data/423x222/1793349847_0_gyergyo_torony_hajdoistvan_archivum.jpg",
-    "published": "2026-10-30T17:45:53.269820+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Püspöki vizitáció Homoródújfaluban",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/a-kozosseg-jelenerol-es-jovojerol",
-    "description": "A homoródújfalvi unitárius gyülekezetbe látogatott Kovács István püspök és a püspöki vizitáció küldöttsége vasárnap. A látogatás során az egyházközség életét, a templom felújításának lehetőségeit és a közösség jövőjét érintő kérdéseket is megvitatták.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1793350408_0_puspokivizitacio_Homorodujfalu_foto_PapZoltan.jpg",
-    "published": "2026-10-30T17:45:53.269706+00:00",
     "author": "Hargita Népe",
     "category": "Hargita Népe"
   }
