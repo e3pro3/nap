@@ -5,9 +5,53 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Wed, 04 Nov 2026 19:26:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 01:18:38 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Megújultak a Solymosok kultúrházai</title>
+      <link>https://hargitanepe.ro/modernizalt-kozepuletek-kis-es-nagysolymoson</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/modernizalt-kozepuletek-kis-es-nagysolymoson</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1793790891_0_kissolymosimuvelodesiotthon_hi02_web.jpg" /><br/>Megújultak a Solymosok kultúrházai]]></description>
+      <pubDate>Thu, 05 Nov 2026 01:18:38 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1793790891_0_kissolymosimuvelodesiotthon_hi02_web.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1793790891_0_kissolymosimuvelodesiotthon_hi02_web.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Különleges égi vendég</title>
+      <link>https://hargitanepe.ro/hirek/szines/magyar-csillagasz-azonositotta-a-fold-ujabb-atmeneti-kiserojet</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/hirek/szines/magyar-csillagasz-azonositotta-a-fold-ujabb-atmeneti-kiserojet</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1793795684_1_13_magazin_minihold_KissLaszloNASAJPLHorizons2_nov_4.jpg" /><br/>Különleges égi vendég]]></description>
+      <pubDate>Thu, 05 Nov 2026 01:18:38 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1793795684_1_13_magazin_minihold_KissLaszloNASAJPLHorizons2_nov_4.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1793795684_1_13_magazin_minihold_KissLaszloNASAJPLHorizons2_nov_4.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Franciaország csak a kezdet? Egyre intenzívebb zavargások jöhetnek Európában</title>
+      <link>https://maszol.ro/videok/Franciaorszag-csak-a-kezdet-Egyre-intenzivebb-zavargasok-johetnek-Europaban</link>
+      <guid isPermaLink="true">https://maszol.ro/videok/Franciaorszag-csak-a-kezdet-Egyre-intenzivebb-zavargasok-johetnek-Europaban</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_oktober/30/video_sdss.png" /><br/>Franciaország csak a kezdet? Egyre intenzívebb zavargások jöhetnek Európában]]></description>
+      <pubDate>Thu, 05 Nov 2026 01:18:37 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_oktober/30/video_sdss.png" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_oktober/30/video_sdss.png" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Európai Bizottság: Brüsszelben tárgyaltak Ukrajna háború utáni újjáépítésének lehetőségeiről</title>
+      <link>https://maszol.ro/kulfold/Europai-Bizottsag-Brusszelben-targyaltak-Ukrajna-haboru-utani-ujjaepitesenek-lehetosegeirol</link>
+      <guid isPermaLink="true">https://maszol.ro/kulfold/Europai-Bizottsag-Brusszelben-targyaltak-Ukrajna-haboru-utani-ujjaepitesenek-lehetosegeirol</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_november_/04/cikksmall_ukrajna_volodimir_zelenszkij_fboldala_(1)_(1).jpg" /><br/>Európai Bizottság: Brüsszelben tárgyaltak Ukrajna háború utáni újjáépítésének lehetőségeiről]]></description>
+      <pubDate>Thu, 05 Nov 2026 01:18:37 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_november_/04/cikksmall_ukrajna_volodimir_zelenszkij_fboldala_(1)_(1).jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_november_/04/cikksmall_ukrajna_volodimir_zelenszkij_fboldala_(1)_(1).jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Melyik évtizedben történt?</title>
       <link>https://hargitanepe.ro/csaladi</link>
@@ -403,50 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_november_/04/cikk_cenavoda_nuclearelectrica.jpg" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_november_/04/cikk_cenavoda_nuclearelectrica.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Tíz kiadás, számtalan találkozás: jubileumhoz érkezett az Interferenciák színházi fesztivál</title>
-      <link>https://maszol.ro/kultura/Tiz-kiadas-szamtalan-talalkozas-jubileumhoz-erkezett-az-Interferenciak-szinhazi-fesztival</link>
-      <guid isPermaLink="true">https://maszol.ro/kultura/Tiz-kiadas-szamtalan-talalkozas-jubileumhoz-erkezett-az-Interferenciak-szinhazi-fesztival</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_november_/04/cikk_Timeline_1_01_00_31_17.jpg" /><br/>14 ország 25 produkciója mutatkozik be a 10. Interferenciák Nemzetközi Színházi Fesztiválon, november 10. és november 22. között Kolozsváron.]]></description>
-      <pubDate>Wed, 04 Nov 2026 19:26:16 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_november_/04/cikk_Timeline_1_01_00_31_17.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_november_/04/cikk_Timeline_1_01_00_31_17.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Kisebb az esélye egy nagyobb omlásnak Parajdon, de meghosszabbították a vészhelyzetet</title>
-      <link>https://maszol.ro/belfold/Kisebb-az-eselye-egy-nagyobb-omlasnak-Parajdon-de-meghosszabbitottak-a-veszhelyzetet</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Kisebb-az-eselye-egy-nagyobb-omlasnak-Parajdon-de-meghosszabbitottak-a-veszhelyzetet</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_november_/04/cikk_Parajd_Farkas_Endre.jpg" /><br/>Újabb 30 nappal, november 6-tól december 5-ig meghosszabbították a vészhelyzetet Parajdon.]]></description>
-      <pubDate>Wed, 04 Nov 2026 19:26:16 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_november_/04/cikk_Parajd_Farkas_Endre.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_november_/04/cikk_Parajd_Farkas_Endre.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Amerika félidőben üzent Trumpnak</title>
-      <link>https://maszol.ro/kulfold/Amerika-felidoben-uzent-Trumpnak</link>
-      <guid isPermaLink="true">https://maszol.ro/kulfold/Amerika-felidoben-uzent-Trumpnak</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_november_/04/cikk_agerpres_19785177.jpg" /><br/>Amerika félidőben üzent Trumpnak]]></description>
-      <pubDate>Wed, 04 Nov 2026 19:26:15 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_november_/04/cikk_agerpres_19785177.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_november_/04/cikk_agerpres_19785177.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Építészet, természet, közösség és közös alkotás találkozott</title>
-      <link>https://hargitanepe.ro/negy-tabor-sok-tapasztalat</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/negy-tabor-sok-tapasztalat</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1790249751_0_martonildiko2.jpg" /><br/>Építészet, természet, közösség és közös alkotás találkozott]]></description>
-      <pubDate>Wed, 04 Nov 2026 10:31:29 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1790249751_0_martonildiko2.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1790249751_0_martonildiko2.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
