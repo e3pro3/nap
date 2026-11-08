@@ -5,9 +5,31 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Sat, 07 Nov 2026 21:29:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 04:45:53 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Székelyföldi gyógynövényágazat – termelés, gyűjtés, szabályozás</title>
+      <link>https://hargitanepe.ro/a-termohelytol-a-piacig</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/a-termohelytol-a-piacig</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1789553543_0__2_3_gyogynovenyek_foto_LT" /><br/>Székelyföldi gyógynövényágazat – termelés, gyűjtés, szabályozás]]></description>
+      <pubDate>Sun, 08 Nov 2026 04:45:53 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1789553543_0__2_3_gyogynovenyek_foto_LT" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1789553543_0__2_3_gyogynovenyek_foto_LT" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Megújult az APIA csíkszeredai székháza</title>
+      <link>https://hargitanepe.ro/korszerubb-korulmenyek-kozott-fogadjak-a-gazdakat</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/korszerubb-korulmenyek-kozott-fogadjak-a-gazdakat</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1791982484_0_Apia_epitkezes_lfcs-3-.jpg" /><br/>Megújult az APIA csíkszeredai székháza]]></description>
+      <pubDate>Sun, 08 Nov 2026 04:45:53 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1791982484_0_Apia_epitkezes_lfcs-3-.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1791982484_0_Apia_epitkezes_lfcs-3-.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Nem a trendektől lesz otthon az otthon</title>
       <link>https://hargitanepe.ro/belsoepiteszeti-alapelvek-amelyek-hosszu-tavon-is-mukodnek</link>
@@ -425,28 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/video/video_paradicsomleves_1024.jpg" medium="image"/>
       <enclosure url="https://maszol.ro/resized/video/video_paradicsomleves_1024.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Kitűzték az időpontot – Magánszemélyek igényelhetik az energia-tároló rendszerekre a támogatást</title>
-      <link>https://maszol.ro/belfold/Kituztek-az-idopontot-Maganszemelyek-igenyelhetik-az-energia-tarolo-rendszerekre-a-tamogatast</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Kituztek-az-idopontot-Maganszemelyek-igenyelhetik-az-energia-tarolo-rendszerekre-a-tamogatast</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_november_/06/cikksmall_napelem_szerelo_Pexels.jpg" /><br/>Kitűzték az időpontot – Magánszemélyek igényelhetik az energia-tároló rendszerekre a támogatást]]></description>
-      <pubDate>Sat, 07 Nov 2026 09:39:45 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_november_/06/cikksmall_napelem_szerelo_Pexels.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_november_/06/cikksmall_napelem_szerelo_Pexels.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] „Nem meggazdagodni akarok, hanem értékeset alkotni” – interjú Szabó Kálmán pálinkafőzővel</title>
-      <link>https://maszol.ro/gazdasag/Nem-meggazdagodni-akarok-hanem-ertekeset-alkotni-interju-Szabo-Kalman-kezdivasarhelyi-palinkafozovee</link>
-      <guid isPermaLink="true">https://maszol.ro/gazdasag/Nem-meggazdagodni-akarok-hanem-ertekeset-alkotni-interju-Szabo-Kalman-kezdivasarhelyi-palinkafozovee</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_oktober/28/cikksmall_05palinka.jpg" /><br/>„Nem meggazdagodni akarok, hanem értékeset alkotni” – interjú Szabó Kálmán pálinkafőzővel]]></description>
-      <pubDate>Sat, 07 Nov 2026 09:39:45 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_oktober/28/cikksmall_05palinka.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_oktober/28/cikksmall_05palinka.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
