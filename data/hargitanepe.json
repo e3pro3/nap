@@ -1,5 +1,41 @@
 [
   {
+    "title": "[Hargita Népe] Melyik évtizedben történt?",
+    "link": "https://hargitanepe.ro/csaladi",
+    "description": "Melyik évtizedben történt?",
+    "image": "https://hargitanepe.ro/images/data/423x222/1712915204_csaladi_kviz_webre.jpg",
+    "published": "2026-11-10T06:10:24.753782+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Napi kvíz",
+    "link": "https://hargitanepe.ro/kviz",
+    "description": "Napi kvíz",
+    "image": "https://hargitanepe.ro/images/data/423x222/1671456199_WhatsApp3.jpeg",
+    "published": "2026-11-10T06:10:24.753727+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Elkalapálták Balánbányán a Vasast",
+    "link": "https://hargitanepe.ro/elkalapaltak-balanbanyan-a-vasast",
+    "description": "Mindössze egy találkozót rendeztek a hétvégén a labdarúgó 4. Liga Hargita megyei kiírásában. Udvarhelyszéken az 5. és a 6. ligában is teljes fordulót rendeztek, Csíkszéken viszont csak a 6. ligás csapatok játszottak bajnokit. A Román Kupa megyei szakaszában még három találkozót rendeztek a hétvégén.",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1794257256_1_foci_kozmasdanfalva_2.jpg",
+    "published": "2026-11-10T06:10:24.753504+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Csak egy mérkőzés volt a megyei bajnokságban",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/elkalapaltak-balanbanyan-a-vasast",
+    "description": "Mindössze egy találkozót rendeztek a hétvégén a labdarúgó 4. Liga Hargita megyei kiírásában. Udvarhelyszéken az 5. és a 6. ligában is teljes fordulót rendeztek, Csíkszéken viszont csak a 6. ligás csapatok játszottak bajnokit. A Román Kupa megyei szakaszában még három találkozót rendeztek a hétvégén.",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1794257256_1_foci_kozmasdanfalva_2.jpg",
+    "published": "2026-11-10T06:10:24.752814+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] Ládák, levelek, történetek…",
     "link": "https://hargitanepe.ro/a-targyaknak-emlekezetuk-van",
     "description": "Ládák, levelek, történetek…",
@@ -1067,24 +1103,6 @@
     "description": "A zetelaki Kultúrcsepp önképző kör legutóbbi előadásán Demeter Sándor Lóránd, a székelyudvarhelyi Dávid Ferenc téri unitárius egyházközösség lelkésze Vigasztaló című könyve kapcsán a gyászfeldolgozásról beszélt. Az előadás után a gyász folyamatairól, a lelkész, a család és a közösség vigasztalásban való szerepéről beszélgettünk vele.",
     "image": "https://hargitanepe.ro/images/data/1200x630/1793798196_0_interju_demeter_sandor_lorand_gyaszfeldolgozas_dsl_web.jpg",
     "published": "2026-11-05T10:24:56.051114+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Megújultak a Solymosok kultúrházai",
-    "link": "https://hargitanepe.ro/modernizalt-kozepuletek-kis-es-nagysolymoson",
-    "description": "Megújultak a Solymosok kultúrházai",
-    "image": "https://hargitanepe.ro/images/data/423x222/1793790891_0_kissolymosimuvelodesiotthon_hi02_web.jpg",
-    "published": "2026-11-05T01:18:38.199889+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Különleges égi vendég",
-    "link": "https://hargitanepe.ro/hirek/szines/magyar-csillagasz-azonositotta-a-fold-ujabb-atmeneti-kiserojet",
-    "description": "Különleges égi vendég",
-    "image": "https://hargitanepe.ro/images/data/423x222/1793795684_1_13_magazin_minihold_KissLaszloNASAJPLHorizons2_nov_4.jpg",
-    "published": "2026-11-05T01:18:38.199468+00:00",
     "author": "Hargita Népe",
     "category": "Hargita Népe"
   }
