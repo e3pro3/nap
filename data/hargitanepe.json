@@ -1,5 +1,59 @@
 [
   {
+    "title": "[Hargita Népe] Közös ügy",
+    "link": "https://hargitanepe.ro/ma-van-a-tudomany-a-bekeert-es-a-fejlodesert-vilagnapja",
+    "description": "Közös ügy",
+    "image": "https://hargitanepe.ro/images/data/423x222/1794302017_0_13_magazin_tudomany_magnific2_nov_10.jpg",
+    "published": "2026-11-10T22:53:48.893177+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Kamarazenei ráadás, irodalmi élmény",
+    "link": "https://hargitanepe.ro/a-magyar-nyelv-napjat-unneplik-szekelyudvarhelyen",
+    "description": "Kamarazenei ráadás, irodalmi élmény",
+    "image": "https://hargitanepe.ro/images/data/423x222/1794302632_0_kamarazene_1_Fb_web.jpg",
+    "published": "2026-11-10T22:53:48.893112+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Súlyos vádak",
+    "link": "https://hargitanepe.ro/a-szent-pantelimon-korhaz-negy-orvosat-allitjak-birosag-ele-a-paciensek-halalanak-szandekos-eloidezese-miatt-2026-11-10",
+    "description": "Súlyos vádak",
+    "image": "https://hargitanepe.ro/images/data/423x222/1779395180_0_09_korhaz_korhazvn",
+    "published": "2026-11-10T22:53:48.892965+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Modern épületben tanulhat jövőtől ötvenegy diák",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/felujitjak-a-kissolymosi-altalanos-iskolat",
+    "description": "Modern épületben tanulhat jövőtől ötvenegy diák",
+    "image": "https://hargitanepe.ro/images/data/423x222/1794307664_0_kissolymosiiskola_hi01_web.jpg",
+    "published": "2026-11-10T22:53:48.892500+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Kézdivásárhelyi siker",
+    "link": "https://hargitanepe.ro/hirek/szines/a-noo-rule-tarolt-az-idei-legszebb-erdelyi-magyar-dal-dontojen",
+    "description": "Kézdivásárhelyi siker",
+    "image": "https://hargitanepe.ro/images/data/423x222/1794307963_0_13_magazin_fent_dijatado_fb2_nov_10.jpg",
+    "published": "2026-11-10T22:53:48.892430+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Beszélgetés Nagy István Gábor díszműkováccsal, kovácsoktatóval",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/vasba-zart-ido-egy-mesterseg-amely-nem-akar-eltunni",
+    "description": "Napjainkban a kovácsmesterséget eltűnőfélben lévő szakmának tartják, de vannak még helyek, ahol ez a sok évezredes hivatás épp most éli újabb kori reneszánszát. Nagy István Gábor nem csupán e múlófélben lévő mesterség egyik képviselője, hanem művészi szintre is emelte azt: díszműkovácsként alkot. Arról kérdeztük, hogyan és miért.",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1794229249_0_kovacsmester_nagy_istvan_gabor_lfcs-3-_web.jpg",
+    "published": "2026-11-10T22:53:48.892344+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] Síoverál Székelyföldre: így választok a hideghez és a mozgáshoz",
     "link": "https://hargitanepe.ro/sioveral-szekelyfoldre-igy-valasztok-a-hideghez-es-a-mozgashoz-2026-11-10",
     "description": "Síoverál Székelyföldre: így választok a hideghez és a mozgáshoz",
@@ -1058,78 +1112,6 @@
     "description": "Közel 500 ellenőrzést végzett idén a környezetőrség",
     "image": "https://hargitanepe.ro/images/data/423x222/1793869571_0_854174054_1443583877964360_1559463616895129447_n.jpg",
     "published": "2026-11-06T01:23:19.736858+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Ingyenes prosztatarákszűrés a Csíkszeredai Megyei Sürgősségi Kórházban",
-    "link": "https://hargitanepe.ro/ferfias-ugy",
-    "description": "Ingyenes prosztatarákszűrés a Csíkszeredai Megyei Sürgősségi Kórházban",
-    "image": "https://hargitanepe.ro/images/data/423x222/1793863705_0_bajuszoskenyer_lfcs-10-_web.jpg",
-    "published": "2026-11-05T19:35:03.250759+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Élménypark Zsögödfürdőn",
-    "link": "https://hargitanepe.ro/megkapta-az-epitesi-engedelyt-a-dracula-park",
-    "description": "Élménypark Zsögödfürdőn",
-    "image": "https://hargitanepe.ro/images/data/423x222/1793865056_0_draculapark_epitesiengedely_arh1_web.jpg",
-    "published": "2026-11-05T19:35:03.250718+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Arany oklevél a Hagyományőrzési Forrásközpontnak",
-    "link": "https://hargitanepe.ro/ertekteremto-kozossegi-munkaert-jar-az-elismeres",
-    "description": "Arany oklevél a Hagyományőrzési Forrásközpontnak",
-    "image": "https://hargitanepe.ro/images/data/423x222/1793865643_0_arany_oklevel_forraskozpont_Fb_web.jpg",
-    "published": "2026-11-05T19:35:03.250691+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Régi-új államtitkárok",
-    "link": "https://hargitanepe.ro/regi-uj-allamtitkarok-2026-11-05",
-    "description": "Régi-új államtitkárok",
-    "image": "https://hargitanepe.ro/images/data/423x222/1791224601_0_Luca_miniszterelnok.jpg",
-    "published": "2026-11-05T19:35:03.250662+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] A Sanitas konkrét intézkedéseket vár",
-    "link": "https://hargitanepe.ro/a-sanitas-konkret-intezkedeseket-var-2026-11-05",
-    "description": "A Sanitas konkrét intézkedéseket vár",
-    "image": "https://hargitanepe.ro/images/data/423x222/1785225360_0_02_Surgosseg_korhaz_lfcs",
-    "published": "2026-11-05T19:35:03.250632+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Csütörtöktől átfogó ellenőrzéseket rendelt el Alexandru Rogobete egészségügyi miniszter",
-    "link": "https://hargitanepe.ro/alneven-probalt-korhazi-idopontot-foglalni-a-miniszter-2026-11-05",
-    "description": "Csütörtöktől átfogó ellenőrzéseket rendelt el Alexandru Rogobete egészségügyi miniszter",
-    "image": "https://hargitanepe.ro/images/data/423x222/1793876458_0_Alexandru",
-    "published": "2026-11-05T19:35:03.250600+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Hargita megyei énekesek az X-Faktor színpadán",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/elo-show-ba-jutott-olah-vivien-es-kristof-rebeka",
-    "description": "Hargita megyei énekesek az X-Faktor színpadán",
-    "image": "https://hargitanepe.ro/images/data/423x222/1793879310_0_15_magazin_xfaktor_fb3_nov_5copy.jpg",
-    "published": "2026-11-05T19:35:03.250402+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Panelproli",
-    "link": "https://hargitanepe.ro/hirek/szines/meg-kell-bolondulni-2026-11-05",
-    "description": "Panelproli",
-    "image": "https://hargitanepe.ro/images/data/423x222/1747219784_bloff_webre.jpg",
-    "published": "2026-11-05T19:35:03.250330+00:00",
     "author": "Hargita Népe",
     "category": "Hargita Népe"
   }
