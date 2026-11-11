@@ -5,9 +5,20 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Tue, 10 Nov 2026 22:53:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 04:56:46 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Maszol] A Pruttól a Dnyeperig: addig nyújtózkodj, ameddig az 5. cikkelyed ér</title>
+      <link>https://maszol.ro/videok/A-Pruttol-a-Dnyeperig-addig-nyujtozkodj-ameddig-az-5-cikkelyed-er</link>
+      <guid isPermaLink="true">https://maszol.ro/videok/A-Pruttol-a-Dnyeperig-addig-nyujtozkodj-ameddig-az-5-cikkelyed-er</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_november_/05/videosmall_sdss.png" /><br/>A Pruttól a Dnyeperig: addig nyújtózkodj, ameddig az 5. cikkelyed ér]]></description>
+      <pubDate>Wed, 11 Nov 2026 04:56:45 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_november_/05/videosmall_sdss.png" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_november_/05/videosmall_sdss.png" type="image/png" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Közös ügy</title>
       <link>https://hargitanepe.ro/ma-van-a-tudomany-a-bekeert-es-a-fejlodesert-vilagnapja</link>
@@ -436,17 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_november_/10/cikksmall_Adam10.jpg" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_november_/10/cikksmall_Adam10.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Ilyen időjárásra számíthatunk a következő négy hétben</title>
-      <link>https://maszol.ro/belfold/Ilyen-idojarasra-szamithatunk-a-kovetkezo-negy-hetben-1</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Ilyen-idojarasra-szamithatunk-a-kovetkezo-negy-hetben-1</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_november_/10/cikksmall_november_idojaras_fa_osz_levelek_unpslash.jpg" /><br/>Ilyen időjárásra számíthatunk a következő négy hétben]]></description>
-      <pubDate>Tue, 10 Nov 2026 16:48:40 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_november_/10/cikksmall_november_idojaras_fa_osz_levelek_unpslash.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_november_/10/cikksmall_november_idojaras_fa_osz_levelek_unpslash.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
