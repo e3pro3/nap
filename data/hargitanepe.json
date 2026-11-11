@@ -1,5 +1,113 @@
 [
   {
+    "title": "[Hargita Népe] Szent Erzsébet-napi gyűjtés",
+    "link": "https://hargitanepe.ro/tamogatjak-az-idoseket",
+    "description": "Szent Erzsébet-napi gyűjtés",
+    "image": "https://hargitanepe.ro/images/data/423x222/1794386455_0_caritas_erzsebetnap_bph1-_web.jpg",
+    "published": "2026-11-11T21:45:05.043045+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] HagyományOKOS",
+    "link": "https://hargitanepe.ro/online-levelezoversenyt-hirdet-az-erdelyi-hagyomanyok-haza-alapitvany",
+    "description": "HagyományOKOS",
+    "image": "https://hargitanepe.ro/images/data/423x222/1794386917_0_13_magazin_felhivas_ehhro1_nov11.jpg",
+    "published": "2026-11-11T21:45:05.043007+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Régészeti feltárások a Baróti Szabó Dávid utcában",
+    "link": "https://hargitanepe.ro/regi-iskola-maradvanyaira-bukkantak",
+    "description": "Régészeti feltárások a Baróti Szabó Dávid utcában",
+    "image": "https://hargitanepe.ro/images/data/423x222/1794387457_1_regeszetifeltarasokabarotiszabodavidutcaban_hi06_web.jpg",
+    "published": "2026-11-11T21:45:05.042970+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Az ország értékes időt veszített, amíg nem volt teljes jogkörű kormánya",
+    "link": "https://hargitanepe.ro/nicusor-dan-romanianak-teljesitenie-kell-a-koltsegvetesi-hiany-csokkentese-celjabol-vallalt-feladatokat-2026-11-11",
+    "description": "Az ország értékes időt veszített, amíg nem volt teljes jogkörű kormánya",
+    "image": "https://hargitanepe.ro/images/data/423x222/1748244243_nicusor",
+    "published": "2026-11-11T21:45:05.042931+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Két rendőr megfenyegetése miatt emeltek vádat Diana Șoșoacă ellen",
+    "link": "https://hargitanepe.ro/ket-rendor-megfenyegetese-miatt-emeltek-vadat-diana-sosoaca-ellen-2026-11-11",
+    "description": "Két rendőr megfenyegetése miatt emeltek vádat Diana Șoșoacă ellen",
+    "image": "https://hargitanepe.ro/images/data/423x222/1739967928_1710160877_diana-sosoaica-facebook.jpg",
+    "published": "2026-11-11T21:45:05.042891+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Részegen menekült: 22 760 lejre büntették",
+    "link": "https://hargitanepe.ro/reszegen-menekult-22-700-lejre-buntettek-2026-11-11",
+    "description": "Részegen menekült: 22 760 lejre büntették",
+    "image": "https://hargitanepe.ro/images/data/423x222/1737394977_rendorillusztracio_hi02web.jpg",
+    "published": "2026-11-11T21:45:05.042844+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Tűzszerészeti beavatkozás",
+    "link": "https://hargitanepe.ro/hirek/belfold/tuzszereszeti-misszio-121-darab-fel-nem-robbant-loszer-ellenorzott-megsemmisitesere-2026-11-11",
+    "description": "Tűzszerészeti beavatkozás",
+    "image": "https://hargitanepe.ro/images/data/423x222/1794407306_0_robbantas.jpg",
+    "published": "2026-11-11T21:45:05.042632+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] A klímaváltozás hatással van a vándormadarakra",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/az-oszi-tavaszi-vonulas-ideje-tolodik",
+    "description": "A klímaváltozás hatással van a vándormadarakra",
+    "image": "https://hargitanepe.ro/images/data/423x222/1780600091_0_golya_lfcs-1-_web.jpg",
+    "published": "2026-11-11T21:45:05.042590+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Újabb leállás a cernavodai atomerőműnél",
+    "link": "https://hargitanepe.ro/hirek/orszag-vilag/levaltjak-a-muszaki-igazgatot",
+    "description": "Újabb leállás a cernavodai atomerőműnél",
+    "image": "https://hargitanepe.ro/images/data/423x222/1794395411_0_cernavodairanyitopult_fotonuclearelectricaoficialfb_web.jpg",
+    "published": "2026-11-11T21:45:05.042549+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] KALOT: Biztonságos Iskola program",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/a-bantalmazas-nem-mindig-hagy-lathato-nyomot",
+    "description": "KALOT: Biztonságos Iskola program",
+    "image": "https://hargitanepe.ro/images/data/423x222/1794396079_1_kalot_sajttaj_lfcs-4-_web.jpg",
+    "published": "2026-11-11T21:45:05.042505+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Csíkszeredai díjazott a Nemzetközi Rövidfilm Fesztiválon",
+    "link": "https://hargitanepe.ro/hirek/szines/a-madarkam-reszesult-a-legjobb-regionalis-filmnek-jaro-elismeresben",
+    "description": "Csíkszeredai díjazott a Nemzetközi Rövidfilm Fesztiválon",
+    "image": "https://hargitanepe.ro/images/data/423x222/1794396994_0_13_magazin_filmfesztival_fb1_nov_11.jpg",
+    "published": "2026-11-11T21:45:05.042428+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Elfeledett történetek és egy különös életforma",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/erdelyi-kopok-mellett-maskent-nez-ki-a-vilag",
+    "description": "Egy felvidéki származású történész, aki a magyarországi vörös- és fehérterror kutatásától jutott el a régi vadászati forrásokig; egy budapesti család, amelynek mindennapjait erdélyi kopók alakítják; és egy kutyafajta, amelynek múltja szorosan összefonódott Erdély történetével.",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1794400078_0_FotoKopovilag_web.jpg",
+    "published": "2026-11-11T21:45:05.042366+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] Lőrincz Barna és Dénes Péter: A tradíció és a kortárs építészet kiegészíti egymást",
     "link": "https://hargitanepe.ro/hagyomany-es-korszeruseg-parbeszede-a-zetevaraljai-kulturcsurben",
     "description": "Lőrincz Barna és Dénes Péter: A tradíció és a kortárs építészet kiegészíti egymást",
@@ -941,114 +1049,6 @@
     "description": "Bulgáriában már magasabb a nettó átlagkereset, mint Romániában, noha a bolgár munkavállalók bruttó bére jóval alacsonyabb – egy román gazdasági portál számításai szerint. A különbséget elsősorban a fizetéseket terhelő adók és járulékok magyarázzák, de a bolgár bérek gyorsabb emelkedése és a lej gyengülése is hozzájárult.",
     "image": "https://hargitanepe.ro/images/data/1200x630/1742286081_anaf_ilusztr_lfcs(2)_web.JPG",
     "published": "2026-11-07T00:38:20.698850+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Sakksuli (750.)",
-    "link": "https://hargitanepe.ro/sakksuli-750",
-    "description": "Sakksuli (750.)",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1793961909_0_Sakksuli_abra_750_2026_11_06.jpg",
-    "published": "2026-11-06T18:57:23.539351+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Csíkszentimrén befejeződött az aszfaltozás",
-    "link": "https://hargitanepe.ro/megujult-egy-tucat-utca-a-kozsegben",
-    "description": "Csíkszentimrén befejeződött az aszfaltozás",
-    "image": "https://hargitanepe.ro/images/data/423x222/1793950503_0_szentimre_web.jpg",
-    "published": "2026-11-06T18:57:23.539282+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Média Építészeti Díja",
-    "link": "https://hargitanepe.ro/rangos-versenyben-a-madefalvi-szent-anna-kapolna",
-    "description": "Média Építészeti Díja",
-    "image": "https://hargitanepe.ro/images/data/423x222/1793951012_6_Madefalva_kapolna_MacalikArnold_BT1_web.jpg",
-    "published": "2026-11-06T18:57:23.539244+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] A hulladékgyűjtő edény teljesen megsemmisült, egy autó is károsodott",
-    "link": "https://hargitanepe.ro/langolo-szemeteshez-riasztottak-a-tuzoltokat-szekelyudvarhelyen",
-    "description": "A hulladékgyűjtő edény teljesen megsemmisült, egy autó is károsodott",
-    "image": "https://hargitanepe.ro/images/data/423x222/1793952661_0_felgyujtottszemetesesauto_hi02_web.jpg",
-    "published": "2026-11-06T18:57:23.539195+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Kárpát-medencei Disznótoros Fesztivál",
-    "link": "https://hargitanepe.ro/jelentkezhetnek-a-csapatok",
-    "description": "Kárpát-medencei Disznótoros Fesztivál",
-    "image": "https://hargitanepe.ro/images/data/423x222/1793954273_0_disznotoros_bph-15-_web.jpg",
-    "published": "2026-11-06T18:57:23.539148+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Zarándoklattal tisztelegnek Dávid Ferenc emléke előtt",
-    "link": "https://hargitanepe.ro/zarandoklattal-tisztelegnek-david-ferenc-emleke-elott",
-    "description": "Zarándoklattal tisztelegnek Dávid Ferenc emléke előtt",
-    "image": "https://hargitanepe.ro/images/data/423x222/1793955384_0_torony_David",
-    "published": "2026-11-06T18:57:23.539107+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Soron kívüli megyei tanácsülés",
-    "link": "https://hargitanepe.ro/tamogatasok-gyermekvedelemre-es-a-telepulesek-fejlesztesere",
-    "description": "Soron kívüli megyei tanácsülés",
-    "image": "https://hargitanepe.ro/images/data/423x222/1722585285_utjavitas_hi04web.jpg",
-    "published": "2026-11-06T18:57:23.539065+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Az első kilenc hónapban 4,6 százalékkal csökkent a kiskereskedelmi forgalom 2025 azonos időszakához képest",
-    "link": "https://hargitanepe.ro/az-elso-kilenc-honapban-4-6-szazalekkal-csokkent-a-kiskereskedelmi-forgalom-2025-azonos-idoszakahoz-kepest-2026-11-06",
-    "description": "Az első kilenc hónapban 4,6 százalékkal csökkent a kiskereskedelmi forgalom 2025 azonos időszakához képest",
-    "image": "https://hargitanepe.ro/images/data/423x222/1781781143_0_abstract-blur-supermarket-department-store.jpg",
-    "published": "2026-11-06T18:57:23.539026+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] A fekete péntek első fél órájában 259 millió lej értékben rendeltek a vásárlók",
-    "link": "https://hargitanepe.ro/a-fekete-pentek-elso-felorajaban-259-millio-lej-ertekben-rendeltek-a-vasarlok-2026-11-06",
-    "description": "A fekete péntek első fél órájában 259 millió lej értékben rendeltek a vásárlók",
-    "image": "https://hargitanepe.ro/images/data/423x222/1731667055_oszi_divat_budoar4.jpg",
-    "published": "2026-11-06T18:57:23.538983+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Előadás-sorozat a megbékélésről és az újrakezdésről",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/visszatalalni-egymashoz",
-    "description": "Előadás-sorozat a megbékélésről és az újrakezdésről",
-    "image": "https://hargitanepe.ro/images/data/423x222/1793955714_0_lelekjelenlet_screenshotw.jpg",
-    "published": "2026-11-06T18:57:23.538841+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Református vallástanárok találkozója Zeteváralján",
-    "link": "https://hargitanepe.ro/hirek/udvarhelyszek/hivatas-kihivasok-megujulas",
-    "description": "Református vallástanárok találkozója Zeteváralján",
-    "image": "https://hargitanepe.ro/images/data/423x222/1793957255_0_torony_vallastanaroktalalkozoja1_foto_PilbathKincso_web.jpg",
-    "published": "2026-11-06T18:57:23.538738+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Ahány járgány, annyiféle – és van, amihez jogosítvány és biztosítás is kell!",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/tuktuk-jelenseg-mar-nalunk-is-otthon",
-    "description": "Nem mindegy, hogy elekt­romos triciklivel, áru­szállító háromkerekűvel vagy négykerekű quaddal közlekedünk – főleg, ha megállít a rendőr: míg az utóbbi időben városon és falun is rengeteg elektromos meghajtású kisjármű jelent meg, ezek egy részénél, a műszaki jellemzőktől függően, jogosítványra, nyilvántartásba vételre és kötelező biztosításra is szükség lehet. Mivel eltérő szabályok vonatkoznak rájuk, érdemes tisztában lenni besorolásukkal.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1793960867_0_elektromoskisjarmuvek_hi05_web.jpg",
-    "published": "2026-11-06T18:57:23.538578+00:00",
     "author": "Hargita Népe",
     "category": "Hargita Népe"
   }
