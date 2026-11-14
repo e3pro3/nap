@@ -5,9 +5,31 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Fri, 13 Nov 2026 21:12:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 05:12:37 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Otthonunk rólunk mesél</title>
+      <link>https://hargitanepe.ro/otthonunk-rolunk-mesel</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/otthonunk-rolunk-mesel</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/1200x630/1793711753_0_mozaik.jpg" /><br/>Egyre inkább háttérbe szorulnak a katalógusokból ismerős, tökéletesen összehangolt enteriőrök. A személyes tárgyak, természetes anyagok, karakteres bútorok és egyedi részletek kerülnek előtérbe.]]></description>
+      <pubDate>Sat, 14 Nov 2026 05:12:37 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/1200x630/1793711753_0_mozaik.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/1200x630/1793711753_0_mozaik.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Hargita Népe] Jövőkép a Közös Agrárpolitika átalakulásának árnyékában</title>
+      <link>https://hargitanepe.ro/konczei-csaba-szemleletvaltas-kell-a-szekelyfoldi-mezogazdasagban</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/konczei-csaba-szemleletvaltas-kell-a-szekelyfoldi-mezogazdasagban</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1789554083_0__4_konczeicsaba_foto_LT1-.jpg" /><br/>Jövőkép a Közös Agrárpolitika átalakulásának árnyékában]]></description>
+      <pubDate>Sat, 14 Nov 2026 05:12:37 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1789554083_0__4_konczeicsaba_foto_LT1-.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1789554083_0__4_konczeicsaba_foto_LT1-.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Sakksuli (751.)</title>
       <link>https://hargitanepe.ro/sakksuli-751</link>
@@ -425,28 +447,6 @@
       <author>Hargita Népe</author>
       <media:content url="https://hargitanepe.ro/images/data/423x222/1794509679_0_dn11c_drdpbrasov_-3-_web.jpg" medium="image"/>
       <enclosure url="https://hargitanepe.ro/images/data/423x222/1794509679_0_dn11c_drdpbrasov_-3-_web.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Megszerezte a támogatást a csíkszeredai önkormányzat</title>
-      <link>https://hargitanepe.ro/hirek/hargita-megye/jovore-elkezdodhet-a-nagy-imre-galeria-felujitasa</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/hirek/hargita-megye/jovore-elkezdodhet-a-nagy-imre-galeria-felujitasa</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1794571292_0_nagzimregaleriaweb.jpg" /><br/>Megszerezte a támogatást a csíkszeredai önkormányzat]]></description>
-      <pubDate>Fri, 13 Nov 2026 14:00:41 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1794571292_0_nagzimregaleriaweb.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1794571292_0_nagzimregaleriaweb.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Jöhetnek a mínuszok</title>
-      <link>https://hargitanepe.ro/hirek/csikszek/800-tonna-soval-felkeszult-csikszereda-a-telre-2026-11-13</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/hirek/csikszek/800-tonna-soval-felkeszult-csikszereda-a-telre-2026-11-13</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1794570054_3_eco" /><br/>Jöhetnek a mínuszok]]></description>
-      <pubDate>Fri, 13 Nov 2026 14:00:41 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1794570054_3_eco" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1794570054_3_eco" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
