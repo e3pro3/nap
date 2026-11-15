@@ -1,5 +1,32 @@
 [
   {
+    "title": "[Hargita Népe] Ládák, levelek, történetek…",
+    "link": "https://hargitanepe.ro/a-targyaknak-emlekezetuk-van",
+    "description": "Ládák, levelek, történetek…",
+    "image": "https://hargitanepe.ro/images/data/423x222/1792501577_2_benced2_web.jpg",
+    "published": "2026-11-15T10:26:52.131591+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Ötven kilométeres kerülőre kényszerülnek majd a turisták",
+    "link": "https://hargitanepe.ro/hidepites-miatt-le-fogjak-zarni-az-utat-a-szent-anna-to-fele",
+    "description": "Ötven kilométeres kerülőre kényszerülnek majd a turisták",
+    "image": "https://hargitanepe.ro/images/data/423x222/1794509679_0_dn11c_drdpbrasov_-3-_web.jpg",
+    "published": "2026-11-15T10:26:52.131124+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Meleg színek, kerek formák, egyedi darabok",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/oszi-hangulatban-a-lakas",
+    "description": "Az idei őszi-téli szezon egyik legizgalmasabb iránya az ellentétek játéka: világos és sötét árnyalatok, meleg és hűvös tónusok, természetes és modern felületek férnek meg egymás mellett. Stílusok keveredése, mély és sötét tónusok, izgalmas textúrák teszik felejthetetlenné a bekuckózós hónapok hangulatát.",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1794553527_0_budoar_magnific1.jpg",
+    "published": "2026-11-15T10:26:52.130883+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] Nem a trendektől lesz otthon az otthon",
     "link": "https://hargitanepe.ro/belsoepiteszeti-alapelvek-amelyek-hosszu-tavon-is-mukodnek",
     "description": "Nem a trendektől lesz otthon az otthon",
@@ -1148,42 +1175,6 @@
     "description": "A községek mellett egyes kisvárosok összevonását vagy községgé való visszaminősítését is mérlegeli a kormányzó Szociáldemokrata Párt (PSD), az átszervezést 2028-tól hajtanák végre. Dragoș Benea, a párt munkacsoportjának koordinátora szerint helyi népszavazásokra nem lenne szükség.",
     "image": "https://hargitanepe.ro/images/data/1200x630/1794307029_0_dragosbenea_fb_web.jpg",
     "published": "2026-11-10T16:48:41.714636+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Melyik évtizedben történt?",
-    "link": "https://hargitanepe.ro/csaladi",
-    "description": "Melyik évtizedben történt?",
-    "image": "https://hargitanepe.ro/images/data/423x222/1712915204_csaladi_kviz_webre.jpg",
-    "published": "2026-11-10T06:10:24.753782+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Napi kvíz",
-    "link": "https://hargitanepe.ro/kviz",
-    "description": "Napi kvíz",
-    "image": "https://hargitanepe.ro/images/data/423x222/1671456199_WhatsApp3.jpeg",
-    "published": "2026-11-10T06:10:24.753727+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Elkalapálták Balánbányán a Vasast",
-    "link": "https://hargitanepe.ro/elkalapaltak-balanbanyan-a-vasast",
-    "description": "Mindössze egy találkozót rendeztek a hétvégén a labdarúgó 4. Liga Hargita megyei kiírásában. Udvarhelyszéken az 5. és a 6. ligában is teljes fordulót rendeztek, Csíkszéken viszont csak a 6. ligás csapatok játszottak bajnokit. A Román Kupa megyei szakaszában még három találkozót rendeztek a hétvégén.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1794257256_1_foci_kozmasdanfalva_2.jpg",
-    "published": "2026-11-10T06:10:24.753504+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Csak egy mérkőzés volt a megyei bajnokságban",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/elkalapaltak-balanbanyan-a-vasast",
-    "description": "Mindössze egy találkozót rendeztek a hétvégén a labdarúgó 4. Liga Hargita megyei kiírásában. Udvarhelyszéken az 5. és a 6. ligában is teljes fordulót rendeztek, Csíkszéken viszont csak a 6. ligás csapatok játszottak bajnokit. A Román Kupa megyei szakaszában még három találkozót rendeztek a hétvégén.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1794257256_1_foci_kozmasdanfalva_2.jpg",
-    "published": "2026-11-10T06:10:24.752814+00:00",
     "author": "Hargita Népe",
     "category": "Hargita Népe"
   }
