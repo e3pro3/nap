@@ -1,5 +1,41 @@
 [
   {
+    "title": "[Hargita Népe] Görbülj rá!",
+    "link": "https://hargitanepe.ro/bekoltoznek-az-ivek-az-otthonokba",
+    "description": "Görbülj rá!",
+    "image": "https://hargitanepe.ro/images/data/423x222/1791450810_0_mozaik2_web.jpg",
+    "published": "2026-11-18T02:44:37.138834+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Másodfokú riasztás kedden este 8 órától",
+    "link": "https://hargitanepe.ro/masodfoku-riasztas-kedden-este-8-oratol-2026-11-17",
+    "description": "Másodfokú riasztás kedden este 8 órától",
+    "image": "https://hargitanepe.ro/images/data/423x222/1718351849_eso_idojaras_ilusztr_lfcs",
+    "published": "2026-11-18T02:44:37.138276+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] A PSD terve az állami szektor átszervezésére",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/bezarnak-a-veszteseges-cegeket",
+    "description": "A PSD terve az állami szektor átszervezésére",
+    "image": "https://hargitanepe.ro/images/data/423x222/1794908732_0_neacsumarian_fb_web.jpg",
+    "published": "2026-11-18T02:44:37.138006+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Siker a NextLab.Tech robotikaversenyen",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/robobajnoki-cimet-szerzett-a-gyergyoszarhegyi-bakos-testverpar",
+    "description": "Kiemelkedő országos sikert ért el Bakos Zala és Bakos Noel, a gyergyószentmiklósi Salamon Ernő Gimnázium két intenzív matematika – informatika szakos diákja a NextLab.Tech 2026-os országos robotikai versenyén. A megmérettetésre való felkészülésről, a vetélkedő lefolyásáról és az elért eredményekről a testvérpárral beszélgettünk.",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1794909025_1_13_magazin_robotikaverseny_BakosAlexandraKarina2_nov_17.jpg",
+    "published": "2026-11-18T02:44:37.137945+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] Sport röviden (11.17.)",
     "link": "https://hargitanepe.ro/sport-roviden-1117",
     "description": "Sport röviden (11.17.)",
@@ -968,123 +1004,6 @@
     "description": "Két-két mérkőzése maradt a magyar, valamint a román labdarúgó-válogatottnak a Nemzetek Ligája idei kiírásában, legalábbis, ami a csoportkört illeti. A magyarok az elsőségre hajtanak, míg a románok a kiesés elkerülése ellen.",
     "image": "https://hargitanepe.ro/images/data/1200x630/1794505006_0_hunvalogatott.jpg",
     "published": "2026-11-13T05:23:00.443065+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Áttörést hozhat az oltás?",
-    "link": "https://hargitanepe.ro/a-juhok-es-kecskek-vakcinazasa-lehet-az-export-ujrainditasanak-kulcsa",
-    "description": "Áttörést hozhat az oltás?",
-    "image": "https://hargitanepe.ro/images/data/423x222/1773745617_0_06_juhok_LT.jpg",
-    "published": "2026-11-12T23:15:38.392171+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Uralkodói jelkép és a sírok dísze",
-    "link": "https://hargitanepe.ro/krizantemtermesztes-a-csiki-hegyek-kozott-2026-10-27",
-    "description": "Uralkodói jelkép és a sírok dísze",
-    "image": "https://hargitanepe.ro/images/data/423x222/1793093738_1__2_3_krizantem_kerteszet_lfcs-4-.jpg",
-    "published": "2026-11-12T23:15:38.392017+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Jelentősen nőtt a fakitermelés a tavaly",
-    "link": "https://hargitanepe.ro/jelentosen-nott-a-fakitermeles-a-tavaly-2026-10-27",
-    "description": "Jelentősen nőtt a fakitermelés a tavaly",
-    "image": "https://hargitanepe.ro/images/data/423x222/1793093865_0__3_tuzifa_hirolyam.jpg",
-    "published": "2026-11-12T23:15:38.391954+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Több sertést és szárnyast,  kevesebb marhát és juhot vágtak",
-    "link": "https://hargitanepe.ro/tobb-sertest-es-szarnyast-kevesebb-marhat-es-juhot-vagtak-2026-10-27",
-    "description": "Több sertést és szárnyast,  kevesebb marhát és juhot vágtak",
-    "image": "https://hargitanepe.ro/images/data/423x222/1793094011_0__3_vagohid_ilusztr_arh_lfcs_hirolyam.jpg",
-    "published": "2026-11-12T23:15:38.391885+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] A magyar írott kultúra ünnepe",
-    "link": "https://hargitanepe.ro/megnyitja-kapuit-a-32-marosvasarhelyi-nemzetkozi-konyvvasar",
-    "description": "A magyar írott kultúra ünnepe",
-    "image": "https://hargitanepe.ro/images/data/423x222/1794473274_0_15_magazin_konyvvasar_fb3_nov_12.jpg",
-    "published": "2026-11-12T23:15:38.391385+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Tusnád községben a kormányválság elodázta az oktatási intézmények felújítását",
-    "link": "https://hargitanepe.ro/a-szulok-valaszokra-az-iskola-korszerusitesre-var",
-    "description": "Tusnád községben a kormányválság elodázta az oktatási intézmények felújítását",
-    "image": "https://hargitanepe.ro/images/data/423x222/1794473597_2_ujtusnadiskola_lfcs-1-_web.jpg",
-    "published": "2026-11-12T23:15:38.391324+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Időjárás-előrejelzés",
-    "link": "https://hargitanepe.ro/szombattol-jelentosen-lehul-az-ido-2026-11-12",
-    "description": "Időjárás-előrejelzés",
-    "image": "https://hargitanepe.ro/images/data/423x222/1727939001_tavfutes_hi02_web.JPG",
-    "published": "2026-11-12T23:15:38.391261+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Szeptemberben 5717 lejre nőtt a nettó átlagbér Romániában",
-    "link": "https://hargitanepe.ro/szeptemberben-5717-lejre-nott-a-netto-atlagber-romaniaban-2026-11-12",
-    "description": "Szeptemberben 5717 lejre nőtt a nettó átlagbér Romániában",
-    "image": "https://hargitanepe.ro/images/data/423x222/1753100571_penz_kamat_ilusztr_lfcs4).JPG",
-    "published": "2026-11-12T23:15:38.391199+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] 65. születésnapját ünnepli Nadia Comăneci",
-    "link": "https://hargitanepe.ro/hirek/szines/ma-is-peldakep",
-    "description": "65. születésnapját ünnepli Nadia Comăneci",
-    "image": "https://hargitanepe.ro/images/data/423x222/1794474718_0_15_magazin_NadiaComaneci_nov_12.jpg",
-    "published": "2026-11-12T23:15:38.390955+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Jubiláló tanintézet Gyergyószentmiklóson",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/150-eves-a-szakiskola",
-    "description": "Jubiláló tanintézet Gyergyószentmiklóson",
-    "image": "https://hargitanepe.ro/images/data/423x222/1794475007_1_fogarasy150_bph-3-_web.jpg",
-    "published": "2026-11-12T23:15:38.390876+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Nemzetközi befektetések statisztikája",
-    "link": "https://hargitanepe.ro/hirek/belfold/a-kulfoldi-toke-kozel-haromnegyede-unios-eredetu",
-    "description": "Nemzetközi befektetések statisztikája",
-    "image": "https://hargitanepe.ro/images/data/423x222/1794475650_0_dacia_daciapontro2_web.jpg",
-    "published": "2026-11-12T23:15:38.390786+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Így vértez fel minket a kutyánk a nehéz pillanatokra",
-    "link": "https://hargitanepe.ro/hirek/szines/a-simogatas-ereje",
-    "description": "Így vértez fel minket a kutyánk a nehéz pillanatokra",
-    "image": "https://hargitanepe.ro/images/data/423x222/1794476693_0_15_magazin_kutya_magnific4_nov_12.jpg",
-    "published": "2026-11-12T23:15:38.390711+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Múltidézés és jövőtervezés",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/huszonot-eve-szol-a-harang-a-moldvai-csangokert",
-    "description": "Negyedszázada ad otthont a csíkszeredai Csángó Nap a moldvai csángómagyarok és az erdélyi közösségek találkozásának. A szórványtámogatásokból és hitéleti kezdeményezésekből kinőtt eseménysorozat a hónapban ünnepli fennállásának huszonötödik évfordulóját, ami kezdetben a segítségnyújtás és az összefogás alkalma volt, mára a kölcsönös megismerés és az egyenrangú partnerség ünnepévé vált. A jubileum kapcsán felidézzük a rendezvény születését, meghatározó pillanatait és máig érvényes üzenetét.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1794477919_0_0adamgyula00_12_web.jpg",
-    "published": "2026-11-12T23:15:38.390496+00:00",
     "author": "Hargita Népe",
     "category": "Hargita Népe"
   }
