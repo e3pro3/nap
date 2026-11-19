@@ -5,9 +5,31 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Wed, 18 Nov 2026 20:01:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 02:17:48 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Hargita Népe] Megújult az APIA csíkszeredai székháza</title>
+      <link>https://hargitanepe.ro/korszerubb-korulmenyek-kozott-fogadjak-a-gazdakat</link>
+      <guid isPermaLink="true">https://hargitanepe.ro/korszerubb-korulmenyek-kozott-fogadjak-a-gazdakat</guid>
+      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1791982484_0_Apia_epitkezes_lfcs-3-.jpg" /><br/>Megújult az APIA csíkszeredai székháza]]></description>
+      <pubDate>Thu, 19 Nov 2026 02:17:48 +0000</pubDate>
+      <category>Hargita Népe</category>
+      <author>Hargita Népe</author>
+      <media:content url="https://hargitanepe.ro/images/data/423x222/1791982484_0_Apia_epitkezes_lfcs-3-.jpg" medium="image"/>
+      <enclosure url="https://hargitanepe.ro/images/data/423x222/1791982484_0_Apia_epitkezes_lfcs-3-.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>[Maszol] Facebook-csoportokban keresik a választ: mikor utalják a Szülőföldön magyarul támogatást?</title>
+      <link>https://maszol.ro/belfold/Facebook-csoportokban-keresik-a-valaszt-mikor-utaljak-a-Szulofoldon-magyarul-tamogatast</link>
+      <guid isPermaLink="true">https://maszol.ro/belfold/Facebook-csoportokban-keresik-a-valaszt-mikor-utaljak-a-Szulofoldon-magyarul-tamogatast</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2026_november_/13/cikksmall_iskola_Adobe_Stock_(1)_(1).jpg" /><br/>Facebook-csoportokban keresik a választ: mikor utalják a Szülőföldön magyarul támogatást?]]></description>
+      <pubDate>Thu, 19 Nov 2026 02:17:47 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2026_november_/13/cikksmall_iskola_Adobe_Stock_(1)_(1).jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2026_november_/13/cikksmall_iskola_Adobe_Stock_(1)_(1).jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Beszélgetés Albert-Homonnai Márton építésszel</title>
       <link>https://hargitanepe.ro/a-helyreallitasnak-egy-titka-van-jol-kell-csinalni</link>
@@ -426,28 +448,6 @@ gyulásban.]]></description>
       <author>Hargita Népe</author>
       <media:content url="https://hargitanepe.ro/images/data/423x222/1794946847_0_Godako_Magyaro.jpg" medium="image"/>
       <enclosure url="https://hargitanepe.ro/images/data/423x222/1794946847_0_Godako_Magyaro.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] U17-es birkózók küzdöttek a hétvégén</title>
-      <link>https://hargitanepe.ro/kacso-abel-ezustermes</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/kacso-abel-ezustermes</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/423x222/1794986358_0_birkozas_RK_1117_FRL.jpg" /><br/>U17-es birkózók küzdöttek a hétvégén]]></description>
-      <pubDate>Wed, 18 Nov 2026 11:12:03 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/423x222/1794986358_0_birkozas_RK_1117_FRL.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/423x222/1794986358_0_birkozas_RK_1117_FRL.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Hargita Népe] Sport röviden (11.18.)</title>
-      <link>https://hargitanepe.ro/sport-roviden-1118</link>
-      <guid isPermaLink="true">https://hargitanepe.ro/sport-roviden-1118</guid>
-      <description><![CDATA[<img src="https://hargitanepe.ro/images/data/1200x630/1781778310_0_sport.jpg" /><br/>Sport röviden (11.18.)]]></description>
-      <pubDate>Wed, 18 Nov 2026 11:12:03 +0000</pubDate>
-      <category>Hargita Népe</category>
-      <author>Hargita Népe</author>
-      <media:content url="https://hargitanepe.ro/images/data/1200x630/1781778310_0_sport.jpg" medium="image"/>
-      <enclosure url="https://hargitanepe.ro/images/data/1200x630/1781778310_0_sport.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
