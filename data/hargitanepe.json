@@ -1,5 +1,122 @@
 [
   {
+    "title": "[Hargita Népe] Ládák, levelek, történetek…",
+    "link": "https://hargitanepe.ro/a-targyaknak-emlekezetuk-van",
+    "description": "Ládák, levelek, történetek…",
+    "image": "https://hargitanepe.ro/images/data/423x222/1792501577_2_benced2_web.jpg",
+    "published": "2026-11-20T19:39:43.006107+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Sakksuli (752.)",
+    "link": "https://hargitanepe.ro/sakksuli-752",
+    "description": "Sakksuli (752.)",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1795164621_0_Sakksuli_abra_752_2026_11_20.jpg",
+    "published": "2026-11-20T19:39:43.005733+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Infrastruktúra-építés Felsőboldogfalva községben",
+    "link": "https://hargitanepe.ro/vegehez-kozeledik-az-arvatfalvi-vizhalozat-epitese",
+    "description": "Infrastruktúra-építés Felsőboldogfalva községben",
+    "image": "https://hargitanepe.ro/images/data/423x222/1795110738_0_arvatfalvi_viz_fph_web.jpg",
+    "published": "2026-11-20T19:39:43.005658+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Jótékonysági akciót tart hétvégén a csíkszeredai Vöröskereszt",
+    "link": "https://hargitanepe.ro/adomanyokat-gyujtenek",
+    "description": "Jótékonysági akciót tart hétvégén a csíkszeredai Vöröskereszt",
+    "image": "https://hargitanepe.ro/images/data/423x222/1795112002_0_tartoselelmiszergyujtes_hi04_cm.jpg",
+    "published": "2026-11-20T19:39:43.005612+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Lesz, vagy elmarad a síszezon a Madarasi-Hargitán?",
+    "link": "https://hargitanepe.ro/kozelebb-a-megegyezeshez",
+    "description": "Lesz, vagy elmarad a síszezon a Madarasi-Hargitán?",
+    "image": "https://hargitanepe.ro/images/data/423x222/1795113191_0_madarasihargitanovemberben_hi03_web.jpg",
+    "published": "2026-11-20T19:39:43.005576+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Huszonnégy megyében okozott károkat a vihar",
+    "link": "https://hargitanepe.ro/huszonnegy-megyeben-okozott-karokat-a-vihar-2026-11-20",
+    "description": "Huszonnégy megyében okozott károkat a vihar",
+    "image": "https://hargitanepe.ro/images/data/423x222/1795165187_0_tuzoltok.jpg",
+    "published": "2026-11-20T19:39:43.005523+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Több mint 75 ezer légúti fertőzéses esetet regisztráltak",
+    "link": "https://hargitanepe.ro/tobb-mint-75-ezer-leguti-fertozeses-esetet-regisztraltak-2026-11-20",
+    "description": "Több mint 75 ezer légúti fertőzéses esetet regisztráltak",
+    "image": "https://hargitanepe.ro/images/data/423x222/1769759120_0_iskolaorvos_ilusztr_lfcs-3-_web.jpg",
+    "published": "2026-11-20T19:39:43.005483+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Nem fizették ki a vámnál esedékes 4 435 269 lej értékű áfát",
+    "link": "https://hargitanepe.ro/csempeszettel-vadoljak-raed-arafatot-2026-11-20",
+    "description": "Nem fizették ki a vámnál esedékes 4 435 269 lej értékű áfát",
+    "image": "https://hargitanepe.ro/images/data/423x222/1693310297_Helikopter_SZs_3",
+    "published": "2026-11-20T19:39:43.005443+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Gázellátásra vár a csíkszentsimoni létesítmény",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/ket-satortetos-jegpalya-ket-kulonbozo-akadaly",
+    "description": "Gázellátásra vár a csíkszentsimoni létesítmény",
+    "image": "https://hargitanepe.ro/images/data/423x222/1795122333_0_01_a_indulo_jegpalya_szentsimon_lfc-3-_cm.jpg",
+    "published": "2026-11-20T19:39:43.005320+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Terepszemle a Harvíz Rt. munkatelepein",
+    "link": "https://hargitanepe.ro/hirek/hargita-megye/csiba-egy-reszen-kiepult-az-ivovizhalozat",
+    "description": "Terepszemle a Harvíz Rt. munkatelepein",
+    "image": "https://hargitanepe.ro/images/data/423x222/1795187916_0_harviz_szecseny.jpg",
+    "published": "2026-11-20T19:39:43.005280+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Amíg képes repülni, nem szorul segítségre",
+    "link": "https://hargitanepe.ro/hirek/udvarhelyszek/golya-telel-a-mezoben",
+    "description": "Amíg képes repülni, nem szorul segítségre",
+    "image": "https://hargitanepe.ro/images/data/423x222/1795161065_0_14_magazin_golya_olvasoi2_nov_20.jpeg",
+    "published": "2026-11-20T19:39:43.005236+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Az Európai Bizottság három új eljárása Románia ellen",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/kifogasoljak-az-utdij-es-adoszabalyokat",
+    "description": "Az Európai Bizottság három új eljárása Románia ellen",
+    "image": "https://hargitanepe.ro/images/data/423x222/1795161389_0_brailahid_untrr_fb.jpeg",
+    "published": "2026-11-20T19:39:43.005196+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Baleset-megelőzési céllal összekapcsolnák a Garmin és a Waze rendszerét",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/terkepre-kerulhetnek-a-bringasok",
+    "description": "Baleset-megelőzési céllal összekapcsolnák a Garmin és a Waze rendszerét",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1795162109_0_14_magazin_biciklis_terkep_magnific1_nov_20.jpg",
+    "published": "2026-11-20T19:39:43.005028+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] Egy pont maradt Csíkszeredában",
     "link": "https://hargitanepe.ro/aranygollal-nyert-a-corona",
     "description": "Egy pont maradt Csíkszeredában",
@@ -1328,60 +1445,6 @@
     "description": "Kane az év legjobbja",
     "image": "https://hargitanepe.ro/images/data/1794313586_1_1793173223_0_aranylabda_harrykane_1793193449_e7a870a0.jpg",
     "published": "2026-11-16T00:46:54.784317+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Bárányhátszín mustáros-kakukkfüves szósszal",
-    "link": "https://szekelykonyhaeskert.ro/recept/1841-baranyhatszin-mustaros-kakukkfuves-szosszal",
-    "description": "Bárányhátszín mustáros-kakukkfüves szósszal",
-    "image": "https://hargitanepe.ro/images/data/423x222/1778154853_NIK_6181.jpg",
-    "published": "2026-11-15T18:31:34.595713+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Séta a természet kincsestárában",
-    "link": "https://hargitanepe.ro/eheto-vadnovenyek-a-csiksomlyoi-hegyoldalon",
-    "description": "Séta a természet kincsestárában",
-    "image": "https://hargitanepe.ro/images/data/423x222/1794312126_0_4_eheto_vadnovenyek_EHH_1__cm.jpg",
-    "published": "2026-11-15T18:31:34.595222+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] A jó sajt titkát legelőbb a kaszálón kell keresni",
-    "link": "https://hargitanepe.ro/a-jo-sajt-titkat-legelobb-a-kaszalon-kell-keresni",
-    "description": "A székelyföldi tejtermelés és sajtkészítés előtt egyszerre állnak komoly kihívások és új lehetőségek. A hagyományos gomolya mellett egyre nagyobb teret nyernek a kézműves, félkemény, érlelt sajtok, amelyek előállítása új szakmai tudást, következetes minőséget és mindenekelőtt kifogástalan alapanyagot igényel. Sárig Attila gyimesi sajtkészítő szerint az ágazat jövője jelentős részben a tejhigiénia javításán, a termelők szemléletváltásán és a hagyományos gazdálkodás fenntartható megújításán múlik.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1794312589_2__2_3_Sárig",
-    "published": "2026-11-15T18:31:34.595159+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Mennyit tud a Moldovai Köztársaságról?",
-    "link": "https://hargitanepe.ro/csaladi",
-    "description": "Mennyit tud a Moldovai Köztársaságról?",
-    "image": "https://hargitanepe.ro/images/data/423x222/1712915204_csaladi_kviz_webre.jpg",
-    "published": "2026-11-15T18:31:34.595058+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Napi kvíz",
-    "link": "https://hargitanepe.ro/kviz",
-    "description": "Napi kvíz",
-    "image": "https://hargitanepe.ro/images/data/423x222/1671456199_WhatsApp3.jpeg",
-    "published": "2026-11-15T18:31:34.594991+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Hagyomány és modernitás egy gyimesi gazdaságban",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/a-jo-sajt-titkat-legelobb-a-kaszalon-kell-keresni",
-    "description": "A székelyföldi tejtermelés és sajtkészítés előtt egyszerre állnak komoly kihívások és új lehetőségek. A hagyományos gomolya mellett egyre nagyobb teret nyernek a kézműves, félkemény, érlelt sajtok, amelyek előállítása új szakmai tudást, következetes minőséget és mindenekelőtt kifogástalan alapanyagot igényel. Sárig Attila gyimesi sajtkészítő szerint az ágazat jövője jelentős részben a tejhigiénia javításán, a termelők szemléletváltásán és a hagyományos gazdálkodás fenntartható megújításán múlik.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1794312589_2__2_3_Sárig",
-    "published": "2026-11-15T18:31:34.594289+00:00",
     "author": "Hargita Népe",
     "category": "Hargita Népe"
   }
