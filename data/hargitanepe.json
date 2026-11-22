@@ -1,5 +1,86 @@
 [
   {
+    "title": "[Hargita Népe] Székelykapu-állítás Horthy Miklós kormányzó kenderesi birtokán",
+    "link": "https://hargitanepe.ro/szekelykapu-allitas-horthy-miklos-kormanyzo-kenderesi-birtokan-2026-11-17",
+    "description": "Székelykapu-állítás Horthy Miklós kormányzó kenderesi birtokán",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1794919919_0_kep21_web.jpg",
+    "published": "2026-11-22T19:07:00.907450+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Országos statisztika, helyi mutatók",
+    "link": "https://hargitanepe.ro/loban-elso-hargita-megye-szarvasmarhaban-is-dobogos",
+    "description": "Országos statisztika, helyi mutatók",
+    "image": "https://hargitanepe.ro/images/data/423x222/1790682486_0__1_romfeldJanos_lipicai",
+    "published": "2026-11-22T19:07:00.907392+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Biogazdálkodás Csíkmadarason: tejben, vajban",
+    "link": "https://hargitanepe.ro/valsagturo-vastehen",
+    "description": "Biogazdálkodás Csíkmadarason: tejben, vajban",
+    "image": "https://hargitanepe.ro/images/data/423x222/1790682807_1_bio_fazakasimre_madaras_tehen_foto_LT-2-_web.jpg",
+    "published": "2026-11-22T19:07:00.907325+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Gyep- és legelőgazdálkodás Hargita megyében",
+    "link": "https://hargitanepe.ro/havasok-barsonya",
+    "description": "Gyep- és legelőgazdálkodás Hargita megyében",
+    "image": "https://hargitanepe.ro/images/data/423x222/1791895654_0__4_csinod_rip_lfcs-18-.jpg",
+    "published": "2026-11-22T19:07:00.907261+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] A hegyvidéki gazdálkodás kihívásai",
+    "link": "https://hargitanepe.ro/mezogazdasagi-tevekenysegek-vedett-termeszeti-kornyezetben-2026-10-27",
+    "description": "A hegyvidéki gazdálkodás kihívásai",
+    "image": "https://hargitanepe.ro/images/data/423x222/1793092363_0__1_juhok",
+    "published": "2026-11-22T19:07:00.907146+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Értékteremtő pálinkafőzés",
+    "link": "https://hargitanepe.ro/tobb-parlat-keszulhet-hamarosan-adomentesen-2026-10-27",
+    "description": "Értékteremtő pálinkafőzés",
+    "image": "https://hargitanepe.ro/images/data/423x222/1793094285_0__4_palinka_janoselod_lfcs-13-.jpg",
+    "published": "2026-11-22T19:07:00.907046+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Két munkás megsérült a rovinari-i hőerőműben",
+    "link": "https://hargitanepe.ro/ket-munkas-megserult-a-rovinari-i-hoeromuben",
+    "description": "Két munkás megsérült a rovinari-i hőerőműben",
+    "image": "https://hargitanepe.ro/images/data/423x222/1795161839_0_rovinari_eromu_fototermocentralarovinari_fb.jpeg",
+    "published": "2026-11-22T19:07:00.906561+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Kalandozás Tanyavilágban",
+    "link": "https://hargitanepe.ro/hirek/kiemelt/kovacspetertol-palpatakaig",
+    "description": "Kalandozás Tanyavilágban",
+    "image": "https://hargitanepe.ro/images/data/423x222/1795000029_5_tanyavilag_6.jpeg",
+    "published": "2026-11-22T19:07:00.906132+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
+    "title": "[Hargita Népe] Horthy Miklós székelykapui – IV. rész",
+    "link": "https://hargitanepe.ro/hirek/porta/szekelykapu-allitas-horthy-miklos-kormanyzo-kenderesi-birtokan-2026-11-17",
+    "description": "Horthy Miklós székelykapui – IV. rész",
+    "image": "https://hargitanepe.ro/images/data/1200x630/1794919919_0_kep21_web.jpg",
+    "published": "2026-11-22T19:07:00.906045+00:00",
+    "author": "Hargita Népe",
+    "category": "Hargita Népe"
+  },
+  {
     "title": "[Hargita Népe] Építészet, természet, közösség és közös alkotás találkozott",
     "link": "https://hargitanepe.ro/negy-tabor-sok-tapasztalat",
     "description": "Építészet, természet, közösség és közös alkotás találkozott",
@@ -1031,168 +1112,6 @@
     "description": "Kiemelkedő országos sikert ért el Bakos Zala és Bakos Noel, a gyergyószentmiklósi Salamon Ernő Gimnázium két intenzív matematika – informatika szakos diákja a NextLab.Tech 2026-os országos robotikai versenyén. A megmérettetésre való felkészülésről, a vetélkedő lefolyásáról és az elért eredményekről a testvérpárral beszélgettünk.",
     "image": "https://hargitanepe.ro/images/data/1200x630/1794909025_1_13_magazin_robotikaverseny_BakosAlexandraKarina2_nov_17.jpg",
     "published": "2026-11-18T02:44:37.137945+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Sport röviden (11.17.)",
-    "link": "https://hargitanepe.ro/sport-roviden-1117",
-    "description": "Sport röviden (11.17.)",
-    "image": "https://hargitanepe.ro/images/data/423x222/1781778310_0_sport.jpg",
-    "published": "2026-11-17T18:12:06.925890+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Meglepte a Vasas a Golimpiakoszt",
-    "link": "https://hargitanepe.ro/gyozott-a-sereghajto",
-    "description": "Meglepte a Vasas a Golimpiakoszt",
-    "image": "https://hargitanepe.ro/images/data/423x222/1794900743_0_foci_balanbanya.jpg",
-    "published": "2026-11-17T18:12:06.925831+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Újabb vereség",
-    "link": "https://hargitanepe.ro/ujabb-vereseg",
-    "description": "Nem tudott javítani az előző fordulóban elszenvedett hazai vereség után az FK Csíkszereda szuperligás női labdarúgócsapata. Kollár Péter tanítványai a bajnokság alapszakaszának 12. fordulójában 1–0-ra kikaptak a Temesvári Politehnica vendégeként. A csíkiak két fordulóval az alapszakasz vége előtt már biztosították helyüket a felsőházi rájátszásban, de a vereséggel a harmadik helyre csúsztak vissza a tabellán. Első pontját szerezte a bajnokságban a Vasas Femina.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1794901214_0_FKnoi_Poli_FK.jpg",
-    "published": "2026-11-17T18:12:06.925775+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] A kiállítóteret nem érinti a károsodás",
-    "link": "https://hargitanepe.ro/gombafertozes-miatt-beavatkozasokat-kell-vegezni-a-szekelyudvarhelyi-keptar-hatso-epuletreszeben",
-    "description": "A kiállítóteret nem érinti a károsodás",
-    "image": "https://hargitanepe.ro/images/data/423x222/1794900231_2_keptar_hi04_web.jpg",
-    "published": "2026-11-17T18:12:06.925713+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Véget ért az idei Egészségkaraván",
-    "link": "https://hargitanepe.ro/kozel-nyolcszaz-vizsgalat",
-    "description": "Véget ért az idei Egészségkaraván",
-    "image": "https://hargitanepe.ro/images/data/423x222/1794901025_0_egeszsegkaravan_voroskereszt_hm_voroskereszt2_web.jpg",
-    "published": "2026-11-17T18:12:06.925515+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Az egészségügyi miniszter , intézkedett a gyógyszerek elosztásának módosításáról",
-    "link": "https://hargitanepe.ro/rogobete-bocsanatot-kerek-a-daganatos-betegektol-2026-11-17",
-    "description": "Az egészségügyi miniszter , intézkedett a gyógyszerek elosztásának módosításáról",
-    "image": "https://hargitanepe.ro/images/data/423x222/1771399106_0_gyogyszertar_homorodalmas_tikosi_laszlo_web.jpg",
-    "published": "2026-11-17T18:12:06.925388+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Befejezik a Kossuth Lajos utcai tömbházak hőszigetelését",
-    "link": "https://hargitanepe.ro/megvan-az-uj-kivitelezo",
-    "description": "Befejezik a Kossuth Lajos utcai tömbházak hőszigetelését",
-    "image": "https://hargitanepe.ro/images/data/423x222/1794902468_0_kossuthutca20_26_vn_005_web.jpg",
-    "published": "2026-11-17T18:12:06.925328+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Melegedő, menedék, otthon: így segítik a fedél nélkül maradtakat",
-    "link": "https://hargitanepe.ro/keszulnek-a-hidegre-a-megye-hajlektalan-es-krizisellato-kozpontjai",
-    "description": "Melegedő, menedék, otthon: így segítik a fedél nélkül maradtakat",
-    "image": "https://hargitanepe.ro/images/data/423x222/1794902844_1_hajlektalanszallo_hi03_web.jpg",
-    "published": "2026-11-17T18:12:06.925269+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Kérdőív a tömegközlekedésről",
-    "link": "https://hargitanepe.ro/kerdoiv-a-tomegkozlekedesrol",
-    "description": "Kérdőív a tömegközlekedésről",
-    "image": "https://hargitanepe.ro/images/data/423x222/1794903175_0_tomegkozlekedes_1_web.jpg",
-    "published": "2026-11-17T18:12:06.925208+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] A rendőrség cáfolja a kibertámadást: több mint 700 radar működik az utakon",
-    "link": "https://hargitanepe.ro/a-rendorseg-cafolja-a-kibertamadast-tobb-mint-700-radar-mukodik-az-utakon-2026-11-17",
-    "description": "A rendőrség cáfolja a kibertámadást: több mint 700 radar működik az utakon",
-    "image": "https://hargitanepe.ro/images/data/423x222/1788941905_4_rendorseg_vn_039_web.jpg",
-    "published": "2026-11-17T18:12:06.925145+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Dróntámadás érte Kárpátalját",
-    "link": "https://hargitanepe.ro/drontamadas-erte-karpataljat-2026-11-17",
-    "description": "Dróntámadás érte Kárpátalját",
-    "image": "https://hargitanepe.ro/images/data/423x222/1673605507_radar-62991_1280.jpg",
-    "published": "2026-11-17T18:12:06.925075+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Tíz év táncban és közösségben – jubileumi műsorral ünnepel az Iglice Néptánccsoport",
-    "link": "https://hargitanepe.ro/tiz-ev-tancban-es-kozossegben-jubileumi-musorral-unnepel-az-iglice-neptanccsoport-2026-11-17",
-    "description": "Tíz év táncban és közösségben – jubileumi műsorral ünnepel az Iglice Néptánccsoport",
-    "image": "https://hargitanepe.ro/images/data/423x222/1794916227_0_image002.jpg",
-    "published": "2026-11-17T18:12:06.924983+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Rendezik a kazánház előtti teret",
-    "link": "https://hargitanepe.ro/hirek/udvarhelyszek/tobb-parkolohelyet-nyerhet-a-tabor-negyed",
-    "description": "Rendezik a kazánház előtti teret",
-    "image": "https://hargitanepe.ro/images/data/423x222/1794904192_0_teruletrendezesatabornegyedben_hi05_web.jpg",
-    "published": "2026-11-17T18:12:06.924744+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Utcákat korszerűsítenek Székelykeresztúron",
-    "link": "https://hargitanepe.ro/hirek/udvarhelyszek/ket-forgalmas-utszakaszt-ujitanak-fel",
-    "description": "Utcákat korszerűsítenek Székelykeresztúron",
-    "image": "https://hargitanepe.ro/images/data/423x222/1794904814_0_aszfaltozas_szekelykereszturon_sebestyen_zsolt2_web.jpg",
-    "published": "2026-11-17T18:12:06.924676+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Elejét vennék a hideg évszakban előforduló vészhelyzeteknek",
-    "link": "https://hargitanepe.ro/hirek/belfold/ne-vard-meg-az-elso-havazast-orszagos-megelozesi-kampanyt-inditott-a-katasztrofavedelem-2026-11-17",
-    "description": "Elejét vennék a hideg évszakban előforduló vészhelyzeteknek",
-    "image": "https://hargitanepe.ro/images/data/423x222/1794923454_0_isu",
-    "published": "2026-11-17T18:12:06.924611+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Határon túli különdíjat hoztak haza Oroszhegyre",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/a-magyar-pekszovetseg-dijazta-a-videki-pekseget",
-    "description": "Határon túli különdíjat hoztak haza Oroszhegyre",
-    "image": "https://hargitanepe.ro/images/data/423x222/1794906885_0_dijat_nyert_a_videki_pekseg_juhasz_melinda_magyar_pekszovetseg_web.jpg",
-    "published": "2026-11-17T18:12:06.924545+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] Síporgonát avattak a Gyimesi Skanzen kápolnájában",
-    "link": "https://hargitanepe.ro/hirek/kiemelt/a-hangszerek-kiralynojenek-unnepe-borospatakan",
-    "description": "Síporgonát avattak a Gyimesi Skanzen kápolnájában",
-    "image": "https://hargitanepe.ro/images/data/423x222/1794907534_0_skanzen_siporgona_avato_SzBA1_web.jpg",
-    "published": "2026-11-17T18:12:06.924436+00:00",
-    "author": "Hargita Népe",
-    "category": "Hargita Népe"
-  },
-  {
-    "title": "[Hargita Népe] A bejelentések magas száma a lakosság hatóságokba vetett bizalmának erősödését jelzi",
-    "link": "https://hargitanepe.ro/hirek/hargita-megye/469-csaladon-beluli-eroszakos-buncselekmeny-tiz-honap-alatt",
-    "description": "Jelentősen nőtt a családon belüli erőszakkal összefüggő bűncselekmények száma Hargita megyében az idei év első tíz hónapjában a tavaly azonos időszakban nyilvántartott 357 esethez képest: idén eddig 469 esetet regisztráltak, 214 ideiglenes távoltartási végzést adtak ki, és több mint ezer alkalommal riasztották a rendőröket.",
-    "image": "https://hargitanepe.ro/images/data/1200x630/1794908289_0_rendorseg_sajttaj_lfcs-2-_web.jpg",
-    "published": "2026-11-17T18:12:06.924303+00:00",
     "author": "Hargita Népe",
     "category": "Hargita Népe"
   }
