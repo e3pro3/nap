@@ -5,9 +5,20 @@
     <link>https://e3pro3.github.io/nap/feed.xml</link>
     <description>Automatically updated RSS feed</description>
     <language>hu</language>
-    <lastBuildDate>Tue, 24 Nov 2026 19:58:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 03:57:30 +0000</lastBuildDate>
     <generator>NAP RSS Generator v1.0</generator>
     <atom:link href="https://e3pro3.github.io/nap/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Maszol] Erdély legjei – Szatmár megye: a nagykárolyi Károlyi-kastély</title>
+      <link>https://maszol.ro/videok/Erdely-legjei-Szatmar-megye-a-nagykarolyi-Karolyi-kastely</link>
+      <guid isPermaLink="true">https://maszol.ro/videok/Erdely-legjei-Szatmar-megye-a-nagykarolyi-Karolyi-kastely</guid>
+      <description><![CDATA[<img src="https://maszol.ro/resized/2023Marcius/26/videosmall_karolyi_kastely_03.jpg" /><br/>Erdély legjei – Szatmár megye: a nagykárolyi Károlyi-kastély]]></description>
+      <pubDate>Wed, 25 Nov 2026 03:57:29 +0000</pubDate>
+      <category>Maszol</category>
+      <author>Maszol</author>
+      <media:content url="https://maszol.ro/resized/2023Marcius/26/videosmall_karolyi_kastely_03.jpg" medium="image"/>
+      <enclosure url="https://maszol.ro/resized/2023Marcius/26/videosmall_karolyi_kastely_03.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>[Hargita Népe] Jelentősen nőtt a fakitermelés a tavaly</title>
       <link>https://hargitanepe.ro/jelentosen-nott-a-fakitermeles-a-tavaly-2026-10-27</link>
@@ -436,17 +447,6 @@
       <author>Maszol</author>
       <media:content url="https://maszol.ro/resized/2026_november_/24/cikksmall_Budapesta_2.jpg" medium="image"/>
       <enclosure url="https://maszol.ro/resized/2026_november_/24/cikksmall_Budapesta_2.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>[Maszol] Kelemen Hunor: 2028-ig hivatalban maradhat a Niculescu-kormány</title>
-      <link>https://maszol.ro/belfold/Kelemen-Hunor-2028-ig-hivatalban-maradhat-a-Niculescu-kormany</link>
-      <guid isPermaLink="true">https://maszol.ro/belfold/Kelemen-Hunor-2028-ig-hivatalban-maradhat-a-Niculescu-kormany</guid>
-      <description><![CDATA[<img src="https://maszol.ro/resized/2026_november_/24/cikksmall_Kelemen_Hunor_20260930_ager.jpg" /><br/>Kelemen Hunor: 2028-ig hivatalban maradhat a Niculescu-kormány]]></description>
-      <pubDate>Tue, 24 Nov 2026 19:58:01 +0000</pubDate>
-      <category>Maszol</category>
-      <author>Maszol</author>
-      <media:content url="https://maszol.ro/resized/2026_november_/24/cikksmall_Kelemen_Hunor_20260930_ager.jpg" medium="image"/>
-      <enclosure url="https://maszol.ro/resized/2026_november_/24/cikksmall_Kelemen_Hunor_20260930_ager.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
